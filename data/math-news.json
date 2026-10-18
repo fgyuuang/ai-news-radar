@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-18T16:33:47.113590+00:00",
+  "generated_at": "2026-10-18T17:03:36.783853+00:00",
   "window_hours": 72,
   "archive_days": 90,
-  "recent_count": 14,
+  "recent_count": 15,
   "sources": [
     {
       "id": "terrytao",
       "name": "Terence Tao — What’s New",
       "url": "https://terrytao.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T16:33:47.113590+00:00",
+      "checked_at": "2026-10-18T17:03:36.783853+00:00",
       "ok": true,
       "item_count": 10,
       "latest_published_at": "2026-10-18T14:59:49+00:00",
-      "duration_ms": 1676,
+      "duration_ms": 796,
       "recent_count": 6
     },
     {
@@ -21,23 +21,23 @@
       "name": "Proofs and Prompts",
       "url": "https://proofsandprompts.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T16:33:47.113590+00:00",
+      "checked_at": "2026-10-18T17:03:36.783853+00:00",
       "ok": true,
       "item_count": 10,
-      "latest_published_at": "2026-10-18T11:00:00+00:00",
-      "duration_ms": 1571,
-      "recent_count": 6
+      "latest_published_at": "2026-10-18T16:58:40+00:00",
+      "duration_ms": 1179,
+      "recent_count": 7
     },
     {
       "id": "vibemathed",
       "name": "VibeMathed",
       "url": "https://vibemathed.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T16:33:47.113590+00:00",
+      "checked_at": "2026-10-18T17:03:36.783853+00:00",
       "ok": true,
       "item_count": 60,
       "latest_published_at": "2026-10-12T12:00:00+00:00",
-      "duration_ms": 977,
+      "duration_ms": 1020,
       "recent_count": 0
     },
     {
@@ -45,11 +45,11 @@
       "name": "Gowers’s Weblog",
       "url": "https://gowers.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T16:33:47.113590+00:00",
+      "checked_at": "2026-10-18T17:03:36.783853+00:00",
       "ok": true,
       "item_count": 25,
       "latest_published_at": "2026-10-16T10:29:30+00:00",
-      "duration_ms": 1454,
+      "duration_ms": 1863,
       "recent_count": 1
     },
     {
@@ -57,11 +57,11 @@
       "name": "Xena Project",
       "url": "https://xenaproject.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T16:33:47.113590+00:00",
+      "checked_at": "2026-10-18T17:03:36.783853+00:00",
       "ok": true,
       "item_count": 10,
       "latest_published_at": "2026-10-16T09:54:00+00:00",
-      "duration_ms": 861,
+      "duration_ms": 936,
       "recent_count": 1
     },
     {
@@ -69,15 +69,30 @@
       "name": "MathArena",
       "url": "https://matharena.ai/blogs",
       "method": "matharena",
-      "checked_at": "2026-10-18T16:33:47.113590+00:00",
+      "checked_at": "2026-10-18T17:03:36.783853+00:00",
       "ok": true,
       "item_count": 18,
       "latest_published_at": "2026-10-15T00:00:00+00:00",
-      "duration_ms": 1709,
+      "duration_ms": 1214,
       "recent_count": 0
     }
   ],
   "items": [
+    {
+      "id": "992b3336a4c5693d2d10",
+      "source_id": "proofsandprompts",
+      "source": "Proofs and Prompts",
+      "title": "Two months of Proofs and Prompts: Forum, polls and moderation",
+      "url": "https://proofsandprompts.com/2026/10/18/two-months-of-proofs-and-prompts-forum-polls-and-moderation",
+      "published_at": "2026-10-18T16:58:40+00:00",
+      "date_precision": "datetime",
+      "excerpt": "“It has been two months since we started Proofs and Prompts. Once again thanks everyone for making it an active platform, we hope the conversations happening here will help build what mathematics will look like tomorrow. We take advantage of this new post to announce two new features that we would like to launch: […]”",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "first_seen_at": "2026-10-18T17:03:36.783853+00:00",
+      "title_zh": "两个月的证据和提示：论坛、民意调查和审核",
+      "excerpt_zh": "“自我们启动证明和提示以来已经两个月了。再次感谢大家使其成为一个活跃的平台，我们希望在这里发生的对话将有助于构建明天的数学。我们利用这篇新文章宣布我们想要推出的两项新功能：[...]”"
+    },
     {
       "id": "5a06480332009773165d",
       "source_id": "terrytao",
