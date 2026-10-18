@@ -23,25 +23,31 @@
   }
   const channels = node("section", undefined, "personal-channels");
   channels.setAttribute("aria-label", "个人信息频道");
-  channels.append(node("h2", "我的信息雷达"));
   const channelRow = node("div", undefined, "personal-channel-row");
+  const channelSwitch = node("div", undefined, "mode-switch personal-channel-switch");
+  channelSwitch.setAttribute("role", "group");
+  channelSwitch.setAttribute("aria-label", "资讯频道切换");
   const buttons = {};
   for (const [id, name] of [["ai", "AI 资讯"], ["math", "数学 · AI for Math"]]) {
-    const button = node("button", name);
+    const button = node("button", name, "mode-btn");
     button.type = "button";
     button.addEventListener("click", () => { preferences.channel = id; save(); renderChannel(); });
     buttons[id] = button;
-    channelRow.append(button);
+    channelSwitch.append(button);
   }
-  const refresh = node("button", "检查更新");
+  const refresh = node("button", "检查更新", "personal-refresh-button");
   refresh.type = "button";
   refresh.addEventListener("click", () => refreshData(true));
   const refreshNote = node("p", "每 5 分钟检查更新；回到页面时自动检查", "personal-refresh-note");
-  channelRow.append(refresh, refreshNote);
+  channelRow.append(channelSwitch, refresh, refreshNote);
   channels.append(channelRow);
   const reader = node("section", undefined, "math-reader");
   reader.setAttribute("aria-label", "数学信息阅读器");
-  reader.append(node("h2", "数学与形式化证明"));
+  const headingRow = node("div", undefined, "list-head math-heading");
+  headingRow.append(node("h2", "数学与形式化证明"));
+  const headingHint = node("span", "研究 · 证明 · AI for Math", "math-status");
+  headingRow.append(headingHint);
+  reader.append(headingRow);
   const status = node("p", "正在加载数学来源…", "math-status");
   reader.append(status);
   const toolbar = node("div", undefined, "math-toolbar");
@@ -73,7 +79,7 @@
   reader.append(settings, health);
   const count = node("p", undefined, "math-count");
   count.setAttribute("aria-live", "polite");
-  const list = node("div");
+  const list = node("div", undefined, "math-timeline");
   reader.append(count, list);
   const hero = main.querySelector(".hero");
   if (hero) hero.after(channels); else main.prepend(channels);
@@ -83,6 +89,7 @@
     const selected = preferences.channel === "math" ? "math" : "ai";
     document.body.dataset.informationChannel = selected;
     for (const [id, button] of Object.entries(buttons)) button.setAttribute("aria-pressed", String(id === selected));
+    for (const [id, button] of Object.entries(buttons)) button.classList.toggle("active", id === selected);
     reader.hidden = selected !== "math";
   }
   function renderSources() {
@@ -126,20 +133,26 @@
     list.replaceChildren();
     if (!items.length) list.append(node("p", "这个时间范围内没有符合筛选条件的文章。可以扩大时间范围或调整来源。"));
     for (const item of items) {
-      const card = node("article", undefined, "math-card");
-      const meta = node("div", undefined, "math-card-meta");
-      meta.append(node("span", item.source), node("span", date(item.published_at, item.date_precision)));
+      const card = node("article", undefined, "news-card math-card");
+      const body = node("div", undefined, "news-card-body");
+      const meta = node("div", undefined, "meta-row math-card-meta");
+      meta.append(node("span", item.source, "site"), node("span", date(item.published_at, item.date_precision), "source"));
       const sourceHealth = math.sources.find(s => s.id === item.source_id);
       if (sourceHealth && !sourceHealth.ok) meta.append(node("span", "来源暂不可用 · 已保存内容"));
-      const heading = node("h3");
-      const link = node("a", item.title_zh || item.title);
+      const heading = node("h3", undefined, "math-card-heading");
+      const link = node("a", undefined, "title");
+      link.append(node("span", item.title_zh || item.title));
+      if (item.title_zh && item.title_zh !== item.title) link.append(node("span", item.title, "title-sub"));
       // No HTML from feeds enters the DOM. Only public HTTP(S) article links.
       try { const url = new URL(item.url); if (!/^https?:$/.test(url.protocol)) continue; link.href = url.href; } catch { continue; }
       link.target = "_blank"; link.rel = "noopener noreferrer";
-      heading.append(link); card.append(meta, heading);
-      if (item.title_zh && item.title_zh !== item.title) card.append(node("p", item.title, "math-original"));
-      card.append(node("p", item.excerpt_zh || item.excerpt || "该来源没有提供文章摘要，请打开原文阅读。"));
-      card.append(node("p", item.excerpt_zh ? "来源摘录 · 中文机器翻译" : "来源原文摘录", "math-original"));
+      const original = node("a", "查看原文 ↗", "original-link original-action");
+      original.href = link.href; original.target = "_blank"; original.rel = "noopener noreferrer";
+      meta.append(original);
+      heading.append(link); body.append(meta, heading);
+      body.append(node("p", item.excerpt_zh || item.excerpt || "该来源没有提供文章摘要，请打开原文阅读。", "news-summary"));
+      body.append(node("p", item.excerpt_zh ? "来源摘录 · 中文机器翻译" : "来源原文摘录", "math-original"));
+      card.append(body);
       list.append(card);
     }
   }

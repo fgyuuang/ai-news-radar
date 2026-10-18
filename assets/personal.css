@@ -1,32 +1,54 @@
-.personal-channels,.math-reader { margin:18px 0; padding:20px; border:1px solid #d7dedb; border-radius:14px; background:#fff; color:#173332; }
-.personal-channels h2,.math-reader h2 { margin:0; font-size:21px; }
-.personal-channel-row,.math-toolbar,.math-card-meta,.math-source-picks { display:flex; align-items:center; flex-wrap:wrap; gap:10px; }
-.personal-channel-row { margin-top:12px; }
-.personal-channels button,.math-reader button,.math-reader select,.math-reader input[type=search],.math-reader input[type=text] { border:1px solid #bdcfca; border-radius:8px; padding:9px 13px; font:inherit; background:#fff; color:#173332; }
-.personal-channels button[aria-pressed=true],.math-reader button.primary { background:#126d70; color:#fff; border-color:#126d70; }
-.personal-refresh-note,.math-status,.math-card-meta,.math-reader summary { font-size:13px; color:#4e6965; }
-.personal-refresh-note { margin:0; }
-.math-toolbar { margin:16px 0; }
-.math-toolbar label { display:grid; gap:5px; font-size:13px; }
-.math-toolbar .math-search-label { flex:1 1 220px; }
-.math-reader details { border-top:1px solid #e0e8e5; padding:12px 0; }
-.math-reader summary { cursor:pointer; }
-.math-source-picks { margin:12px 0; }
-.math-source-picks label { display:flex; align-items:center; gap:5px; padding:7px; font-size:13px; }
-.math-source-picks input { accent-color:#126d70; }
-.math-count { margin:15px 0; font-weight:600; }
-.math-card { border-top:1px solid #e0e8e5; padding:18px 0; overflow-wrap:anywhere; }
-.math-card h3 { font-size:18px; margin:8px 0; line-height:1.5; }
-.math-card a { color:#126d70; text-decoration:none; }
-.math-card a:hover { text-decoration:underline; }
-.math-card p { line-height:1.8; margin:8px 0; }
-.math-original { font-size:13px; color:#60716f; }
-.math-card-meta span { background:#f1f6f4; border-radius:6px; padding:3px 7px; }
-.math-health-table { width:100%; border-collapse:collapse; font-size:13px; margin-top:10px; }
-.math-health-table th,.math-health-table td { padding:8px; text-align:left; border-bottom:1px solid #e0e8e5; }
+/* Personal surfaces share the original reader's tokens and card components. */
+.personal-channels { margin:16px 0; }
+.personal-channel-row { display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
+.personal-channel-switch { flex-shrink:0; }
+.personal-refresh-button,.math-reader select,.math-reader input[type=search],.math-reader input[type=text],.math-reader button {
+  min-height:40px; padding:0 12px; border:1px solid var(--line); border-radius:var(--radius);
+  background:var(--surface); color:var(--ink); font:inherit; font-size:13px;
+}
+.personal-refresh-button { margin-left:auto; color:var(--accent); cursor:pointer; }
+.personal-refresh-note,.math-status { margin:0; color:var(--muted); font-size:12px; line-height:1.5; }
+.personal-refresh-note { flex-basis:100%; text-align:right; }
+.math-reader { margin-top:18px; color:var(--ink); }
+.math-heading { padding:16px 18px; border:1px solid var(--line-soft); border-radius:var(--radius); background:var(--surface); }
+.math-heading h2 { margin:0; font-size:20px; }
+.math-heading + .math-status { margin:10px 0 14px; }
+.math-toolbar { display:grid; grid-template-columns:180px 230px minmax(0,1fr); gap:12px; margin:14px 0; }
+.math-toolbar label { display:grid; gap:6px; color:var(--muted); font-size:12px; min-width:0; }
+.math-toolbar select,.math-toolbar input { width:100%; min-width:0; }
+.math-reader details { padding:12px 14px; border:1px solid var(--line-soft); border-radius:var(--radius); margin:10px 0; background:var(--surface-soft); }
+.math-reader summary { cursor:pointer; color:var(--ink-soft); font-size:13px; }
+.math-source-picks { display:flex; gap:8px; flex-wrap:wrap; margin:14px 0; }
+.math-source-picks label { display:flex; align-items:center; gap:5px; font-size:12px; padding:6px 8px; border:1px solid var(--line); border-radius:999px; background:var(--surface); }
+.math-source-picks input { accent-color:var(--accent); }
+.math-reader details > label { color:var(--muted); font-size:12px; }
+.math-reader details > label input { margin:0 10px 0 6px; }
+.math-count { margin:18px 0 10px; font-size:13px; font-weight:700; color:var(--ink-soft); }
+.math-timeline { display:grid; gap:12px; }
+.math-reader .math-card { display:flex; padding:16px 18px; border:1px solid var(--line-soft); border-radius:var(--radius); background:var(--surface); box-shadow:0 1px 2px rgba(0,0,0,.04); }
+.math-reader .math-card-heading { margin:4px 0 0; font:inherit; }
+.math-reader .math-card .title { font-weight:700; }
+.math-reader .math-card .news-summary { line-height:1.65; }
+.math-original { margin:8px 0 0; color:var(--muted-soft); font-size:11px; }
+.math-reader .math-card-meta { margin-top:0; }
+.math-health-table { width:100%; border-collapse:collapse; font-size:12px; margin-top:10px; }
+.math-health-table th,.math-health-table td { padding:8px; text-align:left; border-bottom:1px solid var(--line-soft); color:var(--ink-soft); }
 .math-health-wrap { overflow-x:auto; }
 .math-reader [hidden],.personal-channels [hidden] { display:none!important; }
 body[data-information-channel=math] .shell > :not(.hero):not(.personal-channels):not(.math-reader) { display:none!important; }
 body[data-information-channel=math] .hero .section-nav-wrap { display:none!important; }
 body[data-information-channel=ai] .math-reader { display:none!important; }
-@media(max-width:600px) { .personal-channels,.math-reader { padding:15px; margin:12px 0; } .math-health-table th,.math-health-table td { padding:6px; } }
+@media(max-width:720px) {
+  .math-toolbar { grid-template-columns:minmax(0,1fr) minmax(0,1fr); gap:10px; }
+  .math-search-label { grid-column:1 / -1; }
+  .math-heading { padding:14px; }
+  .math-heading h2 { font-size:18px; }
+  .math-heading .math-status { display:none; }
+  .math-reader .math-card { padding:14px; }
+  .personal-channel-row { gap:8px; }
+  .personal-refresh-button { padding:0 9px; }
+  .personal-channel-switch .mode-btn { padding:0 10px; font-size:12px; }
+  .personal-refresh-note { text-align:left; }
+  .math-reader details > label { display:grid; gap:7px; }
+  .math-reader details > label input { margin:0 0 8px; width:100%; }
+}
