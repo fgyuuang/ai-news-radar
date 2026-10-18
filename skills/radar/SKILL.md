@@ -14,7 +14,7 @@ description: |
 第一件事：确定数据源地址。所有请求都基于这一行——
 
 ```bash
-BASE_URL=https://news.learnprompt.pro/data
+BASE_URL=https://fgyuuang.github.io/ai-news-radar/data
 ```
 
 **fork / 自部署用户只需要改这一行**，换成 `https://<用户名>.github.io/ai-news-radar/data`。GitHub Pages 是数据的 canonical 源，不要换成其他镜像域名。第一次发现用户有自己的部署时问一次，之后记住。

@@ -1,5 +1,10 @@
 # Source Coverage Plan
 
+Personal fork: six mathematics sources are configured in `feeds/math-sources.json`.
+They use five verified RSS feeds and the dated MathArena `/blogs` article cards.
+Mathematics is retained independently from the AI relevance filter. See
+`docs/PERSONAL_RADAR.md` for timestamps, retention, source failures and deployment.
+
 This project should help ordinary AI enthusiasts scan high-signal updates
 without forcing them to follow noisy timelines or manage many source choices.
 

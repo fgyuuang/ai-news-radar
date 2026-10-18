@@ -32,7 +32,7 @@
     try {
       const fromQuery = new URLSearchParams(window.location.search).get("data") || "";
       if (fromQuery) return fromQuery.trim().replace(/\/+$/, "");
-      return (localStorage.getItem("dataBaseUrl") || "").trim().replace(/\/+$/, "");
+      return (localStorage.getItem("personalRadarDataBaseUrl") || window.PERSONAL_DATA_BASE_URL || "").trim().replace(/\/+$/, "");
     } catch {
       return "";
     }

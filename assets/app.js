@@ -50,14 +50,14 @@ function resolveDataBaseUrl() {
   }
   if (fromQuery) {
     const normalized = fromQuery.trim().replace(/\/+$/, "");
-    try { localStorage.setItem("dataBaseUrl", normalized); } catch {}
+    try { localStorage.setItem("personalRadarDataBaseUrl", normalized); } catch {}
     return normalized;
   }
   try {
-    const stored = localStorage.getItem("dataBaseUrl") || "";
+    const stored = localStorage.getItem("personalRadarDataBaseUrl") || window.PERSONAL_DATA_BASE_URL || "";
     return stored.trim().replace(/\/+$/, "");
   } catch {
-    return "";
+    return window.PERSONAL_DATA_BASE_URL || "";
   }
 }
 
@@ -2548,7 +2548,7 @@ if (waytoagi7dBtnEl) {
 
 if (dataSourceResetBtnEl) {
   dataSourceResetBtnEl.addEventListener("click", () => {
-    try { localStorage.removeItem("dataBaseUrl"); } catch {}
+    try { localStorage.removeItem("personalRadarDataBaseUrl"); } catch {}
     window.location.href = window.location.pathname;
   });
 }

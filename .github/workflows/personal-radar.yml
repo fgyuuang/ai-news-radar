@@ -1,0 +1,84 @@
+name: Personal AI and Math Radar
+
+on:
+  workflow_dispatch:
+  schedule:
+    - cron: '37 */3 * * *'
+  push:
+    branches: [master]
+    paths:
+      - 'assets/**'
+      - 'classic/**'
+      - 'index.html'
+      - 'feeds/math-sources.json'
+      - 'scripts/**'
+      - '.github/workflows/personal-radar.yml'
+
+permissions:
+  contents: write
+  pages: write
+  id-token: write
+
+concurrency:
+  group: personal-radar
+  cancel-in-progress: false
+
+jobs:
+  update-and-publish:
+    runs-on: ubuntu-latest
+    timeout-minutes: 40
+    environment:
+      name: github-pages
+      url: ${{ steps.deploy.outputs.page_url }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - name: Install dependencies
+        run: python -m pip install -r requirements.txt
+      - name: Collect AI sources independently
+        id: ai
+        continue-on-error: true
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+          EMAIL_DIGEST_ENABLED: '0'
+          X_API_ENABLED: '0'
+          SOCIALDATA_ENABLED: '0'
+          TIKHUB_ENABLED: '0'
+        run: python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 --rss-opml feeds/follow.example.opml --rss-max-feeds 10
+      - name: Collect the six mathematics sources
+        id: math
+        continue-on-error: true
+        run: python scripts/update_math.py --output-dir data
+      - name: Refresh AI persona scores and RSS
+        if: steps.ai.outcome == 'success'
+        env:
+          DEEPSEEK_API_KEY: ${{ secrets.DEEPSEEK_API_KEY }}
+        run: |
+          python scripts/persona_score.py --data-dir data
+          python scripts/generate_feed.py --data-dir data
+      - name: Save generated public data
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add data/
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh personal AI and mathematics sources'
+            git push
+          fi
+      - name: Build public static files
+        run: python scripts/build_personal_site.py
+      - uses: actions/configure-pages@v5
+      - uses: actions/upload-pages-artifact@v3
+        with:
+          path: dist
+      - name: Deploy GitHub Pages
+        id: deploy
+        uses: actions/deploy-pages@v4
+      - name: Report partial collection failures
+        if: steps.ai.outcome == 'failure' || steps.math.outcome == 'failure'
+        run: |
+          echo 'A source pipeline failed. The site retains available articles; inspect source timestamps and this run.' >> "$GITHUB_STEP_SUMMARY"
+          exit 1

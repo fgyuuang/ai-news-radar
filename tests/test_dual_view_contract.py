@@ -30,7 +30,7 @@ def test_both_views_share_data_source_override_contract():
     for path in ("assets/app.js", "classic/assets/app.js"):
         source = read(path)
         assert 'get("data")' in source
-        assert 'localStorage.getItem("dataBaseUrl")' in source
+        assert 'localStorage.getItem("personalRadarDataBaseUrl")' in source
         assert "function dataUrl(path)" in source
         for filename in DATA_FILES:
             assert filename in source

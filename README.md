@@ -1,3 +1,7 @@
+个人版本：**AI + 数学信息雷达** · [GitHub Pages](https://fgyuuang.github.io/ai-news-radar/) · [GPT Sites](https://ai-news-radar.ingtningl.chatgpt.site) · [使用与配置信源](docs/PERSONAL_RADAR.md)
+
+每 3 小时独立采集，支持数学 72 小时阅读、来源与关键词筛选。以下保留上游项目说明。
+
 <div align="center">
 
 # AI News Radar

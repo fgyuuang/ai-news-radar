@@ -1,0 +1,13 @@
+{
+  "window_hours": 72,
+  "archive_days": 90,
+  "translate_zh": true,
+  "sources": [
+    {"id": "terrytao", "name": "Terence Tao — What’s New", "url": "https://terrytao.wordpress.com/", "feed": "https://terrytao.wordpress.com/feed/", "type": "rss", "enabled": true},
+    {"id": "proofsandprompts", "name": "Proofs and Prompts", "url": "https://proofsandprompts.com/", "feed": "https://proofsandprompts.com/feed/", "type": "rss", "enabled": true},
+    {"id": "vibemathed", "name": "VibeMathed", "url": "https://vibemathed.com/", "feed": "https://vibemathed.com/feed.xml", "type": "rss", "enabled": true},
+    {"id": "gowers", "name": "Gowers’s Weblog", "url": "https://gowers.wordpress.com/", "feed": "https://gowers.wordpress.com/feed/", "type": "rss", "enabled": true},
+    {"id": "xena", "name": "Xena Project", "url": "https://xenaproject.wordpress.com/", "feed": "https://xenaproject.wordpress.com/feed/", "type": "rss", "enabled": true},
+    {"id": "matharena", "name": "MathArena", "url": "https://matharena.ai/blogs", "type": "matharena", "enabled": true}
+  ]
+}

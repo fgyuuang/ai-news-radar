@@ -18,7 +18,7 @@ from datetime import datetime, timezone
 from pathlib import Path
 from xml.sax.saxutils import escape
 
-SITE = "https://news.learnprompt.pro"
+SITE = "https://fgyuuang.github.io/ai-news-radar"
 FEED_PATH = "data/feed.xml"
 EN_FEED_URL_PATH = "en/feed.xml"  # public URL of the English feed (vercel rewrite -> data/feed-en.xml)
 MAX_ITEMS = 20

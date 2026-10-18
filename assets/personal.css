@@ -1,0 +1,32 @@
+.personal-channels,.math-reader { margin:18px 0; padding:20px; border:1px solid #d7dedb; border-radius:14px; background:#fff; color:#173332; }
+.personal-channels h2,.math-reader h2 { margin:0; font-size:21px; }
+.personal-channel-row,.math-toolbar,.math-card-meta,.math-source-picks { display:flex; align-items:center; flex-wrap:wrap; gap:10px; }
+.personal-channel-row { margin-top:12px; }
+.personal-channels button,.math-reader button,.math-reader select,.math-reader input[type=search],.math-reader input[type=text] { border:1px solid #bdcfca; border-radius:8px; padding:9px 13px; font:inherit; background:#fff; color:#173332; }
+.personal-channels button[aria-pressed=true],.math-reader button.primary { background:#126d70; color:#fff; border-color:#126d70; }
+.personal-refresh-note,.math-status,.math-card-meta,.math-reader summary { font-size:13px; color:#4e6965; }
+.personal-refresh-note { margin:0; }
+.math-toolbar { margin:16px 0; }
+.math-toolbar label { display:grid; gap:5px; font-size:13px; }
+.math-toolbar .math-search-label { flex:1 1 220px; }
+.math-reader details { border-top:1px solid #e0e8e5; padding:12px 0; }
+.math-reader summary { cursor:pointer; }
+.math-source-picks { margin:12px 0; }
+.math-source-picks label { display:flex; align-items:center; gap:5px; padding:7px; font-size:13px; }
+.math-source-picks input { accent-color:#126d70; }
+.math-count { margin:15px 0; font-weight:600; }
+.math-card { border-top:1px solid #e0e8e5; padding:18px 0; overflow-wrap:anywhere; }
+.math-card h3 { font-size:18px; margin:8px 0; line-height:1.5; }
+.math-card a { color:#126d70; text-decoration:none; }
+.math-card a:hover { text-decoration:underline; }
+.math-card p { line-height:1.8; margin:8px 0; }
+.math-original { font-size:13px; color:#60716f; }
+.math-card-meta span { background:#f1f6f4; border-radius:6px; padding:3px 7px; }
+.math-health-table { width:100%; border-collapse:collapse; font-size:13px; margin-top:10px; }
+.math-health-table th,.math-health-table td { padding:8px; text-align:left; border-bottom:1px solid #e0e8e5; }
+.math-health-wrap { overflow-x:auto; }
+.math-reader [hidden],.personal-channels [hidden] { display:none!important; }
+body[data-information-channel=math] .shell > :not(.hero):not(.personal-channels):not(.math-reader) { display:none!important; }
+body[data-information-channel=math] .hero .section-nav-wrap { display:none!important; }
+body[data-information-channel=ai] .math-reader { display:none!important; }
+@media(max-width:600px) { .personal-channels,.math-reader { padding:15px; margin:12px 0; } .math-health-table th,.math-health-table td { padding:6px; } }
