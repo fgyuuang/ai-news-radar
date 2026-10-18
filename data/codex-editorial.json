@@ -2,7 +2,7 @@
   "schema_version": 1,
   "provider": "codex-cli",
   "model": "gpt-6-luna",
-  "generated_at": "2026-10-18T07:57:25.525249+00:00",
+  "generated_at": "2026-10-18T09:30:46.948094+00:00",
   "selected_keys": [
     "4470e574aa7901371057accd",
     "58ede26de1977dd59ea25be0",
@@ -20,15 +20,14 @@
     "1787626a729b2c5987464081",
     "d0d2de7d8a2ebd2560d0f975",
     "eccc159fd6cf74a45c14152c",
-    "93cccadc8c37ab3e1d05335f",
+    "59992693d4631b33c824446d",
+    "1942a6e6c058b0210731cb6e",
     "001f236104b0030d3e9d107f",
+    "93cccadc8c37ab3e1d05335f",
     "b503d430949e2c320a3af00d",
-    "5c564265ae3bf34260448441",
     "2f9356cfbe2085e83eaaa596",
     "4b1c8291d31dca7be2fe23c0",
-    "08297f34e3ded7f2aec758ac",
-    "76f52ceef702d89b0681826c",
-    "b1dbc24d8bc696c2754f35b4"
+    "76f52ceef702d89b0681826c"
   ],
   "entries": [
     {
@@ -118,6 +117,28 @@
       "provider": "codex-cli",
       "model": "gpt-6-luna",
       "generated_at": "2026-10-18T07:56:42.851798+00:00"
+    },
+    {
+      "url": "https://sphinx-six-theta.vercel.app",
+      "domain": "ai",
+      "source": "sphinx-six-theta.vercel.app",
+      "source_title": "Show HN: Sphinx——一个在发布前通过问答测试你AI代码的钩子",
+      "source_excerpt": "",
+      "published_at": "2026-10-18T08:37:12.715000Z",
+      "key": "1942a6e6c058b0210731cb6e",
+      "context_kind": "article_text",
+      "title_zh": "Show HN：Sphinx——一个在代码发布前通过问答检查理解的 Git 钩子",
+      "summary_zh": "Sphinx 是面向智能体辅助开发的 Git 钩子：推送受保护分支前，它读取代码差异并向开发者提问，尝试检查其是否理解代码在异常情形下的行为；答错时会解释并继续提出场景，答对后允许推送。页面称它可与 Codex、Claude Code、Cursor、OpenCode、Pi 或普通 Git 配合，并表示答案不会发送给编程智能体；这些功能和隐私说明来自项目自述，所给材料未提供独立验证。",
+      "recommend_reason_zh": "它提供了一种把代码审查与开发者理解检查结合起来的工作流思路，适合关注智能体生成代码审查、故障场景推演和团队推送门禁的人评估。",
+      "pragmatic_score": 74,
+      "pragmatic_review": "Git 钩子可把针对差异的故障场景问答嵌入推送流程，页面也给出了安装命令和跳过方式。",
+      "cynic_score": 62,
+      "cynic_review": "项目将问答描述为理解检查，但页面没有说明问题生成质量、答题判定可靠性或它能否减少实际缺陷。",
+      "paper_score": 48,
+      "paper_review": "材料给出一段示意对话和安装说明，但未提供论文、代码审查结果、系统测试或隐私主张的独立证据。",
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-18T09:30:46.948094+00:00"
     },
     {
       "url": "https://gowers.wordpress.com/2026/10/16/how-worried-should-we-be-about-extinction-risk-from-ai",
@@ -272,6 +293,28 @@
       "provider": "codex-cli",
       "model": "gpt-6-luna",
       "generated_at": "2026-10-18T07:56:42.851798+00:00"
+    },
+    {
+      "url": "https://api-docs.deepseek.com/guides/search",
+      "domain": "ai",
+      "source": "api-docs.deepseek.com",
+      "source_title": "DeepSeek 搜索和获取服务——每 1000 次成功请求 0.75 美元",
+      "source_excerpt": "",
+      "published_at": "2026-10-18T08:37:12.821000Z",
+      "key": "59992693d4631b33c824446d",
+      "context_kind": "article_text",
+      "title_zh": "DeepSeek 搜索与获取 API：每千次成功请求 0.75 美元",
+      "summary_zh": "文档介绍 DeepSeek 的 Search API 和 Fetch API：前者根据查询返回结构化网页结果，后者将单个网页内容提取为 Markdown，供智能体和 RAG 应用使用。页面说明了接口、Bearer 身份验证、请求字段、搜索运算符和响应格式；标题提及每千次成功请求收费 0.75 美元，但所给正文未说明计费细节。",
+      "recommend_reason_zh": "如果你在构建联网智能体或 RAG 流程，这份文档可帮助快速了解搜索、网页提取及查询过滤的接口设计；标题中的费用信息也值得留意，但需进一步确认计费口径。",
+      "pragmatic_score": 82,
+      "pragmatic_review": "接口地址、字段和搜索运算符说明较具体，可作为集成时的快速参考。",
+      "cynic_score": 68,
+      "cynic_review": "标题给出了单价，但所提供正文没有解释成功请求的定义、计费范围或其他费用条件。",
+      "paper_score": 77,
+      "paper_review": "材料是 API 使用文档，包含请求与响应示例，但未提供独立性能评估、测试结果或可复现性证据。",
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-18T09:30:46.948094+00:00"
     },
     {
       "url": "https://api-docs.deepseek.com/guides/search",
