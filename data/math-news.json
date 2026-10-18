@@ -1,19 +1,19 @@
 {
-  "generated_at": "2026-10-18T09:34:01.637954+00:00",
+  "generated_at": "2026-10-18T12:39:19.925617+00:00",
   "window_hours": 72,
   "archive_days": 90,
-  "recent_count": 14,
+  "recent_count": 15,
   "sources": [
     {
       "id": "terrytao",
       "name": "Terence Tao — What’s New",
       "url": "https://terrytao.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T09:34:01.637954+00:00",
+      "checked_at": "2026-10-18T12:39:19.925617+00:00",
       "ok": true,
       "item_count": 10,
       "latest_published_at": "2026-10-18T03:11:00+00:00",
-      "duration_ms": 379,
+      "duration_ms": 125,
       "recent_count": 6
     },
     {
@@ -21,23 +21,23 @@
       "name": "Proofs and Prompts",
       "url": "https://proofsandprompts.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T09:34:01.637954+00:00",
+      "checked_at": "2026-10-18T12:39:19.925617+00:00",
       "ok": true,
       "item_count": 10,
-      "latest_published_at": "2026-10-17T14:00:00+00:00",
-      "duration_ms": 547,
-      "recent_count": 6
+      "latest_published_at": "2026-10-18T11:00:00+00:00",
+      "duration_ms": 206,
+      "recent_count": 7
     },
     {
       "id": "vibemathed",
       "name": "VibeMathed",
       "url": "https://vibemathed.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T09:34:01.637954+00:00",
+      "checked_at": "2026-10-18T12:39:19.925617+00:00",
       "ok": true,
       "item_count": 60,
       "latest_published_at": "2026-10-12T12:00:00+00:00",
-      "duration_ms": 475,
+      "duration_ms": 228,
       "recent_count": 0
     },
     {
@@ -45,11 +45,11 @@
       "name": "Gowers’s Weblog",
       "url": "https://gowers.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T09:34:01.637954+00:00",
+      "checked_at": "2026-10-18T12:39:19.925617+00:00",
       "ok": true,
       "item_count": 25,
       "latest_published_at": "2026-10-16T10:29:30+00:00",
-      "duration_ms": 432,
+      "duration_ms": 367,
       "recent_count": 1
     },
     {
@@ -57,11 +57,11 @@
       "name": "Xena Project",
       "url": "https://xenaproject.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T09:34:01.637954+00:00",
+      "checked_at": "2026-10-18T12:39:19.925617+00:00",
       "ok": true,
       "item_count": 10,
       "latest_published_at": "2026-10-16T09:54:00+00:00",
-      "duration_ms": 293,
+      "duration_ms": 167,
       "recent_count": 1
     },
     {
@@ -69,15 +69,45 @@
       "name": "MathArena",
       "url": "https://matharena.ai/blogs",
       "method": "matharena",
-      "checked_at": "2026-10-18T09:34:01.637954+00:00",
+      "checked_at": "2026-10-18T12:39:19.925617+00:00",
       "ok": true,
       "item_count": 18,
       "latest_published_at": "2026-10-15T00:00:00+00:00",
-      "duration_ms": 719,
+      "duration_ms": 458,
       "recent_count": 0
     }
   ],
   "items": [
+    {
+      "id": "bcb1e74bbbf542d288d0",
+      "source_id": "proofsandprompts",
+      "source": "Proofs and Prompts",
+      "title": "Who Will Lead Mathematical AI?",
+      "url": "https://proofsandprompts.com/2026/10/18/who-will-lead-mathematical-ai",
+      "published_at": "2026-10-18T11:00:00+00:00",
+      "date_precision": "datetime",
+      "excerpt": "“A small episode from this summer keeps coming back to me. At the National Academies meeting Organizing Mathematical Knowledge in the Age of AI and Formalization, David Spergel discussed Japan’s participation in the Department of Energy’s Genesis Mission. […]”",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "first_seen_at": "2026-10-18T12:39:19.925617+00:00",
+      "title_zh": "谁将领导数学人工智能？",
+      "excerpt_zh": "“我不断想起今年夏天的一个小插曲。在美国国家科学院组织人工智能和形式化时代的数学知识会议上，大卫·斯佩格尔讨论了日本参与能源部创世任务的情况。[……]”"
+    },
+    {
+      "id": "d745a41d75c7671b112d",
+      "source_id": "proofsandprompts",
+      "source": "Proofs and Prompts",
+      "title": "Mathematics in the Dark Forest",
+      "url": "https://proofsandprompts.com/2026/10/18/mathematics-in-the-dark-forest",
+      "published_at": "2026-10-18T10:00:00+00:00",
+      "date_precision": "datetime",
+      "excerpt": "An open problem list is a bullseye painted on your field.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "first_seen_at": "2026-10-18T12:39:19.925617+00:00",
+      "title_zh": "黑暗森林中的数学",
+      "excerpt_zh": "开放的问题清单是在你的领域上绘制的靶心。"
+    },
     {
       "id": "6edf9b592a217e246a45",
       "source_id": "terrytao",
@@ -1442,21 +1472,6 @@
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "关于《莱顿宣言》的思考",
       "excerpt_zh": "去年九月，我参加了莱顿洛伦兹中心的一个研讨会，与历史学家、哲学家、计算机科学家、人工智能研究人员和几种不同风格的数学家讨论数学和人工智能（尽管代数几何学家的优势令人惊讶）。整个活动非常刺激，有一些演讲，但也有很多时间 […]"
-    },
-    {
-      "id": "7982542aafcfc7a299e5",
-      "source_id": "xena",
-      "source": "Xena Project",
-      "title": "Human mathematicians are being outcounterexampled",
-      "url": "https://xenaproject.wordpress.com/2026/07/20/human-mathematicians-are-being-outcounterexampled",
-      "published_at": "2026-07-20T09:53:22+00:00",
-      "date_precision": "datetime",
-      "excerpt": "It’s been an interesting few weeks for counterexamples. This post is basically my perspective of what has been going on in the world of formalization, AI tools and, in particular, counterexamples. Unit distance Two months ago today (20th May 2026), … Continue reading →",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
-      "title_zh": "人类数学家正在被反例击败",
-      "excerpt_zh": "对于反例来说，这几周是很有趣的。这篇文章基本上是我对形式化、人工智能工具，特别是反例领域正在发生的事情的看法。单位距离两个月前的今天（2026年5月20日），… 继续阅读 →"
     }
   ],
   "summary_policy": "Source excerpts; Chinese translations when available. Undated articles are excluded from recent windows."

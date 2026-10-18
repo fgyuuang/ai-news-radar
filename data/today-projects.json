@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-10-18T09:33:52.398766Z",
+  "generated_at": "2026-10-18T12:39:15.855065Z",
   "date": "2026-10-18",
   "total_items": 4,
   "items": [
-    {
-      "id": "project_3de13b42e404",
-      "project_name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "anthropics/claude-plugins-official 是 Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件，方便你按需查找并挑选扩展。",
-      "recommend_reason_en": "anthropics/claude-plugins-official is an official, Anthropic-managed directory of high quality Claude Code plugins, making it worth opening as a starting point when you want plugins that Anthropic itself curates.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-10-18T09:32:53.455257Z"
-    },
-    {
-      "id": "project_d72ebbb33464",
-      "project_name": "Popcraft",
-      "url": "https://www.producthunt.com/products/popcraft",
-      "summary": "Generate video, images & audio from any AI agent",
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Generate video, images & audio from any AI agent」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Generate video, images & audio from any AI agent\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-09-29T08:31:33Z",
-      "updated_at": "2026-10-18T09:32:23Z",
-      "recency_basis": "updated_at",
-      "observed_at": "2026-10-18T09:33:41.159523Z"
-    },
     {
       "id": "project_9b75bda91938",
       "project_name": "MadsLorentzen/ai-job-search",
@@ -43,21 +15,49 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-18T09:32:53.455257Z"
+      "observed_at": "2026-10-18T12:38:30.000724Z"
     },
     {
-      "id": "project_baf71f4b8301",
-      "project_name": "Tomo for ChatGPT",
-      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "summary": "Ask anything. Then play it, Duolingo-style.",
+      "id": "project_56d683d5d4d5",
+      "project_name": "Bee Frontier and Bee Eclipse",
+      "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
+      "summary": "Amazon's personal AI memory, now on your wrist or phone",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Ask anything. Then play it, Duolingo-style」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Ask anything. Then play it, Duolingo-style\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-17T10:14:13Z",
-      "updated_at": "2026-10-18T09:33:18Z",
+      "recommend_reason_zh": "体验它主打的「Amazon's personal AI memory, now on your wrist or phone」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Amazon's personal AI memory, now on your wrist or phone\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-15T15:11:11Z",
+      "updated_at": "2026-10-18T12:38:10Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-18T09:33:41.159523Z"
+      "observed_at": "2026-10-18T12:39:05.575019Z"
+    },
+    {
+      "id": "project_3de13b42e404",
+      "project_name": "anthropics/claude-plugins-official",
+      "url": "https://github.com/anthropics/claude-plugins-official",
+      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "site_id": "github_trending",
+      "site_name": "GitHub Trending",
+      "recommend_reason_zh": "anthropics/claude-plugins-official 是 Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件，方便你按需查找并挑选扩展。",
+      "recommend_reason_en": "anthropics/claude-plugins-official is an official, Anthropic-managed directory of high quality Claude Code plugins, making it worth opening as a starting point when you want plugins that Anthropic itself curates.",
+      "published_at": null,
+      "updated_at": null,
+      "recency_basis": null,
+      "observed_at": "2026-10-18T12:38:30.000724Z"
+    },
+    {
+      "id": "project_1a7c5fa90eee",
+      "project_name": "Openbroca",
+      "url": "https://www.producthunt.com/products/openbroca",
+      "summary": "Lightweight AI dictation for Mac that sounds like you",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "体验它主打的「Lightweight AI dictation for Mac that sounds like you」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Lightweight AI dictation for Mac that sounds like you\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-12T17:32:18Z",
+      "updated_at": "2026-10-18T12:38:10Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-10-18T12:39:05.575019Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 1553,
+      "duration_ms": 269,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 144,
+      "duration_ms": 141,
       "error": null
     }
   ]

@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-10-18T09:32:53.455257Z",
+  "generated_at": "2026-10-18T12:38:30.000724Z",
   "window_hours": 24,
-  "total_items": 11,
+  "total_items": 10,
   "items": [
+    {
+      "story_id": "story_5291e4230e02",
+      "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
+      "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+      "primary_url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
+          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
+          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
+          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
+          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T10:52:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
+          "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
+          "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+          "title_en": "Two German courts now hold Google liable for what its AI overviews say",
+          "title_original": "Two German courts now hold Google liable for what its AI overviews say",
+          "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T10:52:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7781,
+      "importance": 0.7781,
+      "importance_score": 0.7781,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9748,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-18T10:52:39Z",
+      "latest_at": "2026-10-18T10:52:39Z",
+      "primary_item": {
+        "id": "20a9230c467df05ab85095e51f1a9b8b458c1fd9",
+        "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
+        "title_zh": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责",
+        "title_en": "Two German courts now hold Google liable for what its AI overviews say",
+        "title_original": "Two German courts now hold Google liable for what its AI overviews say",
+        "summary": "慕尼黑地区法院 I 五月底裁定 Google 的 AI 搜索摘要属于公司自己的陈述而非中立转述，Google 须为错误内容担责；Google 公开宣布上诉后实际以和解结案，未获上级法院裁决。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/two-german-courts-now-hold-google-liable-for-what-its-ai-overviews-say",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T12:39:21.165481Z"
+      }
+    },
     {
       "story_id": "story_54e5b25c77ec",
       "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
@@ -52,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
+      "score": 0.7301,
+      "importance": 0.7301,
+      "importance_score": 0.7301,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8977,
+        "recency": 0.8585,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -85,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
+        "scored_at": "2026-10-18T12:39:21.165481Z"
       }
     },
     {
@@ -109,7 +195,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-18T09:33:18Z",
+          "updated_at": "2026-10-18T12:38:10Z",
           "recency_basis": "updated_at"
         },
         {
@@ -148,7 +234,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-18T09:33:18Z",
+          "updated_at": "2026-10-18T12:38:10Z",
           "recency_basis": "updated_at"
         },
         {
@@ -178,7 +264,7 @@
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -186,7 +272,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-18T09:20:05.051000Z",
-      "latest_at": "2026-10-18T09:33:18Z",
+      "latest_at": "2026-10-18T12:38:10Z",
       "primary_item": {
         "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
         "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
@@ -203,7 +289,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
+        "scored_at": "2026-10-18T12:39:21.165481Z"
+      }
+    },
+    {
+      "story_id": "story_30854f5a1a39",
+      "title": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。 / mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+      "url": "https://github.com/mlabonne/llm-course",
+      "primary_url": "https://github.com/mlabonne/llm-course",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "ca99ef7004901126746429089ef00534ebf31bc0",
+          "title": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。 / mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "title_zh": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。",
+          "title_en": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "title_original": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d840110d1210da077c48f2b57204e338812d0d17",
+          "title": "Mlabonne / LLM课程 / mlabonne /      llm-course",
+          "title_zh": "Mlabonne / LLM课程",
+          "title_en": "mlabonne /      llm-course",
+          "title_original": "mlabonne /      llm-course",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T12:26:24.600000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "ca99ef7004901126746429089ef00534ebf31bc0",
+          "title": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。 / mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "title_zh": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。",
+          "title_en": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "title_original": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d840110d1210da077c48f2b57204e338812d0d17",
+          "title": "Mlabonne / LLM课程 / mlabonne /      llm-course",
+          "title_zh": "Mlabonne / LLM课程",
+          "title_en": "mlabonne /      llm-course",
+          "title_original": "mlabonne /      llm-course",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/mlabonne/llm-course",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T12:26:24.600000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T12:26:24.600000Z",
+      "latest_at": "2026-10-18T12:38:30.000724Z",
+      "primary_item": {
+        "id": "ca99ef7004901126746429089ef00534ebf31bc0",
+        "title": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。 / mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "title_zh": "mlabonne/llm-course — 通过路线图和 Colab 笔记本进入大型语言模型 (LLM) 的课程。",
+        "title_en": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "title_original": "mlabonne/llm-course — Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "summary": "Course to get into Large Language Models (LLMs) with roadmaps and Colab notebooks.",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/mlabonne/llm-course",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T12:39:21.165481Z"
       }
     },
     {
@@ -321,15 +525,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
+        "recency": 0.9436,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -354,7 +558,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
+        "scored_at": "2026-10-18T12:39:21.165481Z"
       }
     },
     {
@@ -472,15 +676,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5684,
-      "importance": 0.5684,
-      "importance_score": 0.5684,
+      "score": 0.5606,
+      "importance": 0.5606,
+      "importance_score": 0.5606,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9867,
+        "recency": 0.9436,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -505,242 +709,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
-      }
-    },
-    {
-      "story_id": "story_93fa4d5c3bdc",
-      "title": "Claude Code 的 CrewTower Mod —— 直接在 MacBook 刘海上和 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-      "url": "https://www.producthunt.com/products/crew-tower",
-      "primary_url": "https://www.producthunt.com/products/crew-tower",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
-          "title": "Claude Code 的 CrewTower Mod —— 直接在 MacBook 刘海上和 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "title_zh": "Claude Code 的 CrewTower Mod —— 直接在 MacBook 刘海上和 Claude Code 对话",
-          "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "summary": "Talk to Claude Code right from your MacBook notch",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/crew-tower",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-14T21:15:16Z",
-          "updated_at": "2026-10-18T09:26:39Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
-          "title": "CrewTower 模组：适用于 Claude Code / CrewTower Mod for Claude Code",
-          "title_zh": "CrewTower 模组：适用于 Claude Code",
-          "title_en": "CrewTower Mod for Claude Code",
-          "title_original": "CrewTower Mod for Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/crew-tower",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T12:10:58.208000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
-          "title": "Claude Code 的 CrewTower Mod —— 直接在 MacBook 刘海上和 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "title_zh": "Claude Code 的 CrewTower Mod —— 直接在 MacBook 刘海上和 Claude Code 对话",
-          "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-          "summary": "Talk to Claude Code right from your MacBook notch",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/crew-tower",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-14T21:15:16Z",
-          "updated_at": "2026-10-18T09:26:39Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
-          "title": "CrewTower 模组：适用于 Claude Code / CrewTower Mod for Claude Code",
-          "title_zh": "CrewTower 模组：适用于 Claude Code",
-          "title_en": "CrewTower Mod for Claude Code",
-          "title_original": "CrewTower Mod for Claude Code",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/crew-tower",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T12:10:58.208000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9985,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T12:10:58.208000Z",
-      "latest_at": "2026-10-18T09:26:39Z",
-      "primary_item": {
-        "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
-        "title": "Claude Code 的 CrewTower Mod —— 直接在 MacBook 刘海上和 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-        "title_zh": "Claude Code 的 CrewTower Mod —— 直接在 MacBook 刘海上和 Claude Code 对话",
-        "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-        "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
-        "summary": "Talk to Claude Code right from your MacBook notch",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/crew-tower",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
-      }
-    },
-    {
-      "story_id": "story_040b2227a391",
-      "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "url": "https://github.com/stablyai/orca",
-      "primary_url": "https://github.com/stablyai/orca",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "94676b784a747296ed4143d145f8d2bcc5c4ea09",
-          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_zh": null,
-          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/stablyai/orca",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ad002ad9d69d72f68e58b6b3f81cb9c6f70b45aa",
-          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_zh": null,
-          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/stablyai/orca",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending"
-      ],
-      "items": [
-        {
-          "id": "94676b784a747296ed4143d145f8d2bcc5c4ea09",
-          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_zh": null,
-          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/stablyai/orca",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ad002ad9d69d72f68e58b6b3f81cb9c6f70b45aa",
-          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_zh": null,
-          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/stablyai/orca",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.561,
-      "importance": 0.561,
-      "importance_score": 0.561,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8155,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T12:10:18.385208Z",
-      "latest_at": "2026-10-17T19:25:43.100379Z",
-      "primary_item": {
-        "id": "94676b784a747296ed4143d145f8d2bcc5c4ea09",
-        "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "title_zh": null,
-        "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/stablyai/orca",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
+        "scored_at": "2026-10-18T12:39:21.165481Z"
       }
     },
     {
@@ -858,15 +827,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
+      "score": 0.5501,
+      "importance": 0.5501,
+      "importance_score": 0.5501,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9253,
+        "recency": 0.8849,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -891,7 +860,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
+        "scored_at": "2026-10-18T12:39:21.165481Z"
+      }
+    },
+    {
+      "story_id": "story_7cb041410c22",
+      "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
+      "url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "primary_url": "https://www.anthropic.com/research/employment-at-anthropic",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
+          "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
+          "title_zh": "Anthropic 的就业正在发生怎样的变化",
+          "title_en": "How employment is changing at Anthropic",
+          "title_original": "How employment is changing at Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T10:49:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "1f777d9f7fdcbb315f9c618bfc94f3a840c38c57",
+          "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
+          "title_zh": "Anthropic 的就业正在发生怎样的变化",
+          "title_en": "How employment is changing at Anthropic",
+          "title_original": "How employment is changing at Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50139873",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T10:49:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
+          "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
+          "title_zh": "Anthropic 的就业正在发生怎样的变化",
+          "title_en": "How employment is changing at Anthropic",
+          "title_original": "How employment is changing at Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.anthropic.com/research/employment-at-anthropic",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-18T10:49:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "1f777d9f7fdcbb315f9c618bfc94f3a840c38c57",
+          "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
+          "title_zh": "Anthropic 的就业正在发生怎样的变化",
+          "title_en": "How employment is changing at Anthropic",
+          "title_original": "How employment is changing at Anthropic",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50139873",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T10:49:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5411,
+      "importance": 0.5411,
+      "importance_score": 0.5411,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9741,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T10:49:26Z",
+      "latest_at": "2026-10-18T10:49:26Z",
+      "primary_item": {
+        "id": "1bbafe27c673e7b83cad44ace84b8571dbbf51f2",
+        "title": "Anthropic 的就业正在发生怎样的变化 / How employment is changing at Anthropic",
+        "title_zh": "Anthropic 的就业正在发生怎样的变化",
+        "title_en": "How employment is changing at Anthropic",
+        "title_original": "How employment is changing at Anthropic",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.anthropic.com/research/employment-at-anthropic",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T12:39:21.165481Z"
       }
     },
     {
@@ -1009,15 +1096,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5375,
-      "importance": 0.5375,
-      "importance_score": 0.5375,
+      "score": 0.5311,
+      "importance": 0.5311,
+      "importance_score": 0.5311,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8149,
+        "recency": 0.7793,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1042,7 +1129,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
+        "scored_at": "2026-10-18T12:39:21.165481Z"
       }
     },
     {
@@ -1160,15 +1247,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5358,
-      "importance": 0.5358,
-      "importance_score": 0.5358,
+      "score": 0.5295,
+      "importance": 0.5295,
+      "importance_score": 0.5295,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8055,
+        "recency": 0.7703,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1193,243 +1280,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
-      }
-    },
-    {
-      "story_id": "story_91fdd687e161",
-      "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
-      "url": "https://www.producthunt.com/products/notion",
-      "primary_url": "https://www.producthunt.com/products/notion",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
-          "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_zh": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作",
-          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "summary": "Switch AI agents without re-explaining your work",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-14T07:00:19Z",
-          "updated_at": "2026-10-18T09:26:39Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
-          "title": "Notion：为你的 Agent 提供上下文 / Notion: Context for your agents",
-          "title_zh": "Notion：为你的 Agent 提供上下文",
-          "title_en": "Notion: Context for your agents",
-          "title_original": "Notion: Context for your agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T12:10:58.208000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
-          "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_zh": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作",
-          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "summary": "Switch AI agents without re-explaining your work",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-14T07:00:19Z",
-          "updated_at": "2026-10-18T09:26:39Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
-          "title": "Notion：为你的 Agent 提供上下文 / Notion: Context for your agents",
-          "title_zh": "Notion：为你的 Agent 提供上下文",
-          "title_en": "Notion: Context for your agents",
-          "title_original": "Notion: Context for your agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T12:10:58.208000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9985,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T12:10:58.208000Z",
-      "latest_at": "2026-10-18T09:26:39Z",
-      "primary_item": {
-        "id": "7428c9b1b1de103a95a71778c245846efaacde49",
-        "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
-        "title_zh": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作",
-        "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-        "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-        "summary": "Switch AI agents without re-explaining your work",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/notion",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
-      }
-    },
-    {
-      "story_id": "story_a88e692df8b0",
-      "title": "akitaonrails/ai-memory — 为 agent 编程 CLI 提供长期记忆的解决方案，并方便在不同 agent 厂商之间交接 / akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-      "url": "https://github.com/akitaonrails/ai-memory",
-      "primary_url": "https://github.com/akitaonrails/ai-memory",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "9c74183643be8ed709d90b4b2b8650bfcb5ff7e6",
-          "title": "akitaonrails/ai-memory — 为 agent 编程 CLI 提供长期记忆的解决方案，并方便在不同 agent 厂商之间交接 / akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "title_zh": "akitaonrails/ai-memory — 为 agent 编程 CLI 提供长期记忆的解决方案，并方便在不同 agent 厂商之间交接",
-          "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e093aec71608c94ab78108d3149519fad3663164",
-          "title": "akitaonrails /      ai-memory",
-          "title_zh": null,
-          "title_en": "akitaonrails /      ai-memory",
-          "title_original": "akitaonrails /      ai-memory",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T11:46:45.687000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "9c74183643be8ed709d90b4b2b8650bfcb5ff7e6",
-          "title": "akitaonrails/ai-memory — 为 agent 编程 CLI 提供长期记忆的解决方案，并方便在不同 agent 厂商之间交接 / akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "title_zh": "akitaonrails/ai-memory — 为 agent 编程 CLI 提供长期记忆的解决方案，并方便在不同 agent 厂商之间交接",
-          "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e093aec71608c94ab78108d3149519fad3663164",
-          "title": "akitaonrails /      ai-memory",
-          "title_zh": null,
-          "title_en": "akitaonrails /      ai-memory",
-          "title_original": "akitaonrails /      ai-memory",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/akitaonrails/ai-memory",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T11:46:45.687000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5464,
-      "importance": 0.5464,
-      "importance_score": 0.5464,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.7344,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T11:46:45.687000Z",
-      "latest_at": "2026-10-17T12:10:18.385208Z",
-      "primary_item": {
-        "id": "9c74183643be8ed709d90b4b2b8650bfcb5ff7e6",
-        "title": "akitaonrails/ai-memory — 为 agent 编程 CLI 提供长期记忆的解决方案，并方便在不同 agent 厂商之间交接 / akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "title_zh": "akitaonrails/ai-memory — 为 agent 编程 CLI 提供长期记忆的解决方案，并方便在不同 agent 厂商之间交接",
-        "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/akitaonrails/ai-memory",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-18T09:34:02.582052Z"
+        "scored_at": "2026-10-18T12:39:21.165481Z"
       }
     }
   ]
