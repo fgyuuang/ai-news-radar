@@ -14,6 +14,7 @@ import re
 import shutil
 import subprocess
 import sys
+import time
 from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 from pathlib import Path
@@ -48,7 +49,16 @@ def run(command, cwd, timeout=180):
 
 
 def git(repo, *args):
-    return run(["git", *args], repo)
+    # A read-only remote sync may briefly lose GitHub connectivity on a scheduled run.
+    attempts = 3 if args[:1] == ("pull",) else 1
+    for attempt in range(attempts):
+        try:
+            return run(["git", *args], repo)
+        except subprocess.CalledProcessError:
+            if attempt + 1 == attempts:
+                raise
+            time.sleep(5 * (attempt + 1))
+    raise AssertionError("unreachable")
 
 
 def source_key(item):
@@ -318,6 +328,18 @@ if __name__ == "__main__":
     try:
         raise SystemExit(main())
     except (subprocess.SubprocessError, OSError, ValueError, KeyError) as error:
-        # Do not print prompts, model errors, credentials or command arguments.
-        print(f"FAILED: {type(error).__name__}; see .local-codex CLI logs", file=sys.stderr)
+        # Keep diagnostics safe: never emit prompts, credentials, or command values.
+        safe_command = ""
+        safe_detail = ""
+        if isinstance(error, subprocess.CalledProcessError):
+            command = error.cmd if isinstance(error.cmd, (list, tuple)) else [error.cmd]
+            labels = [Path(str(part)).name for part in command[:2] if part]
+            safe_command = f" ({' '.join(labels)}; exit={error.returncode})"
+            stderr = str(error.stderr or "").strip()
+            if stderr:
+                final_line = stderr.splitlines()[-1]
+                final_line = re.sub(r"https?://\S+", "[remote]", final_line)
+                final_line = re.sub(r"(?i)\b(token|password|authorization)\b[=: ]+\S+", r"\1=[redacted]", final_line)
+                safe_detail = f"; detail={final_line[:180]}"
+        print(f"FAILED: {type(error).__name__}{safe_command}{safe_detail}; see .local-codex CLI logs", file=sys.stderr)
         raise SystemExit(1)

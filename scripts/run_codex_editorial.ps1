@@ -13,6 +13,15 @@ New-Item -ItemType Directory -Path $taskLogDir -Force | Out-Null
 $taskLog = Join-Path $taskLogDir ('scheduled-' + (Get-Date -Format 'yyyyMMdd-HHmmss') + '.log')
 $env:PYTHONIOENCODING = 'utf-8'
 $env:PATH = 'C:\Program Files\nodejs;C:\Users\fgy\AppData\Roaming\npm;D:\pro;' + $env:PATH
+$localProxyConfig = Join-Path $taskLogDir 'network-proxy.txt'
+if (Test-Path -LiteralPath $localProxyConfig -PathType Leaf) {
+    $localProxy = [System.IO.File]::ReadAllText($localProxyConfig, [System.Text.Encoding]::UTF8).Trim()
+    $localProxyUri = [uri]$localProxy
+    if ($localProxyUri.Scheme -notin @('http', 'https') -or -not $localProxyUri.IsLoopback -or $localProxyUri.UserInfo) {
+        throw 'The local HTTPS proxy config must use a loopback address without embedded credentials.'
+    }
+    $env:HTTPS_PROXY = $localProxy
+}
 & $taskPython -X utf8 (Join-Path $PSScriptRoot 'codex_editorial.py') --repo $RuntimeRepo --sync --publish *>> $taskLog
 $editorialExit = $LASTEXITCODE
 $combinedExit = $editorialExit

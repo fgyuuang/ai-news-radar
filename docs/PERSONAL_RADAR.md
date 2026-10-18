@@ -75,6 +75,8 @@ Codex 消耗当前登录账户的使用额度，无需新增模型 API Key。
 结果按 URL、原标题、来源摘录和模型缓存，已处理内容不重复调用模型；每批完成后保存本机进度，
 失败的后续运行可继续。发布仅提交 `data/codex-editorial.json`，普通 Git push，绝不强推。
 本机 `.local-codex/` 保存执行日志和进度，不发布登录凭据、提示词或 CLI 日志。
+若计划任务需要本机代理，在运行仓库 `.local-codex/network-proxy.txt` 保存不含凭据的 loopback 代理地址；
+runner 只为本次任务的子进程设置 `HTTPS_PROXY`，不改 Windows 全局环境。GitHub 拉取遇到短暂连接失败会重试三次。
 两个网站每 5 分钟检查编辑层，只有来源内容匹配时才应用，失败时保留上次成功数据。
 Codex 结果推送会触发 Pages 发布；GPT Sites 直接读取同一公开 JSON，不需要每次重新部署。
 
