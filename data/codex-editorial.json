@@ -2,7 +2,7 @@
   "schema_version": 1,
   "provider": "codex-cli",
   "model": "gpt-6-luna",
-  "generated_at": "2026-10-18T09:30:46.948094+00:00",
+  "generated_at": "2026-10-18T10:02:16.292750+00:00",
   "selected_keys": [
     "4470e574aa7901371057accd",
     "58ede26de1977dd59ea25be0",
@@ -19,15 +19,15 @@
     "749a91f90e04ed48283a9f2a",
     "1787626a729b2c5987464081",
     "d0d2de7d8a2ebd2560d0f975",
-    "eccc159fd6cf74a45c14152c",
+    "59af884dfbbc54b95125ad5e",
     "59992693d4631b33c824446d",
     "1942a6e6c058b0210731cb6e",
-    "001f236104b0030d3e9d107f",
+    "eccc159fd6cf74a45c14152c",
     "93cccadc8c37ab3e1d05335f",
     "b503d430949e2c320a3af00d",
     "2f9356cfbe2085e83eaaa596",
     "4b1c8291d31dca7be2fe23c0",
-    "76f52ceef702d89b0681826c"
+    "001f236104b0030d3e9d107f"
   ],
   "entries": [
     {
@@ -315,6 +315,28 @@
       "provider": "codex-cli",
       "model": "gpt-6-luna",
       "generated_at": "2026-10-18T09:30:46.948094+00:00"
+    },
+    {
+      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+      "domain": "ai",
+      "source": "Product Hunt",
+      "source_title": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+      "source_excerpt": "Ask anything. Then play it, Duolingo-style.",
+      "published_at": "2026-10-17T10:14:13Z",
+      "key": "59af884dfbbc54b95125ad5e",
+      "context_kind": "source_excerpt",
+      "title_zh": "Tomo for ChatGPT——像玩多邻国一样提问并互动",
+      "summary_zh": "来源仅提供一句宣传语：Tomo for ChatGPT 主打先提出任意问题，再以类似多邻国的方式进行互动。材料没有说明具体玩法、适用场景或效果。",
+      "recommend_reason_zh": "适合关注 ChatGPT 与游戏化学习结合的人快速了解这一产品的定位；若要判断是否适合实际学习，仍需查看产品演示或使用体验。",
+      "pragmatic_score": 35,
+      "pragmatic_review": "宣传语暗示了提问后可进行游戏化互动，但未提供操作细节，暂时无法据此评估实际用途。",
+      "cynic_score": 61,
+      "cynic_review": "“像多邻国一样”只是定位类比，来源未说明具体功能，也没有证据表明它能提升学习效果。",
+      "paper_score": 15,
+      "paper_review": "材料只有产品宣传语，没有论文、代码、评测方法或可复现结果可供审查。",
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-18T10:02:16.292750+00:00"
     },
     {
       "url": "https://api-docs.deepseek.com/guides/search",
