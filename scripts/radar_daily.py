@@ -244,7 +244,11 @@ def archive(digest, date):
                 f"clipped: {date}\ntopic: 科技与数学\nsubtopic: 信息雷达日报\nstatus: archived\n" +
                 "reliability: unreviewed\nassets_status: remote\nderived_notes: []\narchive_policy: retain-only\n" +
                 f"digest_date: {date}\ncreated: {date}\nupdated: {date}\ntags: [信息雷达日报]\naliases: []\n---\n\n")
-    content = metadata + digest
+    provenance = ("> [!source] 来源与生成方式\n"
+                  "> 本日报由 Codex 根据公开 AI 资讯、开源仓库及数学博客整理，属于外部来源改写。\n"
+                  f"> 采集与归档日期：{date}；作者和原文链接见逐条来源。\n"
+                  "> 雷达：https://fgyuuang.github.io/ai-news-radar/\n\n")
+    content = metadata + provenance + digest
     if target.exists():
         if target.read_text(encoding="utf-8") != content:
             raise ValueError("Archive conflict; refusing to overwrite")

@@ -140,3 +140,22 @@ def test_collection_processes_have_no_model_credentials_and_keep_categories(tmp_
     assert len(checked) == 4
     history = daily.read(tmp_path / "reports/observed.json")
     assert {entry["domain"] for entry in history.values()} == set(daily.LABELS)
+
+
+def test_archive_preserves_provenance_is_idempotent_and_refuses_conflicts(tmp_path, monkeypatch):
+    monkeypatch.setattr(Path, "home", lambda: tmp_path)
+    vault = tmp_path / "Documents/Obsidian Vault"
+    (vault / ".obsidian").mkdir(parents=True)
+    (vault / "网页资料/_inbox").mkdir(parents=True)
+    text = "个人信息雷达日报｜2026-10-18\n链接：https://example.org/proof\n"
+    path = Path(daily.archive(text, "2026-10-18"))
+    before = path.read_bytes()
+    assert not before.startswith(b"\xef\xbb\xbf")
+    assert "content_origin: external-adapted" in before.decode("utf-8")
+    assert "> [!source]" in before.decode("utf-8")
+    assert "https://example.org/proof" in before.decode("utf-8")
+    assert daily.archive(text, "2026-10-18") == str(path)
+    assert path.read_bytes() == before
+    with pytest.raises(ValueError, match="conflict"):
+        daily.archive(text + "different", "2026-10-18")
+    assert path.read_bytes() == before
