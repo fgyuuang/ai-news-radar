@@ -10,6 +10,7 @@ PUBLIC_DATA = (
     "stories-merged.json", "top3-personas.json", "source-status.json",
     "service-status.json", "waytoagi-7d.json", "today-projects.json",
     "feed.xml", "feed-en.xml", "math-news.json", "math-source-status.json", "math-feed.xml",
+    "codex-editorial.json",
 )
 
 

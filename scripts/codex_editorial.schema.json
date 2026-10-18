@@ -1,0 +1,27 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": ["entries"],
+  "properties": {
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": ["key", "title_zh", "summary_zh", "recommend_reason_zh", "pragmatic_score", "pragmatic_review", "cynic_score", "cynic_review", "paper_score", "paper_review"],
+        "properties": {
+          "key": {"type": "string"},
+          "title_zh": {"type": "string"},
+          "summary_zh": {"type": "string"},
+          "recommend_reason_zh": {"type": "string"},
+          "pragmatic_score": {"type": "integer"},
+          "pragmatic_review": {"type": "string"},
+          "cynic_score": {"type": "integer"},
+          "cynic_review": {"type": "string"},
+          "paper_score": {"type": "integer"},
+          "paper_review": {"type": "string"}
+        }
+      }
+    }
+  }
+}

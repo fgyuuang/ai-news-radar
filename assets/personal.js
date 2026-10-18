@@ -127,12 +127,15 @@
       if (preferences.excluded.includes(item.source_id) || (preferences.source && item.source_id !== preferences.source)) return false;
       if (Number(preferences.hours) < 2160 && (!item.published_at || new Date(item.published_at).getTime() < since)) return false;
       const hay = [item.title, item.title_zh, item.excerpt, item.excerpt_zh, item.source].join(" ").toLowerCase();
-      return words.every(word => hay.includes(word)) && !excluded.some(word => hay.includes(word));
+      const editorial = window.PersonalCodexEditorial?.get(item);
+      const searchable = `${hay} ${editorial?.title_zh || ""} ${editorial?.summary_zh || ""}`.toLowerCase();
+      return words.every(word => searchable.includes(word)) && !excluded.some(word => searchable.includes(word));
     });
     count.textContent = `${items.length} 篇文章 · 以原始发表时间筛选`;
     list.replaceChildren();
     if (!items.length) list.append(node("p", "这个时间范围内没有符合筛选条件的文章。可以扩大时间范围或调整来源。"));
     for (const item of items) {
+      const editorial = window.PersonalCodexEditorial?.get(item);
       const card = node("article", undefined, "news-card math-card");
       const body = node("div", undefined, "news-card-body");
       const meta = node("div", undefined, "meta-row math-card-meta");
@@ -141,8 +144,9 @@
       if (sourceHealth && !sourceHealth.ok) meta.append(node("span", "来源暂不可用 · 已保存内容"));
       const heading = node("h3", undefined, "math-card-heading");
       const link = node("a", undefined, "title");
-      link.append(node("span", item.title_zh || item.title));
-      if (item.title_zh && item.title_zh !== item.title) link.append(node("span", item.title, "title-sub"));
+      const displayTitle = editorial?.title_zh || item.title_zh || item.title;
+      link.append(node("span", displayTitle));
+      if (displayTitle !== item.title) link.append(node("span", item.title, "title-sub"));
       // No HTML from feeds enters the DOM. Only public HTTP(S) article links.
       try { const url = new URL(item.url); if (!/^https?:$/.test(url.protocol)) continue; link.href = url.href; } catch { continue; }
       link.target = "_blank"; link.rel = "noopener noreferrer";
@@ -150,8 +154,13 @@
       original.href = link.href; original.target = "_blank"; original.rel = "noopener noreferrer";
       meta.append(original);
       heading.append(link); body.append(meta, heading);
-      body.append(node("p", item.excerpt_zh || item.excerpt || "该来源没有提供文章摘要，请打开原文阅读。", "news-summary"));
-      body.append(node("p", item.excerpt_zh ? "来源摘录 · 中文机器翻译" : "来源原文摘录", "math-original"));
+      body.append(node("p", editorial?.summary_zh || item.excerpt_zh || item.excerpt || "该来源没有提供文章摘要，请打开原文阅读。", "news-summary"));
+      if (editorial) {
+        body.append(node("p", `推荐理由：${editorial.recommend_reason_zh}`, "news-summary"));
+        body.append(window.PersonalCodexEditorial.details(editorial));
+      } else {
+        body.append(node("p", item.excerpt_zh ? "来源摘录 · 中文机器翻译" : "来源原文摘录", "math-original"));
+      }
       card.append(body);
       list.append(card);
     }
@@ -186,6 +195,7 @@
         if (typeof initTodayProjects === "function") await initTodayProjects();
       }
     })());
+    if (window.PersonalCodexEditorial) tasks.push(window.PersonalCodexEditorial.refresh());
     const results = await Promise.allSettled(tasks);
     if (results[0].status === "rejected") {
       failed = true;
@@ -196,6 +206,7 @@
     refresh.disabled = false; refreshing = false;
   }
   renderChannel();
+  document.addEventListener("personalRadar:editorial", renderArticles);
   refreshData(true);
   setInterval(() => { if (!document.hidden) refreshData(); }, 5 * 60000);
   document.addEventListener("visibilitychange", () => { if (!document.hidden) refreshData(); });

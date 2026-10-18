@@ -24,9 +24,8 @@ Variable 默认 0，表示处理全部配置的订阅。GitHub cron 可能延迟
 1. 已 Fork 到 `fgyuuang/ai-news-radar`。
 2. Actions 已启用，由 `personal-radar.yml` 每 30 分钟统一采集 AI 与数学、发布 Pages。
    原版 `update-news.yml` 保留手动运行入口，避免两个定时器同时改写同一份数据。
-3. `DEEPSEEK_API_KEY` 是可选 Secret，当前未配置模型密钥。个人工作流将
-   `DEEPSEEK_MODEL` Variable（默认 `deepseek-v4-flash`）同时传给采集和 persona 步骤，
-   将 `TITLE_ENHANCE_MAX_PER_RUN`（默认 30）传给标题增强步骤。密钥保留在 GitHub Secrets。
+3. 原版的 `DEEPSEEK_API_KEY` 为可选 Secret。本 fork 已选择本机 Codex 生成增强内容，
+   个人云端工作流不再传入 DeepSeek 密钥。原版手动工作流仍保留上游接口作为备选。
 4. Pages 使用 Actions 构建输出 `dist` 发布；等价地提供静态网页，但不会把根目录中
    的源配置、翻译缓存等文件一起发布。云端运行，无需本机常开。
 5. `skills/radar/SKILL.md` 的 `BASE_URL` 已改为自己的 Pages `/data` 地址。
@@ -53,17 +52,40 @@ GitHub Trending、Product Hunt 和聚合网页，统一标题、URL、来源和�
 
 结果保存为 `latest-24h.json`、`stories-merged.json`、`daily-brief.json` 等静态文件。
 网页只读取这些结果；Skill 则把相同文件交给使用它的 Agent 整理简报。
-数学走独立采集和摘录翻译流程，目前尚未调用上述 persona/全文推荐模型。
+数学走独立采集和摘录翻译流程，之后由本机 Codex 生成独立的编辑层。
 
 ## GPT 与 Codex 的两种接入
 
 读取侧：Codex 使用已安装的 `personal-radar` Skill 查询自己的 JSON，无需模型 API 密钥。
 将网站发布到 GPT Sites 本身不会自动产生一个 GPT 数据连接器。
 
-生成侧：原版支持的是 DeepSeek 的 Chat Completions 接口。更换 GPT 生成模型需要
-另行适配 API 与凭据；只改 `DEEPSEEK_MODEL` 不代表已经接入 GPT。
-也可以在已登录的本机使用 Codex CLI 对抓取结果生成简报，但不能由此认为 GitHub
-云端拥有本机的登录权限。目前未配置 GPT API 或云端 Codex 凭据。
+生成侧：已接入本机通过 ChatGPT 登录的 Codex CLI，模型 `gpt-6-luna`，推理等级 high。
+`scripts/codex_editorial.py` 为最近 72 小时的数学文章和最多 20 篇优先 AI 资讯生成
+中文标题、摘要、具体推荐理由，以及实用派、审慎派、较真党的评分和点评。
+抓取不到正文时明确标记基于来源摘录；评分是模型阅读意见，不能作为证明正确性的认证。
+
+Windows 任务 `Personal AI Math Radar Codex Editorial` 在登录后及每 30 分钟运行，
+使用 `scripts/run_codex_editorial.ps1`，只在当前用户已登录且电脑开机时运行。
+电脑关机、休眠或 Codex 登录过期时，云端采集继续；本机恢复运行后补处理当前窗口的新文章。
+Codex 消耗当前登录账户的使用额度，无需新增模型 API Key。
+
+运行仓库隔离在 `../ai-news-radar-codex-runtime`，不会重置维护仓库的未提交修改。
+结果按 URL、原标题、来源摘录和模型缓存，已处理内容不重复调用模型；每批完成后保存本机进度，
+失败的后续运行可继续。发布仅提交 `data/codex-editorial.json`，普通 Git push，绝不强推。
+本机 `.local-codex/` 保存执行日志和进度，不发布登录凭据、提示词或 CLI 日志。
+两个网站每 5 分钟检查编辑层，只有来源内容匹配时才应用，失败时保留上次成功数据。
+Codex 结果推送会触发 Pages 发布；GPT Sites 直接读取同一公开 JSON，不需要每次重新部署。
+
+手动检查或运行：
+
+```powershell
+Get-ScheduledTask -TaskName 'Personal AI Math Radar Codex Editorial'
+Get-ScheduledTaskInfo -TaskName 'Personal AI Math Radar Codex Editorial'
+& .\scripts\run_codex_editorial.ps1
+Get-Content -LiteralPath ..\ai-news-radar-codex-runtime\.local-codex\last-run.json -Encoding utf8
+```
+
+GitHub 云端不持有本机的 Codex 登录权限，也未配置 GPT API 或云端 Codex 凭据。
 
 ## 数学来源
 
@@ -73,7 +95,7 @@ MathArena 没有可用 RSS，解析其 `/blogs` 中带日期、标题和摘录�
 失败来源保留以前成功抓取的文章，并在来源状态中显示故障；零篇近期文章不等于故障。
 文章按原文规范 URL 去重；数学内容保留 90 天，缺日期内容只显示于存档范围。
 译文来自公开机器翻译服务并缓存；不可用时展示原文，错误不会进入摘要。
-展示内容标为“来源摘录”，不把自动翻译说成模型核实过的数学结论。
+未生成 Codex 编辑内容时展示“来源摘录”，有编辑内容时标明模型、输入类型与生成时间。
 
 原有数学定时任务仅用作来源、72 小时窗口和逐篇阅读方式参考。
 本系统不读写它的投递去重状态，不会调用 QQ/微信发送脚本。

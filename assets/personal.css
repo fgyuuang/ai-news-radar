@@ -1,4 +1,8 @@
 /* Personal surfaces share the original reader's tokens and card components. */
+.codex-reviews { margin-top:12px; padding-top:10px; border-top:1px solid var(--line-soft); color:var(--ink-soft); font-size:12px; line-height:1.65; }
+.codex-reviews summary { cursor:pointer; color:var(--accent); }
+.codex-reviews p { margin:8px 0; }
+.codex-reviews .codex-attribution { color:var(--muted); font-size:11px; }
 .personal-channels { margin:16px 0; }
 .personal-channel-row { display:flex; align-items:center; gap:12px; flex-wrap:wrap; }
 .personal-channel-switch { flex-shrink:0; }
