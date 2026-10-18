@@ -67,10 +67,11 @@ def source_key(item):
     return hashlib.sha256(json.dumps(payload, sort_keys=True, ensure_ascii=False).encode("utf-8")).hexdigest()[:24]
 
 
-def candidates(repo, max_ai, now):
+def candidates(repo, max_ai, now, max_projects=0):
     math = read(repo / "data/math-news.json", {"items": []})
     news = read(repo / "data/latest-24h.json", {"items": []})
     brief = read(repo / "data/daily-brief.json", {"items": []})
+    projects = read(repo / "data/today-projects.json", {"items": []}).get("items", [])[:max_projects]
     priority_urls = [item.get("primary_url") or item.get("url") for item in brief.get("items", [])]
     priority = {url: rank for rank, url in enumerate(priority_urls)}
     ai = sorted(news.get("items_ai") or news.get("items", []),
@@ -86,16 +87,20 @@ def candidates(repo, max_ai, now):
             recent_math.append(item)
     result = []
     seen = set()
-    for domain, items in (("math", recent_math), ("ai", ai)):
+    project_urls = {item.get("url") for item in projects}
+    ai = [item for item in ai if item.get("url") not in project_urls]
+    for domain, items in (("math", recent_math), ("project", projects), ("ai", ai)):
         for item in items:
             url = item.get("url")
             if not isinstance(url, str) or not url.startswith("https://") or url in seen:
                 continue
             seen.add(url)
             record = {"url": url, "domain": domain, "source": item.get("source") or item.get("site_name") or "",
-                      "source_title": item.get("title_original") or item.get("title") or "",
+                      "source_title": item.get("title_original") or item.get("title") or item.get("project_name") or "",
                       "source_excerpt": text(item.get("excerpt") if domain == "math" else item.get("summary"))[:1600],
-                      "published_at": item.get("published_at")}
+                      "published_at": item.get("published_at"),
+                      "observed_at": item.get("observed_at"),
+                      "recency_basis": item.get("recency_basis")}
             record["key"] = source_key(record)
             result.append(record)
     return result

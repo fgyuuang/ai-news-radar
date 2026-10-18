@@ -20,6 +20,7 @@ description: 查询和维护 fgyuuang 自己的 AI 与数学信息雷达。用�
 配置源与自动更新先读 `docs/PERSONAL_RADAR.md` 和 `feeds/math-sources.json`。
 Python 执行 `scripts/update_math.py` 仅采集数学；`scripts/update_news.py` 采集 AI。
 网页代码修改后两端发布，数据自动更新通过 GitHub Actions `personal-radar.yml`。
-模型增强由本机 Windows 任务 `Personal AI Math Radar Codex Editorial` 在登录后、每 30 分钟及每天 09:00 运行；09:00 触发会在更新编辑层后执行一次数学日报，并保留 Obsidian 归档与 QQ/微信发送。
+Windows 任务 `Personal Radar Source Collection` 每 30 分钟只采集。AI 编辑由 Codex 原生任务每天 09:00 执行，覆盖 AI、开源项目、数学并保留 Obsidian 归档与 QQ/微信发送，具体执行 `docs/CODEX_DAILY_TASK.md`。
+只有执行该已授权的每日推送任务时才访问 `../reports/personal-radar/` 的去重状态与回执；普通资讯查询不发送消息。
 维护参考 `scripts/codex_editorial.py` 与 `scripts/run_codex_editorial.ps1`；独立运行仓库为 `../ai-news-radar-codex-runtime`，`.local-codex/last-run.json` 记录最近结果。电脑关机时仅云端采集继续。
 不要把私人订阅、API Key 或邮箱正文写入公开仓库。

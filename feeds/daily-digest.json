@@ -1,0 +1,9 @@
+{
+  "model": "codex-native-scheduled-task",
+  "schedule": "09:00 Asia/Shanghai",
+  "max_per_day": {"ai": 30, "project": 10, "math": 0},
+  "update_detection": "url_and_source_title_excerpt",
+  "no_changes": "send_daily_status",
+  "delivery_channels": ["qqbot", "wechat"],
+  "retry_uncertain_delivery": false
+}

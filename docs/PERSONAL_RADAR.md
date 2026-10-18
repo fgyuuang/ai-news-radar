@@ -6,7 +6,7 @@
 
 ## 更新与筛选
 
-`Personal AI and Math Radar` 每 30 分钟运行一次，也支持在 GitHub Actions 手动运行。
+Windows 任务 `Personal Radar Source Collection` 每 30 分钟采集一次，也支持在 GitHub Actions 手动采集。
 AI 采集沿用仓库的公开来源与评分逻辑，在自己的 fork 运行，不依赖作者的数据更新。
 数学独立写入 `data/math-news.json`，不经过 AI 相关性筛选。
 两个网站读取同一份个人仓库数据；页面在可见时每 5 分钟、切回页面时检查更新。
@@ -22,12 +22,12 @@ Variable 默认 0，表示处理全部配置的订阅。GitHub cron 可能延迟
 ## 对照 Fork 指南
 
 1. 已 Fork 到 `fgyuuang/ai-news-radar`。
-2. Actions 已启用，由 `personal-radar.yml` 每 30 分钟统一采集 AI 与数学、发布 Pages。
+2. Actions 已启用，`personal-radar.yml` 在本机采集数据推送后发布 Pages；定时采集由 Windows 执行。
    原版 `update-news.yml` 保留手动运行入口，避免两个定时器同时改写同一份数据。
 3. 原版的 `DEEPSEEK_API_KEY` 为可选 Secret。本 fork 已选择本机 Codex 生成增强内容，
    个人云端工作流不再传入 DeepSeek 密钥。原版手动工作流仍保留上游接口作为备选。
-4. Pages 使用 Actions 构建输出 `dist` 发布；等价地提供静态网页，但不会把根目录中
-   的源配置、翻译缓存等文件一起发布。云端运行，无需本机常开。
+4. Pages 使用 Actions 构建输出 `dist` 发布；不会把根目录中的源配置、翻译缓存等文件一起发布。
+   网站托管在云端；按此分工，自动采集与 AI 编辑需要本机运行。
 5. `skills/radar/SKILL.md` 的 `BASE_URL` 已改为自己的 Pages `/data` 地址。
    `personal-radar` Skill 也已指向自己的数据，补充数学查询。
 
@@ -59,34 +59,34 @@ GitHub Trending、Product Hunt 和聚合网页，统一标题、URL、来源和�
 读取侧：Codex 使用已安装的 `personal-radar` Skill 查询自己的 JSON，无需模型 API 密钥。
 将网站发布到 GPT Sites 本身不会自动产生一个 GPT 数据连接器。
 
-生成侧：已接入本机通过 ChatGPT 登录的 Codex CLI，模型 `gpt-6-luna`，推理等级 high。
-`scripts/codex_editorial.py` 为最近 72 小时的数学文章和最多 20 篇优先 AI 资讯生成
-中文标题、摘要、具体推荐理由，以及实用派、审慎派、较真党的评分和点评。
+生成侧：由 Codex 原生自动任务每天上海时间 09:00 执行一次 AI 编辑，直接使用该任务的模型。
+Windows 采集入口不调用 Codex CLI 或模型 API。`scripts/radar_daily.py prepare` 冻结候选并复用缓存；
+Codex 读取分批正文，生成中文标题、摘要、具体推荐理由和三种 persona 点评，随后 finalize 验证并发布。
 抓取不到正文时明确标记基于来源摘录；评分是模型阅读意见，不能作为证明正确性的认证。
 
-Windows 任务 `Personal AI Math Radar Codex Editorial` 在登录后、每 30 分钟及每天 09:00 运行，
-使用 `scripts/run_codex_editorial.ps1`，只在当前用户已登录且电脑开机时运行。每次运行先更新
-Codex 编辑层；09:00 触发会在其后调用原数学日报脚本，按上海日期每天至多启动一次。
-日报继续归档 Obsidian 并发送 QQ/微信。电脑关机、休眠或 Codex 登录过期时，云端采集继续；
-本机恢复运行后补处理当前窗口的新文章和当天尚未启动的数学日报。
+Windows 任务 `Personal Radar Source Collection` 在登录后及每 30 分钟运行
+`scripts/run_radar_collection.ps1`，只负责公开信源抓取、规则筛选、去重、记录和推送原始数据。
+独立采集仓库位于 `../ai-news-radar-collection-runtime`。Codex 日报在原生自动任务中执行，
+需要电脑开机且 Codex 应用运行，任务说明为 `docs/CODEX_DAILY_TASK.md`。
+日报覆盖 AI、开源项目、数学；先归档 Obsidian，再发送到原 QQ 和唯一已配对微信联系人。
 Codex 消耗当前登录账户的使用额度，无需新增模型 API Key。
 
 运行仓库隔离在 `../ai-news-radar-codex-runtime`，不会重置维护仓库的未提交修改。
 结果按 URL、原标题、来源摘录和模型缓存，已处理内容不重复调用模型；每批完成后保存本机进度，
 失败的后续运行可继续。发布仅提交 `data/codex-editorial.json`，普通 Git push，绝不强推。
 本机 `.local-codex/` 保存执行日志和进度，不发布登录凭据、提示词或 CLI 日志。
-若计划任务需要本机代理，在运行仓库 `.local-codex/network-proxy.txt` 保存不含凭据的 loopback 代理地址；
-runner 只为本次任务的子进程设置 `HTTPS_PROXY`，不改 Windows 全局环境。GitHub 拉取遇到短暂连接失败会重试三次。
+若需要本机代理，在各运行仓库 `.local-codex/network-proxy.txt` 保存不含凭据的 loopback 地址；
+只为本次任务的子进程设置 `HTTPS_PROXY`，不改 Windows 全局环境。GitHub 拉取遇到短暂连接失败会重试三次。
 两个网站每 5 分钟检查编辑层，只有来源内容匹配时才应用，失败时保留上次成功数据。
 Codex 结果推送会触发 Pages 发布；GPT Sites 直接读取同一公开 JSON，不需要每次重新部署。
 
 手动检查或运行：
 
 ```powershell
-Get-ScheduledTask -TaskName 'Personal AI Math Radar Codex Editorial'
-Get-ScheduledTaskInfo -TaskName 'Personal AI Math Radar Codex Editorial'
-& .\scripts\run_codex_editorial.ps1
-Get-Content -LiteralPath ..\ai-news-radar-codex-runtime\.local-codex\last-run.json -Encoding utf8
+Get-ScheduledTask -TaskName 'Personal Radar Source Collection'
+Get-ScheduledTaskInfo -TaskName 'Personal Radar Source Collection'
+& .\scripts\run_radar_collection.ps1
+Get-Content -LiteralPath ..\reports\personal-radar\collection-status.json -Encoding utf8
 ```
 
 GitHub 云端不持有本机的 Codex 登录权限，也未配置 GPT API 或云端 Codex 凭据。
@@ -101,9 +101,11 @@ MathArena 没有可用 RSS，解析其 `/blogs` 中带日期、标题和摘录�
 译文来自公开机器翻译服务并缓存；不可用时展示原文，错误不会进入摘要。
 未生成 Codex 编辑内容时展示“来源摘录”，有编辑内容时标明模型、输入类型与生成时间。
 
-数学日报保留原有 Obsidian 归档及 QQ/微信发送脚本。跨入口互斥锁、日报回执和上海日期启动标记
-共同防止并发或重复投递；失败或状态不明时不自动重试。旧的独立 Windows 数学日报任务与
-Codex automation 已停用，避免重复运行或发送。
+统一日报沿用原 Obsidian 收件箱、QQ 与微信发送入口，归档命名为 `个人信息雷达日报-YYYY-MM-DD.md`。
+每天默认精选 30 条 AI、10 个开源项目，以及窗口内全部未处理数学文章，限制可改 `feeds/daily-digest.json`（0 不限）。
+`../reports/personal-radar/observed.json` 保留七天采集观察，`reviewed.json` 与每日 manifest/回执用于跟踪已处理版本。
+标题或来源摘录变化标记“更新”；仅热度变化不重复推送。失败或不明投递不自动重试，包括跨日中断恢复。
+原生数学日报任务已改为覆盖全部类别的每日任务；旧 Windows 编辑任务和独立数学日报任务均停用。
 
 ## Codex 使用
 
