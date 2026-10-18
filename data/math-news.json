@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-18T12:39:19.925617+00:00",
+  "generated_at": "2026-10-18T13:26:04.882193+00:00",
   "window_hours": 72,
   "archive_days": 90,
   "recent_count": 15,
@@ -9,11 +9,11 @@
       "name": "Terence Tao — What’s New",
       "url": "https://terrytao.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T12:39:19.925617+00:00",
+      "checked_at": "2026-10-18T13:26:04.882193+00:00",
       "ok": true,
       "item_count": 10,
       "latest_published_at": "2026-10-18T03:11:00+00:00",
-      "duration_ms": 125,
+      "duration_ms": 1412,
       "recent_count": 6
     },
     {
@@ -21,11 +21,11 @@
       "name": "Proofs and Prompts",
       "url": "https://proofsandprompts.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T12:39:19.925617+00:00",
+      "checked_at": "2026-10-18T13:26:04.882193+00:00",
       "ok": true,
       "item_count": 10,
       "latest_published_at": "2026-10-18T11:00:00+00:00",
-      "duration_ms": 206,
+      "duration_ms": 1612,
       "recent_count": 7
     },
     {
@@ -33,11 +33,11 @@
       "name": "VibeMathed",
       "url": "https://vibemathed.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T12:39:19.925617+00:00",
+      "checked_at": "2026-10-18T13:26:04.882193+00:00",
       "ok": true,
       "item_count": 60,
       "latest_published_at": "2026-10-12T12:00:00+00:00",
-      "duration_ms": 228,
+      "duration_ms": 1343,
       "recent_count": 0
     },
     {
@@ -45,11 +45,11 @@
       "name": "Gowers’s Weblog",
       "url": "https://gowers.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T12:39:19.925617+00:00",
+      "checked_at": "2026-10-18T13:26:04.882193+00:00",
       "ok": true,
       "item_count": 25,
       "latest_published_at": "2026-10-16T10:29:30+00:00",
-      "duration_ms": 367,
+      "duration_ms": 2517,
       "recent_count": 1
     },
     {
@@ -57,11 +57,11 @@
       "name": "Xena Project",
       "url": "https://xenaproject.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-18T12:39:19.925617+00:00",
+      "checked_at": "2026-10-18T13:26:04.882193+00:00",
       "ok": true,
       "item_count": 10,
       "latest_published_at": "2026-10-16T09:54:00+00:00",
-      "duration_ms": 167,
+      "duration_ms": 1192,
       "recent_count": 1
     },
     {
@@ -69,11 +69,11 @@
       "name": "MathArena",
       "url": "https://matharena.ai/blogs",
       "method": "matharena",
-      "checked_at": "2026-10-18T12:39:19.925617+00:00",
+      "checked_at": "2026-10-18T13:26:04.882193+00:00",
       "ok": true,
       "item_count": 18,
       "latest_published_at": "2026-10-15T00:00:00+00:00",
-      "duration_ms": 458,
+      "duration_ms": 2162,
       "recent_count": 0
     }
   ],
@@ -611,12 +611,12 @@
       "url": "https://vibemathed.com/problem/bfss-su2-positive-energy-eigenstates",
       "published_at": "2026-10-05T12:00:00+00:00",
       "date_precision": "datetime",
-      "excerpt": "Disproved · Supersymmetric matrix quantum mechanics; embedded eigenvalues · with Unreleased internal OpenAI model · significance 25/100. For the relative \\mathrm{SU}(2) BFSS Hamiltonian (supersymmetric quantum mechanics of three 9-vectors with quartic potential \\sum_{a",
+      "excerpt": "Disproved · Supersymmetric matrix quantum mechanics; embedded eigenvalues · with Unreleased internal OpenAI model · significance 25/100. For the relative \\mathrm{SU}(2) BFSS Hamiltonian (supersymmetric quantum mechanics of three 9-vectors with quartic potential \\sum_{a<b}|x^a\\wedge x^b|^2 and sixteen fermions per color), de Wit, Luscher and Nicolai (1989) proved the spectrum is [0,\\infty) and left open whether normalizable eigenstates lie inside it. Banks, Fischler, Shenker and Susskind (1997, Section 5, after Equation (5.4)) stated that besides the zero-energy threshold states 'No other normalizable bound states can occur'. Dani",
       "summary_kind": "source_excerpt",
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "相对 SU(2) 模型中正能量可归一态的 BFSS 排除",
-      "excerpt_zh": "反证·超对称矩阵量子力学；嵌入特征值 · 具有未发布的内部 OpenAI 模型 · 重要性 25/100。对于相对 \\mathrm{SU}(2) BFSS 哈密顿量（具有四次势的三个 9 向量的超对称量子力学 \\sum_{a"
+      "excerpt_zh": "反证·超对称矩阵量子力学；嵌入特征值 · 具有未发布的内部 OpenAI 模型 · 重要性 25/100。对于相对 \\mathrm{SU}(2) BFSS 哈密顿量（具有四次势 \\sum_{a<b}|x^a\\wedge x^b|^2 的三个 9 向量的超对称量子力学和每个颜色十六个费米子），de Wit、Luscher 和 Nicolai (1989) 证明了光谱为 [0,\\infty)，并且对可归一化本征态是否位于其中保持开放。 Banks、Fischler、Shenker 和 Susskind（1997 年，第 5 节，方程（5.4）之后）指出，除了零能量阈值态之外，“不会出现其他可归一化的束缚态”。达尼"
     },
     {
       "id": "79145fc7660ad2453a20",
@@ -1136,12 +1136,12 @@
       "url": "https://vibemathed.com/problem/xy-model-essential-singularity",
       "published_at": "2026-10-05T12:00:00+00:00",
       "date_precision": "datetime",
-      "excerpt": "Proved · Statistical mechanics; Berezinskii-Kosterlitz-Thouless transition · with Unreleased internal OpenAI model · significance 48/100. For the nearest-neighbor XY model on \\mathbb Z^2, let m(b) be the exponential decay rate of the spin correlation along an axis and \\xi(b)=1/m(b) the correlation length, finite for b",
+      "excerpt": "Proved · Statistical mechanics; Berezinskii-Kosterlitz-Thouless transition · with Unreleased internal OpenAI model · significance 48/100. For the nearest-neighbor XY model on \\mathbb Z^2, let m(b) be the exponential decay rate of the spin correlation along an axis and \\xi(b)=1/m(b) the correlation length, finite for b<b_c. Unlike ordinary critical points, where \\xi diverges as a power of b_c-b, Kosterlitz's renormalization-group analysis predicts an essential singularity: \\log\\xi(b)\\sim A/\\sqrt{b_c-b} as b\\uparrow b_c. Rigorous work established the transition and the exponential-versus-polynomial dichotomy (Frohlich-Spencer, van E",
       "summary_kind": "source_excerpt",
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "XY 相关长度的科斯特利茨本质奇点",
-      "excerpt_zh": "已证明·统计力学； Berezinskii-Kosterlitz-Thouless 过渡 · 具有未发布的内部 OpenAI 模型 · 重要性 48/100。对于 \\mathbb Z^2 上的最近邻 XY 模型，令 m(b) 为沿轴的自旋相关性的指数衰减率，\\xi(b)=1/m(b) 为相关长度，对于 b 是有限的"
+      "excerpt_zh": "已证明·统计力学； Berezinskii-Kosterlitz-Thouless 过渡 · 具有未发布的内部 OpenAI 模型 · 重要性 48/100。对于 \\mathbb Z^2 上的最近邻 XY 模型，令 m(b) 为沿轴的自旋相关性的指数衰减率，\\xi(b)=1/m(b) 为相关长度，对于 b<b_c 是有限的。与 \\xi 作为 b_c-b 的幂发散的普通临界点不同，Kosterlitz 的重整化群分析预测了一个本质奇点： \\log\\xi(b)\\sim A/\\sqrt{b_c-b} 作为 b\\uparrow b_c。严格的工作建立了转变和指数与多项式二分法（Frohlich-Spencer，van E"
     },
     {
       "id": "8ffbfdf09f8039998390",
