@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-10-18T13:31:56.600380Z",
+  "generated_at": "2026-10-18T14:02:06.215822Z",
   "window_hours": 24,
-  "total_items": 10,
+  "total_items": 11,
   "items": [
+    {
+      "story_id": "story_b5da960ac254",
+      "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+      "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+      "primary_url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
+          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T13:22:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
+          "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+          "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+          "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-18T13:22:26Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7839,
+      "importance": 0.7839,
+      "importance_score": 0.7839,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.78,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9905,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-18T13:22:26Z",
+      "latest_at": "2026-10-18T13:22:26Z",
+      "primary_item": {
+        "id": "f0d84e4695df7dc1adcddf7e53b2cca1f8df2755",
+        "title": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍 / Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+        "title_zh": "Anthropic 内部研究显示初级技术岗位占比下降，AI Agent 工时达员工六倍",
+        "title_en": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+        "title_original": "Anthropic has nearly stopped hiring junior staff because AI agents now work six times as many hours",
+        "summary": "Anthropic 发布内部研究称，技术部门初级岗位占比从 2025 年初的 21% 降至 14%，新招初级占比从 27% 降至 9%，空缺初级职位降至 6%，非技术部门基本稳定。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/anthropic-has-nearly-stopped-hiring-junior-staff-because-ai-agents-now-work-six-times-as-many-hours",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T14:04:53.185689Z"
+      }
+    },
     {
       "story_id": "story_5291e4230e02",
       "title": "德国两家法院先后裁定 Google 须为其 AI Overview 内容负责 / Two German courts now hold Google liable for what its AI overviews say",
@@ -52,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7758,
-      "importance": 0.7758,
-      "importance_score": 0.7758,
+      "score": 0.7746,
+      "importance": 0.7746,
+      "importance_score": 0.7746,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9624,
+        "recency": 0.9554,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -86,7 +172,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T13:34:36.280030Z"
+        "scored_at": "2026-10-18T14:04:53.185689Z"
       }
     },
     {
@@ -138,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7282,
-      "importance": 0.7282,
-      "importance_score": 0.7282,
+      "score": 0.7271,
+      "importance": 0.7271,
+      "importance_score": 0.7271,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8475,
+        "recency": 0.8414,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -171,7 +257,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T13:34:36.280030Z"
+        "scored_at": "2026-10-18T14:04:53.185689Z"
       }
     },
     {
@@ -195,7 +281,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-18T13:22:38Z",
+          "updated_at": "2026-10-18T13:56:32Z",
           "recency_basis": "updated_at"
         },
         {
@@ -234,7 +320,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-18T13:22:38Z",
+          "updated_at": "2026-10-18T13:56:32Z",
           "recency_basis": "updated_at"
         },
         {
@@ -256,15 +342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9978,
+        "recency": 0.9987,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -272,7 +358,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-18T09:20:05.051000Z",
-      "latest_at": "2026-10-18T13:22:38Z",
+      "latest_at": "2026-10-18T13:56:32Z",
       "primary_item": {
         "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
         "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
@@ -289,7 +375,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T13:34:36.280030Z"
+        "scored_at": "2026-10-18T14:04:53.185689Z"
       }
     },
     {
@@ -374,15 +460,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5919,
-      "importance": 0.5919,
-      "importance_score": 0.5919,
+      "score": 0.5906,
+      "importance": 0.5906,
+      "importance_score": 0.5906,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9872,
+        "recency": 0.9801,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -407,7 +493,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T13:34:36.280030Z"
+        "scored_at": "2026-10-18T14:04:53.185689Z"
       }
     },
     {
@@ -525,15 +611,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5573,
+      "importance": 0.5573,
+      "importance_score": 0.5573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9315,
+        "recency": 0.9248,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -558,7 +644,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T13:34:36.280030Z"
+        "scored_at": "2026-10-18T14:04:53.185689Z"
       }
     },
     {
@@ -676,15 +762,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5585,
-      "importance": 0.5585,
-      "importance_score": 0.5585,
+      "score": 0.5573,
+      "importance": 0.5573,
+      "importance_score": 0.5573,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9315,
+        "recency": 0.9248,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -709,7 +795,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T13:34:36.280030Z"
+        "scored_at": "2026-10-18T14:04:53.185689Z"
       }
     },
     {
@@ -827,15 +913,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.548,
-      "importance": 0.548,
-      "importance_score": 0.548,
+      "score": 0.5469,
+      "importance": 0.5469,
+      "importance_score": 0.5469,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8735,
+        "recency": 0.8672,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -860,7 +946,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T13:34:36.280030Z"
+        "scored_at": "2026-10-18T14:04:53.185689Z"
       }
     },
     {
@@ -945,15 +1031,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5389,
-      "importance": 0.5389,
-      "importance_score": 0.5389,
+      "score": 0.5376,
+      "importance": 0.5376,
+      "importance_score": 0.5376,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9616,
+        "recency": 0.9547,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -978,7 +1064,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T13:34:36.280030Z"
+        "scored_at": "2026-10-18T14:04:53.185689Z"
       }
     },
     {
@@ -1096,15 +1182,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5293,
-      "importance": 0.5293,
-      "importance_score": 0.5293,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7693,
+        "recency": 0.7637,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1129,7 +1215,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T13:34:36.280030Z"
+        "scored_at": "2026-10-18T14:04:53.185689Z"
       }
     },
     {
@@ -1247,15 +1333,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5277,
-      "importance": 0.5277,
-      "importance_score": 0.5277,
+      "score": 0.5267,
+      "importance": 0.5267,
+      "importance_score": 0.5267,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7604,
+        "recency": 0.7549,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1280,7 +1366,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T13:34:36.280030Z"
+        "scored_at": "2026-10-18T14:04:53.185689Z"
       }
     }
   ]
