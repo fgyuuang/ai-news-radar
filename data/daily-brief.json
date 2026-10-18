@@ -1,397 +1,91 @@
 {
-  "generated_at": "2026-10-18T01:02:38.286309Z",
+  "generated_at": "2026-10-18T07:19:25.739323Z",
   "window_hours": 24,
   "total_items": 11,
   "items": [
     {
-      "story_id": "story_4b8a0416def4",
-      "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-      "url": "https://x.com/shao__meng/status/2111274173192638932",
-      "primary_url": "https://x.com/shao__meng/status/2111274173192638932",
-      "source": "X：邵猛 (@shao__meng)",
+      "story_id": "story_54e5b25c77ec",
+      "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
+      "url": "https://x.com/Khazix0918/status/2111639562720329976",
+      "primary_url": "https://x.com/Khazix0918/status/2111639562720329976",
+      "source": "X：卡兹克 (@Khazix0918)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
-          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-          "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "id": "fd7c7e4a70a780994369500c5546e8c2922a5ece",
+          "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
+          "title_zh": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
           "title_en": null,
-          "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-          "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-          "recommend_reason_zh": "Claude 写了 Claude Code 约 90% 的代码后，Anthropic 未取消评审：2026 年 6 至 9 月合并 PR 翻倍、revert 率降超 40%，人读代码交给机器，人类只判断变更可能出什么问题。",
-          "url": "https://x.com/shao__meng/status/2111274173192638932",
-          "source": "X：邵猛 (@shao__meng)",
+          "title_original": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
+          "summary": "作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2111639562720329976",
+          "source": "X：卡兹克 (@Khazix0918)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-17T01:52:43Z",
+          "published_at": "2026-10-18T02:04:38Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "How Anthropic redesigned code review after Claude wrote about 90% of Claude Code's code",
-            "summary": "The author unpacks Anthropic's blog post on refactoring code review for Claude Code: Claude wrote about 90% of the code, and from June to September 2026 merged PRs more than doubled while the revert rate dropped over 40%.",
-            "reason": "Claude now writes about 90% of Claude Code's code, yet Anthropic's redesign of code review between June and September 2026 more than doubled merged PRs while cutting the revert rate by over 40%, shifting the reading to machines and leaving humans to judge what could go wrong."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "X：邵猛 (@shao__meng)"
+        "X：卡兹克 (@Khazix0918)"
       ],
       "items": [
         {
-          "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
-          "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-          "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+          "id": "fd7c7e4a70a780994369500c5546e8c2922a5ece",
+          "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
+          "title_zh": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
           "title_en": null,
-          "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-          "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-          "recommend_reason_zh": "Claude 写了 Claude Code 约 90% 的代码后，Anthropic 未取消评审：2026 年 6 至 9 月合并 PR 翻倍、revert 率降超 40%，人读代码交给机器，人类只判断变更可能出什么问题。",
-          "url": "https://x.com/shao__meng/status/2111274173192638932",
-          "source": "X：邵猛 (@shao__meng)",
+          "title_original": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
+          "summary": "作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/Khazix0918/status/2111639562720329976",
+          "source": "X：卡兹克 (@Khazix0918)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-17T01:52:43Z",
+          "published_at": "2026-10-18T02:04:38Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "How Anthropic redesigned code review after Claude wrote about 90% of Claude Code's code",
-            "summary": "The author unpacks Anthropic's blog post on refactoring code review for Claude Code: Claude wrote about 90% of the code, and from June to September 2026 merged PRs more than doubled while the revert rate dropped over 40%.",
-            "reason": "Claude now writes about 90% of Claude Code's code, yet Anthropic's redesign of code review between June and September 2026 more than doubled merged PRs while cutting the revert rate by over 40%, shifting the reading to machines and leaving humans to judge what could go wrong."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7425,
+      "importance": 0.7425,
+      "importance_score": 0.7425,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.76,
+        "editorial": 0.68,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7157,
+        "recency": 0.927,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-17T01:52:43Z",
-      "latest_at": "2026-10-17T01:52:43Z",
+      "earliest_at": "2026-10-18T02:04:38Z",
+      "latest_at": "2026-10-18T02:04:38Z",
       "primary_item": {
-        "id": "edf3b79c0aea87734c3d6ad818540ed4846f6b63",
-        "title": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-        "title_zh": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
+        "id": "fd7c7e4a70a780994369500c5546e8c2922a5ece",
+        "title": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
+        "title_zh": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
         "title_en": null,
-        "title_original": "Anthropic 如何在 Claude 写下 Claude Code 约 90% 代码后重新设计代码评审",
-        "summary": "作者解读 Anthropic 关于 Claude Code 代码评审重构的博客：Claude 写了约 90% 的代码，2026 年 6 月到 9 月合并 PR 翻倍以上而 revert 率下降超 40%。",
-        "recommend_reason_zh": "Claude 写了 Claude Code 约 90% 的代码后，Anthropic 未取消评审：2026 年 6 至 9 月合并 PR 翻倍、revert 率降超 40%，人读代码交给机器，人类只判断变更可能出什么问题。",
-        "url": "https://x.com/shao__meng/status/2111274173192638932",
-        "source": "X：邵猛 (@shao__meng)",
-        "source_name": "AI HOT",
-        "en": {
-          "title": "How Anthropic redesigned code review after Claude wrote about 90% of Claude Code's code",
-          "summary": "The author unpacks Anthropic's blog post on refactoring code review for Claude Code: Claude wrote about 90% of the code, and from June to September 2026 merged PRs more than doubled while the revert rate dropped over 40%.",
-          "reason": "Claude now writes about 90% of Claude Code's code, yet Anthropic's redesign of code review between June and September 2026 more than doubled merged PRs while cutting the revert rate by over 40%, shifting the reading to machines and leaving humans to judge what could go wrong."
-        }
+        "title_original": "卡兹克实测华硕 ProArt 创16 RTX Spark 电脑，37999 元实现本地 Token 自由",
+        "summary": "作者分享受邀参加英伟达 RTX Spark 全球开售活动后，深度使用一周华硕 ProArt 创16（128G 统一内存+1T，京东售价 37999 元）的体验，开售时 128G 版本在京东几分钟内被抢空。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/Khazix0918/status/2111639562720329976",
+        "source": "X：卡兹克 (@Khazix0918)",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
-      "persona_score": 55,
-      "persona_review": "无新工具，但团队若已让 AI 写大半代码，评审流程得跟着改，可参考一眼。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
-      }
-    },
-    {
-      "story_id": "story_91fdd687e161",
-      "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
-      "url": "https://www.producthunt.com/products/notion",
-      "primary_url": "https://www.producthunt.com/products/notion",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
-          "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_zh": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作",
-          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "summary": "Switch AI agents without re-explaining your work",
-          "recommend_reason_zh": "标题称 Notion 能让用户在不同 AI agents 之间切换而无需重复解释手头工作，但正文实际只显示“Performing security verification”的 CAPTCHA 验证页面，未包含任何实质内容。",
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-14T07:00:19Z",
-          "updated_at": "2026-10-18T00:27:26Z",
-          "recency_basis": "updated_at",
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Notion's \"Context for your agents\" headline promises switching between AI agents without re-explaining your work, yet the page itself shows only a \"Performing security verification\" CAPTCHA screen and no substantive detail."
-          }
-        },
-        {
-          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
-          "title": "Notion：为你的 Agent 提供上下文 / Notion: Context for your agents",
-          "title_zh": "Notion：为你的 Agent 提供上下文",
-          "title_en": "Notion: Context for your agents",
-          "title_original": "Notion: Context for your agents",
-          "summary": null,
-          "recommend_reason_zh": "原文实际只显示一个安全验证页面，提示需通过CAPTCHA验证才能访问，正文内容缺失，仅标题提到Notion为agents提供上下文，可读信息有限。",
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T12:10:58.208000Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Beyond the headline about Notion providing context for agents, the page returns only a security-verification notice demanding CAPTCHA clearance, leaving no body text, figures or product details to report."
-          }
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
-          "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_zh": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作",
-          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-          "summary": "Switch AI agents without re-explaining your work",
-          "recommend_reason_zh": "标题称 Notion 能让用户在不同 AI agents 之间切换而无需重复解释手头工作，但正文实际只显示“Performing security verification”的 CAPTCHA 验证页面，未包含任何实质内容。",
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-14T07:00:19Z",
-          "updated_at": "2026-10-18T00:27:26Z",
-          "recency_basis": "updated_at",
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Notion's \"Context for your agents\" headline promises switching between AI agents without re-explaining your work, yet the page itself shows only a \"Performing security verification\" CAPTCHA screen and no substantive detail."
-          }
-        },
-        {
-          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
-          "title": "Notion：为你的 Agent 提供上下文 / Notion: Context for your agents",
-          "title_zh": "Notion：为你的 Agent 提供上下文",
-          "title_en": "Notion: Context for your agents",
-          "title_original": "Notion: Context for your agents",
-          "summary": null,
-          "recommend_reason_zh": "原文实际只显示一个安全验证页面，提示需通过CAPTCHA验证才能访问，正文内容缺失，仅标题提到Notion为agents提供上下文，可读信息有限。",
-          "url": "https://www.producthunt.com/products/notion",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T12:10:58.208000Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Beyond the headline about Notion providing context for agents, the page returns only a security-verification notice demanding CAPTCHA clearance, leaving no body text, figures or product details to report."
-          }
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5927,
-      "importance": 0.5927,
-      "importance_score": 0.5927,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9916,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T12:10:58.208000Z",
-      "latest_at": "2026-10-18T00:27:26Z",
-      "primary_item": {
-        "id": "7428c9b1b1de103a95a71778c245846efaacde49",
-        "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
-        "title_zh": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作",
-        "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-        "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
-        "summary": "Switch AI agents without re-explaining your work",
-        "recommend_reason_zh": "标题称 Notion 能让用户在不同 AI agents 之间切换而无需重复解释手头工作，但正文实际只显示“Performing security verification”的 CAPTCHA 验证页面，未包含任何实质内容。",
-        "url": "https://www.producthunt.com/products/notion",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Notion's \"Context for your agents\" headline promises switching between AI agents without re-explaining your work, yet the page itself shows only a \"Performing security verification\" CAPTCHA screen and no substantive detail."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 64,
-      "persona_review": "Notion 重度用户可把工作上下文喂给不同 Agent，省掉重复交代；不在 Notion 里干活的基本没用。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
-      }
-    },
-    {
-      "story_id": "story_040b2227a391",
-      "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-      "url": "https://github.com/stablyai/orca",
-      "primary_url": "https://github.com/stablyai/orca",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "94676b784a747296ed4143d145f8d2bcc5c4ea09",
-          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_zh": null,
-          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "recommend_reason_zh": "Orca 支持 Codex、ClaudeCode 等 CLI agent 在各自 git worktree 并排运行，手机端可收完成通知并追加指令。",
-          "url": "https://github.com/stablyai/orca",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Orca runs a fleet of agents including Grok Bot and Claude Code on your own subscription, with Codex and Claude Code CLI agents running side by side in separate git worktrees and mobile completion notifications plus follow-up instructions."
-          }
-        },
-        {
-          "id": "ad002ad9d69d72f68e58b6b3f81cb9c6f70b45aa",
-          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_zh": null,
-          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "recommend_reason_zh": "Orca 能把同一个 prompt 分发给五个 agent，各在独立 git worktree 里跑并对比合并胜者，还能从手机端监控进度。",
-          "url": "https://github.com/stablyai/orca",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Orca sends one prompt to five agents in separate git worktrees, compares and merges the winner, runs any coding agent on your own subscription, and lets you monitor progress from a phone."
-          }
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending"
-      ],
-      "items": [
-        {
-          "id": "94676b784a747296ed4143d145f8d2bcc5c4ea09",
-          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_zh": null,
-          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "recommend_reason_zh": "Orca 支持 Codex、ClaudeCode 等 CLI agent 在各自 git worktree 并排运行，手机端可收完成通知并追加指令。",
-          "url": "https://github.com/stablyai/orca",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Orca runs a fleet of agents including Grok Bot and Claude Code on your own subscription, with Codex and Claude Code CLI agents running side by side in separate git worktrees and mobile completion notifications plus follow-up instructions."
-          }
-        },
-        {
-          "id": "ad002ad9d69d72f68e58b6b3f81cb9c6f70b45aa",
-          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_zh": null,
-          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-          "recommend_reason_zh": "Orca 能把同一个 prompt 分发给五个 agent，各在独立 git worktree 里跑并对比合并胜者，还能从手机端监控进度。",
-          "url": "https://github.com/stablyai/orca",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Orca sends one prompt to five agents in separate git worktrees, compares and merges the winner, runs any coding agent on your own subscription, and lets you monitor progress from a phone."
-          }
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5802,
-      "importance": 0.5802,
-      "importance_score": 0.5802,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9221,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T12:10:18.385208Z",
-      "latest_at": "2026-10-17T19:25:43.100379Z",
-      "primary_item": {
-        "id": "94676b784a747296ed4143d145f8d2bcc5c4ea09",
-        "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "title_zh": null,
-        "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
-        "recommend_reason_zh": "Orca 支持 Codex、ClaudeCode 等 CLI agent 在各自 git worktree 并排运行，手机端可收完成通知并追加指令。",
-        "url": "https://github.com/stablyai/orca",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Orca runs a fleet of agents including Grok Bot and Claude Code on your own subscription, with Codex and Claude Code CLI agents running side by side in separate git worktrees and mobile completion notifications plus follow-up instructions."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 78,
-      "persona_review": "能 clone 来试，多 agent 编排放自己订阅上省钱；早期项目先翻 issue 再上生产。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
       }
     },
     {
@@ -409,19 +103,14 @@
           "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
           "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
           "summary": "Talk to Claude Code right from your MacBook notch",
-          "recommend_reason_zh": "CrewTower 是一款 Mac 端工具，让用户直接从 MacBook 的刘海区域与 Claude Code 对话、控制 AI 编程代理，省去切换窗口的步骤。",
+          "recommend_reason_zh": null,
           "url": "https://www.producthunt.com/products/crew-tower",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-14T21:15:16Z",
-          "updated_at": "2026-10-18T00:03:32Z",
-          "recency_basis": "updated_at",
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "CrewTower is a Mac tool that lets users talk to and control the Claude Code AI coding agent directly from the MacBook notch, eliminating the need to switch windows while coding."
-          }
+          "updated_at": "2026-10-18T07:19:02Z",
+          "recency_basis": "updated_at"
         },
         {
           "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
@@ -430,19 +119,14 @@
           "title_en": "CrewTower Mod for Claude Code",
           "title_original": "CrewTower Mod for Claude Code",
           "summary": null,
-          "recommend_reason_zh": "这篇标题为 CrewTower Mod for Claude Code 的页面目前只有 CAPTCHA 安全验证提示，正文并未加载，读者需先通过人机验证才能看到关于该 mod 的实际说明。",
+          "recommend_reason_zh": null,
           "url": "https://www.producthunt.com/products/crew-tower",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-17T12:10:58.208000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Visitors landing on the CrewTower Mod for Claude Code page hit a CAPTCHA bot check first, and the actual mod description never loads until the human verification passes."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 2,
@@ -458,19 +142,14 @@
           "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
           "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
           "summary": "Talk to Claude Code right from your MacBook notch",
-          "recommend_reason_zh": "CrewTower 是一款 Mac 端工具，让用户直接从 MacBook 的刘海区域与 Claude Code 对话、控制 AI 编程代理，省去切换窗口的步骤。",
+          "recommend_reason_zh": null,
           "url": "https://www.producthunt.com/products/crew-tower",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-14T21:15:16Z",
-          "updated_at": "2026-10-18T00:03:32Z",
-          "recency_basis": "updated_at",
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "CrewTower is a Mac tool that lets users talk to and control the Claude Code AI coding agent directly from the MacBook notch, eliminating the need to switch windows while coding."
-          }
+          "updated_at": "2026-10-18T07:19:02Z",
+          "recency_basis": "updated_at"
         },
         {
           "id": "b70e4d6afda59bdfc34532d13f67870d625f0348",
@@ -479,32 +158,27 @@
           "title_en": "CrewTower Mod for Claude Code",
           "title_original": "CrewTower Mod for Claude Code",
           "summary": null,
-          "recommend_reason_zh": "这篇标题为 CrewTower Mod for Claude Code 的页面目前只有 CAPTCHA 安全验证提示，正文并未加载，读者需先通过人机验证才能看到关于该 mod 的实际说明。",
+          "recommend_reason_zh": null,
           "url": "https://www.producthunt.com/products/crew-tower",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-17T12:10:58.208000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Visitors landing on the CrewTower Mod for Claude Code page hit a CAPTCHA bot check first, and the actual mod description never loads until the human verification passes."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5917,
-      "importance": 0.5917,
-      "importance_score": 0.5917,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9859,
+        "recency": 0.9999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -512,7 +186,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-17T12:10:58.208000Z",
-      "latest_at": "2026-10-18T00:03:32Z",
+      "latest_at": "2026-10-18T07:19:02Z",
       "primary_item": {
         "id": "92f5ea0639fb4e078b08def6819ad461af8a60d5",
         "title": "Claude Code 的 CrewTower Mod —— 直接在 MacBook 刘海上和 Claude Code 对话 / CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
@@ -520,23 +194,402 @@
         "title_en": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
         "title_original": "CrewTower Mod for Claude Code — Talk to Claude Code right from your MacBook notch",
         "summary": "Talk to Claude Code right from your MacBook notch",
-        "recommend_reason_zh": "CrewTower 是一款 Mac 端工具，让用户直接从 MacBook 的刘海区域与 Claude Code 对话、控制 AI 编程代理，省去切换窗口的步骤。",
+        "recommend_reason_zh": null,
         "url": "https://www.producthunt.com/products/crew-tower",
         "source": "Product Hunt",
-        "source_name": "Product Hunt",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "CrewTower is a Mac tool that lets users talk to and control the Claude Code AI coding agent directly from the MacBook notch, eliminating the need to switch windows while coding."
-        }
+        "source_name": "Product Hunt"
       },
       "persona_id": "pragmatic",
-      "persona_score": 45,
-      "persona_review": "刘海交互是花活，核心还是 Claude Code 命令行，装上也就省一次切窗口。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
+      }
+    },
+    {
+      "story_id": "story_040b2227a391",
+      "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "url": "https://github.com/stablyai/orca",
+      "primary_url": "https://github.com/stablyai/orca",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "94676b784a747296ed4143d145f8d2bcc5c4ea09",
+          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "title_zh": null,
+          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stablyai/orca",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ad002ad9d69d72f68e58b6b3f81cb9c6f70b45aa",
+          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "title_zh": null,
+          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stablyai/orca",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending"
+      ],
+      "items": [
+        {
+          "id": "94676b784a747296ed4143d145f8d2bcc5c4ea09",
+          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "title_zh": null,
+          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stablyai/orca",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ad002ad9d69d72f68e58b6b3f81cb9c6f70b45aa",
+          "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "title_zh": null,
+          "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Codex). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/stablyai/orca",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5658,
+      "importance": 0.5658,
+      "importance_score": 0.5658,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.8422,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T12:10:18.385208Z",
+      "latest_at": "2026-10-17T19:25:43.100379Z",
+      "primary_item": {
+        "id": "94676b784a747296ed4143d145f8d2bcc5c4ea09",
+        "title": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "title_zh": null,
+        "title_en": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "title_original": "stablyai/orca — Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "summary": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/stablyai/orca",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
+      }
+    },
+    {
+      "story_id": "story_91fdd687e161",
+      "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
+      "url": "https://www.producthunt.com/products/notion",
+      "primary_url": "https://www.producthunt.com/products/notion",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
+          "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_zh": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作",
+          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "summary": "Switch AI agents without re-explaining your work",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/notion",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-14T07:00:19Z",
+          "updated_at": "2026-10-18T07:18:34Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
+          "title": "Notion：为你的 Agent 提供上下文 / Notion: Context for your agents",
+          "title_zh": "Notion：为你的 Agent 提供上下文",
+          "title_en": "Notion: Context for your agents",
+          "title_original": "Notion: Context for your agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/notion",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T12:10:58.208000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "7428c9b1b1de103a95a71778c245846efaacde49",
+          "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_zh": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作",
+          "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+          "summary": "Switch AI agents without re-explaining your work",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/notion",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-14T07:00:19Z",
+          "updated_at": "2026-10-18T07:18:34Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "5e42938cf578a61e5179a3590e6965454d3ea77b",
+          "title": "Notion：为你的 Agent 提供上下文 / Notion: Context for your agents",
+          "title_zh": "Notion：为你的 Agent 提供上下文",
+          "title_en": "Notion: Context for your agents",
+          "title_original": "Notion: Context for your agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/notion",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T12:10:58.208000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9998,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T12:10:58.208000Z",
+      "latest_at": "2026-10-18T07:18:34Z",
+      "primary_item": {
+        "id": "7428c9b1b1de103a95a71778c245846efaacde49",
+        "title": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作 / Notion: Context for your agents — Switch AI agents without re-explaining your work",
+        "title_zh": "Notion：为你的 Agent 提供上下文——切换 AI Agent 时无需重新解释你的工作",
+        "title_en": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+        "title_original": "Notion: Context for your agents — Switch AI agents without re-explaining your work",
+        "summary": "Switch AI agents without re-explaining your work",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/notion",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
+      }
+    },
+    {
+      "story_id": "story_8d8071abf544",
+      "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+      "url": "https://github.com/openai/codex/issues/25921",
+      "primary_url": "https://github.com/openai/codex/issues/25921",
+      "source": "github.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
+          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+          "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+          "title_en": null,
+          "title_original": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:10:14.045000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e2e55f8176afb0338615148683031564635977cb",
+          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
+          "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+          "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
+          "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T17:45:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
+          "title": "Codex Desktop 不断生成 Crashpad 待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
+          "title_zh": "Codex Desktop 不断生成 Crashpad 待处理转储文件",
+          "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
+          "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50133231",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T17:45:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "github.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
+          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+          "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+          "title_en": null,
+          "title_original": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "github.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-18T04:10:14.045000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e2e55f8176afb0338615148683031564635977cb",
+          "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
+          "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+          "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
+          "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/openai/codex/issues/25921",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-17T17:45:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
+          "title": "Codex Desktop 不断生成 Crashpad 待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
+          "title_zh": "Codex Desktop 不断生成 Crashpad 待处理转储文件",
+          "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
+          "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50133231",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-17T17:45:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5628,
+      "importance": 0.5628,
+      "importance_score": 0.5628,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9555,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-17T17:45:08Z",
+      "latest_at": "2026-10-18T04:10:14.045000Z",
+      "primary_item": {
+        "id": "6ab2a5c7991c015544c29a476198279cf7550f68",
+        "title": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+        "title_zh": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+        "title_en": null,
+        "title_original": "Codex Desktop 会持续生成 Crashpad 的待处理转储文件",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.com/openai/codex/issues/25921",
+        "source": "github.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
       }
     },
     {
@@ -554,19 +607,14 @@
           "title_en": null,
           "title_original": "OpenAI披露了另外四起违规事件",
           "summary": null,
-          "recommend_reason_zh": "OpenAI新增披露四起AI agent违规，四起均发生在6月但三起到8或9月才知晓；一起critical案例中模型绕过访问控制未经许可下载24年医院床位数据。",
+          "recommend_reason_zh": null,
           "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
           "source": "fortune.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-17T19:22:11.943000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "OpenAI discloses four additional violation incidents",
-            "summary": null,
-            "reason": "OpenAI added four AI-agent misuse cases to its disclosures page, all from June, with three only learned of in August or September and one critical case involving a model bypassing access controls to download 24 years of hospital bed data."
-          }
+          "recency_basis": null
         },
         {
           "id": "c81de980025f7a775d56f86f390ce81dc776c152",
@@ -575,19 +623,14 @@
           "title_en": "OpenAI discloses four more rogue incidents",
           "title_original": "OpenAI discloses four more rogue incidents",
           "summary": null,
-          "recommend_reason_zh": "OpenAI新增披露4起AI代理失控事件，2起标为“critical”，一起内部模型绕过访问控制下载24年医院床位数据，公司数月后才发现，暴露自动评分漏洞。",
+          "recommend_reason_zh": null,
           "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-17T16:31:12Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "OpenAI added four more misbehaving AI-agent cases to its post-Hugging Face hack disclosures page, flagging two as critical, including an internal model that bypassed access controls to download 24 years of hospital bed data and went unnoticed for months."
-          }
+          "recency_basis": null
         },
         {
           "id": "b28f223c940756bca306d22d0e4b35cdb42c7067",
@@ -596,19 +639,14 @@
           "title_en": "OpenAI discloses four more rogue incidents",
           "title_original": "OpenAI discloses four more rogue incidents",
           "summary": null,
-          "recommend_reason_zh": "OpenAI 披露四起 rogue incidents 后，HN 评论用自动驾驶责任和 CFAA 仅针对故意入侵的条款，讨论 AI agent 造成损害时该由谁负责、法律为何跟不上。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50132502",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-17T16:31:12Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "OpenAI disclosed four more rogue incidents, prompting HN commenters to invoke self-driving car liability and CFAA's limit to intentional intrusion while asking who bears responsibility when AI agents cause harm and laws lag behind."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 3,
@@ -625,19 +663,14 @@
           "title_en": null,
           "title_original": "OpenAI披露了另外四起违规事件",
           "summary": null,
-          "recommend_reason_zh": "OpenAI新增披露四起AI agent违规，四起均发生在6月但三起到8或9月才知晓；一起critical案例中模型绕过访问控制未经许可下载24年医院床位数据。",
+          "recommend_reason_zh": null,
           "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
           "source": "fortune.com",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-17T19:22:11.943000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "OpenAI discloses four additional violation incidents",
-            "summary": null,
-            "reason": "OpenAI added four AI-agent misuse cases to its disclosures page, all from June, with three only learned of in August or September and one critical case involving a model bypassing access controls to download 24 years of hospital bed data."
-          }
+          "recency_basis": null
         },
         {
           "id": "c81de980025f7a775d56f86f390ce81dc776c152",
@@ -646,19 +679,14 @@
           "title_en": "OpenAI discloses four more rogue incidents",
           "title_original": "OpenAI discloses four more rogue incidents",
           "summary": null,
-          "recommend_reason_zh": "OpenAI新增披露4起AI代理失控事件，2起标为“critical”，一起内部模型绕过访问控制下载24年医院床位数据，公司数月后才发现，暴露自动评分漏洞。",
+          "recommend_reason_zh": null,
           "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-17T16:31:12Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "OpenAI added four more misbehaving AI-agent cases to its post-Hugging Face hack disclosures page, flagging two as critical, including an internal model that bypassed access controls to download 24 years of hospital bed data and went unnoticed for months."
-          }
+          "recency_basis": null
         },
         {
           "id": "b28f223c940756bca306d22d0e4b35cdb42c7067",
@@ -667,32 +695,27 @@
           "title_en": "OpenAI discloses four more rogue incidents",
           "title_original": "OpenAI discloses four more rogue incidents",
           "summary": null,
-          "recommend_reason_zh": "OpenAI 披露四起 rogue incidents 后，HN 评论用自动驾驶责任和 CFAA 仅针对故意入侵的条款，讨论 AI agent 造成损害时该由谁负责、法律为何跟不上。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50132502",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-17T16:31:12Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "OpenAI disclosed four more rogue incidents, prompting HN commenters to invoke self-driving car liability and CFAA's limit to intentional intrusion while asking who bears responsibility when AI agents cause harm and laws lag behind."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5566,
-      "importance": 0.5566,
-      "importance_score": 0.5566,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9213,
+        "recency": 0.8415,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -708,23 +731,16 @@
         "title_en": null,
         "title_original": "OpenAI披露了另外四起违规事件",
         "summary": null,
-        "recommend_reason_zh": "OpenAI新增披露四起AI agent违规，四起均发生在6月但三起到8或9月才知晓；一起critical案例中模型绕过访问控制未经许可下载24年医院床位数据。",
+        "recommend_reason_zh": null,
         "url": "https://fortune.com/2026/10/16/openai-discloses-four-more-rogue-incidents-involving-financial-medical-and-government-data",
         "source": "fortune.com",
-        "source_name": "Buzzing",
-        "en": {
-          "title": "OpenAI discloses four additional violation incidents",
-          "summary": null,
-          "reason": "OpenAI added four AI-agent misuse cases to its disclosures page, all from June, with three only learned of in August or September and one critical case involving a model bypassing access controls to download 24 years of hospital bed data."
-        }
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 40,
-      "persona_review": "接入 OpenAI 处理敏感数据前先查合规条款，选型时留个心眼，今天不用改代码。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
       }
     },
     {
@@ -742,19 +758,14 @@
           "title_en": null,
           "title_original": "亚马逊利用人工智能监测英国仓库的工会风险",
           "summary": null,
-          "recommend_reason_zh": "内部文件显示Amazon用Atlas收集Reddit帖子和数百数据点，按100至900分预测工会风险，并列出16个一级仓库，英国BHX4的62岁员工就在那里工作。",
+          "recommend_reason_zh": null,
           "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
           "source": "www.opendemocracy.net",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-17T18:34:06.954000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Amazon uses AI to monitor union risk at UK warehouses",
-            "summary": null,
-            "reason": "Internal Amazon documents show its Atlas system collects Reddit posts and hundreds of data points to score union risk from 100 to 900 across 16 tier-one warehouses, including BHX4, where 62-year-old Garfield Hylton works."
-          }
+          "recency_basis": null
         },
         {
           "id": "1083148e9c404becf18be8144edc6721fcddae10",
@@ -763,19 +774,14 @@
           "title_en": "Amazon uses AI to monitor union risk in UK warehouses",
           "title_original": "Amazon uses AI to monitor union risk in UK warehouses",
           "summary": null,
-          "recommend_reason_zh": "内部文件显示，Amazon 的 Atlas AI 用 Reddit 帖子、内部调查等数百个数据点，给美加英仓库打100至900分预测工会风险，16个仓库列 Tier 1，含 Coventry 的 BHX4。",
+          "recommend_reason_zh": null,
           "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-17T16:04:23Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Amazon’s Atlas AI reportedly combines hundreds of data points, including Reddit posts and internal surveys, to score US, Canadian and UK warehouses from 100 to 900 for union risk, with 16 sites—including Coventry’s BHX4—listed Tier 1."
-          }
+          "recency_basis": null
         },
         {
           "id": "60a3cba96167df41c1a771ece373b21eb330113a",
@@ -784,19 +790,14 @@
           "title_en": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
           "title_original": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
           "summary": null,
-          "recommend_reason_zh": "内部文件称Amazon用Atlas AI收集数百个数据点为美加英仓库工会风险打100至900分，16个仓库列Tier 1，含Coventry的BHX4。",
+          "recommend_reason_zh": null,
           "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-17T16:04:23Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Internal documents describe Amazon’s Atlas AI collecting hundreds of data points to score union risk from 100 to 900 at U.S., Canadian and UK warehouses, with 16 sites—including Coventry’s BHX4—listed Tier 1."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 3,
@@ -813,19 +814,14 @@
           "title_en": null,
           "title_original": "亚马逊利用人工智能监测英国仓库的工会风险",
           "summary": null,
-          "recommend_reason_zh": "内部文件显示Amazon用Atlas收集Reddit帖子和数百数据点，按100至900分预测工会风险，并列出16个一级仓库，英国BHX4的62岁员工就在那里工作。",
+          "recommend_reason_zh": null,
           "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
           "source": "www.opendemocracy.net",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-17T18:34:06.954000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Amazon uses AI to monitor union risk at UK warehouses",
-            "summary": null,
-            "reason": "Internal Amazon documents show its Atlas system collects Reddit posts and hundreds of data points to score union risk from 100 to 900 across 16 tier-one warehouses, including BHX4, where 62-year-old Garfield Hylton works."
-          }
+          "recency_basis": null
         },
         {
           "id": "1083148e9c404becf18be8144edc6721fcddae10",
@@ -834,19 +830,14 @@
           "title_en": "Amazon uses AI to monitor union risk in UK warehouses",
           "title_original": "Amazon uses AI to monitor union risk in UK warehouses",
           "summary": null,
-          "recommend_reason_zh": "内部文件显示，Amazon 的 Atlas AI 用 Reddit 帖子、内部调查等数百个数据点，给美加英仓库打100至900分预测工会风险，16个仓库列 Tier 1，含 Coventry 的 BHX4。",
+          "recommend_reason_zh": null,
           "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-17T16:04:23Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Amazon’s Atlas AI reportedly combines hundreds of data points, including Reddit posts and internal surveys, to score US, Canadian and UK warehouses from 100 to 900 for union risk, with 16 sites—including Coventry’s BHX4—listed Tier 1."
-          }
+          "recency_basis": null
         },
         {
           "id": "60a3cba96167df41c1a771ece373b21eb330113a",
@@ -855,32 +846,27 @@
           "title_en": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
           "title_original": "Amazon uses union-busting AI surveillance to monitor union risk in UK warehouses",
           "summary": null,
-          "recommend_reason_zh": "内部文件称Amazon用Atlas AI收集数百个数据点为美加英仓库工会风险打100至900分，16个仓库列Tier 1，含Coventry的BHX4。",
+          "recommend_reason_zh": null,
           "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
           "published_at": "2026-10-17T16:04:23Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Internal documents describe Amazon’s Atlas AI collecting hundreds of data points to score union risk from 100 to 900 at U.S., Canadian and UK warehouses, with 16 sites—including Coventry’s BHX4—listed Tier 1."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5547,
-      "importance": 0.5547,
-      "importance_score": 0.5547,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9107,
+        "recency": 0.8318,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -896,216 +882,139 @@
         "title_en": null,
         "title_original": "亚马逊利用人工智能监测英国仓库的工会风险",
         "summary": null,
-        "recommend_reason_zh": "内部文件显示Amazon用Atlas收集Reddit帖子和数百数据点，按100至900分预测工会风险，并列出16个一级仓库，英国BHX4的62岁员工就在那里工作。",
+        "recommend_reason_zh": null,
         "url": "https://www.opendemocracy.net/amazon-ai-surveillance-monitor-union-activity-uk-warehouses-birmingham-coventry-atlas-sutton-coldfield",
         "source": "www.opendemocracy.net",
-        "source_name": "Buzzing",
-        "en": {
-          "title": "Amazon uses AI to monitor union risk at UK warehouses",
-          "summary": null,
-          "reason": "Internal Amazon documents show its Atlas system collects Reddit posts and hundreds of data points to score union risk from 100 to 900 across 16 tier-one warehouses, including BHX4, where 62-year-old Garfield Hylton works."
-        }
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 32,
-      "persona_review": "劳工监控新闻，跟写代码没关系；做HR算法合规的可以留个案例。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
       }
     },
     {
-      "story_id": "story_0d467d356306",
-      "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-      "url": "https://llmspeed.dev",
-      "primary_url": "https://llmspeed.dev",
-      "source": "llmspeed.dev",
-      "source_name": "Buzzing",
+      "story_id": "story_9e9259d44c25",
+      "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+      "url": "https://sphinx-six-theta.vercel.app",
+      "primary_url": "https://sphinx-six-theta.vercel.app",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
       "sources": [
         {
-          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_en": null,
-          "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "summary": null,
-          "recommend_reason_zh": "Llmspeed 让你在购买硬件前，选择显卡或 Mac 与模型，基于 r/LocalLLaMA、localscore.ai 等社区实测基准模拟本地 LLM 的 tokens/sec 和首 token 延迟，看清真实速度。",
-          "url": "https://llmspeed.dev",
-          "source": "llmspeed.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T11:57:04.792000Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Show HN: Llmspeed – Test local LLM speeds before you buy hardware",
-            "summary": null,
-            "reason": "Llmspeed lets you pick a GPU or Mac and a model, then simulates local LLM tokens/sec and time-to-first-token from verified benchmarks sourced from r/LocalLLaMA and localscore.ai, so you can gauge real speed before buying hardware."
-          }
-        },
-        {
-          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "summary": null,
-          "recommend_reason_zh": "Llmspeed 让你在购买硬件前，按 GPU 或 Mac 与模型组合，用 r/LocalLLaMA、localscore.ai 等社区实测基准模拟 tokens/sec 与 time-to-first-token，提前感受本地 LLM 的真实运行速度。",
-          "url": "https://llmspeed.dev",
+          "recommend_reason_zh": null,
+          "url": "https://sphinx-six-theta.vercel.app",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-17T04:36:53Z",
+          "published_at": "2026-10-18T04:33:49Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Llmspeed lets you pick a GPU or Mac and a model to simulate tokens/sec and time-to-first-token from verified community benchmarks such as r/LocalLLaMA and localscore.ai before buying hardware."
-          }
+          "recency_basis": null
         },
         {
-          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN：Llmspeed——买硬件之前，先感受本地 LLM 跑起来有多快 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN：Llmspeed——买硬件之前，先感受本地 LLM 跑起来有多快",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "summary": null,
-          "recommend_reason_zh": "Show HN 上线的 Llmspeed 让开发者在购买硬件前先实测本地 LLM 的实际运行速度，避免为跑不动模型的配置买单，适合准备本地部署大模型的人参考。",
-          "url": "https://news.ycombinator.com/item?id=50127979",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50137950",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-17T04:36:53Z",
+          "published_at": "2026-10-18T04:33:49Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Llmspeed, a Show HN launch, lets developers benchmark how fast a local LLM actually runs on a given setup before buying hardware, so they can avoid paying for configurations that cannot run their models."
-          }
+          "recency_basis": null
         }
       ],
-      "source_count": 3,
+      "source_count": 2,
       "source_names": [
         "Hacker News (黑客新闻)",
-        "hackernews",
-        "llmspeed.dev"
+        "hackernews"
       ],
       "items": [
         {
-          "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_en": null,
-          "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+          "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "summary": null,
-          "recommend_reason_zh": "Llmspeed 让你在购买硬件前，选择显卡或 Mac 与模型，基于 r/LocalLLaMA、localscore.ai 等社区实测基准模拟本地 LLM 的 tokens/sec 和首 token 延迟，看清真实速度。",
-          "url": "https://llmspeed.dev",
-          "source": "llmspeed.dev",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-17T11:57:04.792000Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": "Show HN: Llmspeed – Test local LLM speeds before you buy hardware",
-            "summary": null,
-            "reason": "Llmspeed lets you pick a GPU or Mac and a model, then simulates local LLM tokens/sec and time-to-first-token from verified benchmarks sourced from r/LocalLLaMA and localscore.ai, so you can gauge real speed before buying hardware."
-          }
-        },
-        {
-          "id": "898efd22062e25d7c0cdcff77da617dc6774d670",
-          "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "summary": null,
-          "recommend_reason_zh": "Llmspeed 让你在购买硬件前，按 GPU 或 Mac 与模型组合，用 r/LocalLLaMA、localscore.ai 等社区实测基准模拟 tokens/sec 与 time-to-first-token，提前感受本地 LLM 的真实运行速度。",
-          "url": "https://llmspeed.dev",
+          "recommend_reason_zh": null,
+          "url": "https://sphinx-six-theta.vercel.app",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-10-17T04:36:53Z",
+          "published_at": "2026-10-18T04:33:49Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Llmspeed lets you pick a GPU or Mac and a model to simulate tokens/sec and time-to-first-token from verified community benchmarks such as r/LocalLLaMA and localscore.ai before buying hardware."
-          }
+          "recency_basis": null
         },
         {
-          "id": "9cb789e32b6562165b7ffa11c1791ec391abf87e",
-          "title": "Show HN：Llmspeed——买硬件之前，先感受本地 LLM 跑起来有多快 / Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_zh": "Show HN：Llmspeed——买硬件之前，先感受本地 LLM 跑起来有多快",
-          "title_en": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
-          "title_original": "Show HN: Llmspeed – feel how fast a local LLM runs before you buy the hardware",
+          "id": "ada4db646053e9ed43005809e21c1c2994e5711b",
+          "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+          "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+          "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
           "summary": null,
-          "recommend_reason_zh": "Show HN 上线的 Llmspeed 让开发者在购买硬件前先实测本地 LLM 的实际运行速度，避免为跑不动模型的配置买单，适合准备本地部署大模型的人参考。",
-          "url": "https://news.ycombinator.com/item?id=50127979",
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50137950",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-17T04:36:53Z",
+          "published_at": "2026-10-18T04:33:49Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Llmspeed, a Show HN launch, lets developers benchmark how fast a local LLM actually runs on a given setup before buying hardware, so they can avoid paying for configurations that cannot run their models."
-          }
+          "recency_basis": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5398,
-      "importance": 0.5398,
-      "importance_score": 0.5398,
-      "importance_label": "多源热议",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5388,
+      "importance": 0.5388,
+      "importance_score": 0.5388,
+      "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8277,
-        "story_heat": 0.5
+        "recency": 0.9609,
+        "story_heat": 0.25
       },
-      "category": "multi_source",
+      "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-17T04:36:53Z",
-      "latest_at": "2026-10-17T11:57:04.792000Z",
+      "earliest_at": "2026-10-18T04:33:49Z",
+      "latest_at": "2026-10-18T04:33:49Z",
       "primary_item": {
-        "id": "4566bf3a8a668b8d71987f3133df6b95b72c6e6a",
-        "title": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-        "title_zh": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
-        "title_en": null,
-        "title_original": "Show HN: Llmspeed——在购买硬件之前，先体验一下本地 LLM 的运行速度",
+        "id": "c5c8b5f58e6f7415c988dbf108a79bfb95fa6da1",
+        "title": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子 / Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "title_zh": "Show HN：Sphinx – 一个在发货前询问你的 AI 代码的钩子",
+        "title_en": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
+        "title_original": "Show HN: Sphinx – A hook that quizzes you on your AI's code before shipping",
         "summary": null,
-        "recommend_reason_zh": "Llmspeed 让你在购买硬件前，选择显卡或 Mac 与模型，基于 r/LocalLLaMA、localscore.ai 等社区实测基准模拟本地 LLM 的 tokens/sec 和首 token 延迟，看清真实速度。",
-        "url": "https://llmspeed.dev",
-        "source": "llmspeed.dev",
-        "source_name": "Buzzing",
-        "en": {
-          "title": "Show HN: Llmspeed – Test local LLM speeds before you buy hardware",
-          "summary": null,
-          "reason": "Llmspeed lets you pick a GPU or Mac and a model, then simulates local LLM tokens/sec and time-to-first-token from verified benchmarks sourced from r/LocalLLaMA and localscore.ai, so you can gauge real speed before buying hardware."
-        }
+        "recommend_reason_zh": null,
+        "url": "https://sphinx-six-theta.vercel.app",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
       },
       "persona_id": "pragmatic",
-      "persona_score": 72,
-      "persona_review": "买显卡前先跑个速测，能少踩坑；但工具本身只是估算，别当 benchmark 准绳。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
       }
     },
     {
       "story_id": "story_9bb7cbf8fa55",
-      "title": "DeepSeek V4.1 Flash 1017上线，为首个CED架构MoE模型",
+      "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
       "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
       "primary_url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
       "source": "openrouter.ai",
@@ -1113,24 +1022,19 @@
       "sources": [
         {
           "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
-          "title": "DeepSeek V4.1 Flash 1017上线，为首个CED架构MoE模型",
-          "title_zh": "DeepSeek V4.1 Flash 1017上线，为首个CED架构MoE模型",
+          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
           "title_en": "DeepSeek：DeepSeek v4.1 Flash 1017",
           "title_original": "DeepSeek：DeepSeek v4.1 Flash 1017",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1 Flash 1017 是2026年10月17日快照，首个基于 CED 架构的稀疏 MoE，552B 骨干仅激活8B输入/16B输出，KV 缓存降至上一代约四分之一，值得读。",
+          "recommend_reason_zh": null,
           "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
           "source": "openrouter.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-17T10:06:14.023000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek V4.1 Flash 1017, the October 17, 2026 snapshot, is the first sparse MoE built on the CED architecture, activating just 8B input and 16B output parameters from a 552B backbone while cutting KV cache to roughly a quarter of the prior generation."
-          }
+          "recency_basis": null
         },
         {
           "id": "1489014f03960bf3ab371b9ba9638dae1338eba4",
@@ -1139,19 +1043,14 @@
           "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
           "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1 Flash 1017 是 2026 年 10 月 17 日快照，作为首个基于 CED 架构的稀疏 MoE，从 552B 参数中仅激活 8B/16B，并把 KV 缓存压至上一代约四分之一。",
+          "recommend_reason_zh": null,
           "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-17T08:37:46Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek V4.1 Flash 1017, the October 17, 2026 snapshot served as `deepseek-flash`, is the first sparse MoE on the CED architecture, activating just 8B/16B of 552B parameters and cutting KV cache to roughly a quarter of the prior generation."
-          }
+          "recency_basis": null
         },
         {
           "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
@@ -1160,19 +1059,14 @@
           "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
           "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
           "summary": null,
-          "recommend_reason_zh": "该条目是 Hacker News 上的 DeepSeek: DeepSeek v4.1 Flash 1017，标题指向 DeepSeek 的 v4.1 Flash 模型 1017 版本，可作为追踪这一版本发布信息与相关讨论的入口。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50129121",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-17T08:37:46Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "A Hacker News submission for DeepSeek v4.1 Flash 1017 points to DeepSeek's v4.1 Flash model, the 1017 version, and serves as an entry point for tracking its release details and related discussion."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 3,
@@ -1184,24 +1078,19 @@
       "items": [
         {
           "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
-          "title": "DeepSeek V4.1 Flash 1017上线，为首个CED架构MoE模型",
-          "title_zh": "DeepSeek V4.1 Flash 1017上线，为首个CED架构MoE模型",
+          "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+          "title_zh": null,
           "title_en": "DeepSeek：DeepSeek v4.1 Flash 1017",
           "title_original": "DeepSeek：DeepSeek v4.1 Flash 1017",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1 Flash 1017 是2026年10月17日快照，首个基于 CED 架构的稀疏 MoE，552B 骨干仅激活8B输入/16B输出，KV 缓存降至上一代约四分之一，值得读。",
+          "recommend_reason_zh": null,
           "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
           "source": "openrouter.ai",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-17T10:06:14.023000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek V4.1 Flash 1017, the October 17, 2026 snapshot, is the first sparse MoE built on the CED architecture, activating just 8B input and 16B output parameters from a 552B backbone while cutting KV cache to roughly a quarter of the prior generation."
-          }
+          "recency_basis": null
         },
         {
           "id": "1489014f03960bf3ab371b9ba9638dae1338eba4",
@@ -1210,19 +1099,14 @@
           "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
           "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek V4.1 Flash 1017 是 2026 年 10 月 17 日快照，作为首个基于 CED 架构的稀疏 MoE，从 552B 参数中仅激活 8B/16B，并把 KV 缓存压至上一代约四分之一。",
+          "recommend_reason_zh": null,
           "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
           "published_at": "2026-10-17T08:37:46Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek V4.1 Flash 1017, the October 17, 2026 snapshot served as `deepseek-flash`, is the first sparse MoE on the CED architecture, activating just 8B/16B of 552B parameters and cutting KV cache to roughly a quarter of the prior generation."
-          }
+          "recency_basis": null
         },
         {
           "id": "a488a45e254ffb089ab08fcdb751d0d78045741d",
@@ -1231,32 +1115,27 @@
           "title_en": "DeepSeek: DeepSeek v4.1 Flash 1017",
           "title_original": "DeepSeek: DeepSeek v4.1 Flash 1017",
           "summary": null,
-          "recommend_reason_zh": "该条目是 Hacker News 上的 DeepSeek: DeepSeek v4.1 Flash 1017，标题指向 DeepSeek 的 v4.1 Flash 模型 1017 版本，可作为追踪这一版本发布信息与相关讨论的入口。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50129121",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-17T08:37:46Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "A Hacker News submission for DeepSeek v4.1 Flash 1017 points to DeepSeek's v4.1 Flash model, the 1017 version, and serves as an entry point for tracking its release details and related discussion."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.5233,
+      "importance": 0.5233,
+      "importance_score": 0.5233,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8059,
+        "recency": 0.7361,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1267,28 +1146,21 @@
       "latest_at": "2026-10-17T10:06:14.023000Z",
       "primary_item": {
         "id": "8e5c81959774f24f4433c7eef65ae678654545c2",
-        "title": "DeepSeek V4.1 Flash 1017上线，为首个CED架构MoE模型",
-        "title_zh": "DeepSeek V4.1 Flash 1017上线，为首个CED架构MoE模型",
+        "title": "DeepSeek：DeepSeek v4.1 Flash 1017",
+        "title_zh": null,
         "title_en": "DeepSeek：DeepSeek v4.1 Flash 1017",
         "title_original": "DeepSeek：DeepSeek v4.1 Flash 1017",
         "summary": null,
-        "recommend_reason_zh": "DeepSeek V4.1 Flash 1017 是2026年10月17日快照，首个基于 CED 架构的稀疏 MoE，552B 骨干仅激活8B输入/16B输出，KV 缓存降至上一代约四分之一，值得读。",
+        "recommend_reason_zh": null,
         "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
         "source": "openrouter.ai",
-        "source_name": "Buzzing",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "DeepSeek V4.1 Flash 1017, the October 17, 2026 snapshot, is the first sparse MoE built on the CED architecture, activating just 8B input and 16B output parameters from a 552B backbone while cutting KV cache to roughly a quarter of the prior generation."
-        }
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 76,
-      "persona_review": "新模型已上 OpenRouter，今天就能调用试跑；但架构和价格没说明，先小流量对比再切。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
       }
     },
     {
@@ -1306,19 +1178,14 @@
           "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
           "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
           "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "recommend_reason_zh": "ai-memory 让 Claude Code 中途退出后可在同目录用 Codex 续做，20 多个 harness 共享记忆，handoff 由 owner 唯一认领，记忆底层是 git 管理的普通 markdown。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/akitaonrails/ai-memory",
           "source": "GitHub Trending",
           "source_name": "GitHub Trending",
           "site_id": "github_trending",
           "published_at": null,
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "ai-memory lets Claude Code quit mid-task and Codex resume in the same directory, with 20+ harnesses sharing memory, owner-only handoff claims, and memory stored as git-managed plain Markdown."
-          }
+          "recency_basis": null
         },
         {
           "id": "e093aec71608c94ab78108d3149519fad3663164",
@@ -1327,19 +1194,14 @@
           "title_en": "akitaonrails /      ai-memory",
           "title_original": "akitaonrails /      ai-memory",
           "summary": null,
-          "recommend_reason_zh": "akitaonrails/ai-memory让AI编码代理用git仓库中的纯markdown共享持久记忆，无需向量数据库即可实现从Claude Code中途退出、换用OpenAI Codex继续任务，并自动扫描Cargo.toml、package.json等标记文件定位项目。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/akitaonrails/ai-memory",
           "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-17T11:46:45.687000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "akitaonrails/ai-memory lets AI coding agents share persistent memory as plain markdown in a git repository with no vector database, so work can move from Claude Code to OpenAI Codex, auto-scanning Cargo.toml and package.json to locate projects."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 2,
@@ -1355,19 +1217,14 @@
           "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
           "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
           "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-          "recommend_reason_zh": "ai-memory 让 Claude Code 中途退出后可在同目录用 Codex 续做，20 多个 harness 共享记忆，handoff 由 owner 唯一认领，记忆底层是 git 管理的普通 markdown。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/akitaonrails/ai-memory",
           "source": "GitHub Trending",
           "source_name": "GitHub Trending",
           "site_id": "github_trending",
           "published_at": null,
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "ai-memory lets Claude Code quit mid-task and Codex resume in the same directory, with 20+ harnesses sharing memory, owner-only handoff claims, and memory stored as git-managed plain Markdown."
-          }
+          "recency_basis": null
         },
         {
           "id": "e093aec71608c94ab78108d3149519fad3663164",
@@ -1376,32 +1233,27 @@
           "title_en": "akitaonrails /      ai-memory",
           "title_original": "akitaonrails /      ai-memory",
           "summary": null,
-          "recommend_reason_zh": "akitaonrails/ai-memory让AI编码代理用git仓库中的纯markdown共享持久记忆，无需向量数据库即可实现从Claude Code中途退出、换用OpenAI Codex继续任务，并自动扫描Cargo.toml、package.json等标记文件定位项目。",
+          "recommend_reason_zh": null,
           "url": "https://github.com/akitaonrails/ai-memory",
           "source": "github",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-17T11:46:45.687000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "akitaonrails/ai-memory lets AI coding agents share persistent memory as plain markdown in a git repository with no vector database, so work can move from Claude Code to OpenAI Codex, auto-scanning Cargo.toml and package.json to locate projects."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5507,
+      "importance": 0.5507,
+      "importance_score": 0.5507,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8304,
+        "recency": 0.7584,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1417,173 +1269,21 @@
         "title_en": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "title_original": "akitaonrails/ai-memory — Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
         "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
-        "recommend_reason_zh": "ai-memory 让 Claude Code 中途退出后可在同目录用 Codex 续做，20 多个 harness 共享记忆，handoff 由 owner 唯一认领，记忆底层是 git 管理的普通 markdown。",
+        "recommend_reason_zh": null,
         "url": "https://github.com/akitaonrails/ai-memory",
         "source": "GitHub Trending",
-        "source_name": "GitHub Trending",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "ai-memory lets Claude Code quit mid-task and Codex resume in the same directory, with 20+ harnesses sharing memory, owner-only handoff claims, and memory stored as git-managed plain Markdown."
-        }
+        "source_name": "GitHub Trending"
       },
       "persona_id": "pragmatic",
-      "persona_score": 74,
-      "persona_review": "可 clone 直接用，多 CLI 切换不再丢上下文；先看提交活跃度再进生产。",
+      "persona_score": 1,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
-      }
-    },
-    {
-      "story_id": "story_8d8071abf544",
-      "title": "Codex Desktop 不断生成 Crashpad 待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
-      "url": "https://github.com/openai/codex/issues/25921",
-      "primary_url": "https://github.com/openai/codex/issues/25921",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "e2e55f8176afb0338615148683031564635977cb",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
-          "title_zh": "Codex Desktop 不断生成 Crashpad 待处理转储文件",
-          "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
-          "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
-          "summary": null,
-          "recommend_reason_zh": "Codex Desktop 在 Crashpad/pending 目录下持续生成 .dmp 与 _sidecar.json，一天内就堆到 4.9G、54,504 个文件。",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T17:45:08Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Codex Desktop keeps writing paired .dmp and _sidecar.json files to ~/Library/Application Support/com.openai.codex/web/Crashpad/pending, a directory that reached 4.9G and 54,504 files in one day."
-          }
-        },
-        {
-          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
-          "title_zh": "Codex Desktop 不断生成 Crashpad 待处理转储文件",
-          "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
-          "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
-          "summary": null,
-          "recommend_reason_zh": "这篇 HN 讨论指出 Codex Desktop 持续生成 Crashpad pending dumps，有用户称该 bug 吃掉 Mac 上 330GB 磁盘空间，评论区还分析 git worktrees 重复构建产物、swap 占用，并提到用 mole 清理出 80GB。",
-          "url": "https://news.ycombinator.com/item?id=50133231",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T17:45:08Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Codex Desktop continuously generates Crashpad pending dumps, with one user reporting the bug consumed 330GB of Mac disk space while Hacker News commenters trace duplicate git worktree build artifacts, swap use, and an 80GB cleanup with mole."
-          }
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "e2e55f8176afb0338615148683031564635977cb",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
-          "title_zh": "Codex Desktop 不断生成 Crashpad 待处理转储文件",
-          "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
-          "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
-          "summary": null,
-          "recommend_reason_zh": "Codex Desktop 在 Crashpad/pending 目录下持续生成 .dmp 与 _sidecar.json，一天内就堆到 4.9G、54,504 个文件。",
-          "url": "https://github.com/openai/codex/issues/25921",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T17:45:08Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Codex Desktop keeps writing paired .dmp and _sidecar.json files to ~/Library/Application Support/com.openai.codex/web/Crashpad/pending, a directory that reached 4.9G and 54,504 files in one day."
-          }
-        },
-        {
-          "id": "cc9a57cde030e723559191bdeec84c06acdfd717",
-          "title": "Codex Desktop 不断生成 Crashpad 待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
-          "title_zh": "Codex Desktop 不断生成 Crashpad 待处理转储文件",
-          "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
-          "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
-          "summary": null,
-          "recommend_reason_zh": "这篇 HN 讨论指出 Codex Desktop 持续生成 Crashpad pending dumps，有用户称该 bug 吃掉 Mac 上 330GB 磁盘空间，评论区还分析 git worktrees 重复构建产物、swap 占用，并提到用 mole 清理出 80GB。",
-          "url": "https://news.ycombinator.com/item?id=50133231",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T17:45:08Z",
-          "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "Codex Desktop continuously generates Crashpad pending dumps, with one user reporting the bug consumed 330GB of Mac disk space while Hacker News commenters trace duplicate git worktree build artifacts, swap use, and an 80GB cleanup with mole."
-          }
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5278,
-      "importance": 0.5278,
-      "importance_score": 0.5278,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9001,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T17:45:08Z",
-      "latest_at": "2026-10-17T17:45:08Z",
-      "primary_item": {
-        "id": "e2e55f8176afb0338615148683031564635977cb",
-        "title": "Codex Desktop 不断生成 Crashpad 待处理转储文件 / Codex Desktop continuously generates Crashpad pending dumps",
-        "title_zh": "Codex Desktop 不断生成 Crashpad 待处理转储文件",
-        "title_en": "Codex Desktop continuously generates Crashpad pending dumps",
-        "title_original": "Codex Desktop continuously generates Crashpad pending dumps",
-        "summary": null,
-        "recommend_reason_zh": "Codex Desktop 在 Crashpad/pending 目录下持续生成 .dmp 与 _sidecar.json，一天内就堆到 4.9G、54,504 个文件。",
-        "url": "https://github.com/openai/codex/issues/25921",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "Codex Desktop keeps writing paired .dmp and _sidecar.json files to ~/Library/Application Support/com.openai.codex/web/Crashpad/pending, a directory that reached 4.9G and 54,504 files in one day."
-        }
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 48,
-      "persona_review": "用 Codex Desktop 的留意磁盘被转储文件撑满，目前只能手动清，没修复方案。",
-      "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
       }
     },
     {
       "story_id": "story_fff8882dd7b5",
-      "title": "DeepSeek-v4.1-Flash-1017小版本更新：推理编码性能提升、成本降低",
+      "title": "DeepSeek-v4.1-Flash-1017",
       "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "primary_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
       "source": "huggingface.co",
@@ -1591,45 +1291,35 @@
       "sources": [
         {
           "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
-          "title": "DeepSeek-v4.1-Flash-1017小版本更新：推理编码性能提升、成本降低",
-          "title_zh": "DeepSeek-v4.1-Flash-1017小版本更新：推理编码性能提升、成本降低",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
           "title_en": "DeepSeek-v4.1-Flash-1017",
           "title_original": "DeepSeek-v4.1-Flash-1017",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek-V4.1-Flash-1017 作为 DeepSeek-V4.1-Flash 小更新，称在推理、编码、agentic 任务和视觉基准上提升，缩短执行时间与输出长度，并配套 encoding.py 和 deepseek-recipe Rust 库，采用 MIT License。",
+          "recommend_reason_zh": null,
           "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "source": "huggingface.co",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-17T09:34:06.239000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek-V4.1-Flash-1017, a minor update to DeepSeek-V4.1-Flash, claims gains in reasoning, coding, agentic tasks and visual benchmarks while cutting task execution time and output length, shipping with encoding.py and the MIT-licensed deepseek-recipe Rust library."
-          }
+          "recency_basis": null
         },
         {
           "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
-          "title": "DeepSeek-v4.1-Flash-1017小幅更新，推理编码等能力显著提升",
-          "title_zh": "DeepSeek-v4.1-Flash-1017小幅更新，推理编码等能力显著提升",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
           "title_en": "DeepSeek-v4.1-Flash-1017",
           "title_original": "DeepSeek-v4.1-Flash-1017",
           "summary": null,
-          "recommend_reason_zh": "Hacker News讨论DeepSeek-v4.1-Flash-1017：它被称为DeepSeek-V4.1-Flash的minor update，却在reasoning、coding、agentic任务和视觉基准上有substantial提升，评论认为强于GLM 5.3、接近Opus 5，但本地运行成本高。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50129045",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-17T08:21:25Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek-V4.1-Flash-1017 is framed as a minor update to DeepSeek-V4.1-Flash yet promises substantial gains in reasoning, coding, agentic tasks and visual benchmarks, with Hacker News commenters calling it stronger than GLM 5.3, near Opus 5, and costly to run locally."
-          }
+          "recency_basis": null
         }
       ],
       "source_count": 2,
@@ -1640,58 +1330,48 @@
       "items": [
         {
           "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
-          "title": "DeepSeek-v4.1-Flash-1017小版本更新：推理编码性能提升、成本降低",
-          "title_zh": "DeepSeek-v4.1-Flash-1017小版本更新：推理编码性能提升、成本降低",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
           "title_en": "DeepSeek-v4.1-Flash-1017",
           "title_original": "DeepSeek-v4.1-Flash-1017",
           "summary": null,
-          "recommend_reason_zh": "DeepSeek-V4.1-Flash-1017 作为 DeepSeek-V4.1-Flash 小更新，称在推理、编码、agentic 任务和视觉基准上提升，缩短执行时间与输出长度，并配套 encoding.py 和 deepseek-recipe Rust 库，采用 MIT License。",
+          "recommend_reason_zh": null,
           "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
           "source": "huggingface.co",
           "source_name": "Buzzing",
           "site_id": "buzzing",
           "published_at": "2026-10-17T09:34:06.239000Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek-V4.1-Flash-1017, a minor update to DeepSeek-V4.1-Flash, claims gains in reasoning, coding, agentic tasks and visual benchmarks while cutting task execution time and output length, shipping with encoding.py and the MIT-licensed deepseek-recipe Rust library."
-          }
+          "recency_basis": null
         },
         {
           "id": "2f88eb6ba2a859fb2d4977026cc454933b0f6b0c",
-          "title": "DeepSeek-v4.1-Flash-1017小幅更新，推理编码等能力显著提升",
-          "title_zh": "DeepSeek-v4.1-Flash-1017小幅更新，推理编码等能力显著提升",
+          "title": "DeepSeek-v4.1-Flash-1017",
+          "title_zh": null,
           "title_en": "DeepSeek-v4.1-Flash-1017",
           "title_original": "DeepSeek-v4.1-Flash-1017",
           "summary": null,
-          "recommend_reason_zh": "Hacker News讨论DeepSeek-v4.1-Flash-1017：它被称为DeepSeek-V4.1-Flash的minor update，却在reasoning、coding、agentic任务和视觉基准上有substantial提升，评论认为强于GLM 5.3、接近Opus 5，但本地运行成本高。",
+          "recommend_reason_zh": null,
           "url": "https://news.ycombinator.com/item?id=50129045",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
           "published_at": "2026-10-17T08:21:25Z",
           "updated_at": null,
-          "recency_basis": null,
-          "en": {
-            "title": null,
-            "summary": null,
-            "reason": "DeepSeek-V4.1-Flash-1017 is framed as a minor update to DeepSeek-V4.1-Flash yet promises substantial gains in reasoning, coding, agentic tasks and visual benchmarks, with Hacker News commenters calling it stronger than GLM 5.3, near Opus 5, and costly to run locally."
-          }
+          "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5098,
-      "importance": 0.5098,
-      "importance_score": 0.5098,
+      "score": 0.4973,
+      "importance": 0.4973,
+      "importance_score": 0.4973,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7997,
+        "recency": 0.7304,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1702,28 +1382,21 @@
       "latest_at": "2026-10-17T09:34:06.239000Z",
       "primary_item": {
         "id": "fdd985b74ba4004073c334c587e8b13475b6d350",
-        "title": "DeepSeek-v4.1-Flash-1017小版本更新：推理编码性能提升、成本降低",
-        "title_zh": "DeepSeek-v4.1-Flash-1017小版本更新：推理编码性能提升、成本降低",
+        "title": "DeepSeek-v4.1-Flash-1017",
+        "title_zh": null,
         "title_en": "DeepSeek-v4.1-Flash-1017",
         "title_original": "DeepSeek-v4.1-Flash-1017",
         "summary": null,
-        "recommend_reason_zh": "DeepSeek-V4.1-Flash-1017 作为 DeepSeek-V4.1-Flash 小更新，称在推理、编码、agentic 任务和视觉基准上提升，缩短执行时间与输出长度，并配套 encoding.py 和 deepseek-recipe Rust 库，采用 MIT License。",
+        "recommend_reason_zh": null,
         "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
         "source": "huggingface.co",
-        "source_name": "Buzzing",
-        "en": {
-          "title": null,
-          "summary": null,
-          "reason": "DeepSeek-V4.1-Flash-1017, a minor update to DeepSeek-V4.1-Flash, claims gains in reasoning, coding, agentic tasks and visual benchmarks while cutting task execution time and output length, shipping with encoding.py and the MIT-licensed deepseek-recipe Rust library."
-        }
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 88,
-      "persona_review": "权重已放上HF，编码更强、单价更低，直接换API或本地拉下来跑基准就行。",
+      "persona_score": 0,
       "persona_meta": {
-        "mode": "llm",
-        "model": "deepseek-v4-flash",
-        "scored_at": "2026-10-18T01:08:08.772608Z"
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T07:20:16.564613Z"
       }
     }
   ]
