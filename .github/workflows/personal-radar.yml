@@ -95,6 +95,7 @@ jobs:
           git add data/
           if ! git diff --cached --quiet; then
             git commit -m 'chore: refresh personal AI and mathematics sources'
+            git pull --rebase origin master
             git push
           fi
       - name: Build public static files

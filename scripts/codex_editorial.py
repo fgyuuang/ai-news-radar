@@ -255,6 +255,7 @@ def main():
     state_dir = repo / ".local-codex"
     state_dir.mkdir(exist_ok=True)
     lock = (state_dir / "run.lock").open("a+b")
+    pushed_before_generation = False
     try:
         if os.name == "nt":
             import msvcrt
@@ -275,10 +276,11 @@ def main():
             if dirty:
                 if not args.publish:
                     raise ValueError("Unpublished results require --publish before syncing")
-                publish(repo)
+                pushed_before_generation = publish(repo)
             git(repo, "pull", "--rebase", "origin", "master")
             if args.publish and int(git(repo, "rev-list", "--count", "origin/master..HEAD")):
                 git(repo, "push", "origin", "HEAD:master")
+                pushed_before_generation = True
         selected = candidates(repo, args.max_ai, datetime.now(UTC))
         old = read(repo / OUTPUT, {"entries": []})
         cache = {entry["key"]: entry for entry in old["entries"]}
@@ -302,7 +304,7 @@ def main():
             (state_dir / "progress.json").write_text(json.dumps(list(cache.values()), ensure_ascii=False), encoding="utf-8")
         if pending or recovered or not (repo / OUTPUT).exists():
             save_public(repo, cache, [item["key"] for item in selected], args.model)
-        pushed = publish(repo) if args.publish else False
+        pushed = (publish(repo) or pushed_before_generation) if args.publish else False
         status = {"checked_at": datetime.now(UTC).isoformat(), "selected": len(selected),
                   "generated": len(pending), "cached": len(cache), "published": pushed, "model": args.model}
         (state_dir / "last-run.json").write_text(json.dumps(status, indent=2), encoding="utf-8")
