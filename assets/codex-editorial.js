@@ -14,10 +14,9 @@
   };
   function get(item) {
     if (!item) return null;
-    const entry = entries.get(item.url || item.primary_url);
-    if (!entry || entry.source_title !== (item.title_original || item.title || "")) return null;
-    const excerpt = clean(entry.domain === "math" ? item.excerpt : item.summary).slice(0, 1600);
-    return excerpt === entry.source_excerpt ? entry : null;
+    const versions = entries.get(item.url || item.primary_url) || [];
+    return versions.find(entry => entry.source_title === (item.title_original || item.title || "")
+      && clean(entry.domain === "math" ? item.excerpt : item.summary).slice(0, 1600) === entry.source_excerpt) || null;
   }
   function details(entry) {
     const panel = document.createElement("details");
@@ -65,7 +64,12 @@
       if (!response.ok) return;
       const payload = await response.json();
       if (payload.provider !== "codex-cli" || !Array.isArray(payload.entries)) return;
-      entries = new Map(payload.entries.map(entry => [entry.url, entry]));
+      const next = new Map();
+      for (const entry of [...payload.entries].sort((a, b) => String(b.generated_at).localeCompare(String(a.generated_at)))) {
+        if (!next.has(entry.url)) next.set(entry.url, []);
+        next.get(entry.url).push(entry);
+      }
+      entries = next;
       generatedAt = payload.generated_at;
       if (typeof rerenderCurrentView === "function") rerenderCurrentView();
       document.dispatchEvent(new CustomEvent("personalRadar:editorial"));
