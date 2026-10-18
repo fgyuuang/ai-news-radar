@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-10-18T22:01:47.831082Z",
+  "generated_at": "2026-10-18T22:31:51.234106Z",
   "window_hours": 24,
-  "total_items": 13,
+  "total_items": 12,
   "items": [
     {
       "story_id": "story_b5da960ac254",
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7644,
-      "importance": 0.7644,
-      "importance_score": 0.7644,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8825,
+        "recency": 0.8761,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -86,7 +86,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     },
     {
@@ -138,21 +138,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7507,
-      "importance": 0.7507,
-      "importance_score": 0.7507,
+      "score": 0.7495,
+      "importance": 0.7495,
+      "importance_score": 0.7495,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9563,
+        "recency": 0.9494,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-18T18:56:03Z",
       "latest_at": "2026-10-18T18:56:03Z",
@@ -172,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     },
     {
@@ -224,15 +223,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7558,
-      "importance": 0.7558,
-      "importance_score": 0.7558,
+      "score": 0.7547,
+      "importance": 0.7547,
+      "importance_score": 0.7547,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8513,
+        "recency": 0.8451,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -258,7 +257,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
+      }
+    },
+    {
+      "story_id": "story_c8053cb1d345",
+      "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+      "primary_url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
+          "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "title_zh": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。",
+          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "summary": "Ask anything. Then play it, Duolingo-style.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-17T10:14:13Z",
+          "updated_at": "2026-10-18T22:31:45Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
+          "title": "Tomo for ChatGPT",
+          "title_zh": null,
+          "title_en": "Tomo for ChatGPT",
+          "title_original": "Tomo for ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T09:20:05.051000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
+          "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "title_zh": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。",
+          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+          "summary": "Ask anything. Then play it, Duolingo-style.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-17T10:14:13Z",
+          "updated_at": "2026-10-18T22:31:45Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
+          "title": "Tomo for ChatGPT",
+          "title_zh": null,
+          "title_en": "Tomo for ChatGPT",
+          "title_original": "Tomo for ChatGPT",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-18T09:20:05.051000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-18T09:20:05.051000Z",
+      "latest_at": "2026-10-18T22:31:45Z",
+      "primary_item": {
+        "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
+        "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+        "title_zh": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。",
+        "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+        "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
+        "summary": "Ask anything. Then play it, Duolingo-style.",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     },
     {
@@ -409,15 +526,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5939,
-      "importance": 0.5939,
-      "importance_score": 0.5939,
+      "score": 0.5926,
+      "importance": 0.5926,
+      "importance_score": 0.5926,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9893,
+        "recency": 0.9822,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -442,125 +559,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
-      }
-    },
-    {
-      "story_id": "story_c8053cb1d345",
-      "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-      "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "primary_url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-          "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_zh": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。",
-          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "summary": "Ask anything. Then play it, Duolingo-style.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-18T21:33:56Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
-          "title": "Tomo for ChatGPT",
-          "title_zh": null,
-          "title_en": "Tomo for ChatGPT",
-          "title_original": "Tomo for ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T09:20:05.051000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-          "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_zh": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。",
-          "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-          "summary": "Ask anything. Then play it, Duolingo-style.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-18T21:33:56Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "f897660585fe1f381cd1d1916ce99e44b54d9d71",
-          "title": "Tomo for ChatGPT",
-          "title_zh": null,
-          "title_en": "Tomo for ChatGPT",
-          "title_original": "Tomo for ChatGPT",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-18T09:20:05.051000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9933,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-18T09:20:05.051000Z",
-      "latest_at": "2026-10-18T21:33:56Z",
-      "primary_item": {
-        "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
-        "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "title_zh": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。",
-        "title_en": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "title_original": "Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
-        "summary": "Ask anything. Then play it, Duolingo-style.",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     },
     {
@@ -645,15 +644,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5714,
-      "importance": 0.5714,
-      "importance_score": 0.5714,
+      "score": 0.5702,
+      "importance": 0.5702,
+      "importance_score": 0.5702,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8732,
+        "recency": 0.8669,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -678,7 +677,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     },
     {
@@ -796,15 +795,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9893,
+        "recency": 0.9822,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -829,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     },
     {
@@ -947,15 +946,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5689,
-      "importance": 0.5689,
-      "importance_score": 0.5689,
+      "score": 0.5676,
+      "importance": 0.5676,
+      "importance_score": 0.5676,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9893,
+        "recency": 0.9822,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -980,7 +979,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     },
     {
@@ -1065,15 +1064,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5426,
-      "importance": 0.5426,
-      "importance_score": 0.5426,
+      "score": 0.5414,
+      "importance": 0.5414,
+      "importance_score": 0.5414,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9825,
+        "recency": 0.9754,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1098,7 +1097,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     },
     {
@@ -1216,15 +1215,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.824,
+        "recency": 0.818,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1249,7 +1248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     },
     {
@@ -1367,15 +1366,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5391,
-      "importance": 0.5391,
-      "importance_score": 0.5391,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.824,
+        "recency": 0.818,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1400,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     },
     {
@@ -1485,15 +1484,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5224,
-      "importance": 0.5224,
-      "importance_score": 0.5224,
+      "score": 0.5213,
+      "importance": 0.5213,
+      "importance_score": 0.5213,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.87,
+        "recency": 0.8637,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1518,125 +1517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
-      }
-    },
-    {
-      "story_id": "story_35223e28a035",
-      "title": "我构建了一种LLM无法使用的编程语言 / I built a programming language that LLMs can't use",
-      "url": "https://blog.picheta.me/post/killswitch-lang",
-      "primary_url": "https://blog.picheta.me/post/killswitch-lang",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "1ae3351eef1ec6d6eff274adbfeb2f665f05e5d7",
-          "title": "我构建了一种LLM无法使用的编程语言 / I built a programming language that LLMs can't use",
-          "title_zh": "我构建了一种LLM无法使用的编程语言",
-          "title_en": "I built a programming language that LLMs can't use",
-          "title_original": "I built a programming language that LLMs can't use",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.picheta.me/post/killswitch-lang",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T22:26:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cd8e094fb75a704621d39ff1a224a4530d7611ce",
-          "title": "我构建了一种LLM无法使用的编程语言 / I built a programming language that LLMs can't use",
-          "title_zh": "我构建了一种LLM无法使用的编程语言",
-          "title_en": "I built a programming language that LLMs can't use",
-          "title_original": "I built a programming language that LLMs can't use",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50135762",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T22:26:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1ae3351eef1ec6d6eff274adbfeb2f665f05e5d7",
-          "title": "我构建了一种LLM无法使用的编程语言 / I built a programming language that LLMs can't use",
-          "title_zh": "我构建了一种LLM无法使用的编程语言",
-          "title_en": "I built a programming language that LLMs can't use",
-          "title_original": "I built a programming language that LLMs can't use",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://blog.picheta.me/post/killswitch-lang",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-17T22:26:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cd8e094fb75a704621d39ff1a224a4530d7611ce",
-          "title": "我构建了一种LLM无法使用的编程语言 / I built a programming language that LLMs can't use",
-          "title_zh": "我构建了一种LLM无法使用的编程语言",
-          "title_en": "I built a programming language that LLMs can't use",
-          "title_original": "I built a programming language that LLMs can't use",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50135762",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-17T22:26:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4938,
-      "importance": 0.4938,
-      "importance_score": 0.4938,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7114,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-17T22:26:47Z",
-      "latest_at": "2026-10-17T22:26:47Z",
-      "primary_item": {
-        "id": "1ae3351eef1ec6d6eff274adbfeb2f665f05e5d7",
-        "title": "我构建了一种LLM无法使用的编程语言 / I built a programming language that LLMs can't use",
-        "title_zh": "我构建了一种LLM无法使用的编程语言",
-        "title_en": "I built a programming language that LLMs can't use",
-        "title_original": "I built a programming language that LLMs can't use",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://blog.picheta.me/post/killswitch-lang",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-18T22:03:12.424714Z"
+        "scored_at": "2026-10-18T22:33:15.242700Z"
       }
     }
   ]
