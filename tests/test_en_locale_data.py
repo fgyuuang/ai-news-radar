@@ -507,11 +507,11 @@ BRIEF = {
 # Captured from the pre-change generate_feed.py for BRIEF (zh output must stay byte-identical).
 ZH_FEED_GOLDEN = (
     '<?xml version="1.0" encoding="UTF-8"?>\n<rss version="2.0">\n<channel>\n<title>AI 更新雷达 · 每日精选</title>\n'
-    "<link>https://news.learnprompt.pro</link>\n"
+    "<link>https://fgyuuang.github.io/ai-news-radar</link>\n"
     "<description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>\n"
     "<language>zh-cn</language>\n<lastBuildDate>Tue, 13 Oct 2026 01:00:00 +0000</lastBuildDate>\n"
     '<atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" '
-    'href="https://news.learnprompt.pro/data/feed.xml"/>\n'
+    'href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>\n'
     "<item>\n<title>OpenAI 发布新模型 / OpenAI ships a new model</title>\n<link>https://example.com/a</link>\n"
     '<guid isPermaLink="true">https://example.com/a</guid>\n<description>这篇讲了新模型。（OpenAI Blog）</description>\n'
     "<category>官方更新</category>\n<pubDate>Tue, 13 Oct 2026 00:30:00 +0000</pubDate>\n</item>\n"
@@ -555,7 +555,7 @@ def test_en_feed_content(tmp_path, monkeypatch):
     assert "<title>AI News Radar</title>" in xml
     assert "<language>en</language>" in xml
     assert "<language>zh-cn</language>" not in xml
-    assert 'href="https://news.learnprompt.pro/en/feed.xml"' in xml
+    assert 'href="https://fgyuuang.github.io/ai-news-radar/en/feed.xml"' in xml
     # item a: en.reason wins; title falls back to title_en; category mapped; source in ASCII parens
     assert "<title>OpenAI ships a new model</title>" in xml
     assert "<description>OpenAI ships a model with details. (OpenAI Blog)</description>" in xml

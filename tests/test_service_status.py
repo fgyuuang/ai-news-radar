@@ -102,7 +102,7 @@ def test_invalid_api_response_is_not_reported_as_healthy():
 
 def test_both_pages_load_existing_shared_assets_and_preserve_domain():
     root = Path(__file__).resolve().parents[1]
-    for name, prefix in (("index.html", "./"), ("classic/index.html", "../")):
+    for name, prefix in (("index.html", "./"), ("classic/index.html", "./")):
         source = (root / name).read_text()
         assert source.count('id="serviceStatusPanel"') == 1
         assert f'{prefix}assets/service-status.js?v=20260909' in source
