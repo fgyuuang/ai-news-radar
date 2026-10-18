@@ -143,7 +143,8 @@ def validate(payload, expected):
         for field, limit in (("title_zh", 220), ("summary_zh", 1800), ("recommend_reason_zh", 300),
                              ("pragmatic_review", 200), ("cynic_review", 200), ("paper_review", 200)):
             value = entry.get(field)
-            if not isinstance(value, str) or not value.strip() or len(value) > limit or not re.search(r"[\u4e00-\u9fff]", value):
+            if (not isinstance(value, str) or not value.strip() or len(value) > limit
+                    or (field != "title_zh" and not re.search(r"[\u4e00-\u9fff]", value))):
                 raise ValueError(f"Invalid editorial field: {field}")
             if re.search(r"Traceback|HTTPError|powershell\.exe|<script|sk-proj-", value, re.I):
                 raise ValueError("Internal diagnostics in editorial output")

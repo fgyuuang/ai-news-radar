@@ -1,4 +1,3 @@
-import copy
 import json
 from datetime import datetime, timezone
 from pathlib import Path
@@ -50,6 +49,11 @@ def test_bad_editorial_output_is_rejected(field, value):
 def test_changed_source_has_a_different_cache_key():
     original = article()
     assert editorial.source_key({**original, "source_excerpt": "Revised evidence"}) != original["key"]
+
+
+def test_proper_model_name_may_remain_in_latin_letters():
+    entry = {**result(), "title_zh": "DeepSeek V4.1 Flash 1017"}
+    assert editorial.validate({"entries": [entry]}, [article()])[0]["title_zh"] == entry["title_zh"]
 
 
 def test_unknown_and_stale_dates_are_not_recent_math(tmp_path):
