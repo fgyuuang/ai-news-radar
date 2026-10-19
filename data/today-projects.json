@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T03:03:12.755992Z",
+  "generated_at": "2026-10-19T12:39:24.511850Z",
   "date": "2026-10-19",
   "total_items": 4,
   "items": [
@@ -15,49 +15,49 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-19T03:01:57.131620Z"
+      "observed_at": "2026-10-19T12:38:06.770481Z"
     },
     {
-      "id": "project_ca5fa81dade8",
-      "project_name": "Gravity Notes",
-      "url": "https://www.producthunt.com/products/gravity-notes-for-mac",
-      "summary": "One list of notes, for you and your AI agents",
+      "id": "project_83310439724a",
+      "project_name": "Starkomand",
+      "url": "https://www.producthunt.com/products/starkomand",
+      "summary": "Run your AI coding agents on an infinite canvas.",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「One list of notes, for you and your AI agents」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"One list of notes, for you and your AI agents\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-10T18:10:51Z",
-      "updated_at": "2026-10-19T03:02:28Z",
+      "recommend_reason_zh": "体验它主打的「Run your AI coding agents on an infinite canvas」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Run your AI coding agents on an infinite canvas\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-17T07:14:53Z",
+      "updated_at": "2026-10-19T12:32:12Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-19T03:02:57.619683Z"
+      "observed_at": "2026-10-19T12:39:15.214798Z"
     },
     {
-      "id": "project_3de13b42e404",
-      "project_name": "anthropics/claude-plugins-official",
-      "url": "https://github.com/anthropics/claude-plugins-official",
-      "summary": "Official, Anthropic-managed directory of high quality Claude Code Plugins.",
+      "id": "project_9b780e5528de",
+      "project_name": "akitaonrails/ai-memory",
+      "url": "https://github.com/akitaonrails/ai-memory",
+      "summary": "Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "anthropics/claude-plugins-official 是 Anthropic 官方维护的 Claude Code 插件目录，收录高质量插件，方便你按需查找并挑选扩展。",
-      "recommend_reason_en": "anthropics/claude-plugins-official is an official, Anthropic-managed directory of high quality Claude Code plugins, making it worth opening as a starting point when you want plugins that Anthropic itself curates.",
+      "recommend_reason_zh": "看看这个开源项目的「Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Solution for long term memory for agent coding CLIs and to facilitate handoff between different agent vendors\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-19T03:01:57.131620Z"
+      "observed_at": "2026-10-19T12:38:06.770481Z"
     },
     {
-      "id": "project_0c7f31acfec9",
-      "project_name": "MyLens",
-      "url": "https://www.producthunt.com/products/mylens-ai",
-      "summary": "1-1 Live Presentations at Scale with AI.",
+      "id": "project_259adef60b81",
+      "project_name": "walkai-talkai",
+      "url": "https://www.producthunt.com/products/walkai-talkai",
+      "summary": "Talk to your AI coding agent over a walkie-talkie",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「1-1 Live Presentations at Scale with AI」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"1-1 Live Presentations at Scale with AI\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-16T21:46:17Z",
-      "updated_at": "2026-10-19T03:02:27Z",
+      "recommend_reason_zh": "体验它主打的「Talk to your AI coding agent over a walkie-talkie」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Talk to your AI coding agent over a walkie-talkie\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-17T21:25:08Z",
+      "updated_at": "2026-10-19T12:30:59Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-19T03:02:57.619683Z"
+      "observed_at": "2026-10-19T12:39:15.214798Z"
     }
   ],
   "sources": [
@@ -65,16 +65,16 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 13,
-      "duration_ms": 2015,
+      "item_count": 12,
+      "duration_ms": 1975,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 50,
-      "duration_ms": 583,
+      "item_count": 49,
+      "duration_ms": 880,
       "error": null
     }
   ]
