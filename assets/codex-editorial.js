@@ -15,7 +15,7 @@
   function get(item) {
     if (!item) return null;
     const versions = entries.get(item.url || item.primary_url) || [];
-    return versions.find(entry => entry.source_title === (item.title_original || item.title || "")
+    return versions.find(entry => entry.source_title === (item.title_original || item.title || item.project_name || "")
       && clean(entry.domain === "math" ? item.excerpt : item.summary).slice(0, 1600) === entry.source_excerpt) || null;
   }
   function details(entry) {

@@ -9,6 +9,7 @@ on:
       - 'classic/**'
       - 'index.html'
       - 'feeds/math-sources.json'
+      - 'feeds/project-radar.json'
       - 'scripts/**'
       - 'data/**'
       - '.github/workflows/personal-radar.yml'
@@ -83,6 +84,11 @@ jobs:
         run: |
           python scripts/persona_score.py --data-dir data
           python scripts/generate_feed.py --data-dir data
+      - name: Collect public project leaderboards
+        id: projects
+        if: github.event_name == 'workflow_dispatch'
+        continue-on-error: true
+        run: python scripts/project_radar.py --output-dir data
       - name: Save generated public data
         if: github.event_name == 'workflow_dispatch'
         run: |
@@ -104,7 +110,7 @@ jobs:
         id: deploy
         uses: actions/deploy-pages@v4
       - name: Report partial collection failures
-        if: steps.ai.outcome == 'failure' || steps.math.outcome == 'failure'
+        if: steps.ai.outcome == 'failure' || steps.math.outcome == 'failure' || steps.projects.outcome == 'failure'
         run: |
           echo 'A source pipeline failed. The site retains available articles; inspect source timestamps and this run.' >> "$GITHUB_STEP_SUMMARY"
           exit 1

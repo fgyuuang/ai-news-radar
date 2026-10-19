@@ -21,6 +21,8 @@ Windows 的 `Personal Radar Source Collection` 每 30 分钟采集，禁止在�
 
 3. 每条提供准确中文标题、2–3 句具体摘要、具体阅读价值，以及三种 persona 的 0–100 评分和一句点评。
    AI 资讯说明发布了什么、能做什么、限制和证据；开源项目说明功能、使用场景和仓库材料支持的局限；
+   开源候选含 GitHub、GitLab、Codeberg、Hugging Face 与 npm，覆盖数学、科研、Skills、Agent 和插件。
+   查看 topics 与 platform；Hugging Face 模型/数据集不自动视为开源软件，许可与访问条件以原站为准。
    数学说明问题、方法、结论和必要背景，区分已证明结论、作者观点、实验成绩与提案。
    优先用 context 正文；只有来源摘录时明确材料有限，不补造事实。
    若 changes 标记 updated，仅说明来源标题或摘录有变化，不声称独立核实了新进展。
@@ -50,3 +52,6 @@ Windows 的 `Personal Radar Source Collection` 每 30 分钟采集，禁止在�
 默认每天最多精选 30 条 AI、10 个开源项目，数学覆盖窗口内未处理的全部文章；
 超出限额的内容保留在本机观察记录供后续筛选。配置见 `feeds/daily-digest.json`，0 表示不限。
 没有新内容也发送涵盖三类的“今日暂无新增或内容变化”简报。记录来源标题/摘录变化，不把热度变化当实质进展。
+日报另附 prepare 冻结的 project_rankings（日、周、月及社区当前快照），由脚本按原始计数生成，
+热度变化不消耗重复 AI 编辑。不补造历史升星，不把点赞、下载量或累计 Star 当成新增 Star。
+来源、排名口径与自定义关注领域配置见 `docs/PROJECT_RADAR.md`、`feeds/project-radar.json`。

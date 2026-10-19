@@ -68,10 +68,24 @@ def source_key(item):
 
 
 def candidates(repo, max_ai, now, max_projects=0):
+    from project_radar import editorial_items
     math = read(repo / "data/math-news.json", {"items": []})
     news = read(repo / "data/latest-24h.json", {"items": []})
     brief = read(repo / "data/daily-brief.json", {"items": []})
-    projects = read(repo / "data/today-projects.json", {"items": []}).get("items", [])[:max_projects]
+    radar = read(repo / "data/project-radar.json", {})
+    fresh_radar = []
+    for item in editorial_items(radar):
+        try:
+            observed = datetime.fromisoformat(item["observed_at"].replace("Z", "+00:00"))
+            if now - timedelta(hours=72) <= observed <= now:
+                fresh_radar.append(item)
+        except (ValueError, KeyError, TypeError):
+            continue
+    pool = fresh_radar + read(repo / "data/today-projects.json", {"items": []}).get("items", [])
+    project_pool = {}
+    for item in pool:
+        project_pool.setdefault(item["url"], item)
+    projects = list(project_pool.values())[:max_projects]
     priority_urls = [item.get("primary_url") or item.get("url") for item in brief.get("items", [])]
     priority = {url: rank for rank, url in enumerate(priority_urls)}
     ai = sorted(news.get("items_ai") or news.get("items", []),
@@ -101,6 +115,9 @@ def candidates(repo, max_ai, now, max_projects=0):
                       "published_at": item.get("published_at"),
                       "observed_at": item.get("observed_at"),
                       "recency_basis": item.get("recency_basis")}
+            if domain == "project":
+                record["platform"] = item.get("platform")
+                record["topics"] = item.get("topics", [])
             record["key"] = source_key(record)
             result.append(record)
     return result

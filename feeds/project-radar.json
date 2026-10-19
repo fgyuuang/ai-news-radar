@@ -1,0 +1,16 @@
+{
+  "max_per_source": 60,
+  "search_terms": ["agent", "mathematics", "scientific", "mcp", "llm"],
+  "github_queries": ["topic:ai-for-science", "topic:theorem-proving", "topic:agent-skills"],
+  "npm_queries": ["keywords:mcp", "keywords:agent", "keywords:claude-code", "keywords:scientific"],
+  "topics": {
+    "ai": "\\b(?:ai|llms?|gpt|machine[ -]learning|deep[ -]learning|neural|transformers?|diffusion|inference|rag|text-generation|image-text-to-text)\\b|人工智能|大模型",
+    "math": "\\b(?:math(?:ematics|ematical)?|theorem|proof|lean4?|isabelle|coq|algebra|geometry|symbolic|numerical)\\b|数学|定理|证明",
+    "research": "\\b(?:research|scientific|science|arxiv|benchmark|evaluation|physics|biology|chemistry|bioinformatics|simulation|dataset)\\b|科研|科学|论文|评测",
+    "skills": "\\b(?:skills?|claude-code|codex|copilot)\\b|技能",
+    "agents": "\\b(?:agents?|agentic|multi-agent|orchestrat\\w*|langgraph|autogen|crewai|llamaindex)\\b|智能体",
+    "plugins": "\\b(?:plugins?|mcp|model context protocol|extensions?|tool-calling)\\b|插件"
+  },
+  "exclude_patterns": ["\\buser-agent(?:s| switcher)?\\b", "\\bagent-base\\b|\\b(?:https?|socks|proxy)[- .]agents?\\b|\\bagentkeepalive\\b", "\\buncensored\\b", "\\bnsfw\\b"],
+  "platforms": {"github": true, "gitlab": true, "codeberg": true, "huggingface": true, "npm": true}
+}

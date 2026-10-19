@@ -62,3 +62,20 @@ def test_unknown_and_stale_dates_are_not_recent_math(tmp_path):
     items = [{**article(), "published_at": date} for date in (None, "bad", "2026-01-01T00:00:00", "2026-01-01T00:00:00Z")]
     (data / "math-news.json").write_text(json.dumps({"items": items}), encoding="utf-8")
     assert editorial.candidates(tmp_path, 0, datetime(2026, 10, 18, tzinfo=timezone.utc)) == []
+
+
+def test_radar_projects_enter_editorial_but_counter_changes_reuse_cache(tmp_path):
+    data = tmp_path / "data"
+    data.mkdir()
+    item = {"url": "https://codeberg.org/team/math", "project_name": "team/math", "platform": "codeberg",
+            "site_name": "Codeberg", "summary": "Scientific theorem proving", "topics": ["math", "research"],
+            "total_stars": 100, "observed_at": "2026-10-19T00:00:00Z"}
+    path = data / "project-radar.json"
+    path.write_text(json.dumps({"items": [item]}), encoding="utf-8")
+    before = editorial.candidates(tmp_path, 0, datetime(2026, 10, 19, 2, tzinfo=timezone.utc), 10)[0]
+    item["total_stars"] = 120
+    path.write_text(json.dumps({"items": [item]}), encoding="utf-8")
+    after = editorial.candidates(tmp_path, 0, datetime(2026, 10, 19, 3, tzinfo=timezone.utc), 10)[0]
+    assert before["key"] == after["key"]
+    assert before["domain"] == "project" and before["topics"] == ["math", "research"]
+    assert editorial.candidates(tmp_path, 0, datetime(2026, 10, 25, tzinfo=timezone.utc), 10) == []

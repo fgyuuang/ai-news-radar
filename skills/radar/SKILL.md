@@ -32,6 +32,7 @@ BASE_URL=https://fgyuuang.github.io/ai-news-radar/data
 | `top3-personas.json` | ~4KB | 每日TOP3的三种口味点评并排 | 用户要"毒舌一点/换个口味/三种口味对比" |
 | `stories-merged.json` | ~1.4MB | 多源合并后的故事线（importance分层） | 用户问"今天的大事/故事线"，先查新鲜度 |
 | `source-status.json` | ~8KB | 每个信源的健康状态、抓取量、耗时 | 用户问"信源健康/哪些源有料" |
+| `project-radar.json` | ~1MB | 个人跨平台开源与社区日/周/月榜、主题及指标 | 升星榜、Skills、Agent 架构、MCP、数学科研项目；先读 `docs/PROJECT_RADAR.md` 口径 |
 | `latest-24h-all.json` | ~12MB | 含非AI的全量条目 | 仅用户明确说"全部/包括非AI"才拉，**先提醒体积** |
 | `archive.json` | ~56MB | 全部历史存档 | **默认禁止**。确需历史数据时先告知体积并征得同意 |
 
@@ -59,6 +60,7 @@ python3 -c "import json;d=json.load(open('/tmp/radar-brief.json'));print(d['gene
 | "毒舌一点"、"锐评"、"换个口味"、"三种口味对比" | `top3-personas.json`——TOP3 三种口味并排 |
 | "今天的大事"、"故事线"、"有什么值得关注的事件" | `stories-merged.json`（新鲜度通过时）按 `importance_score` 取头部 |
 | "哪些信源健康/有料"、"源状态" | `source-status.json` |
+| "开源升星日榜/周榜/月榜"、"数学科研项目"、"Skills/Agent/MCP/插件热榜" | `project-radar.json`，筛选 boards.period 和 items.topics；区分 platform_window、observed_growth、current_snapshot，检查 stale；累计 Star、点赞、下载量不可混称升星 |
 | "全部动态/包括非AI的" | `latest-24h-all.json`（先提醒 ~12MB） |
 | "上周/上个月的AI新闻" | 如实说明：公开数据滚动窗口为24小时，历史需 `archive.json`（56MB），先征得同意再拉 |
 

@@ -16,6 +16,7 @@ from concurrent.futures import ThreadPoolExecutor
 from datetime import datetime, timedelta, timezone
 
 import codex_editorial as editorial
+import project_radar
 
 ROOT = Path(__file__).resolve().parents[1]
 SHANGHAI = timezone(timedelta(hours=8))
@@ -68,6 +69,7 @@ def collect(repo, reports):
     steps = [
         ["update_news.py", "--output-dir", "data", "--window-hours", "24", "--archive-days", "21", "--rss-opml", str(opml)],
         ["update_math.py", "--output-dir", "data"],
+        ["project_radar.py", "--output-dir", "data"],
         ["persona_score.py", "--data-dir", "data"],
         ["generate_feed.py", "--data-dir", "data"],
     ]
@@ -77,7 +79,7 @@ def collect(repo, reports):
             continue
         try:
             print(f"Collecting with {step[0]} (model credentials disabled).", flush=True)
-            timeout = 1200 if step[0] == "update_news.py" else 240 if step[0] == "update_math.py" else 120
+            timeout = 1200 if step[0] == "update_news.py" else 300 if step[0] in {"update_math.py", "project_radar.py"} else 120
             result = subprocess.run([sys.executable, "-X", "utf8", str(ROOT / "scripts" / step[0]), *step[1:]],
                                     cwd=repo, env=environment, timeout=timeout, check=False)
             outcomes[step[0]] = result.returncode
@@ -107,7 +109,7 @@ def collect(repo, reports):
     status = {"checked_at": timestamp, "outcomes": outcomes, "observed": len(history), "model_calls": 0}
     write(reports / "collection-status.json", status)
     print(json.dumps(status))
-    return 0 if outcomes.get("update_news.py") == outcomes.get("update_math.py") == 0 else 1
+    return 0 if all(outcomes.get(step) == 0 for step in ("update_news.py", "update_math.py", "project_radar.py")) else 1
 
 
 def delivery_status(receipt):
@@ -160,8 +162,9 @@ def prepare(repo, reports, day):
               "selected": selected, "pending": pending,
               "cached": [cache[item["key"]] for item in selected if item["key"] in cache],
               "changes": {item["url"]: "updated" if item["url"] in previous else "new" for item in selected},
+              "project_rankings": ranking_digest(read(repo / "data/project-radar.json", {})),
               "source_generated_at": {name: read(repo / "data" / name, {}).get("generated_at")
-                                      for name in ("latest-24h.json", "math-news.json", "today-projects.json")},
+                                      for name in ("latest-24h.json", "math-news.json", "today-projects.json", "project-radar.json")},
               "deferred": {domain: max(0, len(items) - (config["max_per_day"].get(domain) or len(items)))
                            for domain, items in grouped.items()}}
     write(day / "bundle.json", bundle)
@@ -170,6 +173,23 @@ def prepare(repo, reports, day):
     print(json.dumps({"bundle": str(day / "bundle.json"), "result": str(day / "model-result.json"),
                       "pending": len(pending), "selected": len(selected), "stop": False}, ensure_ascii=False))
     return 0
+
+
+def ranking_digest(payload):
+    projects = {p["url"]: p for p in payload.get("items", [])}
+    result = []
+    for board in payload.get("boards", []):
+        if board.get("stale") or (board["basis"] == "observed_growth" and board["platform"] == "github"):
+            continue
+        # All windows for GitHub/npm; other platforms' identical current
+        # snapshots are listed only once until real weekly/monthly growth exists.
+        if board["period"] != "daily" and board["basis"] == "current_snapshot":
+            continue
+        rows = [{**row, "project_name": projects[row["url"]]["project_name"]}
+                for row in board["entries"][:2] if row["url"] in projects]
+        if rows:
+            result.append({key: board[key] for key in ("platform", "period", "basis", "label", "metric", "generated_at")} | {"entries": rows})
+    return result
 
 
 def render(bundle, entries):
@@ -192,6 +212,19 @@ def render(bundle, entries):
         deferred = bundle["deferred"].get(domain, 0)
         if deferred:
             lines.extend([f"另有 {deferred} 条待筛选，保留在采集记录中。", ""])
+    if bundle.get("project_rankings"):
+        lines.extend(["开源与社区热度追踪（日 / 周 / 月）", "",
+                      "以下为主题筛选样本；热度变化不代表代码更新或质量认证。"])
+        periods = {"daily": "日", "weekly": "周", "monthly": "月"}
+        units = {"stars": "Star", "likes": "点赞", "downloads": "次下载", "total_stars": "累计 Star", "trending_score": "趋势分"}
+        for board in bundle["project_rankings"]:
+            current = board["basis"] == "current_snapshot"
+            window = "当前快照，等待对应历史" if current else periods[board["period"]] + "榜"
+            lines.append(f"{project_radar.NAMES[board['platform']]} · {window} · {board['label']}")
+            for row in board["entries"]:
+                actual = f"（{row['from']} 至 {row['to']}）" if row.get("from") else ""
+                lines.extend([f"  {row['project_name']}：{row['value']:,} {units[board['metric']]}{actual}", row["url"]])
+        lines.append("")
     lines.extend(["完整雷达：https://fgyuuang.github.io/ai-news-radar/",
                   "仅比较来源标题和摘录；未变化条目不重复推送。"])
     return "\n".join(lines) + "\n"

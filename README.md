@@ -2,6 +2,9 @@
 
 每 30 分钟独立采集，支持数学 72 小时阅读、来源与关键词筛选。以下保留上游项目说明。
 
+个人开源热榜：GitHub、GitLab、Codeberg、Hugging Face、npm，支持日 / 周 / 月及数学、科研、Skills、Agent、插件筛选。
+配置和排名口径见 [开源与社区热榜](docs/PROJECT_RADAR.md)。
+
 <div align="center">
 
 # AI News Radar

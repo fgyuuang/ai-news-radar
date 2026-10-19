@@ -78,6 +78,19 @@ def test_digest_has_all_three_sections_and_no_fake_publication_date():
     assert entry["url"] in rendered
 
 
+def test_daily_digest_includes_rankings_separately_from_substantive_updates():
+    url = "https://gitlab.com/team/math"
+    payload = {"items": [{"url": url, "project_name": "team/math"}], "boards": [
+        {"platform": "gitlab", "period": period, "basis": "current_snapshot", "metric": "total_stars",
+         "label": "累计 Star", "generated_at": "2026-10-19T00:00:00Z", "entries": [{"url": url, "value": 100}]}
+        for period in ("daily", "weekly", "monthly")]}
+    overview = daily.ranking_digest(payload)
+    assert len(overview) == 1
+    rendered = daily.render(dict(date="2026-10-19", selected=[], changes={}, deferred={}, project_rankings=overview), [])
+    assert "等待对应历史" in rendered and "100 累计 Star" in rendered
+    assert "今日暂无新增或内容变化" in rendered
+
+
 def test_missing_model_result_rejected_before_publication_or_delivery(tmp_path, monkeypatch):
     day = tmp_path / "2026-10-18"
     store(day / "bundle.json", {"date": daily.now().date().isoformat(), "pending": [item()], "selected": [item()]})
@@ -137,7 +150,7 @@ def test_collection_processes_have_no_model_credentials_and_keep_categories(tmp_
         return SimpleNamespace(returncode=0)
     monkeypatch.setattr(daily.subprocess, "run", fake_run)
     assert daily.collect(tmp_path / "repo", tmp_path / "reports") == 0
-    assert len(checked) == 4
+    assert len(checked) == 5
     history = daily.read(tmp_path / "reports/observed.json")
     assert {entry["domain"] for entry in history.values()} == set(daily.LABELS)
 

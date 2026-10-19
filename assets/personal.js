@@ -28,7 +28,7 @@
   channelSwitch.setAttribute("role", "group");
   channelSwitch.setAttribute("aria-label", "资讯频道切换");
   const buttons = {};
-  for (const [id, name] of [["ai", "AI 资讯"], ["math", "数学 · AI for Math"]]) {
+  for (const [id, name] of [["ai", "AI 资讯"], ["project", "开源 · 热榜"], ["math", "数学 · AI for Math"]]) {
     const button = node("button", name, "mode-btn");
     button.type = "button";
     button.addEventListener("click", () => { preferences.channel = id; save(); renderChannel(); });
@@ -86,11 +86,12 @@
   channels.after(reader);
 
   function renderChannel() {
-    const selected = preferences.channel === "math" ? "math" : "ai";
+    const selected = ["math", "project"].includes(preferences.channel) ? preferences.channel : "ai";
     document.body.dataset.informationChannel = selected;
     for (const [id, button] of Object.entries(buttons)) button.setAttribute("aria-pressed", String(id === selected));
     for (const [id, button] of Object.entries(buttons)) button.classList.toggle("active", id === selected);
     reader.hidden = selected !== "math";
+    document.dispatchEvent(new CustomEvent("personalRadar:channel"));
   }
   function renderSources() {
     source.replaceChildren(); picks.replaceChildren();
@@ -196,12 +197,13 @@
       }
     })());
     if (window.PersonalCodexEditorial) tasks.push(window.PersonalCodexEditorial.refresh());
+    if (window.PersonalProjectRadar) tasks.push(window.PersonalProjectRadar.refresh());
     const results = await Promise.allSettled(tasks);
     if (results[0].status === "rejected") {
       failed = true;
       status.textContent = math ? "数学更新暂不可用，正在显示上次成功加载的内容。" : "数学数据暂不可用，请稍后检查更新。";
     }
-    if (results[1].status === "rejected") failed = true;
+    if (results.some(result => result.status === "rejected")) failed = true;
     refreshNote.textContent = `${failed ? "部分更新暂不可用" : "已检查"} ${date(new Date().toISOString())} · 每 5 分钟自动检查`;
     refresh.disabled = false; refreshing = false;
   }

@@ -8,6 +8,14 @@ Mathematics is retained independently from the AI relevance filter. See
 This project should help ordinary AI enthusiasts scan high-signal updates
 without forcing them to follow noisy timelines or manage many source choices.
 
+Personal project discovery also uses GitHub Trending daily/weekly/monthly,
+GitHub topic search, GitLab and Codeberg public project search, Hugging Face
+Models/Datasets/Spaces, and npm search/download APIs. They live in the separate
+`project-radar.json` channel, preserving the original four-card project selection.
+Native window stars, observed counter changes and downloads are separate metrics;
+no historical growth is invented before the baseline exists. See
+`PROJECT_RADAR.md` for sample coverage, history retention and failure semantics.
+
 ## Product Model
 
 Use a two-layer model:

@@ -11,6 +11,7 @@ PUBLIC_DATA = (
     "service-status.json", "waytoagi-7d.json", "today-projects.json",
     "feed.xml", "feed-en.xml", "math-news.json", "math-source-status.json", "math-feed.xml",
     "codex-editorial.json",
+    "project-radar.json",
 )
 
 
