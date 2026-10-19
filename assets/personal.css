@@ -98,8 +98,10 @@ body[data-information-channel=project] .hero .section-nav-wrap { display:none!im
 .math-radar-v2 .math-health-table th { white-space:nowrap; }
 .math-radar-v2 .math-focus,.math-radar-v2 .math-feed { margin-top:18px; }
 .math-radar-v2 .list-head h2 { font-size:20px; }
-.math-focus-row { padding:11px 16px; }
-.math-focus-row .hot-row-title { font-size:14px; text-decoration:none; white-space:nowrap; text-overflow:ellipsis; }
+.math-focus-row { display:flex; align-items:center; gap:10px; min-height:40px; padding:11px 16px; border-top:1px solid var(--line-soft); }
+.math-focus-row:first-child { border-top:0; }
+.math-focus-row .hot-row-rank { flex:0 0 24px; color:var(--accent); font-size:13px; font-weight:800; }
+.math-focus-row .hot-row-title { flex:1; min-width:0; overflow:hidden; color:var(--ink); font-size:14px; text-decoration:none; white-space:nowrap; text-overflow:ellipsis; }
 .math-focus-source { flex:0 0 auto; max-width:180px; overflow:hidden; text-overflow:ellipsis; white-space:nowrap; color:var(--muted); font-size:11px; }
 .math-radar-v2 .math-reading-hint { margin:0; padding:10px 18px; color:var(--muted); font-size:12px; line-height:1.65; border-bottom:1px solid var(--line-soft); }
 .math-radar-v2 .math-timeline { padding:16px; gap:14px; background:var(--bg); }
@@ -127,6 +129,7 @@ body[data-information-channel=project] .hero .section-nav-wrap { display:none!im
 .math-empty button { margin:8px 4px 0; cursor:pointer; }
 body[data-information-channel=math] #updatedAt,body[data-information-channel=math] #sourceStatusPill { display:none!important; }
 body[data-information-channel=math] .hero .updated-label { display:none; }
+body[data-information-channel=math] .hero #stats { display:none; }
 @media(max-width:760px) {
   .personal-channel-switch { min-width:0; max-width:100%; overflow-x:auto; }
   .personal-channel-switch .mode-btn { white-space:nowrap; flex-shrink:0; }
