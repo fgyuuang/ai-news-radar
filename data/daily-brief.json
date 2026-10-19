@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-19T00:03:20.518220Z",
+  "generated_at": "2026-10-19T00:31:52.172047Z",
   "window_hours": 24,
   "total_items": 13,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7599,
-      "importance": 0.7599,
-      "importance_score": 0.7599,
+      "score": 0.7588,
+      "importance": 0.7588,
+      "importance_score": 0.7588,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8571,
+        "recency": 0.8512,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -86,7 +86,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -138,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7458,
-      "importance": 0.7458,
-      "importance_score": 0.7458,
+      "score": 0.7446,
+      "importance": 0.7446,
+      "importance_score": 0.7446,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.69,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9287,
+        "recency": 0.9224,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -171,7 +171,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -223,15 +223,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7514,
-      "importance": 0.7514,
-      "importance_score": 0.7514,
+      "score": 0.7504,
+      "importance": 0.7504,
+      "importance_score": 0.7504,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8267,
+        "recency": 0.8211,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -257,7 +257,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -281,7 +281,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-18T23:02:25Z",
+          "updated_at": "2026-10-19T00:16:41Z",
           "recency_basis": "updated_at"
         },
         {
@@ -320,7 +320,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-17T10:14:13Z",
-          "updated_at": "2026-10-18T23:02:25Z",
+          "updated_at": "2026-10-19T00:16:41Z",
           "recency_basis": "updated_at"
         },
         {
@@ -342,15 +342,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5916,
-      "importance": 0.5916,
-      "importance_score": 0.5916,
+      "score": 0.5935,
+      "importance": 0.5935,
+      "importance_score": 0.5935,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9854,
+        "recency": 0.9964,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -358,7 +358,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-18T09:20:05.051000Z",
-      "latest_at": "2026-10-18T23:02:25Z",
+      "latest_at": "2026-10-19T00:16:41Z",
       "primary_item": {
         "id": "d92e65861ebb07a3a5e23995ecc94168797170e4",
         "title": "Tomo for ChatGPT — 提出任何问题。然后玩 Duolingo 风格的游戏。 / Tomo for ChatGPT — Ask anything. Then play it, Duolingo-style.",
@@ -375,7 +375,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -526,15 +526,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5887,
-      "importance": 0.5887,
-      "importance_score": 0.5887,
+      "score": 0.5876,
+      "importance": 0.5876,
+      "importance_score": 0.5876,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9608,
+        "recency": 0.9542,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -559,7 +559,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -677,15 +677,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5673,
-      "importance": 0.5673,
-      "importance_score": 0.5673,
+      "score": 0.5661,
+      "importance": 0.5661,
+      "importance_score": 0.5661,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9807,
+        "recency": 0.974,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -710,7 +710,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -739,8 +739,8 @@
         },
         {
           "id": "d840110d1210da077c48f2b57204e338812d0d17",
-          "title": "Mlabonne / LLM课程 / mlabonne /      llm-course",
-          "title_zh": "Mlabonne / LLM课程",
+          "title": "mlabonne /      llm-course",
+          "title_zh": null,
           "title_en": "mlabonne /      llm-course",
           "title_original": "mlabonne /      llm-course",
           "summary": null,
@@ -778,8 +778,8 @@
         },
         {
           "id": "d840110d1210da077c48f2b57204e338812d0d17",
-          "title": "Mlabonne / LLM课程 / mlabonne /      llm-course",
-          "title_zh": "Mlabonne / LLM课程",
+          "title": "mlabonne /      llm-course",
+          "title_zh": null,
           "title_en": "mlabonne /      llm-course",
           "title_original": "mlabonne /      llm-course",
           "summary": null,
@@ -795,15 +795,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5668,
-      "importance": 0.5668,
-      "importance_score": 0.5668,
+      "score": 0.5658,
+      "importance": 0.5658,
+      "importance_score": 0.5658,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.848,
+        "recency": 0.8422,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -828,7 +828,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -946,15 +946,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5626,
+      "importance": 0.5626,
+      "importance_score": 0.5626,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9608,
+        "recency": 0.9542,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -979,7 +979,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -1097,15 +1097,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5637,
-      "importance": 0.5637,
-      "importance_score": 0.5637,
+      "score": 0.5626,
+      "importance": 0.5626,
+      "importance_score": 0.5626,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9608,
+        "recency": 0.9542,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1130,7 +1130,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -1215,15 +1215,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5395,
-      "importance": 0.5395,
-      "importance_score": 0.5395,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9652,
+        "recency": 0.9586,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1248,7 +1248,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -1366,15 +1366,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8002,
+        "recency": 0.7947,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1399,7 +1399,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -1517,15 +1517,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5348,
-      "importance": 0.5348,
-      "importance_score": 0.5348,
+      "score": 0.5338,
+      "importance": 0.5338,
+      "importance_score": 0.5338,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8002,
+        "recency": 0.7947,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1550,7 +1550,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     },
     {
@@ -1635,15 +1635,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5179,
-      "importance": 0.5179,
-      "importance_score": 0.5179,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8449,
+        "recency": 0.8391,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1668,7 +1668,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-19T00:04:57.649403Z"
+        "scored_at": "2026-10-19T00:38:52.853098Z"
       }
     }
   ]
