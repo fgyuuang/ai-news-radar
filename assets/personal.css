@@ -132,7 +132,8 @@ body[data-information-channel=math] .hero .updated-label { display:none; }
   .personal-channel-switch .mode-btn { white-space:nowrap; flex-shrink:0; }
   .math-radar-v2 .math-primary { grid-template-columns:minmax(0,1fr) 160px; gap:10px; }
   .math-radar-v2 .math-primary > input { grid-column:1/-1; grid-row:2; }
-  .math-radar-v2 .math-primary .mode-switch { justify-self:start; }
+  .math-radar-v2 .math-primary .mode-switch { justify-self:start; grid-column:1; grid-row:1; }
+  .math-radar-v2 .math-primary > .field { grid-column:2; grid-row:1; }
   .math-radar-v2 .math-advanced > summary .advanced-hint { display:none; }
   .math-radar-v2 .math-toolbar { grid-template-columns:minmax(0,1fr); }
   .math-radar-v2 .list-head { padding:14px; gap:8px; flex-wrap:wrap; }
