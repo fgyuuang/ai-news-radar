@@ -5,8 +5,24 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 14:33:45 +0000</lastBuildDate>
+<lastBuildDate>Mon, 19 Oct 2026 16:31:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication</title>
+<link>https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
+</item>
+<item>
+<title>黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</guid>
+<description>AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 14:23:17 +0000</pubDate>
+</item>
 <item>
 <title>macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
 <link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
@@ -16,12 +32,20 @@
 <pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
 </item>
 <item>
-<title>黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013643/ai-agents-hack-john-deere-shark-ninja-cummins</guid>
-<description>AI 安全公司 Norforge 发现一名黑客用开源 AI 平台 Cairn 编排的智能体入侵了超过 100 个网站，据 Reuters 报道受害者包括 John Deere、SharkNinja 和 Cummins。（The Verge：AI（RSS））</description>
+<title>Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits</title>
+<link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</guid>
+<description>若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。（Ars Technica：AI（RSS））</description>
 <category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 13:58:41 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
+</item>
+<item>
+<title>Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性 / The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do</title>
+<link>https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</link>
+<guid isPermaLink="true">https://engineering.fb.com/2026/10/19/ml-applications/thin-orchestrator-ai-agent-architecture</guid>
+<description>Meta 工程团队介绍其数据管道智能体采用的瘦编排器（thin orchestrator）模式：一个约 1300 行的编排器只负责路由和可靠性检查，将 20+ 工作流分派给 14 个上下文隔离的专项子智能体，自身不做任何领域推理。（Meta Engineering Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 15:30:37 +0000</pubDate>
 </item>
 <item>
 <title>AI 正在偷改人类记忆：看一眼假图，就"记得"从未发生的事</title>
@@ -32,6 +56,14 @@
 <pubDate>Mon, 19 Oct 2026 12:38:06 +0000</pubDate>
 </item>
 <item>
+<title>蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型 / inclusionAI/Ming-3.0-tts</title>
+<link>https://github.com/inclusionAI/Ming-3.0-tts</link>
+<guid isPermaLink="true">https://github.com/inclusionAI/Ming-3.0-tts</guid>
+<description>蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。（蚂蚁 inclusionAI：GitHub 新仓库）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 07:03:25 +0000</pubDate>
+</item>
+<item>
 <title>n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流 / Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API</title>
 <link>https://blog.n8n.io/n8n-nvidia-dgx-spark</link>
 <guid isPermaLink="true">https://blog.n8n.io/n8n-nvidia-dgx-spark</guid>
@@ -40,12 +72,12 @@
 <pubDate>Mon, 19 Oct 2026 13:22:17 +0000</pubDate>
 </item>
 <item>
-<title>Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster</title>
-<link>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</link>
-<guid isPermaLink="true">https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</guid>
-<description>Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。（Meta Engineering Blog（RSS））</description>
+<title>Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith</title>
+<link>https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</link>
+<guid isPermaLink="true">https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</guid>
+<description>英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。（LangChain：Blog（RSS））</description>
 <category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 13:00:10 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作</title>
@@ -62,6 +94,14 @@
 <description>AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。（PyTorch：Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Mon, 19 Oct 2026 12:45:23 +0000</pubDate>
+</item>
+<item>
+<title>Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster</title>
+<link>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</link>
+<guid isPermaLink="true">https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</guid>
+<description>Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。（Meta Engineering Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 13:00:10 +0000</pubDate>
 </item>
 <item>
 <title>OpenAI狂揽硬件人才，具身智能“终极战”全面打响</title>
@@ -112,60 +152,20 @@
 <pubDate>Mon, 19 Oct 2026 12:38:06 +0000</pubDate>
 </item>
 <item>
-<title>Show HN: WhatsApp MCP 在 Cloudflare 上免费运行</title>
-<link>https://github.com/finereli/whatsapp-mcp</link>
-<guid isPermaLink="true">https://github.com/finereli/whatsapp-mcp</guid>
-<description>github.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 08:42:19 +0000</pubDate>
-</item>
-<item>
-<title>网站正纷纷关闭人工智能客服</title>
-<link>https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</link>
-<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1013195/ai-agents-blocked-web</guid>
-<description>www.theverge.com</description>
-<category>多源热议</category>
-<pubDate>Sun, 18 Oct 2026 21:17:07 +0000</pubDate>
-</item>
-<item>
-<title>检方羁押申请揭 OpenAI 录音门新线：嫌疑人被捕前 4 天仍密聊沙特王室</title>
-<link>https://www.aibase.com/news/31730</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31730</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 12:38:06 +0000</pubDate>
-</item>
-<item>
-<title>如果你没有运行自己的 LLM 代理，你怎么知道里面发生了什么？</title>
-<link>https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on</link>
-<guid isPermaLink="true">https://jrdsgl.com/if-you-dont-run-your-own-llm-proxy-how-the-fuck-do-you-even-know-whats-going-on</guid>
-<description>jrdsgl.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 06:20:08 +0000</pubDate>
-</item>
-<item>
-<title>显示 HN：Qwen3-4B，AI 书写抽动训练完成 / Show HN: Qwen3-4B with the AI writing tics trained out</title>
+<title>Show HN: Qwen3-4B，已消除AI写作中的怪癖</title>
 <link>https://100toolkit.com/blog/deslop-model</link>
 <guid isPermaLink="true">https://100toolkit.com/blog/deslop-model</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 13:00:47 +0000</pubDate>
-</item>
-<item>
-<title>Timestral：Mistral 发布时间序列基础模型</title>
-<link>https://mistral.ai/news/timestral</link>
-<guid isPermaLink="true">https://mistral.ai/news/timestral</guid>
-<description>mistral.ai</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 12:39:13 +0000</pubDate>
-</item>
-<item>
-<title>混合推理代理：在潜空间中进行推理、通过文本采取行动的大语言模型（LLM）代理</title>
-<link>https://arxiv.org/abs/2610.18861</link>
-<guid isPermaLink="true">https://arxiv.org/abs/2610.18861</guid>
-<description>arxiv.org</description>
+<description>100toolkit.com</description>
 <category>多源热议</category>
-<pubDate>Sun, 18 Oct 2026 22:42:18 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 16:21:22 +0000</pubDate>
+</item>
+<item>
+<title>Tmux 和 Claude Code：会话、Send-Keys 以及上限</title>
+<link>https://crystl.dev/guides/tmux-for-ai-agents</link>
+<guid isPermaLink="true">https://crystl.dev/guides/tmux-for-ai-agents</guid>
+<description>crystl.dev</description>
+<category>多源热议</category>
+<pubDate>Mon, 19 Oct 2026 15:02:49 +0000</pubDate>
 </item>
 </channel>
 </rss>
