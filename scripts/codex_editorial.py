@@ -118,6 +118,9 @@ def candidates(repo, max_ai, now, max_projects=0):
             if domain == "project":
                 record["platform"] = item.get("platform")
                 record["topics"] = item.get("topics", [])
+            if domain == "math":
+                record.update(topics=item.get("topics", []), content_type=item.get("content_type", "blog"),
+                              source_summary_kind=item.get("summary_kind", "source_excerpt"))
             record["key"] = source_key(record)
             result.append(record)
     return result
@@ -126,7 +129,7 @@ def candidates(repo, max_ai, now, max_projects=0):
 def context(item):
     item = dict(item)
     item["context"] = item["source_excerpt"]
-    item["context_kind"] = "source_excerpt"
+    item["context_kind"] = "source_metadata" if item.get("source_summary_kind") == "source_metadata" else "source_excerpt"
     parsed = urlparse(item["url"])
     host = parsed.hostname or ""
     if not host or host.lower() == "localhost" or host.endswith(".local"):
@@ -148,7 +151,9 @@ def context(item):
                 if len(raw) > 1500000:
                     return item
             soup = BeautifulSoup(bytes(raw), "html.parser")
-            article = soup.select_one(".entry-content,article,main,.post-content")
+            article = soup.select_one("blockquote.abstract") if host == "arxiv.org" else None
+            if article is None:
+                article = soup.select_one(".entry-content,article,main,.post-content")
             if article is not None:
                 article_text = text(str(article))[:6500]
                 if len(article_text) >= max(150, len(item["source_excerpt"])):

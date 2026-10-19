@@ -71,7 +71,7 @@ jobs:
           SOCIALDATA_ENABLED: '0'
           TIKHUB_ENABLED: '0'
         run: python scripts/update_news.py --output-dir data --window-hours 24 --archive-days 21 --rss-opml feeds/follow.opml --rss-max-feeds "$RSS_MAX_FEEDS"
-      - name: Collect the six mathematics sources
+      - name: Collect mathematics and AI-for-Math sources
         id: math
         if: github.event_name == 'workflow_dispatch'
         continue-on-error: true

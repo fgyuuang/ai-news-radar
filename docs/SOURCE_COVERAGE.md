@@ -1,7 +1,12 @@
 # Source Coverage Plan
 
-Personal fork: six mathematics sources are configured in `feeds/math-sources.json`.
-They use five verified RSS feeds and the dated MathArena `/blogs` article cards.
+Personal fork: mathematics is a subject category with 22 public source feeds in
+`feeds/math-sources.json`: researcher blogs, Quanta mathematics, institutional
+AI-for-Math research, arXiv subject announcements, and Lean ecosystem releases.
+RSS/Atom is preferred; MathArena uses dated cards. When arXiv RSS is empty or
+unavailable, the dated official recent listing is used as a bounded fallback.
+Listing metadata is explicitly distinguished from a paper abstract. Institutional
+AI feeds are narrowly filtered for mathematics and proof work; pure math is kept.
 Mathematics is retained independently from the AI relevance filter. See
 `docs/PERSONAL_RADAR.md` for timestamps, retention, source failures and deployment.
 

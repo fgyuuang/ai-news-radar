@@ -31,7 +31,7 @@
     }
     const attribution = document.createElement("p");
     attribution.className = "codex-attribution";
-    attribution.textContent = `${entry.model} · 基于${entry.context_kind === "article_text" ? "抓取正文" : "来源摘录"} · ${new Date(entry.generated_at).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai" })}（北京时间）`;
+    attribution.textContent = `${entry.model} · 基于${entry.context_kind === "article_text" ? "抓取正文或摘要" : entry.context_kind === "source_metadata" ? "论文元信息（未取得摘要）" : "来源摘录"} · ${new Date(entry.generated_at).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai" })}（北京时间）`;
     panel.append(attribution);
     return panel;
   }

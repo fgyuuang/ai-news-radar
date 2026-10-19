@@ -1,55 +1,76 @@
 {
-  "generated_at": "2026-10-19T03:03:35.490109+00:00",
-  "window_hours": 72,
+  "generated_at": "2026-10-19T03:24:55.874520+00:00",
+  "window_hours": 168,
   "archive_days": 90,
-  "recent_count": 14,
+  "ranking_policy": "Source priority plus recency; curated view balances topics and caps each source. Not popularity or proof verification.",
+  "recent_count": 81,
   "sources": [
     {
       "id": "terrytao",
       "name": "Terence Tao — What’s New",
       "url": "https://terrytao.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-19T03:03:35.490109+00:00",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
       "ok": true,
       "item_count": 10,
       "latest_published_at": "2026-10-18T14:59:49+00:00",
-      "duration_ms": 945,
-      "recent_count": 5
+      "note": null,
+      "duration_ms": 1371,
+      "recent_count": 11
     },
     {
       "id": "proofsandprompts",
       "name": "Proofs and Prompts",
       "url": "https://proofsandprompts.com/",
       "method": "rss",
-      "checked_at": "2026-10-19T03:03:35.490109+00:00",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "blog",
       "ok": true,
       "item_count": 10,
       "latest_published_at": "2026-10-18T16:58:40+00:00",
-      "duration_ms": 1060,
-      "recent_count": 7
+      "note": null,
+      "duration_ms": 2384,
+      "recent_count": 13
     },
     {
       "id": "vibemathed",
       "name": "VibeMathed",
       "url": "https://vibemathed.com/",
       "method": "rss",
-      "checked_at": "2026-10-19T03:03:35.490109+00:00",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "blog",
       "ok": true,
-      "item_count": 60,
+      "item_count": 30,
       "latest_published_at": "2026-10-12T12:00:00+00:00",
-      "duration_ms": 1171,
-      "recent_count": 0
+      "note": null,
+      "duration_ms": 2535,
+      "recent_count": 2
     },
     {
       "id": "gowers",
       "name": "Gowers’s Weblog",
       "url": "https://gowers.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-19T03:03:35.490109+00:00",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
       "ok": true,
       "item_count": 25,
       "latest_published_at": "2026-10-16T10:29:30+00:00",
-      "duration_ms": 1869,
+      "note": null,
+      "duration_ms": 3012,
       "recent_count": 1
     },
     {
@@ -57,11 +78,16 @@
       "name": "Xena Project",
       "url": "https://xenaproject.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-19T03:03:35.490109+00:00",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "formal"
+      ],
+      "content_type": "blog",
       "ok": true,
       "item_count": 10,
       "latest_published_at": "2026-10-16T09:54:00+00:00",
-      "duration_ms": 1303,
+      "note": null,
+      "duration_ms": 1318,
       "recent_count": 1
     },
     {
@@ -69,15 +95,1656 @@
       "name": "MathArena",
       "url": "https://matharena.ai/blogs",
       "method": "matharena",
-      "checked_at": "2026-10-19T03:03:35.490109+00:00",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "benchmark",
       "ok": true,
       "item_count": 18,
       "latest_published_at": "2026-10-15T00:00:00+00:00",
-      "duration_ms": 1692,
+      "note": null,
+      "duration_ms": 1191,
+      "recent_count": 1
+    },
+    {
+      "id": "arxiv-math-nt",
+      "name": "arXiv · 数论",
+      "url": "https://arxiv.org/",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "ok": true,
+      "item_count": 8,
+      "latest_published_at": "2026-10-19T00:00:00+00:00",
+      "note": null,
+      "duration_ms": 11913,
+      "recent_count": 8
+    },
+    {
+      "id": "arxiv-math-co",
+      "name": "arXiv · 组合数学",
+      "url": "https://arxiv.org/",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "ok": true,
+      "item_count": 8,
+      "latest_published_at": "2026-10-19T00:00:00+00:00",
+      "note": null,
+      "duration_ms": 12996,
+      "recent_count": 8
+    },
+    {
+      "id": "arxiv-math-ag",
+      "name": "arXiv · 代数几何",
+      "url": "https://arxiv.org/",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "ok": true,
+      "item_count": 8,
+      "latest_published_at": "2026-10-19T00:00:00+00:00",
+      "note": null,
+      "duration_ms": 11774,
+      "recent_count": 8
+    },
+    {
+      "id": "arxiv-math-pr",
+      "name": "arXiv · 概率",
+      "url": "https://arxiv.org/",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "ok": true,
+      "item_count": 8,
+      "latest_published_at": "2026-10-19T00:00:00+00:00",
+      "note": null,
+      "duration_ms": 10421,
+      "recent_count": 8
+    },
+    {
+      "id": "arxiv-math-na",
+      "name": "arXiv · 数值分析",
+      "url": "https://arxiv.org/",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "ok": true,
+      "item_count": 8,
+      "latest_published_at": "2026-10-19T00:00:00+00:00",
+      "note": null,
+      "duration_ms": 10798,
+      "recent_count": 8
+    },
+    {
+      "id": "arxiv-math-lo",
+      "name": "arXiv · 数理逻辑",
+      "url": "https://arxiv.org/",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "ok": true,
+      "item_count": 6,
+      "latest_published_at": "2026-10-19T00:00:00+00:00",
+      "note": null,
+      "duration_ms": 10245,
+      "recent_count": 6
+    },
+    {
+      "id": "arxiv-cs-ai",
+      "name": "arXiv · AI for Math · cs.AI",
+      "url": "https://arxiv.org/",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "paper",
+      "ok": true,
+      "item_count": 0,
+      "latest_published_at": null,
+      "note": "no_matching_updates",
+      "duration_ms": 1931,
+      "recent_count": 0
+    },
+    {
+      "id": "arxiv-cs-lg",
+      "name": "arXiv · AI for Math · cs.LG",
+      "url": "https://arxiv.org/",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "paper",
+      "ok": true,
+      "item_count": 0,
+      "latest_published_at": null,
+      "note": "no_matching_updates",
+      "duration_ms": 7035,
+      "recent_count": 0
+    },
+    {
+      "id": "arxiv-cs-cl",
+      "name": "arXiv · AI for Math · cs.CL",
+      "url": "https://arxiv.org/",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "paper",
+      "ok": true,
+      "item_count": 1,
+      "latest_published_at": "2026-10-19T00:00:00+00:00",
+      "note": null,
+      "duration_ms": 6915,
+      "recent_count": 1
+    },
+    {
+      "id": "quanta-math",
+      "name": "Quanta · Mathematics",
+      "url": "https://www.quantamagazine.org/",
+      "method": "rss",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "analysis",
+      "ok": true,
+      "item_count": 5,
+      "latest_published_at": "2026-10-05T13:40:07+00:00",
+      "note": null,
+      "duration_ms": 1045,
+      "recent_count": 0
+    },
+    {
+      "id": "gil-kalai",
+      "name": "Gil Kalai · Combinatorics and more",
+      "url": "https://gilkalai.wordpress.com/",
+      "method": "rss",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "ok": true,
+      "item_count": 10,
+      "latest_published_at": "2026-10-13T23:36:56+00:00",
+      "note": null,
+      "duration_ms": 1276,
+      "recent_count": 1
+    },
+    {
+      "id": "deepmind-math",
+      "name": "Google DeepMind · 数学研究",
+      "url": "https://deepmind.google/",
+      "method": "rss",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "research",
+      "ok": true,
+      "item_count": 2,
+      "latest_published_at": "2026-09-30T15:03:07+00:00",
+      "note": null,
+      "duration_ms": 741,
+      "recent_count": 0
+    },
+    {
+      "id": "google-research-math",
+      "name": "Google Research · 数学研究",
+      "url": "https://research.google/",
+      "method": "rss",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "research",
+      "ok": true,
+      "item_count": 0,
+      "latest_published_at": null,
+      "note": "no_matching_updates",
+      "duration_ms": 1448,
+      "recent_count": 0
+    },
+    {
+      "id": "msr-math",
+      "name": "Microsoft Research · 数学与证明",
+      "url": "https://www.microsoft.com/",
+      "method": "rss",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "research",
+      "ok": true,
+      "item_count": 2,
+      "latest_published_at": "2026-10-15T16:00:00+00:00",
+      "note": null,
+      "duration_ms": 2358,
+      "recent_count": 2
+    },
+    {
+      "id": "lean4-releases",
+      "name": "Lean 4 · Releases",
+      "url": "https://github.com/leanprover/lean4/",
+      "method": "rss",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "ok": true,
+      "item_count": 10,
+      "latest_published_at": "2026-10-14T18:34:54+00:00",
+      "note": null,
+      "duration_ms": 3409,
+      "recent_count": 2
+    },
+    {
+      "id": "leandojo-releases",
+      "name": "LeanDojo · Releases",
+      "url": "https://github.com/lean-dojo/LeanDojo/",
+      "method": "rss",
+      "checked_at": "2026-10-19T03:24:55.874520+00:00",
+      "topics": [
+        "formal",
+        "tools",
+        "ai_math"
+      ],
+      "content_type": "release",
+      "ok": true,
+      "item_count": 10,
+      "latest_published_at": "2025-06-13T16:25:33+00:00",
+      "note": null,
+      "duration_ms": 3425,
       "recent_count": 0
     }
   ],
   "items": [
+    {
+      "id": "5f94435eb27c10d50d2c",
+      "source_id": "arxiv-math-co",
+      "source": "arXiv · 组合数学",
+      "title": "Revisiting separators in string graphs, region intersection graphs, and induced-minor-free graphs",
+      "url": "https://arxiv.org/abs/2610.23792",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: James Davies , Paweł Rzążewski , Jack Spalding-Jamieson , Bartosz Walczak; Subjects: Combinatorics (math.CO) ; Computational Geometry (cs.CG); Discrete Mathematics (cs.DM); Metric Geometry (math.MG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "James Davies , Paweł Rzążewski , Jack Spalding-Jamieson , Bartosz Walczak",
+      "source_refs": [
+        {
+          "id": "arxiv-math-co",
+          "name": "arXiv · 组合数学"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "重新审视字符串图中的分隔符、区域交叉图和无诱导次要图",
+      "excerpt_zh": "作者：James Davies、Paweł Rzążewski、Jack Spalding-Jamieson、Bartosz Walczak；科目：组合学（math.CO）；计算几何（cs.CG）；离散数学（cs.DM）；公制几何（math.MG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "7bca971243528d79ad0b",
+      "source_id": "arxiv-math-co",
+      "source": "arXiv · 组合数学",
+      "title": "The maximum number of Hamiltonian cycles in tournaments",
+      "url": "https://arxiv.org/abs/2610.23755",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Alexander Divoux , Shouda Wang; Subjects: Combinatorics (math.CO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Alexander Divoux , Shouda Wang",
+      "source_refs": [
+        {
+          "id": "arxiv-math-co",
+          "name": "arXiv · 组合数学"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "锦标赛中哈密顿循环的最大数量",
+      "excerpt_zh": "作者：Alexander Divoux、Shouda Wang；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "499fa235773082142856",
+      "source_id": "arxiv-math-co",
+      "source": "arXiv · 组合数学",
+      "title": "Line spreads of W(2n-1, q), q even",
+      "url": "https://arxiv.org/abs/2610.23664",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Daniele Bartoli , Antonio Cossidente , Giuseppe Marino , Francesco Pavese; Subjects: Combinatorics (math.CO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Daniele Bartoli , Antonio Cossidente , Giuseppe Marino , Francesco Pavese",
+      "source_refs": [
+        {
+          "id": "arxiv-math-co",
+          "name": "arXiv · 组合数学"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "W(2n-1, q) 的线宽，q 偶数",
+      "excerpt_zh": "作者：丹尼尔·巴托利、安东尼奥·科西登特、朱塞佩·马里诺、弗朗西斯科·帕韦塞；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "4fdd1ea2789a6df47779",
+      "source_id": "arxiv-math-co",
+      "source": "arXiv · 组合数学",
+      "title": "Visibility Sets, Empty Pentagons, and Sufficient Conditions for Hexagons",
+      "url": "https://arxiv.org/abs/2610.23553",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Carlos M. Nicolas; Subjects: Combinatorics (math.CO) ; Computational Geometry (cs.CG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Carlos M. Nicolas",
+      "source_refs": [
+        {
+          "id": "arxiv-math-co",
+          "name": "arXiv · 组合数学"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "可见性集、空五边形和六边形的充分条件",
+      "excerpt_zh": "作者：卡洛斯·M·尼古拉斯；科目：组合学（math.CO）；计算几何（cs.CG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "bbe19533fadddffe5298",
+      "source_id": "arxiv-math-co",
+      "source": "arXiv · 组合数学",
+      "title": "Small and large quasi-kernels: a weighted transfer theorem",
+      "url": "https://arxiv.org/abs/2610.23487",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Jiangdong Ai , Gregory Gutin , Xiangzhou Liu , Xianhao Meng; Subjects: Combinatorics (math.CO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Jiangdong Ai , Gregory Gutin , Xiangzhou Liu , Xianhao Meng",
+      "source_refs": [
+        {
+          "id": "arxiv-math-co",
+          "name": "arXiv · 组合数学"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "小准核和大准核：加权转移定理",
+      "excerpt_zh": "作者：艾江东、Gregory Gutin、刘相洲、孟贤浩；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "9f4abcea5b737aa5e181",
+      "source_id": "arxiv-math-co",
+      "source": "arXiv · 组合数学",
+      "title": "Odd Cycle Decompositions",
+      "url": "https://arxiv.org/abs/2610.23471",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Jianfeng Hou , Caiyun Hu , Hezhi Wang; Subjects: Combinatorics (math.CO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Jianfeng Hou , Caiyun Hu , Hezhi Wang",
+      "source_refs": [
+        {
+          "id": "arxiv-math-co",
+          "name": "arXiv · 组合数学"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "奇循环分解",
+      "excerpt_zh": "作者：侯剑峰、胡彩云、王鹤志；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "98f88dce5ee3db45dcbc",
+      "source_id": "arxiv-math-co",
+      "source": "arXiv · 组合数学",
+      "title": "A Generating Polynomial for Convex Subsets of Posets",
+      "url": "https://arxiv.org/abs/2610.23399",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Ian George , Rowan Yeats; Subjects: Combinatorics (math.CO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Ian George , Rowan Yeats",
+      "source_refs": [
+        {
+          "id": "arxiv-math-co",
+          "name": "arXiv · 组合数学"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "偏集凸子集的生成多项式",
+      "excerpt_zh": "作者：伊恩·乔治、罗温·叶芝；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "7c10c169c97577cf1ae4",
+      "source_id": "arxiv-math-co",
+      "source": "arXiv · 组合数学",
+      "title": "Counterexamples to Two Conjectures on Tangles in Matroid Minors",
+      "url": "https://arxiv.org/abs/2610.23059",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Zhen Chen , Zhuo Li; Subjects: Combinatorics (math.CO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Zhen Chen , Zhuo Li",
+      "source_refs": [
+        {
+          "id": "arxiv-math-co",
+          "name": "arXiv · 组合数学"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "关于拟阵未成年人缠结的两个猜想的反例",
+      "excerpt_zh": "作者：陈震、李卓；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "02b03a1d4caa2bcbf71c",
+      "source_id": "arxiv-math-ag",
+      "source": "arXiv · 代数几何",
+      "title": "Twisted $\\mathbb{A}^1$-degrees of Wronski maps",
+      "url": "https://arxiv.org/abs/2610.23816",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Thomas Brazelton , Jake Levinson; Subjects: Algebraic Geometry (math.AG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Thomas Brazelton , Jake Levinson",
+      "source_refs": [
+        {
+          "id": "arxiv-math-ag",
+          "name": "arXiv · 代数几何"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "Wronski 映射的扭曲 $\\mathbb{A}^1$ 度",
+      "excerpt_zh": "作者：托马斯·布拉泽尔顿、杰克·莱文森；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "eb101f0c6e4b86911bbf",
+      "source_id": "arxiv-math-ag",
+      "source": "arXiv · 代数几何",
+      "title": "Deligne--Faltings Logarithmic Derived Geometry with a View towards Logarithmic GLSM",
+      "url": "https://arxiv.org/abs/2610.23803",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Felix Janda , Ruoxi Li; Subjects: Algebraic Geometry (math.AG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Felix Janda , Ruoxi Li",
+      "source_refs": [
+        {
+          "id": "arxiv-math-ag",
+          "name": "arXiv · 代数几何"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "德利涅——从对数 GLSM 角度出发的法尔廷斯对数导出几何",
+      "excerpt_zh": "作者：Felix Janda，李若曦；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "28eca23ca6aa91fda4d8",
+      "source_id": "arxiv-math-ag",
+      "source": "arXiv · 代数几何",
+      "title": "Spectral networks, finite webs, and the $T_3$ cubic differential",
+      "url": "https://arxiv.org/abs/2610.23752",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Omar Kidwai , Guillaume Tahar; Subjects: Algebraic Geometry (math.AG) ; High Energy Physics - Theory (hep-th); Mathematical Physics (math-ph); Differential Geometry (math.DG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Omar Kidwai , Guillaume Tahar",
+      "source_refs": [
+        {
+          "id": "arxiv-math-ag",
+          "name": "arXiv · 代数几何"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "谱网络、有限网和 $T_3$ 三次微分",
+      "excerpt_zh": "作者：奥马尔·基德瓦伊、纪尧姆·塔哈尔；科目：代数几何（math.AG）；高能物理 - 理论（hep-th）；数学物理（数学-ph）；微分几何（math.DG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "c36b556f1be7061350c9",
+      "source_id": "arxiv-math-ag",
+      "source": "arXiv · 代数几何",
+      "title": "Local topological zeta functions of generic symmetric and catalecticant determinantal varieties",
+      "url": "https://arxiv.org/abs/2610.23689",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: An Khuong Doan; Subjects: Algebraic Geometry (math.AG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "An Khuong Doan",
+      "source_refs": [
+        {
+          "id": "arxiv-math-ag",
+          "name": "arXiv · 代数几何"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "通用对称和对折行列式簇的局部拓扑 zeta 函数",
+      "excerpt_zh": "作者：An Khuong Doan；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "b92792c36f0cd0578875",
+      "source_id": "arxiv-math-ag",
+      "source": "arXiv · 代数几何",
+      "title": "On the crystalline Artin--Mumford invariant",
+      "url": "https://arxiv.org/abs/2610.23516",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Margherita Pagano , Domenico Valloni; Subjects: Algebraic Geometry (math.AG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Margherita Pagano , Domenico Valloni",
+      "source_refs": [
+        {
+          "id": "arxiv-math-ag",
+          "name": "arXiv · 代数几何"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "关于结晶Artin--芒福德不变量",
+      "excerpt_zh": "作者：玛格丽塔·帕加诺、多梅尼科·瓦洛尼；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "42463ad9fc94382fe39a",
+      "source_id": "arxiv-math-ag",
+      "source": "arXiv · 代数几何",
+      "title": "mixed Hodge structures on the strictly upper triangular Lie algebras",
+      "url": "https://arxiv.org/abs/2610.23505",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Taito Shimoji; Subjects: Algebraic Geometry (math.AG) ; Algebraic Topology (math.AT); Differential Geometry (math.DG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Taito Shimoji",
+      "source_refs": [
+        {
+          "id": "arxiv-math-ag",
+          "name": "arXiv · 代数几何"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "严格上三角李代数上的混合Hodge结构",
+      "excerpt_zh": "作者：下地太人；科目：代数几何（math.AG）；代数拓扑（math.AT）；微分几何（math.DG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "dbec7e6e97a171451763",
+      "source_id": "arxiv-math-ag",
+      "source": "arXiv · 代数几何",
+      "title": "Lefschetz Pencils on surfaces and an application to Seshadri constants",
+      "url": "https://arxiv.org/abs/2610.23485",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Krishna Hanumanthu , A. J. Parameswaran; Subjects: Algebraic Geometry (math.AG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Krishna Hanumanthu , A. J. Parameswaran",
+      "source_refs": [
+        {
+          "id": "arxiv-math-ag",
+          "name": "arXiv · 代数几何"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "Lefschetz 表面铅笔和 Seshadri 常数的应用",
+      "excerpt_zh": "作者：Krishna Hanumanthu、A. J. Parameswaran；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "61871f7d8a67e5ddf8aa",
+      "source_id": "arxiv-math-ag",
+      "source": "arXiv · 代数几何",
+      "title": "Smooth Limits of Stable Manifolds",
+      "url": "https://arxiv.org/abs/2610.23457",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Mu-Lin Li; Subjects: Algebraic Geometry (math.AG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Mu-Lin Li",
+      "source_refs": [
+        {
+          "id": "arxiv-math-ag",
+          "name": "arXiv · 代数几何"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "稳定流形的平滑极限",
+      "excerpt_zh": "作者：李慕琳；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "9e21bbdbcb62d7f4c272",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "Analyticity of the correlation length in subcritical FK-percolation and Potts models",
+      "url": "https://arxiv.org/abs/2610.23843",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Lucas D'Alimonte , Loïc Gassmann; Subjects: Probability (math.PR) ; Mathematical Physics (math-ph); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Lucas D'Alimonte , Loïc Gassmann",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "亚临界 FK 渗流和 Potts 模型中相关长度的分析性",
+      "excerpt_zh": "作者：卢卡斯·达利蒙特、卢伊克·加斯曼；科目：概率（数学.PR）；数学物理（数学-ph）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "451313662e7e882050d0",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "A Universal Lower Bound for the Complexity of Gaussian-Divisible Spin Glasses",
+      "url": "https://arxiv.org/abs/2610.23823",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Pax Kivimae , Benjamin McKenna; Subjects: Probability (math.PR) ; Disordered Systems and Neural Networks (cond-mat.dis-nn); Mathematical Physics (math-ph); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Pax Kivimae , Benjamin McKenna",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "高斯可分自旋玻璃复杂度的通用下界",
+      "excerpt_zh": "作者：帕克斯·基维迈 (Pax Kivimae)、本杰明·麦肯纳 (Benjamin McKenna)；科目：概率（数学.PR）；无序系统和神经网络（cond-mat.dis-nn）；数学物理（数学-ph）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "d8a17e5c64bfdb42c0a1",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "Rapid mixing within a phase for Ising models",
+      "url": "https://arxiv.org/abs/2610.23777",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Vasyl Paliy , Youngtak Sohn; Subjects: Probability (math.PR) ; Data Structures and Algorithms (cs.DS); Mathematical Physics (math-ph); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Vasyl Paliy , Youngtak Sohn",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "伊辛模型的一个相内快速混合",
+      "excerpt_zh": "作者：Vasyl Paliy、Youngtak Sohn；科目：概率（数学.PR）；数据结构和算法（cs.DS）；数学物理（数学-ph）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "eea6baea3104bf4bfe79",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "Universality of Annealed Complexity in the Spherical Pure $p$-Spin Model",
+      "url": "https://arxiv.org/abs/2610.23701",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Wei-Kuo Chen , Te-Lun Lu , Arnab Sen; Subjects: Probability (math.PR); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Wei-Kuo Chen , Te-Lun Lu , Arnab Sen",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "球形纯 $p$-自旋模型中退火复杂性的普遍性",
+      "excerpt_zh": "作者：陈伟国、卢德伦、Arnab Sen；科目：概率（数学.PR）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "e29bffa0ac33dcc4172e",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "Higher-order sum rules for zeros of the planar Gaussian entire function",
+      "url": "https://arxiv.org/abs/2610.23697",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Xiaolin Zhu , Feng Guo; Subjects: Probability (math.PR) ; Complex Variables (math.CV); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Xiaolin Zhu , Feng Guo",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "平面高斯整函数零点的高阶求和规则",
+      "excerpt_zh": "作者：朱晓林，郭峰；科目：概率（数学.PR）；复变量（math.CV）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "53925cbb1e03991951d8",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "Random Sampling of Almost Periodic Stochastic Processes",
+      "url": "https://arxiv.org/abs/2610.23669",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: David Berger , Maximilian Strobel; Subjects: Probability (math.PR); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "David Berger , Maximilian Strobel",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "几乎周期性随机过程的随机采样",
+      "excerpt_zh": "作者：大卫·伯杰、马克西米利安·史特博；科目：概率（数学.PR）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "24d8c752775a6beeeecf",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "On conservativity of multitype continuous-state branching processes",
+      "url": "https://arxiv.org/abs/2610.23649",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Lo\\\"ıc Chaumont , Clément Lamoureux; Subjects: Probability (math.PR); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Lo\\\"ıc Chaumont , Clément Lamoureux",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "多类型连续态分支过程的保守性",
+      "excerpt_zh": "作者：Lo\\\"ıc Chaumont、Clément Lamoureux；主题：概率（math.PR）；此列表提供论文元数据；打开摘要的原文。"
+    },
+    {
+      "id": "e15a66188b387fadd695",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "On the relation between transformations of SDEs and of associated Kolmogorov equations",
+      "url": "https://arxiv.org/abs/2610.23482",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Susanna Dehò , Francesco Carlo De Vecchi , Paola Morando , Stefania Ugolini; Subjects: Probability (math.PR); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Susanna Dehò , Francesco Carlo De Vecchi , Paola Morando , Stefania Ugolini",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "关于 SDE 变换与相关 Kolmogorov 方程之间的关系",
+      "excerpt_zh": "作者：Susanna Dehò、Francesco Carlo De Vecchi、Paola Morando、Stefania Ugolini；科目：概率（数学.PR）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "14a47915b06e83345e8f",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "Error analysis of a backward L2 method on graded meshes for linear and semilinear subdiffusion equations",
+      "url": "https://arxiv.org/abs/2610.23780",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Natalia Kopteva , Lu Wang; Subjects: Numerical Analysis (math.NA); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Natalia Kopteva , Lu Wang",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "线性和半线性次扩散方程分级网格后向 L2 方法的误差分析",
+      "excerpt_zh": "作者：Natalia Kopteva，王璐；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "8b95950d83ed4feb142a",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "Toward Spectral Deferred Correction Methods for Stochastic Differential Equations",
+      "url": "https://arxiv.org/abs/2610.23693",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Lisa Binkowski , Matthew R. Christian , Sebastian Götschel , Michael L. Minion; Subjects: Numerical Analysis (math.NA); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Lisa Binkowski , Matthew R. Christian , Sebastian Götschel , Michael L. Minion",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "随机微分方程的谱延迟修正方法",
+      "excerpt_zh": "作者：Lisa Binkowski、Matthew R. Christian、Sebastian Götschel、Michael L. Minion；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "a13d772c4d3103e96fbd",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "A Mixed Elliptic--Hyperbolic Monge--Ampère Problem: Modeling and a Least-Squares Solver",
+      "url": "https://arxiv.org/abs/2610.23544",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: G.V. Carvalho , M.J.H. Anthonissen , J.H.M. ten Thije Boonkkamp , L. Kusch , W.L. IJzerman; Subjects: Numerical Analysis (math.NA); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "G.V. Carvalho , M.J.H. Anthonissen , J.H.M. ten Thije Boonkkamp , L. Kusch , W.L. IJzerman",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "混合椭圆--双曲蒙日--安培问题：建模和最小二乘求解器",
+      "excerpt_zh": "作者：G.V.卡瓦略,M.J.H.安东尼森,J.H.M. 10 Thije Boonkkamp、L. Kusch、W.L.艾泽曼；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "61c6f55a5a174a2d226f",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "A Finite Element Method for the Surface Biharmonic Problem without Stabilization or Piola Transforms",
+      "url": "https://arxiv.org/abs/2610.23492",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Jiachen Gu , Xia Ji , Shuo Zhang; Subjects: Numerical Analysis (math.NA); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Jiachen Gu , Xia Ji , Shuo Zhang",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "无需镇定或Piola变换的表面双调和问题的有限元方法",
+      "excerpt_zh": "作者：顾家辰、季夏、张硕；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "bf98e21226824ae6eeae",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "A Structure-Preserving Semi-Lagrangian based bi-fidelity method for the Vlasov--Poisson system with uncertainties",
+      "url": "https://arxiv.org/abs/2610.23484",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Xiaofeng Cai , Jiaojiao Guo , Liu Liu; Subjects: Numerical Analysis (math.NA); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Xiaofeng Cai , Jiaojiao Guo , Liu Liu",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "不确定性Vlasov-Poisson系统的保结构半拉格朗日双保真方法",
+      "excerpt_zh": "作者：蔡晓峰、郭娇娇、刘刘；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "f239bdef04c22c27cbbc",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "Fast matrix-vector products in tensor-train format via structured sketching",
+      "url": "https://arxiv.org/abs/2610.23451",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Alberto Bucci , Stefan Güttel , John W. Pearson; Subjects: Numerical Analysis (math.NA); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Alberto Bucci , Stefan Güttel , John W. Pearson",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "通过结构化草图以张量序列格式快速矩阵向量积",
+      "excerpt_zh": "作者：Alberto Bucci、Stefan Güttel、John W. Pearson；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "b1d292cfc8a8526702bd",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "Accelerated Born series for high-frequency strong scattering by weakly non-radial media",
+      "url": "https://arxiv.org/abs/2610.23428",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Mirza Karamehmedović , Faouzi Triki; Subjects: Numerical Analysis (math.NA); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Mirza Karamehmedović , Faouzi Triki",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "弱非径向介质高频强散射的加速 Born 系列",
+      "excerpt_zh": "作者： Mirza Karamehmedović、Faouzi Triki；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "7a6720cb48408f4e7fd5",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "Explicit Oblique Inverses of the Approximate Discrete Radon Transform",
+      "url": "https://arxiv.org/abs/2610.23363",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Donsub Rim; Subjects: Numerical Analysis (math.NA); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Donsub Rim",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "近似离散Radon变换的显式斜逆",
+      "excerpt_zh": "作者：Donsub Rim；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "167314c32e51c58af7a3",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "A technical note on universal formula pcas",
+      "url": "https://arxiv.org/abs/2610.23365",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Shuwei Wang; Subjects: Logic (math.LO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Shuwei Wang",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "关于通用公式 pcas 的技术说明",
+      "excerpt_zh": "作者：王树伟；科目：逻辑（数学.LO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "bdb9a694154a2a5d4020",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "The Compactness Theorem for Enriched Logic",
+      "url": "https://arxiv.org/abs/2610.23278",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Mark Kamsma , Giacomo Tendas; Subjects: Logic (math.LO) ; Category Theory (math.CT); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Mark Kamsma , Giacomo Tendas",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "丰富逻辑的紧致性定理",
+      "excerpt_zh": "作者：马克·卡姆斯玛 (Mark Kamsma)、贾科莫·坦达斯 (Giacomo Tendas)；科目：逻辑（数学.LO）；范畴论（数学.CT）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "33f649ef03d284883be3",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "Models of Arbitrary Sets",
+      "url": "https://arxiv.org/abs/2610.23219",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Santiago Jockwich , Giorgio Venturi , Pedro Yago; Subjects: Logic (math.LO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Santiago Jockwich , Giorgio Venturi , Pedro Yago",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "任意集模型",
+      "excerpt_zh": "作者：圣地亚哥·约克维奇、乔治·文丘里、佩德罗·亚戈；科目：逻辑（数学.LO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "6e2b59bda8fc4bb26d34",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "Proof Perplexity: A Probabilistic Approach to Measuring non-triviality in Machine Generated Proofs",
+      "url": "https://arxiv.org/abs/2610.22612",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Madhuparna Das , Soumya Banerjee; Subjects: Logic (math.LO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Madhuparna Das , Soumya Banerjee",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "证明困惑：衡量机器生成证明中非平凡性的概率方法",
+      "excerpt_zh": "作者：Madhuparna Das、Soumya Banerjee；科目：逻辑（数学.LO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "0134d35c50028f396bb3",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "A generalised and modular proof-theoretic semantics for sequent systems",
+      "url": "https://arxiv.org/abs/2610.23822",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Victor Barroso-Nascimento , Arghya Chakrabarty , Elaine Pimentel; Subjects: Logic in Computer Science (cs.LO) ; Logic (math.LO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Victor Barroso-Nascimento , Arghya Chakrabarty , Elaine Pimentel",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "序列系统的广义模块化证明理论语义",
+      "excerpt_zh": "作者：维克多·巴罗佐-纳西门托、阿尔吉亚·查克拉巴蒂、伊莱恩·皮门特尔；科目：计算机科学中的逻辑（cs.LO）；逻辑（数学.LO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "f14700907337096af99a",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "Classification of bipartite observables I: stable and uniformly stable observables",
+      "url": "https://arxiv.org/abs/2610.11002",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Eduardo Dueñez , José Iovino; Subjects: Functional Analysis (math.FA) ; Logic (math.LO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Eduardo Dueñez , José Iovino",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "二部观测量的分类 I：稳定和一致稳定的观测量",
+      "excerpt_zh": "作者：爱德华多·杜涅斯 (Eduardo Dueñez)、何塞·伊维诺 (José Iovino)；科目：泛函分析（数学.FA）；逻辑（数学.LO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "fcdba0fc443e283888c8",
+      "source_id": "arxiv-cs-cl",
+      "source": "arXiv · AI for Math · cs.CL",
+      "title": "MGE-PO: Entropy-Aware Credit Assignment for Mathematical Reasoning",
+      "url": "https://arxiv.org/abs/2610.23245",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Jihao Huang , Guangjia Chai , Zhirui Chen , Lei Wang , Yao Liu , Liu Qi , Pengjie Ding , Xinyang Liu , Chengxun Jia , Ling Shao , Hongyu Chen , Junchen Wan; Subjects: Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "paper",
+      "priority": 78,
+      "recency_basis": "announced",
+      "authors": "Jihao Huang , Guangjia Chai , Zhirui Chen , Lei Wang , Yao Liu , Liu Qi , Pengjie Ding , Xinyang Liu , Chengxun Jia , Ling Shao , Hongyu Chen , Junchen Wan",
+      "source_refs": [
+        {
+          "id": "arxiv-cs-cl",
+          "name": "arXiv · AI for Math · cs.CL"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:19:32.729598+00:00",
+      "discovery_score": 97.6,
+      "title_zh": "MGE-PO：数学推理的熵感知信用分配",
+      "excerpt_zh": "Authors: Jihao Huang , Guangjia Chai , Zhirui Chen , Lei Wang , Yao Liu , Liu Qi , Pengjie Ding , Xinyang Liu , Chengxun Jia , Ling Shao , Hongyu Chen , Junchen Wan; Subjects: Computation and Language (cs.CL) ; Artificial Intelligence (cs.AI); This listing provides paper metadata; open the original for the abstract."
+    },
+    {
+      "id": "411f7672b4d855fa1aa3",
+      "source_id": "arxiv-math-nt",
+      "source": "arXiv · 数论",
+      "title": "A duality principle for the neighbourhood of manifolds and applications to counting rational points near curves",
+      "url": "https://arxiv.org/abs/2610.23797",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Lauritz Streck; Subjects: Number Theory (math.NT) ; Differential Geometry (math.DG); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Lauritz Streck",
+      "source_refs": [
+        {
+          "id": "arxiv-math-nt",
+          "name": "arXiv · 数论"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:24:55.874520+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "流形邻域的对偶原理及其在计算曲线附近有理点的应用",
+      "excerpt_zh": "作者：劳里茨·斯特雷克；科目：数论（数学.NT）；微分几何（math.DG）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "9e14d38ef5bc3a665133",
+      "source_id": "arxiv-math-nt",
+      "source": "arXiv · 数论",
+      "title": "Near optimal gap in the Lonely Runner Conjecture",
+      "url": "https://arxiv.org/abs/2610.23790",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Xiyu Hu , Yifan Jing; Subjects: Number Theory (math.NT) ; Combinatorics (math.CO); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Xiyu Hu , Yifan Jing",
+      "source_refs": [
+        {
+          "id": "arxiv-math-nt",
+          "name": "arXiv · 数论"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:24:55.874520+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "孤独跑步者猜想中接近最优的间隙",
+      "excerpt_zh": "作者：胡希宇、景一凡；科目：数论（数学.NT）；组合数学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "120d8f949194ebe9e109",
+      "source_id": "arxiv-math-nt",
+      "source": "arXiv · 数论",
+      "title": "The distribution of $αp$ modulo one in real quadratic function fields",
+      "url": "https://arxiv.org/abs/2610.23742",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Esrafil Ali Molla; Subjects: Number Theory (math.NT); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Esrafil Ali Molla",
+      "source_refs": [
+        {
+          "id": "arxiv-math-nt",
+          "name": "arXiv · 数论"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:24:55.874520+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "实二次函数域中 $αp$ 模一的分布",
+      "excerpt_zh": "作者：埃斯拉菲尔·阿里·莫拉；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "dd8ca9fac0019e119a03",
+      "source_id": "arxiv-math-nt",
+      "source": "arXiv · 数论",
+      "title": "Confluence relations, Hoffman basis over \\mathbb{Z}_{(2)}, and the Deligne--Drinfeld conjecture",
+      "url": "https://arxiv.org/abs/2610.23719",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Minoru Hirose; Subjects: Number Theory (math.NT) ; Quantum Algebra (math.QA); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Minoru Hirose",
+      "source_refs": [
+        {
+          "id": "arxiv-math-nt",
+          "name": "arXiv · 数论"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:24:55.874520+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "汇合关系、\\mathbb{Z}_{(2)} 上的霍夫曼基础以及德利涅​​--德林菲尔德猜想",
+      "excerpt_zh": "作者： 广濑稔；科目：数论（数学.NT）；量子代数（数学.QA）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "ffc797bc6da267b410e7",
+      "source_id": "arxiv-math-nt",
+      "source": "arXiv · 数论",
+      "title": "Cuspidal Class Number Formulae for Intermediate Modular Curves of Prime Level",
+      "url": "https://arxiv.org/abs/2610.23690",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Elvira Lupoian; Subjects: Number Theory (math.NT); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Elvira Lupoian",
+      "source_refs": [
+        {
+          "id": "arxiv-math-nt",
+          "name": "arXiv · 数论"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:24:55.874520+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "素能级中间模曲线的尖级数公式"
+    },
+    {
+      "id": "35fe71d48dc6c40acd43",
+      "source_id": "arxiv-math-nt",
+      "source": "arXiv · 数论",
+      "title": "Fourier dimension for exactly approximable matrices",
+      "url": "https://arxiv.org/abs/2610.23680",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Yubin He , Bixuan Li , Baowei Wang; Subjects: Number Theory (math.NT); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Yubin He , Bixuan Li , Baowei Wang",
+      "source_refs": [
+        {
+          "id": "arxiv-math-nt",
+          "name": "arXiv · 数论"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:24:55.874520+00:00",
+      "discovery_score": 91.6,
+      "title_zh": "精确逼近矩阵的傅立叶维数"
+    },
+    {
+      "id": "1168e15cdd5c090e078d",
+      "source_id": "arxiv-math-nt",
+      "source": "arXiv · 数论",
+      "title": "On a series related to the Möbius function",
+      "url": "https://arxiv.org/abs/2610.23660",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Deep Thakur; Subjects: Number Theory (math.NT); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Deep Thakur",
+      "source_refs": [
+        {
+          "id": "arxiv-math-nt",
+          "name": "arXiv · 数论"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:24:55.874520+00:00",
+      "discovery_score": 91.6,
+      "excerpt_zh": "作者：深·塔库尔；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
+    {
+      "id": "034bf564920dda740664",
+      "source_id": "arxiv-math-nt",
+      "source": "arXiv · 数论",
+      "title": "Lifting mod $p^n$ Galois representations",
+      "url": "https://arxiv.org/abs/2610.23579",
+      "published_at": "2026-10-19T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Authors: Stefan Nikoloski , Stefan Patrikis; Subjects: Number Theory (math.NT); This listing provides paper metadata; open the original for the abstract.",
+      "summary_kind": "source_metadata",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Stefan Nikoloski , Stefan Patrikis",
+      "source_refs": [
+        {
+          "id": "arxiv-math-nt",
+          "name": "arXiv · 数论"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:24:55.874520+00:00",
+      "discovery_score": 91.6,
+      "excerpt_zh": "作者：Stefan Nikoloski、Stefan Patrikis；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
+    },
     {
       "id": "992b3336a4c5693d2d10",
       "source_id": "proofsandprompts",
@@ -89,7 +1756,20 @@
       "excerpt": "“It has been two months since we started Proofs and Prompts. Once again thanks everyone for making it an active platform, we hope the conversations happening here will help build what mathematics will look like tomorrow. We take advantage of this new post to announce two new features that we would like to launch: […]”",
       "summary_kind": "source_excerpt",
       "domain": "mathematics",
-      "first_seen_at": "2026-10-18T17:03:36.783853+00:00",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "discussion",
+      "priority": 65,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 83.8,
       "title_zh": "两个月的证据和提示：论坛、民意调查和审核",
       "excerpt_zh": "“自我们启动证明和提示以来已经两个月了。再次感谢大家使其成为一个活跃的平台，我们希望在这里发生的对话将有助于构建明天的数学。我们利用这篇新文章宣布我们想要推出的两项新功能：[...]”"
     },
@@ -104,7 +1784,21 @@
       "excerpt": "[This is a guest post by Francesco Maggi. This blog post was initially written in a different file format and converted using AI. — T.] Large language models (LLMs) and the research systems built around them (and commonly known as “artificial intelligence”) have demonstrated remarkable abilities in generating mathematical proofs. While the quality and limits […]",
       "summary_kind": "source_excerpt",
       "domain": "mathematics",
-      "first_seen_at": "2026-10-18T15:03:58.649461+00:00",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "content_type": "discussion",
+      "priority": 65,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 83.6,
       "title_zh": "这将是数学（和科学）的黄金时代还是黑暗时代？",
       "excerpt_zh": "[这是 Francesco Maggi 的客座文章。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 — T.] 大型语言模型（LLM）和围绕它们构建的研究系统（通常称为“人工智能”）在生成数学证明方面表现出了非凡的能力。虽然质量和限制 [...]"
     },
@@ -121,7 +1815,21 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T12:39:19.925617+00:00",
       "title_zh": "谁将领导数学人工智能？",
-      "excerpt_zh": "“我不断想起今年夏天的一个小插曲。在美国国家科学院组织人工智能和形式化时代的数学知识会议上，大卫·斯佩格尔讨论了日本参与能源部创世任务的情况。[……]”"
+      "excerpt_zh": "“我不断想起今年夏天的一个小插曲。在美国国家科学院组织人工智能和形式化时代的数学知识会议上，大卫·斯佩格尔讨论了日本参与能源部创世任务的情况。[……]”",
+      "topics": [
+        "ai_math",
+        "formal"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "discussion",
+      "priority": 65,
+      "recency_basis": "published",
+      "discovery_score": 83.2
     },
     {
       "id": "d745a41d75c7671b112d",
@@ -136,7 +1844,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T12:39:19.925617+00:00",
       "title_zh": "黑暗森林中的数学",
-      "excerpt_zh": "开放的问题清单是在你的领域上绘制的靶心。"
+      "excerpt_zh": "开放的问题清单是在你的领域上绘制的靶心。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 108.1
     },
     {
       "id": "6edf9b592a217e246a45",
@@ -151,7 +1872,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "开始写新日记",
-      "excerpt_zh": "[这是郭绍明的客座文章 - T.] 我和几位数学同事正准备推出一本新期刊。当我们考虑希望期刊坚持哪些价值观时，我们意识到作为一个社区可能还有许多其他价值观值得探索，可能通过创建更多期刊来探索。我们 […]"
+      "excerpt_zh": "[这是郭绍明的客座文章 - T.] 我和几位数学同事正准备推出一本新期刊。当我们考虑希望期刊坚持哪些价值观时，我们意识到作为一个社区可能还有许多其他价值观值得探索，可能通过创建更多期刊来探索。我们 […]",
+      "topics": [
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "content_type": "discussion",
+      "priority": 65,
+      "recency_basis": "published",
+      "discovery_score": 82.5
     },
     {
       "id": "ebe73f53c046759d9f50",
@@ -166,7 +1900,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "我最近的一些演讲和采访",
-      "excerpt_zh": "正如该博客的读者毫无疑问注意到的那样，我最近将此博客上的大部分内容移交给了其他作者的客座帖子，无论是在数学社区内还是与数学社区相邻。在这篇文章中，我记录了我自己这段时间的谈话和采访的一些内容。 “这 […]"
+      "excerpt_zh": "正如该博客的读者毫无疑问注意到的那样，我最近将此博客上的大部分内容移交给了其他作者的客座帖子，无论是在数学社区内还是与数学社区相邻。在这篇文章中，我记录了我自己这段时间的谈话和采访的一些内容。 “这 […]",
+      "topics": [
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "content_type": "discussion",
+      "priority": 65,
+      "recency_basis": "published",
+      "discovery_score": 81.6
     },
     {
       "id": "14b41c7aba741c71172f",
@@ -181,6 +1928,19 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "excerpt_zh": "“我们与人工智能的一些聊天可以成为训练数据。即使人工智能方法没有另一项突破，一个简单的魔术也是可能的：一台机器将从未相互交谈过的数学家的想法联系起来并产生一个解决方案。[…]”",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "discussion",
+      "priority": 65,
+      "recency_basis": "published",
+      "discovery_score": 81.4,
       "title_zh": "你越恐慌，你就越喂食通灵兽"
     },
     {
@@ -196,7 +1956,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "并行化人工智能和人类理解以及其他想法",
-      "excerpt_zh": "“数学人工智能现在是一个热门话题，因为它已被证明是强大的，但在很多方面也存在争议。这是我对当今最突出的讨论点的想法的总结：[...]”"
+      "excerpt_zh": "“数学人工智能现在是一个热门话题，因为它已被证明是强大的，但在很多方面也存在争议。这是我对当今最突出的讨论点的想法的总结：[...]”",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 106.1
     },
     {
       "id": "e1e0811edc2be48229e7",
@@ -211,7 +1984,21 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "SAIR 开放数学操作系统发布",
-      "excerpt_zh": "正如几周前宣布的那样，SAIR 开放数学操作系统现已软启动。它提供与前沿 AI 模型类似的服务和 Web 界面，尽管目前我们正在托管现有的开放数学模型（DeepSeek V4.1 Flash、Kimi K3 和 GLM 5.3 Flash），这些模型比当前前沿大约落后一年左右 [...]"
+      "excerpt_zh": "正如几周前宣布的那样，SAIR 开放数学操作系统现已软启动。它提供与前沿 AI 模型类似的服务和 Web 界面，尽管目前我们正在托管现有的开放数学模型（DeepSeek V4.1 Flash、Kimi K3 和 GLM 5.3 Flash），这些模型比当前前沿大约落后一年左右 [...]",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 104.9
     },
     {
       "id": "ccd1781dc7faae562af4",
@@ -226,7 +2013,21 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "如何形式化所有数学",
-      "excerpt_zh": "Jeremy Avigad、Kevin Buzzard、Johan Commelin、Rémy Degenne、Kim Morrison、Oliver Nash 和 Adam Topaz 在 Kevin Buzzard 的博客上撰写了一篇题为“如何形式化所有数学”的博文，内容涉及最近自动形式化整个数学文献的提议。有关正式数学的问题与有关非正式数学的问题是平行的[...]"
+      "excerpt_zh": "Jeremy Avigad、Kevin Buzzard、Johan Commelin、Rémy Degenne、Kim Morrison、Oliver Nash 和 Adam Topaz 在 Kevin Buzzard 的博客上撰写了一篇题为“如何形式化所有数学”的博文，内容涉及最近自动形式化整个数学文献的提议。有关正式数学的问题与有关非正式数学的问题是平行的[...]",
+      "topics": [
+        "formal",
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 104.7
     },
     {
       "id": "ab756db4c3503c2fd712",
@@ -241,7 +2042,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "AI融合美食：论Jacob Tsimerman的最新研究文章",
-      "excerpt_zh": "最意想不到的非人工智能研究来源。"
+      "excerpt_zh": "最意想不到的非人工智能研究来源。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 104.6
     },
     {
       "id": "742930d89f587c1c2d2b",
@@ -256,7 +2070,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "论数学论文中的人工智能陈述",
-      "excerpt_zh": "“在过去的一年里，许多人雄辩地详细阐述了生成式人工智能（大型语言模型或法学硕士）在研究数学方面不断提高的能力。各种观点从消极到积极，但所有人似乎都同意数学正在经历一个巨大变革的时期 [...]”"
+      "excerpt_zh": "“在过去的一年里，许多人雄辩地详细阐述了生成式人工智能（大型语言模型或法学硕士）在研究数学方面不断提高的能力。各种观点从消极到积极，但所有人似乎都同意数学正在经历一个巨大变革的时期 [...]”",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 104.5
     },
     {
       "id": "1c05fe7a88bac5fe0195",
@@ -271,7 +2098,21 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "我们应该对人工智能带来的灭绝风险有多担心？",
-      "excerpt_zh": "两个多月前，雅各布·齐默曼 (Jacob Tsimerman) 在获得菲尔兹奖后立即宣布，他将放弃数学研究并“转向人工智能安全”，这让很多人感到惊讶。他这样做有两个原因：他认为 [...] 中的此类研究没有太大前景。"
+      "excerpt_zh": "两个多月前，雅各布·齐默曼 (Jacob Tsimerman) 在获得菲尔兹奖后立即宣布，他将放弃数学研究并“转向人工智能安全”，这让很多人感到惊讶。他这样做有两个原因：他认为 [...] 中的此类研究没有太大前景。",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "gowers",
+          "name": "Gowers’s Weblog"
+        }
+      ],
+      "content_type": "discussion",
+      "priority": 65,
+      "recency_basis": "published",
+      "discovery_score": 79.4
     },
     {
       "id": "866033906e670fd4912a",
@@ -286,7 +2127,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "如何形式化所有数学",
-      "excerpt_zh": "（这是一篇由 Jeremy Avigad、Kevin Buzzard、Johan Commelin、Rémy Degenne、Kim Morrison、Oliver Nash 和 Adam Topaz 撰写的客座文章。）数学家对上周 OpenAI 重大发布的反应从兴奋到沮丧，但有一件事是明确的：…… 继续阅读 →"
+      "excerpt_zh": "（这是一篇由 Jeremy Avigad、Kevin Buzzard、Johan Commelin、Rémy Degenne、Kim Morrison、Oliver Nash 和 Adam Topaz 撰写的客座文章。）数学家对上周 OpenAI 重大发布的反应从兴奋到沮丧，但有一件事是明确的：…… 继续阅读 →",
+      "topics": [
+        "formal"
+      ],
+      "source_refs": [
+        {
+          "id": "xena",
+          "name": "Xena Project"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 104.4
     },
     {
       "id": "5ffd06842db4a60e0466",
@@ -301,7 +2155,21 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "我们为什么要做这一切？",
-      "excerpt_zh": "[这是 Rikab Gambhir 的客座文章。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 — T.] 首先，他们是冲着艺术家来的，我没有说话，因为我不是艺术家。然后，他们来抓数学家，我没有说话，[…]"
+      "excerpt_zh": "[这是 Rikab Gambhir 的客座文章。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 — T.] 首先，他们是冲着艺术家来的，我没有说话，因为我不是艺术家。然后，他们来抓数学家，我没有说话，[…]",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 103.6
     },
     {
       "id": "ac21d685b48a0e6dd78b",
@@ -316,7 +2184,49 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "西蒙斯基金会投入 1500 万美元帮助数学家驾驭人工智能时代",
-      "excerpt_zh": "西蒙斯基金会发布新新闻稿，呼吁举办以人工智能时代数学为中心的研讨会和其他举措。"
+      "excerpt_zh": "西蒙斯基金会发布新新闻稿，呼吁举办以人工智能时代数学为中心的研讨会和其他举措。",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 103.4
+    },
+    {
+      "id": "467c8e42acb6bdc9ebe7",
+      "source_id": "msr-math",
+      "source": "Microsoft Research · 数学与证明",
+      "title": "Proof-based general-purpose computing with Magnetar",
+      "url": "https://www.microsoft.com/en-us/research/blog/proof-based-general-purpose-computing-with-magnetar",
+      "published_at": "2026-10-15T16:00:00+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Zero-knowledge proofs can verify computing results without rerunning workloads or exposing sensitive data. Magnetar helps bring them into the mainstream with support for standard programming languages, major speed gains, and quantum-resistant security. The post Proof-based general-purpose computing with Magnetar appeared first on Microsoft Research .",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "research",
+      "priority": 84,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "msr-math",
+          "name": "Microsoft Research · 数学与证明"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 97.4,
+      "title_zh": "使用 Magnetar 进行基于证明的通用计算",
+      "excerpt_zh": "零知识证明可以验证计算结果，而无需重新运行工作负载或暴露敏感数据。 Magnetar 通过支持标准编程语言、大幅提升速度和抗量子安全性，帮助它们进入主流。使用 Magnetar 进行基于证明的通用计算首先出现在 Microsoft Research 上。"
     },
     {
       "id": "b0d9693ac6bf29b92df4",
@@ -331,7 +2241,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "纳维-斯托克斯公告：数学值的案例研究",
-      "excerpt_zh": "2026 年 9 月 8 日，OpenAI 宣布解决 Navier-Stokes 问题。如果宣布解决方案，我原以为会感到兴奋。相反，我的反应是悲伤和厌恶。我将利用这一公告来探索我的反应背后的普遍人类欲望，我希望以一种超越数学家的方式。"
+      "excerpt_zh": "2026 年 9 月 8 日，OpenAI 宣布解决 Navier-Stokes 问题。如果宣布解决方案，我原以为会感到兴奋。相反，我的反应是悲伤和厌恶。我将利用这一公告来探索我的反应背后的普遍人类欲望，我希望以一种超越数学家的方式。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 103.3
     },
     {
       "id": "424c75895e4297fec95e",
@@ -346,7 +2269,21 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "证明与解决：两种不同的成立形式",
-      "excerpt_zh": "“能够自动进行形式陈述翻译和机械证明生成的人工智能系统的快速升级，引发了数学实践中认识论的转变。虽然平台可以自信地验证密集的、数百万步的形式证明对象，但机械正确性和人类数学理解之间出现了明显的分歧。[…]”"
+      "excerpt_zh": "“能够自动进行形式陈述翻译和机械证明生成的人工智能系统的快速升级，引发了数学实践中认识论的转变。虽然平台可以自信地验证密集的、数百万步的形式证明对象，但机械正确性和人类数学理解之间出现了明显的分歧。[…]”",
+      "topics": [
+        "ai_math",
+        "formal"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 103.1
     },
     {
       "id": "c7bdc8f9a5167dc96fca",
@@ -361,7 +2298,21 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "故事征集：人类与人工智能在近期数学领域的合作",
-      "excerpt_zh": "[这是 Deanna Needell 和 Hayden Schaeffer – T. 的客座文章] [编辑：2026 年 10 月 16 日：我们对数学家在最近人工智能生成的预印本浪潮中对结果做出贡献的方式特别感兴趣，例如初步结果、与人工智能模型的交互、出版物等]人工智能系统在[...]中发挥着重要作用"
+      "excerpt_zh": "[这是 Deanna Needell 和 Hayden Schaeffer – T. 的客座文章] [编辑：2026 年 10 月 16 日：我们对数学家在最近人工智能生成的预印本浪潮中对结果做出贡献的方式特别感兴趣，例如初步结果、与人工智能模型的交互、出版物等]人工智能系统在[...]中发挥着重要作用",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 102.6
     },
     {
       "id": "d7e275fc5442482a97d6",
@@ -376,7 +2327,49 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "使用 GPT-6.1 Sol 搜索数学论文中的错误",
-      "excerpt_zh": "在最近的 arXiv 论文中寻找核心定理的反例。"
+      "excerpt_zh": "在最近的 arXiv 论文中寻找核心定理的反例。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "matharena",
+          "name": "MathArena"
+        }
+      ],
+      "content_type": "benchmark",
+      "priority": 88,
+      "recency_basis": "published",
+      "discovery_score": 100.6
+    },
+    {
+      "id": "392275adfd03b81aeb8b",
+      "source_id": "lean4-releases",
+      "source": "Lean 4 · Releases",
+      "title": "v4.36.0-rc1",
+      "url": "https://github.com/leanprover/lean4/releases/tag/v4.36.0-rc1",
+      "published_at": "2026-10-14T18:34:54+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is release candidate 1 for the v4.36.0 release of Lean. View the release notes for more information.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "recency_basis": "updated",
+      "source_refs": [
+        {
+          "id": "lean4-releases",
+          "name": "Lean 4 · Releases"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 94.3,
+      "title_zh": "v4.36.0-rc1",
+      "excerpt_zh": "这是 Lean v4.36.0 版本的候选版本 1。查看发行说明以获取更多信息。"
     },
     {
       "id": "e40692298145888e9c1f",
@@ -391,7 +2384,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "第一个证明，第三批网络研讨会",
-      "excerpt_zh": "简单说明一下，First Proof 将于今天下午 3 点由 ICARM 主办的东部时间网络研讨会上宣布“第三批”评估结果。 （需要注册。）"
+      "excerpt_zh": "简单说明一下，First Proof 将于今天下午 3 点由 ICARM 主办的东部时间网络研讨会上宣布“第三批”评估结果。 （需要注册。）",
+      "topics": [
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 102.1
     },
     {
       "id": "15a41a24b04db640c90d",
@@ -406,7 +2412,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "数学后生活的一封信",
-      "excerpt_zh": "匿名 你好。我说“再次”并不是因为我个人对你们很熟悉，而是因为某种类型应该是——\\text{\\textemdash}，而我也正是为这种类型拥有发言权。你可能已经忘记了我们，但不久前我们分享了你的教室、自习室和深夜习题集。但是尽管 […]"
+      "excerpt_zh": "匿名 你好。我说“再次”并不是因为我个人对你们很熟悉，而是因为某种类型应该是——\\text{\\textemdash}，而我也正是为这种类型拥有发言权。你可能已经忘记了我们，但不久前我们分享了你的教室、自习室和深夜习题集。但是尽管 […]",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 102.1
     },
     {
       "id": "968348b01792aa20b231",
@@ -421,7 +2440,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "数学家、人工智能和历史档案",
-      "excerpt_zh": "如果明天这本书被发现怎么办？我们数学家是否会为眼前的盛宴欢呼雀跃，渴望更好地理解我们最著名的定理？"
+      "excerpt_zh": "如果明天这本书被发现怎么办？我们数学家是否会为眼前的盛宴欢呼雀跃，渴望更好地理解我们最著名的定理？",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 102.0
     },
     {
       "id": "37652ea92a354a20cabb",
@@ -436,7 +2468,48 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "辩证法定理",
-      "excerpt_zh": "我们认为数学的未来是人工智能在几乎所有技术任务上都可能超越人类数学家的世界中的一种职业。通过非正式对话，我们探讨了为什么人类数学专业知识仍然有价值，大学应该培养什么样的专业知识，以及研究生教育如何适应。我们还讨论了制度和经济的不确定性，这些不确定性威胁着蓬勃发展的数学职业的持续存在，即使人类数学理解的价值持续存在。"
+      "excerpt_zh": "我们认为数学的未来是人工智能在几乎所有技术任务上都可能超越人类数学家的世界中的一种职业。通过非正式对话，我们探讨了为什么人类数学专业知识仍然有价值，大学应该培养什么样的专业知识，以及研究生教育如何适应。我们还讨论了制度和经济的不确定性，这些不确定性威胁着蓬勃发展的数学职业的持续存在，即使人类数学理解的价值持续存在。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 101.9
+    },
+    {
+      "id": "cd130ac937dab1fd0679",
+      "source_id": "gil-kalai",
+      "source": "Gil Kalai · Combinatorics and more",
+      "title": "The Most Outrageous Conjecture in the World",
+      "url": "https://gilkalai.wordpress.com/2026/10/14/the-most-outrageous-conjecture-in-the-world",
+      "published_at": "2026-10-13T23:36:56+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Donald Knuth, Enrico Bombieri, and Julia Robinson. Ten years ago I asked a question on MathOverflow about The most outrageous (or ridiculous) conjectures in mathematics. It led to a nice list of many outrageous conjectures. Here I would like to … Continue reading →",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "gil-kalai",
+          "name": "Gil Kalai · Combinatorics and more"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 94.5,
+      "title_zh": "世界上最离奇的猜想",
+      "excerpt_zh": "唐纳德·高德纳、恩里科·邦别里和朱莉娅·罗宾逊。十年前，我在 MathOverflow 上提出了一个关于数学中最离谱（或最荒谬）的猜想的问题。这导致了一系列令人震惊的猜想。在这里我想……继续阅读→"
     },
     {
       "id": "1608daeffb655ac26ea8",
@@ -451,7 +2524,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "2026 年 AMS 教育委员会研讨会报告",
-      "excerpt_zh": "这有点迟了，但是：10 月 2 日，美国数学会根据其最近组织的数学科学研究生教育主题研讨会发布了一份报告。 （如果最近出现了博客中尚未提及的其他此类报告，请随时 [...]"
+      "excerpt_zh": "这有点迟了，但是：10 月 2 日，美国数学会根据其最近组织的数学科学研究生教育主题研讨会发布了一份报告。 （如果最近出现了博客中尚未提及的其他此类报告，请随时 [...]",
+      "topics": [
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 101.4
     },
     {
       "id": "d90364ec38acf863e8d7",
@@ -466,7 +2552,21 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "认股权证、恐龙骨头以及用人工智能解决猜想",
-      "excerpt_zh": "我最近参加了 Lean Zulip 上的一场对话，讨论使用人工智能和证明助手（在本例中为 Lean）解决猜想时该怎么做。这是我从那里的讨论中得出的看法和结论。"
+      "excerpt_zh": "我最近参加了 Lean Zulip 上的一场对话，讨论使用人工智能和证明助手（在本例中为 Lean）解决猜想时该怎么做。这是我从那里的讨论中得出的看法和结论。",
+      "topics": [
+        "ai_math",
+        "formal"
+      ],
+      "source_refs": [
+        {
+          "id": "proofsandprompts",
+          "name": "Proofs and Prompts"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 101.1
     },
     {
       "id": "da7ad0fe38309d292a01",
@@ -481,7 +2581,78 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "这是正常的糟糕工作",
-      "excerpt_zh": "[这是 Sophie Huiberts 的客座帖子，是她自己博客上的帖子的扩展版本。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 — T.] 当你证明一个定理时，你就被赋予了对数学领域的责任。至少你需要[...]"
+      "excerpt_zh": "[这是 Sophie Huiberts 的客座帖子，是她自己博客上的帖子的扩展版本。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 — T.] 当你证明一个定理时，你就被赋予了对数学领域的责任。至少你需要[...]",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "terrytao",
+          "name": "Terence Tao — What’s New"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 100.8
+    },
+    {
+      "id": "3722d2bd5bf45d4319a8",
+      "source_id": "lean4-releases",
+      "source": "Lean 4 · Releases",
+      "title": "v4.35.0",
+      "url": "https://github.com/leanprover/lean4/releases/tag/v4.35.0",
+      "published_at": "2026-10-12T18:26:02+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is the v4.35.0 release of Lean. View the release notes for more information.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "recency_basis": "updated",
+      "source_refs": [
+        {
+          "id": "lean4-releases",
+          "name": "Lean 4 · Releases"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 92.5,
+      "title_zh": "v4.35.0",
+      "excerpt_zh": "这是 Lean 的 v4.35.0 版本。查看发行说明以获取更多信息。"
+    },
+    {
+      "id": "ca946f1238ba7f960eed",
+      "source_id": "msr-math",
+      "source": "Microsoft Research · 数学与证明",
+      "title": "Simulating student learning for better AI tutoring",
+      "url": "https://www.microsoft.com/en-us/research/blog/simulating-student-learning-for-better-ai-tutoring",
+      "published_at": "2026-10-12T16:00:00+00:00",
+      "date_precision": "datetime",
+      "excerpt": "StudentSim is a research system for evaluating and improving AI tutoring tools before they are tested with learners. It models how individuals may engage with tutors, giving feedback to improve tutor performance across subjects like chess, writing, and mathematics. The post Simulating student learning for better AI tutoring appeared first on Microsoft Research .",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "research",
+      "priority": 84,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "msr-math",
+          "name": "Microsoft Research · 数学与证明"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 94.4,
+      "title_zh": "模拟学生学习以获得更好的人工智能辅导",
+      "excerpt_zh": "StudentSim 是一个研究系统，用于在对学习者进行测试之前评估和改进人工智能辅导工具。它模拟了个人如何与导师互动，提供反馈以提高导师在国际象棋、写作和数学等科目上的表现。模拟学生学习以获得更好的人工智能辅导一文首先出现在微软研究院。"
     },
     {
       "id": "2fc949e122f2cdb4773a",
@@ -496,7 +2667,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "每个字段上 3 × 3 矩阵乘法的下限为 21",
-      "excerpt_zh": "已证明·代数复杂性；精确的双线性复杂度和张量秩 · 使用 GPT-6 Astra (gpt-6-astra)，使用 GPT-6 Sol (gpt-6-sol) 进行部分工作 · 重要性 30/100。对于域 K，将两个任意 3\\times3 矩阵精确相乘所需的输入线性形式的乘积的最小数量 r 是多少？等价地，对于每对 A,B，具有 K 线性形式 a_i,b_i 和固定矩阵 W_i 的恒等式 AB=\\sum_{i=1}^{r}a_i(A)b_i(B)W_i 中 r 可以有多小？最小值是精确的双线性复杂度 R_K\\langle3,3,3\\rangle。哪个下界在所有领域都一致成立？"
+      "excerpt_zh": "已证明·代数复杂性；精确的双线性复杂度和张量秩 · 使用 GPT-6 Astra (gpt-6-astra)，使用 GPT-6 Sol (gpt-6-sol) 进行部分工作 · 重要性 30/100。对于域 K，将两个任意 3\\times3 矩阵精确相乘所需的输入线性形式的乘积的最小数量 r 是多少？等价地，对于每对 A,B，具有 K 线性形式 a_i,b_i 和固定矩阵 W_i 的恒等式 AB=\\sum_{i=1}^{r}a_i(A)b_i(B)W_i 中 r 可以有多小？最小值是精确的双线性复杂度 R_K\\langle3,3,3\\rangle。哪个下界在所有领域都一致成立？",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 95.3
     },
     {
       "id": "fe5e7567172394d318d2",
@@ -511,7 +2695,49 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "Dow-Tkachuk 问题 4.8：C_p(X) 中的伪完全可数闭包迫使 X 成为 P 空间",
-      "excerpt_zh": "已证明·一般拓扑； $C_p$-理论 · 与 ChatGPT Astra（证明）； Claude Opus 5.5（精益形式化）·重要性 8/100。 Dow 和 Tkachuk 提出问题（问题 4.8）：假设对于每个可数 A \\子集 C_p(X)，A 的闭包是伪完全的。吉洪诺夫空间 X 一定是 P 空间吗？这里 C_p(X) 是 X 上连续实值函数的空间，具有逐点收敛的拓扑，伪完备性是 Oxtoby 意义上的（一系列 pi 基，每个闭包嵌套选择都沿着该序列具有非空交集），并且 P 空间是其中每个 G_\\delta 集都是开集的空间。"
+      "excerpt_zh": "已证明·一般拓扑； $C_p$-理论 · 与 ChatGPT Astra（证明）； Claude Opus 5.5（精益形式化）·重要性 8/100。 Dow 和 Tkachuk 提出问题（问题 4.8）：假设对于每个可数 A \\子集 C_p(X)，A 的闭包是伪完全的。吉洪诺夫空间 X 一定是 P 空间吗？这里 C_p(X) 是 X 上连续实值函数的空间，具有逐点收敛的拓扑，伪完备性是 Oxtoby 意义上的（一系列 pi 基，每个闭包嵌套选择都沿着该序列具有非空交集），并且 P 空间是其中每个 G_\\delta 集都是开集的空间。",
+      "topics": [
+        "ai_math",
+        "formal"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 95.3
+    },
+    {
+      "id": "5043097199e68311a523",
+      "source_id": "gil-kalai",
+      "source": "Gil Kalai · Combinatorics and more",
+      "title": "Test Your Human Intuition 60: The Finite and Infinite Borsuk’s Problem",
+      "url": "https://gilkalai.wordpress.com/2026/10/11/test-your-intuition-60-the-finite-and-infinite-borsuks-conjecture",
+      "published_at": "2026-10-11T00:16:21+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Let f(d) be the smallest integer so that every set of diameter one in can be covered by f(d) sets of smaller diameter. Let g(d) be the smallest integer so that every finite set of diameter one in can be … Continue reading →",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "gil-kalai",
+          "name": "Gil Kalai · Combinatorics and more"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 92.3,
+      "title_zh": "测试你的人类直觉 60：有限和无限 Borsuk 问题",
+      "excerpt_zh": "令 f(d) 为最小整数，以便每组直径为 1 的组都可以被 f(d) 组更小的直径覆盖。设 g(d) 为最小整数，使得直径为 1 的每个有限集合可以... 继续阅读 →"
     },
     {
       "id": "8faa0f35a6c940e0e083",
@@ -526,7 +2752,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "简单连通平面 Lipschitz 域上的严格 Neumann Pólya 不等式",
-      "excerpt_zh": "已证明 · 谱几何 · 使用 ChatGPT；亚里士多德；法典·重要性 42/100。诺依曼波利亚猜想对于每个有界、连通的平面 Lipschitz 域 \\Omega\\subset\\mathbb R^2 是否成立？更准确地说，|\\Omega|\\mu_j(\\Omega)\\le 4\\pi j \\qquad(j\\ge1) 是否正确，其中 0=\\mu_0(\\Omega)<\\mu_1(\\Omega)\\le\\mu_2(\\Omega)\\le\\cdots 是 \\Omega 的诺伊曼特征值，以重数计算？"
+      "excerpt_zh": "已证明 · 谱几何 · 使用 ChatGPT；亚里士多德；法典·重要性 42/100。诺依曼波利亚猜想对于每个有界、连通的平面 Lipschitz 域 \\Omega\\subset\\mathbb R^2 是否成立？更准确地说，|\\Omega|\\mu_j(\\Omega)\\le 4\\pi j \\qquad(j\\ge1) 是否正确，其中 0=\\mu_0(\\Omega)<\\mu_1(\\Omega)\\le\\mu_2(\\Omega)\\le\\cdots 是 \\Omega 的诺伊曼特征值，以重数计算？",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 93.4
     },
     {
       "id": "e359c54fffde9cac8492",
@@ -541,7 +2780,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "简单连通平面域上的严格 Dirichlet Pólya 不等式",
-      "excerpt_zh": "已证明 · 谱几何 · 使用 ChatGPT；亚里士多德；法典·重要性 45/100。狄利克雷波利亚猜想对于每个有界平面域 \\Omega\\subset\\mathbb R^2 是否成立？等价地，是否有 4\\pi j\\leq |\\Omega|\\lambda_j(\\Omega) \\qquad(j\\ge1)，其中 \\lambda_j(\\Omega) 表示 \\Omega 的第 j 个狄利克雷特征值（以重数计算）？"
+      "excerpt_zh": "已证明 · 谱几何 · 使用 ChatGPT；亚里士多德；法典·重要性 45/100。狄利克雷波利亚猜想对于每个有界平面域 \\Omega\\subset\\mathbb R^2 是否成立？等价地，是否有 4\\pi j\\leq |\\Omega|\\lambda_j(\\Omega) \\qquad(j\\ge1)，其中 \\lambda_j(\\Omega) 表示 \\Omega 的第 j 个狄利克雷特征值（以重数计算）？",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 93.4
     },
     {
       "id": "00bd11a46b2915af3e75",
@@ -556,7 +2808,48 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "法学硕士可以为 MathArena 撰写有趣且新颖的博客文章吗？",
-      "excerpt_zh": "我们回顾了四个试图为 MathArena 撰写有趣的新博客文章的代理的输出。"
+      "excerpt_zh": "我们回顾了四个试图为 MathArena 撰写有趣的新博客文章的代理的输出。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "matharena",
+          "name": "MathArena"
+        }
+      ],
+      "content_type": "benchmark",
+      "priority": 88,
+      "recency_basis": "published",
+      "discovery_score": 95.7
+    },
+    {
+      "id": "e9db1a229f2ee0f1e912",
+      "source_id": "gil-kalai",
+      "source": "Gil Kalai · Combinatorics and more",
+      "title": "Intersection Homology and Combinatorics",
+      "url": "https://gilkalai.wordpress.com/2026/10/07/intersection-homology-and-combinatorics",
+      "published_at": "2026-10-07T13:36:44+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is a draft lecture notes written under my guidance for today’s lecture. Blue text represent my further comments.) The lecture will be on Oct 7 at IAS, at 3:30, in the Seminar room. I will speak at the IAS … Continue reading →",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "gil-kalai",
+          "name": "Gil Kalai · Combinatorics and more"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 90.5,
+      "title_zh": "交集同调与组合学",
+      "excerpt_zh": "这是我在我的指导下为今天的讲座写的讲稿草稿。蓝色文本代表我的进一步评论。）讲座将于 10 月 7 日下午 3:30 在 IAS 的研讨室举行。我将在 IAS 上发言……继续阅读 →"
     },
     {
       "id": "214241392a57be4641b0",
@@ -571,7 +2864,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "兰伯特级数值的非二次性和 Erdős 问题 1049 的改进界限",
-      "excerpt_zh": "已证明 · 非理性和代数度 · 使用生成 AI，模型未在源中命名（提交者：GPT-6 Astra，通过 OpenAI Codex） · 重要性 12/100。设 t>1 为有理数。 \\sum_{n\\ge1}\\frac{1}{t^n-1}=\\sum_{n\\ge1}\\frac{\\tau(n)}{t^n} 是无理数吗，其中 \\tau(n) 计算 n 的约数？ Chowla 的猜想； Erdős (1948) 对每个整数 t\\ge2 都证明了这一点。"
+      "excerpt_zh": "已证明 · 非理性和代数度 · 使用生成 AI，模型未在源中命名（提交者：GPT-6 Astra，通过 OpenAI Codex） · 重要性 12/100。设 t>1 为有理数。 \\sum_{n\\ge1}\\frac{1}{t^n-1}=\\sum_{n\\ge1}\\frac{\\tau(n)}{t^n} 是无理数吗，其中 \\tau(n) 计算 n 的约数？ Chowla 的猜想； Erdős (1948) 对每个整数 t\\ge2 都证明了这一点。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 92.5
     },
     {
       "id": "a2ef1915d4e6f9421ffc",
@@ -586,7 +2892,78 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "Zak 针对切削库存问题的修正整数向下取整猜想",
-      "excerpt_zh": "不成立 · 切削库存和箱盖；模式 LP 完整性差距 · 与 Anthropic Fable 5.1 和 OpenAI GPT-5.6 Sol Pro · 重要性 14/100。在一维车削库存问题（箱覆盖）中，给定尺寸的物品被分为尽可能多的不相交组，每个组达到阈值 L；物品可能会闲置。模式线性规划松弛给出了最优 OPT_{\\mathrm{SSP}} 上的上限 LP_{\\mathrm{SSP}}。整数向下舍入属性 OPT_{\\mathrm{SSP}}=\\lfloor LP_{\\mathrm{SSP}}\\rfloor 失败，但已知最大差距 LP_{\\mathrm{SSP}}-OPT_{\\mathrm{SSP}} 约为 1.18。修改后的内部"
+      "excerpt_zh": "不成立 · 切削库存和箱盖；模式 LP 完整性差距 · 与 Anthropic Fable 5.1 和 OpenAI GPT-5.6 Sol Pro · 重要性 14/100。在一维车削库存问题（箱覆盖）中，给定尺寸的物品被分为尽可能多的不相交组，每个组达到阈值 L；物品可能会闲置。模式线性规划松弛给出了最优 OPT_{\\mathrm{SSP}} 上的上限 LP_{\\mathrm{SSP}}。整数向下舍入属性 OPT_{\\mathrm{SSP}}=\\lfloor LP_{\\mathrm{SSP}}\\rfloor 失败，但已知最大差距 LP_{\\mathrm{SSP}}-OPT_{\\mathrm{SSP}} 约为 1.18。修改后的内部",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 92.5
+    },
+    {
+      "id": "f27cab10e5fd22b0d19d",
+      "source_id": "gil-kalai",
+      "source": "Gil Kalai · Combinatorics and more",
+      "title": "Updates: Sharing AI progress on mathematics (amazing!); and my lecture plans",
+      "url": "https://gilkalai.wordpress.com/2026/10/07/updates-sharing-ai-progress-on-mathematics-amazing-and-my-lecture-plans",
+      "published_at": "2026-10-07T02:35:52+00:00",
+      "date_precision": "datetime",
+      "excerpt": "With Danny and Sharon Kleitman and Michel Goemans at the MIT Endicott house. Update: There are many reactions and emerging details on the new 700 or so papers released by Open AI. On Persiflage there is a very interesting post … Continue reading →",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "gil-kalai",
+          "name": "Gil Kalai · Combinatorics and more"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 90.4,
+      "title_zh": "更新：分享人工智能在数学方面的进展（太棒了！）；和我的讲座计划",
+      "excerpt_zh": "与丹尼·克莱特曼、莎朗·克莱特曼和米歇尔·戈曼斯一起在麻省理工学院恩迪科特之家。更新：Open AI 发布的 700 篇左右的新论文中有很多反应和新的细节。在 Persiflage 上有一篇非常有趣的文章……继续阅读 →"
+    },
+    {
+      "id": "1d13b945dacad951e434",
+      "source_id": "lean4-releases",
+      "source": "Lean 4 · Releases",
+      "title": "v4.35.0-rc4",
+      "url": "https://github.com/leanprover/lean4/releases/tag/v4.35.0-rc4",
+      "published_at": "2026-10-06T14:01:37+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is release candidate 4 for the v4.35.0 release of Lean. View the release notes for more information.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "recency_basis": "updated",
+      "source_refs": [
+        {
+          "id": "lean4-releases",
+          "name": "Lean 4 · Releases"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 89.2,
+      "title_zh": "v4.35.0-rc4",
+      "excerpt_zh": "这是 Lean v4.35.0 版本的候选版本 4。查看发行说明以获取更多信息。"
     },
     {
       "id": "f463658a5f92ceb73880",
@@ -601,7 +2978,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "沃尔 D(2) 问题",
-      "excerpt_zh": "反证·代数拓扑； 2-复合体的同伦类型 · 具有未发布的内部 OpenAI 模型 · 显着性 46/100。如果 i>2 时 H_i(\\widetilde X;\\mathbb Z)=0 且对于每个有限生成的 \\mathbb ZG 模 M H^3(X;M)=0，则具有基本群 G 的有限连通 CW 复数 X 满足 D(2) 条件。 Wall 证明了这样的 X 具有有限三维模型，并询问是否可以删除三个单元。答案肯定是肯定的（科恩），并且对于许多有限群来说也是肯定的（约翰逊、汉布尔顿、霍夫曼-尼科尔森）；候选反例（Cohen-Dyer、Bridson-Tweedale）仍未解决或有条件"
+      "excerpt_zh": "反证·代数拓扑； 2-复合体的同伦类型 · 具有未发布的内部 OpenAI 模型 · 显着性 46/100。如果 i>2 时 H_i(\\widetilde X;\\mathbb Z)=0 且对于每个有限生成的 \\mathbb ZG 模 M H^3(X;M)=0，则具有基本群 G 的有限连通 CW 复数 X 满足 D(2) 条件。 Wall 证明了这样的 X 具有有限三维模型，并询问是否可以删除三个单元。答案肯定是肯定的（科恩），并且对于许多有限群来说也是肯定的（约翰逊、汉布尔顿、霍夫曼-尼科尔森）；候选反例（Cohen-Dyer、Bridson-Tweedale）仍未解决或有条件",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 92.1
     },
     {
       "id": "e0fb7178c85be936d873",
@@ -616,7 +3006,49 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "规则的十四边形明可夫斯基平面至少有五种颜色",
-      "excerpt_zh": "已证明·离散几何；单位距离图着色 · 使用 OpenAI Codex (GPT-6 Astra) · 重要性 8/100。设 C 为中心对称凸曲线，设 \\chi(\\mathbb R^2,C) 为给平面着色所需的最少颜色数，使得 C 范数距离处的两点不会共享一种颜色。 Exoo、Fisher 和 Ismailescu 证明了 \\chi(\\mathbb R^2,C)\\ge5 对于正八边形、十边形和十二边形，并询问（问题 5.1）是否 \\chi(\\mathbb R^2,C)\\ge5 对于每个具有 n\\ge4 的正则 2n 边形。本条目是 n=7 的情况：以 P_{14}=\\operatorname{conv}\\{z\\in\\mathbb C:z^{14}=1\\} 为单位球，为 \\ch"
+      "excerpt_zh": "已证明·离散几何；单位距离图着色 · 使用 OpenAI Codex (GPT-6 Astra) · 重要性 8/100。设 C 为中心对称凸曲线，设 \\chi(\\mathbb R^2,C) 为给平面着色所需的最少颜色数，使得 C 范数距离处的两点不会共享一种颜色。 Exoo、Fisher 和 Ismailescu 证明了 \\chi(\\mathbb R^2,C)\\ge5 对于正八边形、十边形和十二边形，并询问（问题 5.1）是否 \\chi(\\mathbb R^2,C)\\ge5 对于每个具有 n\\ge4 的正则 2n 边形。本条目是 n=7 的情况：以 P_{14}=\\operatorname{conv}\\{z\\in\\mathbb C:z^{14}=1\\} 为单位球，为 \\ch",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 92.1
+    },
+    {
+      "id": "739dbd9f6877ee90b4c8",
+      "source_id": "quanta-math",
+      "source": "Quanta · Mathematics",
+      "title": "Is AI the End of Math As We Know It?",
+      "url": "https://www.quantamagazine.org/is-ai-the-end-of-math-as-we-know-it-20261005",
+      "published_at": "2026-10-05T13:40:07+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Mathematicians are facing the sudden shift with grief, anger, and a desperate search for fresh ideas: “If we don’t adapt, there’s just no more math in 50 years.” The post Is AI the End of Math As We Know It? first appeared on Quanta Magazine",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "content_type": "analysis",
+      "priority": 86,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "quanta-math",
+          "name": "Quanta · Mathematics"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 92.8,
+      "title_zh": "人工智能是我们所知的数学的终结吗？",
+      "excerpt_zh": "数学家们正面临着突然的转变，悲伤、愤怒，并拼命寻找新的想法：“如果我们不适应，50 年后就不会再有数学了。”这篇文章人工智能是我们所知的数学的终结吗？首次出现在广达杂志上"
     },
     {
       "id": "861031f2c61146e472c6",
@@ -631,7 +3063,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "数值维度一中特征 p>3 的对数丰度为三倍",
-      "excerpt_zh": "证明·双有理几何的正特性；最小模型程序 · 具有未发布的内部 OpenAI 模型 · 重要性 18/100。丰度猜想预测，如果 (X,B) 是射影对数正则对且 K_X+B 是 nef，则 K_X+B 是半充足的。对于 \\mathbb C 的三倍，这是一个定理（Miyaoka、Kawamata、Keel-Matsuki-McKernan）。在特征 p>0 的代数闭域上，它保持开放；徐正证明了 p>3 时不为零，nef 维度的丰度最多为 2，数值维度为 2 的丰度。对于特征 p>3 的投影对数正则三重对，在 p 中，丰度是否成立"
+      "excerpt_zh": "证明·双有理几何的正特性；最小模型程序 · 具有未发布的内部 OpenAI 模型 · 重要性 18/100。丰度猜想预测，如果 (X,B) 是射影对数正则对且 K_X+B 是 nef，则 K_X+B 是半充足的。对于 \\mathbb C 的三倍，这是一个定理（Miyaoka、Kawamata、Keel-Matsuki-McKernan）。在特征 p>0 的代数闭域上，它保持开放；徐正证明了 p>3 时不为零，nef 维度的丰度最多为 2，数值维度为 2 的丰度。对于特征 p>3 的投影对数正则三重对，在 p 中，丰度是否成立",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "e33f4f16f82eb091ccf0",
@@ -646,7 +3091,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "相对 SU(2) 模型中正能量可归一态的 BFSS 排除",
-      "excerpt_zh": "反证·超对称矩阵量子力学；嵌入特征值 · 具有未发布的内部 OpenAI 模型 · 重要性 25/100。对于相对 \\mathrm{SU}(2) BFSS 哈密顿量（具有四次势 \\sum_{a<b}|x^a\\wedge x^b|^2 的三个 9 向量的超对称量子力学和每个颜色十六个费米子），de Wit、Luscher 和 Nicolai (1989) 证明了光谱为 [0,\\infty)，并且对可归一化本征态是否位于其中保持开放。 Banks、Fischler、Shenker 和 Susskind（1997 年，第 5 节，方程（5.4）之后）指出，除了零能量阈值态之外，“不会出现其他可归一化的束缚态”。达尼"
+      "excerpt_zh": "反证·超对称矩阵量子力学；嵌入特征值 · 具有未发布的内部 OpenAI 模型 · 重要性 25/100。对于相对 \\mathrm{SU}(2) BFSS 哈密顿量（具有四次势 \\sum_{a<b}|x^a\\wedge x^b|^2 的三个 9 向量的超对称量子力学和每个颜色十六个费米子），de Wit、Luscher 和 Nicolai (1989) 证明了光谱为 [0,\\infty)，并且对可归一化本征态是否位于其中保持开放。 Banks、Fischler、Shenker 和 Susskind（1997 年，第 5 节，方程（5.4）之后）指出，除了零能量阈值态之外，“不会出现其他可归一化的束缚态”。达尼",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "79145fc7660ad2453a20",
@@ -661,7 +3119,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "简单随机和回合随机平均收益博弈的拟多项式时间解",
-      "excerpt_zh": "已证明·算法博弈论；随机博弈； NP 和 coNP 问题的复杂性 · 未发布的内部 OpenAI 模型 · 重要性 44/100。简单的随机博弈是两个玩家之间的有限回合可达性博弈，其中一些顶点是在两个后继者之间以 1/2 的概率进行选择的机会顶点。 Condon (1992)表明，决定起始顶点的值是否至少为 1/2 取决于 \\mathrm{NP}\\cap\\mathrm{coNP}； Ludwig 给出了一个随机次指数算法，Andersson 和 Miltersen 证明了该问题多项式等价于解决基于回合的随机平均收益和折扣游戏"
+      "excerpt_zh": "已证明·算法博弈论；随机博弈； NP 和 coNP 问题的复杂性 · 未发布的内部 OpenAI 模型 · 重要性 44/100。简单的随机博弈是两个玩家之间的有限回合可达性博弈，其中一些顶点是在两个后继者之间以 1/2 的概率进行选择的机会顶点。 Condon (1992)表明，决定起始顶点的值是否至少为 1/2 取决于 \\mathrm{NP}\\cap\\mathrm{coNP}； Ludwig 给出了一个随机次指数算法，Andersson 和 Miltersen 证明了该问题多项式等价于解决基于回合的随机平均收益和折扣游戏",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "9246a033229f2ae7f640",
@@ -676,7 +3147,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "平面 Ising 临界点处弱键无序的边际不相关性：弱随机键的淬灭 SLE3 界面",
-      "excerpt_zh": "已证明·无序系统；二维伊辛模型； SLE · 具有未发布的内部 OpenAI 模型 · 重要性 22/100。对于具有独立随机耦合 J_e=1+\\varepsilon\\xi_e 的方晶格 Ising 模型，Harris 准则是边缘性的，因为纯比热指数为零。 Dotsenko 和 Dotsenko (1983) 预测了双对数比热，Shalaev、Shankar 和 Ludwig 提出了弱无序无关紧要的图景：带对数修正的领先临界指数不变，包括自旋 co 相对二阶矩的 Shankar (\\log r)^{1/4} 增长"
+      "excerpt_zh": "已证明·无序系统；二维伊辛模型； SLE · 具有未发布的内部 OpenAI 模型 · 重要性 22/100。对于具有独立随机耦合 J_e=1+\\varepsilon\\xi_e 的方晶格 Ising 模型，Harris 准则是边缘性的，因为纯比热指数为零。 Dotsenko 和 Dotsenko (1983) 预测了双对数比热，Shalaev、Shankar 和 Ludwig 提出了弱无序无关紧要的图景：带对数修正的领先临界指数不变，包括自旋 co 相对二阶矩的 Shankar (\\log r)^{1/4} 增长",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "a19e18f2b66d5f69dcd9",
@@ -691,7 +3175,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "期望阈值下的 Ascoli-He-Park-Talagrand 图分解猜想",
-      "excerpt_zh": "已证明·随机图；子图包含阈值 · 未发布的内部 OpenAI 模型 · 重要性 15/100。对于最多 n 个顶点的图 H，令 p_c(H;n) 为最小 p，其中 G(n,p) 以概率 1/2 包含 H 的副本，q(H;n) 为其积分期望阈值。 Park-Pham定理给出p_c(H;n)\\le Cq(H;n)\\log|E(H)|，一般情况下不能去掉对数。 Ascoli、He、Park 和 Talagrand（2026，猜想 8.1）提出，将 H 切割成有界多块后可以将其去除，并证明了有界简并情况。是否存在绝对常数 k 和 L 使得边缘"
+      "excerpt_zh": "已证明·随机图；子图包含阈值 · 未发布的内部 OpenAI 模型 · 重要性 15/100。对于最多 n 个顶点的图 H，令 p_c(H;n) 为最小 p，其中 G(n,p) 以概率 1/2 包含 H 的副本，q(H;n) 为其积分期望阈值。 Park-Pham定理给出p_c(H;n)\\le Cq(H;n)\\log|E(H)|，一般情况下不能去掉对数。 Ascoli、He、Park 和 Talagrand（2026，猜想 8.1）提出，将 H 切割成有界多块后可以将其去除，并证明了有界简并情况。是否存在绝对常数 k 和 L 使得边缘",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "e57d723091a1c8cdabe7",
@@ -706,7 +3203,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "内田关于数域可解闭扩张伽罗瓦群开同态的猜想",
-      "excerpt_zh": "证明·阿贝尔几何；数域伽罗瓦群 · 具有未发布的内部 OpenAI 模型 · 重要性 22/100。令 E_i/F_i (i=1,2) 为数域的伽罗瓦扩展，其中每个 E_i 可解闭（无非平凡阿贝尔扩展），例如代数闭包或最大可解扩展，并写为 G_i=\\mathrm{Gal}(E_i/F_i)。 Neukirch-Uchida 定理说同构 G_1\\cong G_2 来自场同构。 Uchida (1981) 证明了当源域为 \\mathbb Q 时开同态的类似陈述，证明了一般的唯一性，并证明了在局部条件 o 下的存在性。"
+      "excerpt_zh": "证明·阿贝尔几何；数域伽罗瓦群 · 具有未发布的内部 OpenAI 模型 · 重要性 22/100。令 E_i/F_i (i=1,2) 为数域的伽罗瓦扩展，其中每个 E_i 可解闭（无非平凡阿贝尔扩展），例如代数闭包或最大可解扩展，并写为 G_i=\\mathrm{Gal}(E_i/F_i)。 Neukirch-Uchida 定理说同构 G_1\\cong G_2 来自场同构。 Uchida (1981) 证明了当源域为 \\mathbb Q 时开同态的类似陈述，证明了一般的唯一性，并证明了在局部条件 o 下的存在性。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "b98c328850177f0c2349",
@@ -721,7 +3231,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "有限有理系数集半对数正则对数Calabi-Yau对的索引猜想",
-      "excerpt_zh": "证明·双有理几何； log Calabi-Yau 对 · 与未发布的内部 OpenAI 模型 · 重要性 25/100。射影对数 Calabi-Yau 对 (X,B) 具有 K_X+B\\sim_{\\mathbb Q}0，因此某个正倍数 m(K_X+B) 是卡地亚且线性平凡的；最小的 m 是索引。 Kongyo 表明这样的 m 对于 slc 对来说是存在的，但它可能取决于对。指数猜想要求一致性。在其有限有理系数 slc 形式中，固定 d 和有限集 \\Phi\\subset[0,1]\\cap\\mathbb Q：是否存在一个整数 a(d,\\Phi) 使得 a(d,\\Phi)(K_X+B) 对于每个连接的射影 slc log 都是卡地亚且平凡的"
+      "excerpt_zh": "证明·双有理几何； log Calabi-Yau 对 · 与未发布的内部 OpenAI 模型 · 重要性 25/100。射影对数 Calabi-Yau 对 (X,B) 具有 K_X+B\\sim_{\\mathbb Q}0，因此某个正倍数 m(K_X+B) 是卡地亚且线性平凡的；最小的 m 是索引。 Kongyo 表明这样的 m 对于 slc 对来说是存在的，但它可能取决于对。指数猜想要求一致性。在其有限有理系数 slc 形式中，固定 d 和有限集 \\Phi\\subset[0,1]\\cap\\mathbb Q：是否存在一个整数 a(d,\\Phi) 使得 a(d,\\Phi)(K_X+B) 对于每个连接的射影 slc log 都是卡地亚且平凡的",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "3af28ccc26da8f7e2cf9",
@@ -736,7 +3259,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "Alon-Krivelevich-Sudakov 猜想：具有固定禁止子图的图的色数为 O(Delta/log Delta)",
-      "excerpt_zh": "已证明 · 图形着色：稀疏且无 F 的图形 · 使用未发布的内部 OpenAI 模型 · 重要性 42/100。每个最大度 Delta 的图都有 \\chi(G)\\le\\Delta+1。 Johansson (1996) 证明了无三角形图的 \\chi(G)=O(\\Delta/\\log\\Delta) ，而 Alon、Krivelevich 和 Sudakov (1999) 将其扩展到具有稀疏邻域的图。对于一般固定 F，并且对于 F=K_4，最佳边界带有额外的 \\log\\log\\Delta 因子。 Alon、Krivelevich 和 Sudakov (1999，猜想 3.1) 推测：对于每个固定图 F，存在 C_F，使得每个最大度 Delta 的无 F 图都有色度"
+      "excerpt_zh": "已证明 · 图形着色：稀疏且无 F 的图形 · 使用未发布的内部 OpenAI 模型 · 重要性 42/100。每个最大度 Delta 的图都有 \\chi(G)\\le\\Delta+1。 Johansson (1996) 证明了无三角形图的 \\chi(G)=O(\\Delta/\\log\\Delta) ，而 Alon、Krivelevich 和 Sudakov (1999) 将其扩展到具有稀疏邻域的图。对于一般固定 F，并且对于 F=K_4，最佳边界带有额外的 \\log\\log\\Delta 因子。 Alon、Krivelevich 和 Sudakov (1999，猜想 3.1) 推测：对于每个固定图 F，存在 C_F，使得每个最大度 Delta 的无 F 图都有色度",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "ce7ec19f0d1b7b3115cd",
@@ -751,7 +3287,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "平面 XY 模型中的临界两点衰减 r^-1/4(log r)^1/8",
-      "excerpt_zh": "已证明·统计力学； Berezinskii-Kosterlitz-Thouless 过渡 · 具有未发布的内部 OpenAI 模型 · 重要性 50/100。逆温度 b 下 \\mathbb Z^2 上的最近邻 XY 模型给出角度 \\theta_x 的权重 \\exp(b\\sum_{x\\sim y}\\cos(\\theta_x-\\theta_y))。 Berezinskii、Kosterlitz 和 Thouless 预测 b_c 处会发生由涡旋解束缚驱动的转变，其中 b\\ge b_c 的自旋相关性 C_b(r)=\\langle\\cos(\\theta_0-\\theta_{re_1})\\rangle 发生代数衰减。 Kosterlitz 的 1974 年重整化群分析在临界点预测了通用指数 eta=1/4 并采用乘法对数校正"
+      "excerpt_zh": "已证明·统计力学； Berezinskii-Kosterlitz-Thouless 过渡 · 具有未发布的内部 OpenAI 模型 · 重要性 50/100。逆温度 b 下 \\mathbb Z^2 上的最近邻 XY 模型给出角度 \\theta_x 的权重 \\exp(b\\sum_{x\\sim y}\\cos(\\theta_x-\\theta_y))。 Berezinskii、Kosterlitz 和 Thouless 预测 b_c 处会发生由涡旋解束缚驱动的转变，其中 b\\ge b_c 的自旋相关性 C_b(r)=\\langle\\cos(\\theta_0-\\theta_{re_1})\\rangle 发生代数衰减。 Kosterlitz 的 1974 年重整化群分析在临界点预测了通用指数 eta=1/4 并采用乘法对数校正",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "32116153426dbf5fb52b",
@@ -766,7 +3315,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "四变量稳定坐标猜想",
-      "excerpt_zh": "反证·仿射代数几何；多项式自同构 · 具有未发布的内部 OpenAI 模型 · 重要性 22/100。如果多项式自同构将多项式 f\\in\\mathbb C[x_1,\\dots,x_n] 发送到 x_1，则它是一个坐标；如果它是 \\mathbb C[x_1,\\dots,x_n,w] 的坐标，则它是一稳定坐标。 Shpilrain 和 Yu 推测，与变量相邻后成为坐标的多项式已经是坐标。在 \\mathbb C 上，它包含一个、两个和三个变量（Shpilrain-Yu，使用 Abhyankar-Moh，曲线和曲面的消去以及卡里曼定理），因此四个变量是第一个"
+      "excerpt_zh": "反证·仿射代数几何；多项式自同构 · 具有未发布的内部 OpenAI 模型 · 重要性 22/100。如果多项式自同构将多项式 f\\in\\mathbb C[x_1,\\dots,x_n] 发送到 x_1，则它是一个坐标；如果它是 \\mathbb C[x_1,\\dots,x_n,w] 的坐标，则它是一稳定坐标。 Shpilrain 和 Yu 推测，与变量相邻后成为坐标的多项式已经是坐标。在 \\mathbb C 上，它包含一个、两个和三个变量（Shpilrain-Yu，使用 Abhyankar-Moh，曲线和曲面的消去以及卡里曼定理），因此四个变量是第一个",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "be16d332a43aeb937d3b",
@@ -781,7 +3343,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "APSP 假设：所有对的最短路径是否可以在真正的亚立方时间内计算？",
-      "excerpt_zh": "已被证实 · 细粒度的复杂性；图算法 · 与 Claude（内部人择研究模型，未命名） · 重要性 55/100。给定 n 个顶点上的有向图，其边权重为 [-n^c, n^c] 且没有负循环，计算所有成对最短路径距离。 Floyd-Warshall 在 O(n^3) 时间内完成了这件事，数十年的改进仅消除了次多项式因子。 APSP 假设断言，对于任何 \\varepsilon > 0，在具有 O(\\log n) 位字的字 RAM 上没有算法可以在 O(n^{3-\\varepsilon}) 时间内运行；一大类问题在亚立方体上与它等价。是否存在真正的次三次算法？"
+      "excerpt_zh": "已被证实 · 细粒度的复杂性；图算法 · 与 Claude（内部人择研究模型，未命名） · 重要性 55/100。给定 n 个顶点上的有向图，其边权重为 [-n^c, n^c] 且没有负循环，计算所有成对最短路径距离。 Floyd-Warshall 在 O(n^3) 时间内完成了这件事，数十年的改进仅消除了次多项式因子。 APSP 假设断言，对于任何 \\varepsilon > 0，在具有 O(\\log n) 位字的字 RAM 上没有算法可以在 O(n^{3-\\varepsilon}) 时间内运行；一大类问题在亚立方体上与它等价。是否存在真正的次三次算法？",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "7bb2cd6b67bf5096c44d",
@@ -796,7 +3371,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "平稳积分多样性奇异集的余维一界",
-      "excerpt_zh": "已证明 · 几何测度理论：固定 varifold 的规律性 · 使用未发布的内部 OpenAI 模型 · 显着性 50/100。设 V 为开集 U\\subset\\mathbb R^{m+n} 中的平稳积分 m-varifold，且 \\mathrm{Sing}\\,V 为支撑点，在该支撑点附近 V 不是一个平滑嵌入最小子流形的整数倍。两个 m 平面沿着 (m-1) 平面相交形成一个静止杂折，其奇异集是 (m-1) 维，因此不可能有更好的界限。已知的情况包括二值固定 Lipschitz 图 (Hirsch-Spolaor) 和在 epsilon 正则性假设下具有受控密度的类 ("
+      "excerpt_zh": "已证明 · 几何测度理论：固定 varifold 的规律性 · 使用未发布的内部 OpenAI 模型 · 显着性 50/100。设 V 为开集 U\\subset\\mathbb R^{m+n} 中的平稳积分 m-varifold，且 \\mathrm{Sing}\\,V 为支撑点，在该支撑点附近 V 不是一个平滑嵌入最小子流形的整数倍。两个 m 平面沿着 (m-1) 平面相交形成一个静止杂折，其奇异集是 (m-1) 维，因此不可能有更好的界限。已知的情况包括二值固定 Lipschitz 图 (Hirsch-Spolaor) 和在 epsilon 正则性假设下具有受控密度的类 (",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "3595f1789200ee206c7f",
@@ -811,7 +3399,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "三维量子海森堡铁磁体的布洛赫 T^3/2 定律",
-      "excerpt_zh": "已证实·量子自旋系统；自旋波理论 · 具有未发布的内部 OpenAI 模型 · 重要性 32/100。布洛赫的自旋波理论（1930）预测，三维铁磁体的自发磁化强度会下降到饱和以下，其量与 T^{3/2} 成正比，系数由二次单磁振子色散固定；对于最近邻自旋 S 海森堡模型，对于前导顺序的赤字为 \\zeta(3/2)(8\\pi^{3/2}S^{3/2})^{-1}T^{3/2}。 Dyson (1956) 分析了自旋波相互作用和高阶项，但不是作为严格的固定自旋证明，而 Correggi-Giuliani-Sei"
+      "excerpt_zh": "已证实·量子自旋系统；自旋波理论 · 具有未发布的内部 OpenAI 模型 · 重要性 32/100。布洛赫的自旋波理论（1930）预测，三维铁磁体的自发磁化强度会下降到饱和以下，其量与 T^{3/2} 成正比，系数由二次单磁振子色散固定；对于最近邻自旋 S 海森堡模型，对于前导顺序的赤字为 \\zeta(3/2)(8\\pi^{3/2}S^{3/2})^{-1}T^{3/2}。 Dyson (1956) 分析了自旋波相互作用和高阶项，但不是作为严格的固定自旋证明，而 Correggi-Giuliani-Sei",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "71b474e10503fcc0e053",
@@ -826,7 +3427,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "总布尔函数的随机与量子查询复杂度：R(f) = O(Q(f)^3) 吗？",
-      "excerpt_zh": "已被反驳 · 查询复杂性 · 未发布的内部 OpenAI 模型 · 重要性 38/100。对于总布尔函数，有界误差随机查询复杂性 R 和量子查询复杂性 Q 是多项式相关的：Beals 等人。证明了 D=O(Q^6)，并且在 Huang 的敏感性定理 Aaronson、Ben-David、Kothari、Rao 和 Tal 证明了 D(f)=O(Q(f)^4) 后，因此 R=O(Q^4)。最好的分离是功率 5/2（备忘单），然后是 8/3-o(1) (Tal) 和 3-o(1)（Bansal-Sinha；Sherstov-Storozhenko-Wu）。 Aaronson、Ben-David、Kothari、Rao 和 Tal 推测三次关系成立。 R(f)=O 吗"
+      "excerpt_zh": "已被反驳 · 查询复杂性 · 未发布的内部 OpenAI 模型 · 重要性 38/100。对于总布尔函数，有界误差随机查询复杂性 R 和量子查询复杂性 Q 是多项式相关的：Beals 等人。证明了 D=O(Q^6)，并且在 Huang 的敏感性定理 Aaronson、Ben-David、Kothari、Rao 和 Tal 证明了 D(f)=O(Q(f)^4) 后，因此 R=O(Q^4)。最好的分离是功率 5/2（备忘单），然后是 8/3-o(1) (Tal) 和 3-o(1)（Bansal-Sinha；Sherstov-Storozhenko-Wu）。 Aaronson、Ben-David、Kothari、Rao 和 Tal 推测三次关系成立。 R(f)=O 吗",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "e830597f3e68261b1a36",
@@ -841,7 +3455,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "Flouri 等人的 MSci 可识别性猜想，针对具有长基因座的时钟 JC 数据",
-      "excerpt_zh": "证明·数理统计；代数可辨识性；合并系统发育学 · 使用 OpenAI 助手（点；基础模型未指定） · 重要性 5/100。 Flouri、Jiao、Rannala 和 Yang 询问，在多个采样序列和每个基因座多个位点的情况下，基因渗入的多物种合并参数是否可以从序列比对中准确地识别出来，而这些参数可以从基因树拓扑和合并时间中识别出来。当前条目使观察通道和位点长度量词变得明确：完整标记的同时单倍体比对，突变规模中的同质固定分子时钟 JC 突变"
+      "excerpt_zh": "证明·数理统计；代数可辨识性；合并系统发育学 · 使用 OpenAI 助手（点；基础模型未指定） · 重要性 5/100。 Flouri、Jiao、Rannala 和 Yang 询问，在多个采样序列和每个基因座多个位点的情况下，基因渗入的多物种合并参数是否可以从序列比对中准确地识别出来，而这些参数可以从基因树拓扑和合并时间中识别出来。当前条目使观察通道和位点长度量词变得明确：完整标记的同时单倍体比对，突变规模中的同质固定分子时钟 JC 突变",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "f6d49a255898aef2ebb6",
@@ -856,7 +3483,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "豪伊猜想：群上的每个非奇异方程组在超群中都是可解的",
-      "excerpt_zh": "证明·组合群论；组间方程 · 具有未发布的内部 OpenAI 模型 · 显着性 45/100。设G为群，w_1,\\dots,w_m\\in G*F(x_1,\\dots,x_n)为方程组w_i=1，系数在G中。其指数和矩阵A\\in M_{m\\times n}(\\mathbb Z)记录每个w_i中每个x_j的指数；如果 A 的秩 m 高于 \\mathbb Q，则系统是非奇异的。Gerstenhaber 和 Rothaus (1962) 求解有限群和紧李群上的非奇异系统，Howie (1981) 求解局部可指示群，以及 Nitsche-Thom 求解超线性群。一方程、一变量的情况是 Ke"
+      "excerpt_zh": "证明·组合群论；组间方程 · 具有未发布的内部 OpenAI 模型 · 显着性 45/100。设G为群，w_1,\\dots,w_m\\in G*F(x_1,\\dots,x_n)为方程组w_i=1，系数在G中。其指数和矩阵A\\in M_{m\\times n}(\\mathbb Z)记录每个w_i中每个x_j的指数；如果 A 的秩 m 高于 \\mathbb Q，则系统是非奇异的。Gerstenhaber 和 Rothaus (1962) 求解有限群和紧李群上的非奇异系统，Howie (1981) 求解局部可指示群，以及 Nitsche-Thom 求解超线性群。一方程、一变量的情况是 Ke",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "5f873b80f886a1349b94",
@@ -871,7 +3511,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "L3 x L3 x L3 到 L1 点（斜率 1, 2, 3）处的三线性希尔伯特变换猜想",
-      "excerpt_zh": "已证明 · 调和分析：多线性奇异积分 · 具有未发布的内部 OpenAI 模型 · 显着性 50/100。斜率为 1, 2, 3 的三线性希尔伯特变换为 T(f_1,f_2,f_3)(x)=\\mathrm{p.v.}\\int_{\\mathbb R}f_1(x-t)f_2(x-2t)f_3(x-3t)\\,\\frac{dt}{t}。它的双线性前身被 Lacey 和 Thiele (1997-1999) 证明是有界的。在三线性情况下，二次调制以相关的四线性形式存在（系数 (-1,3,-3,1) 消除了二次多项式），因此时频分析并不能结束争论； Tai (2015) 只获得了截断的亚对数增长，并且"
+      "excerpt_zh": "已证明 · 调和分析：多线性奇异积分 · 具有未发布的内部 OpenAI 模型 · 显着性 50/100。斜率为 1, 2, 3 的三线性希尔伯特变换为 T(f_1,f_2,f_3)(x)=\\mathrm{p.v.}\\int_{\\mathbb R}f_1(x-t)f_2(x-2t)f_3(x-3t)\\,\\frac{dt}{t}。它的双线性前身被 Lacey 和 Thiele (1997-1999) 证明是有界的。在三线性情况下，二次调制以相关的四线性形式存在（系数 (-1,3,-3,1) 消除了二次多项式），因此时频分析并不能结束争论； Tai (2015) 只获得了截断的亚对数增长，并且",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "4293fb201cc468a20c74",
@@ -886,7 +3539,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "函数域上异常群的全局通用尖头表示的广义拉马努金猜想",
-      "excerpt_zh": "已证明·函数域上的自同构表示；脾气暴躁 · 具有未发布的内部 OpenAI 模型 · 重要性 34/100。设 F 为 \\mathbb F_q 上曲线的函数场，G 为分裂连通的约简群。广义拉马努金猜想以其通用形式（在 Arthur 的框架内；参见 Shahidi）预测，G(\\mathbb A_F) 的每个全局通用尖头自守表示 \\pi=\\bigotimes'_v\\pi_v 在每个地方 v 都会受到调节。在函数域上，这以 GL_2 (Drinfeld)、GL_n (L. Lafforgue) 和分裂经典和准分裂酉群（Lomeli）； for exceptional grou"
+      "excerpt_zh": "已证明·函数域上的自同构表示；脾气暴躁 · 具有未发布的内部 OpenAI 模型 · 重要性 34/100。设 F 为 \\mathbb F_q 上曲线的函数场，G 为分裂连通的约简群。广义拉马努金猜想以其通用形式（在 Arthur 的框架内；参见 Shahidi）预测，G(\\mathbb A_F) 的每个全局通用尖头自守表示 \\pi=\\bigotimes'_v\\pi_v 在每个地方 v 都会受到调节。在函数域上，这以 GL_2 (Drinfeld)、GL_n (L. Lafforgue) 和分裂经典和准分裂酉群（Lomeli）； for exceptional grou",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "b70649ca93a7190e2388",
@@ -901,7 +3567,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "热力学极限下稀玻色气体的 Bogoliubov 量子耗尽定律",
-      "excerpt_zh": "证明·量子多体理论；稀释 Bose 气体 · 使用未发布的内部 OpenAI 模型 · 重要性 35/100。 Bogoliubov 的理论 (1947) 由 Lee、Huang 和 Yang (1957) 应用于硬球气体，预测在零温度下，散射长度为 a、密度为 \\rho 的稀三维玻色气体的凝结体外部粒子的分数为 \\frac{8}{3\\sqrt\\pi}\\sqrt{\\rho a^3}，其动量按尺度上显式的 Bogoliubov 剖面分布\\sqrt{8\\pi\\rho a}。李黄阳序的能量现已证明，但能量界限不控制能量 v 的模态的占据"
+      "excerpt_zh": "证明·量子多体理论；稀释 Bose 气体 · 使用未发布的内部 OpenAI 模型 · 重要性 35/100。 Bogoliubov 的理论 (1947) 由 Lee、Huang 和 Yang (1957) 应用于硬球气体，预测在零温度下，散射长度为 a、密度为 \\rho 的稀三维玻色气体的凝结体外部粒子的分数为 \\frac{8}{3\\sqrt\\pi}\\sqrt{\\rho a^3}，其动量按尺度上显式的 Bogoliubov 剖面分布\\sqrt{8\\pi\\rho a}。李黄阳序的能量现已证明，但能量界限不控制能量 v 的模态的占据",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "802988717937aeebad55",
@@ -916,7 +3595,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "p = 2 和奇数级的完整 Hecke 代数的艾默顿维数猜想",
-      "excerpt_zh": "证明了·p-adic族的模形式； Hecke 代数 · 具有未发布的内部 OpenAI 模型 · 重要性 20/100。对于素数 p 和水平 N 素数到 p，令 \\mathbb T_p(N) 为 \\mathbb Z_p-Hecke 代数对 k 的逆极限，该代数由 T_\\ell 和 \\ell S_\\ell (\\ell\\nmid pN) 作用于权重 1,\\dots,k 的所有模形式和水平 \\Gamma_1(N)（包括爱森斯坦形式）。艾默顿在 2011 年 Bourbaki 对 p 进族的描述（猜想 2.9）中，推测 \\mathrm{Spec}\\,\\mathbb T_p(N) 的每个不可约分量都具有克鲁尔维四，并证明了下界（推论 2.28）。对于 p=2"
+      "excerpt_zh": "证明了·p-adic族的模形式； Hecke 代数 · 具有未发布的内部 OpenAI 模型 · 重要性 20/100。对于素数 p 和水平 N 素数到 p，令 \\mathbb T_p(N) 为 \\mathbb Z_p-Hecke 代数对 k 的逆极限，该代数由 T_\\ell 和 \\ell S_\\ell (\\ell\\nmid pN) 作用于权重 1,\\dots,k 的所有模形式和水平 \\Gamma_1(N)（包括爱森斯坦形式）。艾默顿在 2011 年 Bourbaki 对 p 进族的描述（猜想 2.9）中，推测 \\mathrm{Spec}\\,\\mathbb T_p(N) 的每个不可约分量都具有克鲁尔维四，并证明了下界（推论 2.28）。对于 p=2",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "ba210e6a3b4f959ff9ce",
@@ -931,7 +3623,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "作为非简并哈密顿不动点下界的稳定莫尔斯数",
-      "excerpt_zh": "反证·辛拓扑；哈密​​顿不动点，稳定莫尔斯理论 · 具有未发布的内部 OpenAI 模型 · 重要性 30/100。闭流形的稳定莫尔斯数 \\mathrm{SM}(W) 是莫尔斯函数 F:W\\times\\mathbb R^k\\to\\mathbb R 等于紧集外非简并二次形式的最小临界点数量（k\\ge0 变化）； \\mathrm{SM}(W)\\le\\mathrm{莫尔斯电码}(W)。 Dimitroglou Rizell 和 Golovko 证明了当 [\\omega] 和 c_1 在 \\pi_2(M) 上消失时，\\#\\mathrm{Fix}_0\\ge\\mathrm{SM}(M) 为非简并哈密顿量。稳定的莫尔斯界限 \\#\\mathrm{Fix}_0(\\phi_H^1;H)\\ge\\mathrm{SM}(M) 对于每个都成立"
+      "excerpt_zh": "反证·辛拓扑；哈密​​顿不动点，稳定莫尔斯理论 · 具有未发布的内部 OpenAI 模型 · 重要性 30/100。闭流形的稳定莫尔斯数 \\mathrm{SM}(W) 是莫尔斯函数 F:W\\times\\mathbb R^k\\to\\mathbb R 等于紧集外非简并二次形式的最小临界点数量（k\\ge0 变化）； \\mathrm{SM}(W)\\le\\mathrm{莫尔斯电码}(W)。 Dimitroglou Rizell 和 Golovko 证明了当 [\\omega] 和 c_1 在 \\pi_2(M) 上消失时，\\#\\mathrm{Fix}_0\\ge\\mathrm{SM}(M) 为非简并哈密顿量。稳定的莫尔斯界限 \\#\\mathrm{Fix}_0(\\phi_H^1;H)\\ge\\mathrm{SM}(M) 对于每个都成立",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "9e563d5be5ae4e39f6a7",
@@ -946,7 +3651,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "恒定钻石范数误差下的 Aaronson-Kuperberg 酉综合问题",
-      "excerpt_zh": "已证明 · 量子查询复杂度；酉式的预言机综合 · 具有未发布的内部 OpenAI 模型 · 重要性 35/100。 Aaronson 和 Kuperberg（2007）询问，对于每个 n 量子位酉 U，是否存在一个布尔预言 A，使得可以访问 A 的多项式时间量子算法实现 U。Aaronson（2021，问题 6）将其命名为酉综合问题，称其为开放性问题，并推测其答案是否定的。已知结果：使用一个查询进行状态综合（Irani 等人，Rosenthal），单一查询的 2^{n/2} 次上限（Rosenthal），以及单查询和并行查询下界（Lombardi-Ma-Wright）。是 t"
+      "excerpt_zh": "已证明 · 量子查询复杂度；酉式的预言机综合 · 具有未发布的内部 OpenAI 模型 · 重要性 35/100。 Aaronson 和 Kuperberg（2007）询问，对于每个 n 量子位酉 U，是否存在一个布尔预言 A，使得可以访问 A 的多项式时间量子算法实现 U。Aaronson（2021，问题 6）将其命名为酉综合问题，称其为开放性问题，并推测其答案是否定的。已知结果：使用一个查询进行状态综合（Irani 等人，Rosenthal），单一查询的 2^{n/2} 次上限（Rosenthal），以及单查询和并行查询下界（Lombardi-Ma-Wright）。是 t",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "986c569e22afff2530b2",
@@ -961,7 +3679,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "单纯体积的格罗莫夫积分标量曲率界",
-      "excerpt_zh": "已证明·标量曲率；单纯体积和有界上同调 · 与未发布的内部 OpenAI 模型 · 显着性 38/100。对于闭连接的面向 n 流形 M 令 \\|M\\|是其实单纯形体积，对于黎曼度量 g 令 \\mathrm{Scal}_g^-=\\max\\{0,-\\mathrm{Scal}_g\\} 。 1986年，Gromov（大黎曼流形，猜想3.A，备注（B），方程（8'））提出通过尺度不变积分\\int_M(\\mathrm{Scal}_g^-)^{n/2}dV_g来限制单纯体积；等价地， \\mathrm{Scal}_g\\ge-\\kappa^2 应该强制 \\|M\\|\\le C_n\\kappa^n\\mathrm{Vol}_g(M)。部分结果涵盖有界单位球体积"
+      "excerpt_zh": "已证明·标量曲率；单纯体积和有界上同调 · 与未发布的内部 OpenAI 模型 · 显着性 38/100。对于闭连接的面向 n 流形 M 令 \\|M\\|是其实单纯形体积，对于黎曼度量 g 令 \\mathrm{Scal}_g^-=\\max\\{0,-\\mathrm{Scal}_g\\} 。 1986年，Gromov（大黎曼流形，猜想3.A，备注（B），方程（8'））提出通过尺度不变积分\\int_M(\\mathrm{Scal}_g^-)^{n/2}dV_g来限制单纯体积；等价地， \\mathrm{Scal}_g\\ge-\\kappa^2 应该强制 \\|M\\|\\le C_n\\kappa^n\\mathrm{Vol}_g(M)。部分结果涵盖有界单位球体积",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "9b10b359edca4efa790f",
@@ -976,7 +3707,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "球面共形无穷大三维初始数据的渐近反德西特彭罗斯不等式",
-      "excerpt_zh": "已证明 · 数学广义相对论 · 使用未发布的内部 OpenAI 模型 · 重要性 40/100。在宇宙常数 -3 的情况下，史瓦西反德西特关系 M=(r_h+r_h^3)/2 和彭罗斯 1973 年的论点表明，在 Wang 和 Chrusciel-Herzlich 的意义上，具有 A 区域边界的渐近双曲初始数据具有质量，至少为 \\frac12(r_A+r_A^3) 且r_A=\\sqrt{A/4\\pi}。即使时间对称的情况也仅针对特殊类别而为人所知：图（Dahl-Gicquaud-Sakovich、de Lima-Girao）、Schwarzschild-anti-de Sitter 的小扰动（Ambrozio；Khuri-Kopinsk）"
+      "excerpt_zh": "已证明 · 数学广义相对论 · 使用未发布的内部 OpenAI 模型 · 重要性 40/100。在宇宙常数 -3 的情况下，史瓦西反德西特关系 M=(r_h+r_h^3)/2 和彭罗斯 1973 年的论点表明，在 Wang 和 Chrusciel-Herzlich 的意义上，具有 A 区域边界的渐近双曲初始数据具有质量，至少为 \\frac12(r_A+r_A^3) 且r_A=\\sqrt{A/4\\pi}。即使时间对称的情况也仅针对特殊类别而为人所知：图（Dahl-Gicquaud-Sakovich、de Lima-Girao）、Schwarzschild-anti-de Sitter 的小扰动（Ambrozio；Khuri-Kopinsk）",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "abdeb9bcee3d67014baf",
@@ -991,7 +3735,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "投影松弛猜想：每个双曲锥体都是光谱面体阴影吗？",
-      "excerpt_zh": "反证·实代数几何；凸锥体的半定升力 · 具有未发布的内部 OpenAI 模型 · 显着性 35/100。谱面阴影是具有有限多个实对称矩阵的 \\{x\\in\\mathbb R^d:\\exists u\\in\\mathbb R^a,\\ A_0+\\sum_i x_iA_i+\\sum_j u_jB_j\\succeq0\\} 形式的集合，即具有有限半定升力的集合。 Netzer 和 Sanyal (2015) 证明，当每个非零边界点都是其双曲多项式的平滑点时，双曲锥体是谱面阴影，并提出了投影 Lax 猜想，这是广义 Lax 猜想的弱化。是不是每场封闭式的炒作"
+      "excerpt_zh": "反证·实代数几何；凸锥体的半定升力 · 具有未发布的内部 OpenAI 模型 · 显着性 35/100。谱面阴影是具有有限多个实对称矩阵的 \\{x\\in\\mathbb R^d:\\exists u\\in\\mathbb R^a,\\ A_0+\\sum_i x_iA_i+\\sum_j u_jB_j\\succeq0\\} 形式的集合，即具有有限半定升力的集合。 Netzer 和 Sanyal (2015) 证明，当每个非零边界点都是其双曲多项式的平滑点时，双曲锥体是谱面阴影，并提出了投影 Lax 猜想，这是广义 Lax 猜想的弱化。是不是每场封闭式的炒作",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "136f0c1bca13156fdd9f",
@@ -1006,7 +3763,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "r-均匀超图性质的 Friedgut-Kalai 阈值宽度猜想",
-      "excerpt_zh": "已证明 · 随机超图、布尔函数分析 · 使用未发布的内部 OpenAI 模型 · 显着性 25/100。对于重新标记下 n 个顶点不变的 r 均匀超图的非平凡递增性质，\\binom nr 边坐标的传递对称性通过 Friedgut-Kalai 方法给出阈值宽度 O(1/\\log n)。 Friedgut 和 Kalai（1996，第 5 节）推测顶点对称性更好：对于每个固定的 r，从概率 \\varepsilon 到 1-\\varepsilon 的宽度应该是 O_{r,\\varepsilon}((\\log n)^{-r/(r-1)})，图情况为 r=2。 Bourgain 和 Kalai 达到指数 r"
+      "excerpt_zh": "已证明 · 随机超图、布尔函数分析 · 使用未发布的内部 OpenAI 模型 · 显着性 25/100。对于重新标记下 n 个顶点不变的 r 均匀超图的非平凡递增性质，\\binom nr 边坐标的传递对称性通过 Friedgut-Kalai 方法给出阈值宽度 O(1/\\log n)。 Friedgut 和 Kalai（1996，第 5 节）推测顶点对称性更好：对于每个固定的 r，从概率 \\varepsilon 到 1-\\varepsilon 的宽度应该是 O_{r,\\varepsilon}((\\log n)^{-r/(r-1)})，图情况为 r=2。 Bourgain 和 Kalai 达到指数 r",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "4581e007bc2df2906df7",
@@ -1021,7 +3791,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "Burger-Ozawa-Thom 问题：乌拉姆稳定性强是否代表顺从性？",
-      "excerpt_zh": "证明·群论；近似表示的稳定性 · 未发布的内部 OpenAI 模型 · 重要性 25/100。一个可数离散群 G 是强 Ulam 稳定的，如果对于每个 \\varepsilon>0 都有 δ>0，使得每个将 \\mu:G\\ 到 U(H) 映射到任何复数希尔伯特空间的酉群，其中 \\mu(e)=I 和 \\sup_{g,h}\\|\\mu(gh)-\\mu(g)\\mu(h)\\|\\le\\delta 一致地在同一空间上的真正酉表示的 \\varepsilon 内。 Kazhdan (1982) 证明顺从的群体具有很强的乌拉姆稳定性； Burger、Ozawa 和 Thom（2013）表明具有非阿贝尔自由子群的群不是，而 Alpeev 处理"
+      "excerpt_zh": "证明·群论；近似表示的稳定性 · 未发布的内部 OpenAI 模型 · 重要性 25/100。一个可数离散群 G 是强 Ulam 稳定的，如果对于每个 \\varepsilon>0 都有 δ>0，使得每个将 \\mu:G\\ 到 U(H) 映射到任何复数希尔伯特空间的酉群，其中 \\mu(e)=I 和 \\sup_{g,h}\\|\\mu(gh)-\\mu(g)\\mu(h)\\|\\le\\delta 一致地在同一空间上的真正酉表示的 \\varepsilon 内。 Kazhdan (1982) 证明顺从的群体具有很强的乌拉姆稳定性； Burger、Ozawa 和 Thom（2013）表明具有非阿贝尔自由子群的群不是，而 Alpeev 处理",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "374f804bdb267457ef04",
@@ -1036,7 +3819,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "Ball 的 Lipschitz 扩展问题通过 Mendel-Naor 度量 Markov cotype 问题从 Hilbert 空间映射到 _1",
-      "excerpt_zh": "已证明·公制几何；非线性 Banach 空间理论，Lipschitz 扩展 · 具有未发布的内部 OpenAI 模型 · 重要性 35/100。 Ball (1992)引入马尔可夫类型和共型来研究Lipschitz扩展，并询问是否每个Lipschitz映射f从希尔伯特空间H的任意子集到L_1延伸到所有H，对于通用K，\\mathrm{Lip}(F)\\le K\\,\\mathrm{Lip}(f)。Mendel和Naor (2013)以Cesaro形式制定了度量马尔可夫共型二：如果对于每个，X具有常数C可逆随机矩阵 A，具有平稳 \\pi，每个 t 和 X 中的点 x_1,\\dots,x_n\\in X 有 y_1,\\dots,y_n\\in X 和 \\sum_i\\pi_i"
+      "excerpt_zh": "已证明·公制几何；非线性 Banach 空间理论，Lipschitz 扩展 · 具有未发布的内部 OpenAI 模型 · 重要性 35/100。 Ball (1992)引入马尔可夫类型和共型来研究Lipschitz扩展，并询问是否每个Lipschitz映射f从希尔伯特空间H的任意子集到L_1延伸到所有H，对于通用K，\\mathrm{Lip}(F)\\le K\\,\\mathrm{Lip}(f)。Mendel和Naor (2013)以Cesaro形式制定了度量马尔可夫共型二：如果对于每个，X具有常数C可逆随机矩阵 A，具有平稳 \\pi，每个 t 和 X 中的点 x_1,\\dots,x_n\\in X 有 y_1,\\dots,y_n\\in X 和 \\sum_i\\pi_i",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "ccf8feefc874ba5fc843",
@@ -1051,7 +3847,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "稀硬球玻色气体在热力学极限下、零温度和小正温度下的玻色-爱因斯坦凝聚",
-      "excerpt_zh": "证明·量子多体理论；稀释 Bose 气体 · 使用未发布的内部 OpenAI 模型 · 重要性 58/100。考虑环面上的 N 个玻色子 \\Lambda_L=(\\mathbb{R}/L\\mathbb{Z})^3 通过排斥性短程势相互作用，例如直径为 a 的硬球体。彭罗斯和昂萨格意义上的凝聚意味着恒定轨道携带粒子的宏观部分： \\liminf N^{-1}\\langle u_0,\\gamma^{(1)}u_0\\rangle>0 作为 L\\to\\infty ，其中 N/L^3\\to\\rho 固定，对于固定温度下的基态或吉布斯态。这仅在缩放限制中得到证明，其中"
+      "excerpt_zh": "证明·量子多体理论；稀释 Bose 气体 · 使用未发布的内部 OpenAI 模型 · 重要性 58/100。考虑环面上的 N 个玻色子 \\Lambda_L=(\\mathbb{R}/L\\mathbb{Z})^3 通过排斥性短程势相互作用，例如直径为 a 的硬球体。彭罗斯和昂萨格意义上的凝聚意味着恒定轨道携带粒子的宏观部分： \\liminf N^{-1}\\langle u_0,\\gamma^{(1)}u_0\\rangle>0 作为 L\\to\\infty ，其中 N/L^3\\to\\rho 固定，对于固定温度下的基态或吉布斯态。这仅在缩放限制中得到证明，其中",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "34bc097408f8728c9b9e",
@@ -1066,7 +3875,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "冯诺依曼代数单侧近包含的小空间嵌入",
-      "excerpt_zh": "反证·算子代数；接近包含物，微扰理论·与未发布的内部OpenAI模型·重要性20/100。对于具有共同恒等式的冯·诺依曼代数 M,N\\subseteq B(H)，设 \\gamma(M,N)=\\sup_{x\\in M,\\|x\\|\\le1}\\inf_{y\\in N}\\|x-y\\|。 Christensen 证明了具有小 γ(M,N) 的单射 M 通过接近恒等式的酉嵌入到 N 中。 Cameron、Christensen、Sinclair、Smith、White 和 Wiggins 提出了一个不受限制的片面问题：对于每个 \\varepsilon>0 是否存在一个 \\delta>0，使得 \\gamma(M,N)<\\delta 对于某个带有 \\|u-1\\|<\\varepsilon 的酉 u 总是意味着 uMu^*\\subseteq N？"
+      "excerpt_zh": "反证·算子代数；接近包含物，微扰理论·与未发布的内部OpenAI模型·重要性20/100。对于具有共同恒等式的冯·诺依曼代数 M,N\\subseteq B(H)，设 \\gamma(M,N)=\\sup_{x\\in M,\\|x\\|\\le1}\\inf_{y\\in N}\\|x-y\\|。 Christensen 证明了具有小 γ(M,N) 的单射 M 通过接近恒等式的酉嵌入到 N 中。 Cameron、Christensen、Sinclair、Smith、White 和 Wiggins 提出了一个不受限制的片面问题：对于每个 \\varepsilon>0 是否存在一个 \\delta>0，使得 \\gamma(M,N)<\\delta 对于某个带有 \\|u-1\\|<\\varepsilon 的酉 u 总是意味着 uMu^*\\subseteq N？",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "71c98dbd70f4d8ca6fb8",
@@ -1081,7 +3903,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "Arnosti 的贪婪匹配的 RANDOM-VERTEX 与 RANKING 猜想",
-      "excerpt_zh": "经验证·随机匹配算法；随机优势 · 与 OpenAI Codex (GPT-6 Astra) · 重要性 7/100。在 Nick Arnosti 的随机二分匹配模型中，每个作业都有规定的程度，并独立地对容器的统一可行子集进行采样。每个bin具有相同的正整数容量C.RANDOM-VERTEX为每个作业选择一个均匀随机可用的可行bin；排名使用一种共享的随机优先级顺序。两者都以独立的统一随机到达顺序处理作业。定理 2 后面的猜想询问 RANDOM-VERTEX 是否随机支配 RANKING i"
+      "excerpt_zh": "经验证·随机匹配算法；随机优势 · 与 OpenAI Codex (GPT-6 Astra) · 重要性 7/100。在 Nick Arnosti 的随机二分匹配模型中，每个作业都有规定的程度，并独立地对容器的统一可行子集进行采样。每个bin具有相同的正整数容量C.RANDOM-VERTEX为每个作业选择一个均匀随机可用的可行bin；排名使用一种共享的随机优先级顺序。两者都以独立的统一随机到达顺序处理作业。定理 2 后面的猜想询问 RANDOM-VERTEX 是否随机支配 RANKING i",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "5f6f11f5adc2eebf867b",
@@ -1096,7 +3931,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "3SUM 假设：3SUM 在真正的次二次时间内可解吗？",
-      "excerpt_zh": "已被证实 · 细粒度的复杂性；算法 · 与 Claude（内部人择研究模型，未命名） · 重要性 50/100。给定 [-n^c, n^c] 中的 n 个整数，判断其中三个之和是否为零。 3SUM 假设断言，对于任何 \\varepsilon > 0，在具有 O(\\log n) 位字的字 RAM 上没有算法可以在 O(n^{2-\\varepsilon}) 时间内解决这个问题。计算几何和细粒度复杂性中的数百个条件下界都依赖于它。是否存在真正的二次算法？"
+      "excerpt_zh": "已被证实 · 细粒度的复杂性；算法 · 与 Claude（内部人择研究模型，未命名） · 重要性 50/100。给定 [-n^c, n^c] 中的 n 个整数，判断其中三个之和是否为零。 3SUM 假设断言，对于任何 \\varepsilon > 0，在具有 O(\\log n) 位字的字 RAM 上没有算法可以在 O(n^{2-\\varepsilon}) 时间内解决这个问题。计算几何和细粒度复杂性中的数百个条件下界都依赖于它。是否存在真正的二次算法？",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "0c1ff82fb4068790bf92",
@@ -1111,7 +3959,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "二维 O(4) 晶格模型的 Hasenfratz-Maggiore-Niedermayer 精确质量间隙",
-      "excerpt_zh": "已证明·统计力学；渐进自由 sigma 模型，质量间隙 · 具有未发布的内部 OpenAI 模型 · 显着性 28/100。对于 \\mathbb Z^2 上的最近邻 O(4) 模型（以 S^3 旋转，权重 \\exp(\\beta\\sum_{x\\sim y}\\sigma_x\\cdot\\sigma_y)），渐近自由度预测阶数为 \\sqrt\\beta\\,e^{-\\pi\\beta} 的质量 m_{\\mathrm{lat}}(\\beta) 为 \\beta\\to\\infty。 Hasenfratz、Maggiore 和 Niedermayer (1990) 通过将 Bethe ansatz 与微扰理论相匹配，计算出 O(3) 和 O(4) 的精确比率 m/\\Lambda_{\\overline{\\mathrm{MS}}}=\\sqrt{32/(\\pi e)}，微扰理论固定了晶格质量的数值前因子。是否有间隙"
+      "excerpt_zh": "已证明·统计力学；渐进自由 sigma 模型，质量间隙 · 具有未发布的内部 OpenAI 模型 · 显着性 28/100。对于 \\mathbb Z^2 上的最近邻 O(4) 模型（以 S^3 旋转，权重 \\exp(\\beta\\sum_{x\\sim y}\\sigma_x\\cdot\\sigma_y)），渐近自由度预测阶数为 \\sqrt\\beta\\,e^{-\\pi\\beta} 的质量 m_{\\mathrm{lat}}(\\beta) 为 \\beta\\to\\infty。 Hasenfratz、Maggiore 和 Niedermayer (1990) 通过将 Bethe ansatz 与微扰理论相匹配，计算出 O(3) 和 O(4) 的精确比率 m/\\Lambda_{\\overline{\\mathrm{MS}}}=\\sqrt{32/(\\pi e)}，微扰理论固定了晶格质量的数值前因子。是否有间隙",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "c9b25501d180b66b97ff",
@@ -1126,7 +3987,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "硬球玻尔兹曼方程 DiPerna-Lions 重正化解的唯一性",
-      "excerpt_zh": "反驳·动力学理论；玻尔兹曼方程，弱解 · 具有未发布的内部 OpenAI 模型 · 重要性 30/100。 DiPerna 和 Lions (1989) 证明了非齐次玻尔兹曼方程 (\\partial_t+v\\cdot\\nabla_x)F=Q(F,F) 的重正化解的全局存在性和弱稳定性，对于任何具有有限质量、能量和熵的非负初始密度，\\int F_0(1+|v|^2+|\\log F_0|)<\\infty；这些边界本身并不能使碰撞项局部可积。只有在更强的控制下才知道唯一性（麦克斯韦上限，加权索博列夫空间中麦克斯韦的扰动），并且对于"
+      "excerpt_zh": "反驳·动力学理论；玻尔兹曼方程，弱解 · 具有未发布的内部 OpenAI 模型 · 重要性 30/100。 DiPerna 和 Lions (1989) 证明了非齐次玻尔兹曼方程 (\\partial_t+v\\cdot\\nabla_x)F=Q(F,F) 的重正化解的全局存在性和弱稳定性，对于任何具有有限质量、能量和熵的非负初始密度，\\int F_0(1+|v|^2+|\\log F_0|)<\\infty；这些边界本身并不能使碰撞项局部可积。只有在更强的控制下才知道唯一性（麦克斯韦上限，加权索博列夫空间中麦克斯韦的扰动），并且对于",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "efaa9ca700f170dedd5e",
@@ -1141,7 +4015,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "强各向同性常数猜想：单纯形使各向同性常数最大化",
-      "excerpt_zh": "证明·凸几何；各向同性常数和切片问题 · 与未发布的内部 OpenAI 模型 · 重要性 50/100。对于协方差矩阵 \\Sigma_K 为均匀分布的凸体 K\\subset\\mathbb R^n，各向同性常数为 L_K=(\\det\\Sigma_K/|K|^2)^{1/(2n)}，一个仿射不变量。 Bourgain 的切片问题要求无量纲上限，最近由 Klartag 和 Lehec 获得。尖锐（强）形式需要极值体：Campi、Colesanti 和 Gronchi 在平面上证明了这一点，Saroglou 证明了平面上的唯一性，Rademacher 证明了单纯形多面体最大化必须是单纯形。"
+      "excerpt_zh": "证明·凸几何；各向同性常数和切片问题 · 与未发布的内部 OpenAI 模型 · 重要性 50/100。对于协方差矩阵 \\Sigma_K 为均匀分布的凸体 K\\subset\\mathbb R^n，各向同性常数为 L_K=(\\det\\Sigma_K/|K|^2)^{1/(2n)}，一个仿射不变量。 Bourgain 的切片问题要求无量纲上限，最近由 Klartag 和 Lehec 获得。尖锐（强）形式需要极值体：Campi、Colesanti 和 Gronchi 在平面上证明了这一点，Saroglou 证明了平面上的唯一性，Rademacher 证明了单纯形多面体最大化必须是单纯形。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "032b0645bdc9e172be1a",
@@ -1156,7 +4043,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "几何级数的厄多斯相似猜想",
-      "excerpt_zh": "已证实·真实分析；测量理论和仿射副本 · 使用未发布的内部 OpenAI 模型 · 重要性 34/100。如果正勒贝格测度的每个可测集都包含具有 s\\ne0 的仿射副本 x+sA，则集合 A\\subseteq\\mathbb R 是测度通用的。每个有限集都是通用的。 Erdos（1974，问题 4.33.7*）推测不存在无限集。 Falconer 和 Eigen 针对序列 a_n\\to0 和 a_{n+1}/a_n\\to1 证明了这一点，后来的标准（Kolountzakis、Humke-Laczkovich、Chlebik）不适用于几何级数，因此即使二元序列 \\{2^{-n}\\} 仍然是开放的。对于每个 q\\in(0,"
+      "excerpt_zh": "已证实·真实分析；测量理论和仿射副本 · 使用未发布的内部 OpenAI 模型 · 重要性 34/100。如果正勒贝格测度的每个可测集都包含具有 s\\ne0 的仿射副本 x+sA，则集合 A\\subseteq\\mathbb R 是测度通用的。每个有限集都是通用的。 Erdos（1974，问题 4.33.7*）推测不存在无限集。 Falconer 和 Eigen 针对序列 a_n\\to0 和 a_{n+1}/a_n\\to1 证明了这一点，后来的标准（Kolountzakis、Humke-Laczkovich、Chlebik）不适用于几何级数，因此即使二元序列 \\{2^{-n}\\} 仍然是开放的。对于每个 q\\in(0,",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "8808636587841edb502b",
@@ -1171,7 +4071,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "XY 相关长度的科斯特利茨本质奇点",
-      "excerpt_zh": "已证明·统计力学； Berezinskii-Kosterlitz-Thouless 过渡 · 具有未发布的内部 OpenAI 模型 · 重要性 48/100。对于 \\mathbb Z^2 上的最近邻 XY 模型，令 m(b) 为沿轴的自旋相关性的指数衰减率，\\xi(b)=1/m(b) 为相关长度，对于 b<b_c 是有限的。与 \\xi 作为 b_c-b 的幂发散的普通临界点不同，Kosterlitz 的重整化群分析预测了一个本质奇点： \\log\\xi(b)\\sim A/\\sqrt{b_c-b} 作为 b\\uparrow b_c。严格的工作建立了转变和指数与多项式二分法（Frohlich-Spencer，van E"
+      "excerpt_zh": "已证明·统计力学； Berezinskii-Kosterlitz-Thouless 过渡 · 具有未发布的内部 OpenAI 模型 · 重要性 48/100。对于 \\mathbb Z^2 上的最近邻 XY 模型，令 m(b) 为沿轴的自旋相关性的指数衰减率，\\xi(b)=1/m(b) 为相关长度，对于 b<b_c 是有限的。与 \\xi 作为 b_c-b 的幂发散的普通临界点不同，Kosterlitz 的重整化群分析预测了一个本质奇点： \\log\\xi(b)\\sim A/\\sqrt{b_c-b} 作为 b\\uparrow b_c。严格的工作建立了转变和指数与多项式二分法（Frohlich-Spencer，van E",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "8ffbfdf09f8039998390",
@@ -1186,7 +4099,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "完美匹配的多面体是否具有多项式大小的半定升力？",
-      "excerpt_zh": "已证伪·扩展配方；正半定秩，下界·未发布的内部 OpenAI 模型·显着性 35/100。大小为 r 的半定提升将多面体写为仿射子空间 L 的 L\\cap\\mathbb S^r_+ 的仿射图像；根据 Gouveia-Parrilo-Thomas 的说法，最小的 r 等于松弛矩阵的 PSD 秩。 Yannakakis 排除了完美匹配多胞形的小型对称线性程序，Rothvoss (2014) 证明其线性扩展复杂度为 2^{\\Omega(n)}，Braun 等人。排除了小的对称 SDP，注意到很自然地会问匹配是否可以用半定来紧凑地表达"
+      "excerpt_zh": "已证伪·扩展配方；正半定秩，下界·未发布的内部 OpenAI 模型·显着性 35/100。大小为 r 的半定提升将多面体写为仿射子空间 L 的 L\\cap\\mathbb S^r_+ 的仿射图像；根据 Gouveia-Parrilo-Thomas 的说法，最小的 r 等于松弛矩阵的 PSD 秩。 Yannakakis 排除了完美匹配多胞形的小型对称线性程序，Rothvoss (2014) 证明其线性扩展复杂度为 2^{\\Omega(n)}，Braun 等人。排除了小的对称 SDP，注意到很自然地会问匹配是否可以用半定来紧凑地表达",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "f6812992114c29a7b327",
@@ -1201,7 +4127,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "加博里奥的固定价格问题：所有基本上免费的 p.m.p.可数群体的行动具有相同的成本吗？",
-      "excerpt_zh": "反证·测度群论；保留措施的成本 · 使用未发布的内部 OpenAI 模型 · 重要性 50/100。对于可数群 \\Gamma 通过在标准概率空间上保持测度的 Borel 自同构起作用，轨道等价关系的成本是生成图形的总测度的下确界（Levitt 1995）。如果一个群体的所有本质上自由的概率测度保持行为具有相同的成本，则该群体具有固定价格。加博里奥表明，自由团体 F_n 具有固定价格 n，并且许多具有通勤或顺从结构的团体具有固定价格 1，并询问是否每个"
+      "excerpt_zh": "反证·测度群论；保留措施的成本 · 使用未发布的内部 OpenAI 模型 · 重要性 50/100。对于可数群 \\Gamma 通过在标准概率空间上保持测度的 Borel 自同构起作用，轨道等价关系的成本是生成图形的总测度的下确界（Levitt 1995）。如果一个群体的所有本质上自由的概率测度保持行为具有相同的成本，则该群体具有固定价格。加博里奥表明，自由团体 F_n 具有固定价格 n，并且许多具有通勤或顺从结构的团体具有固定价格 1，并询问是否每个",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "62b135e2785620ad1058",
@@ -1216,7 +4155,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "固定速率弱可逆质量作用系统的持久猜想",
-      "excerpt_zh": "已证明 · 化学反应网络理论：质量作用动力学 · 具有未发布的内部 OpenAI 模型 · 重要性 32/100。对于具有质量作用动力学 \\dot x=\\sum_{y\\to y'}k_{y\\to y'}x^y(y'-y) 和固定正速率的弱可逆反应网络，令 S 为反应向量 y'-y 的跨度，P=(c+S)\\cap\\mathbb R^d_{>0} 为正化学计量类，其可能是无界的。如果从 P 开始的每个解都是全局且正的，并且一个紧凑的 K\\子集 P 最终包含它们中的每一个，则系统在 P 上是永久的，进入时间而不是 K 取决于初始点。这比绑定更强"
+      "excerpt_zh": "已证明 · 化学反应网络理论：质量作用动力学 · 具有未发布的内部 OpenAI 模型 · 重要性 32/100。对于具有质量作用动力学 \\dot x=\\sum_{y\\to y'}k_{y\\to y'}x^y(y'-y) 和固定正速率的弱可逆反应网络，令 S 为反应向量 y'-y 的跨度，P=(c+S)\\cap\\mathbb R^d_{>0} 为正化学计量类，其可能是无界的。如果从 P 开始的每个解都是全局且正的，并且一个紧凑的 K\\子集 P 最终包含它们中的每一个，则系统在 P 上是永久的，进入时间而不是 K 取决于初始点。这比绑定更强",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "51afb12185b30e14b8b8",
@@ -1231,7 +4183,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "酉稳定有限情况下等变江苏稳定性的萨博猜想A",
-      "excerpt_zh": "证明·算子代数； C*-顺从的群体行动的动态 · 具有未发布的内部 OpenAI 模型 · 重要性 22/100。设 A 为可分离简单核 C* 代数，其中 A\\cong A\\otimes\\mathcal Z，令 α 为可数离散服从群 G 对 A 的作用。萨博猜想 A 预测自动等变江苏稳定性： α 应该是与 \\alpha\\otimes\\mathrm{id}_{\\mathcal Z} 的余循环共轭。萨博用有限多条极值迹射线和非常弱的比较证明了这一点；一般情况下是开放的，特别是当动作移动痕迹时。是不是每一个顺从的行为"
+      "excerpt_zh": "证明·算子代数； C*-顺从的群体行动的动态 · 具有未发布的内部 OpenAI 模型 · 重要性 22/100。设 A 为可分离简单核 C* 代数，其中 A\\cong A\\otimes\\mathcal Z，令 α 为可数离散服从群 G 对 A 的作用。萨博猜想 A 预测自动等变江苏稳定性： α 应该是与 \\alpha\\otimes\\mathrm{id}_{\\mathcal Z} 的余循环共轭。萨博用有限多条极值迹射线和非常弱的比较证明了这一点；一般情况下是开放的，特别是当动作移动痕迹时。是不是每一个顺从的行为",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "995e13cd93bbf7c1aa4f",
@@ -1246,7 +4211,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "爱因斯坦-麦克斯韦初始数据的上区域形式的带电时空彭罗斯不等式",
-      "excerpt_zh": "已证明·数学广义相对论·使用未发布的内部 OpenAI 模型·重要性 34/100。对于电荷和磁电荷，Q^2=Q_E^2+Q_B^2，彭罗斯的启发式表明，给定面积的黑洞的质量不能小于该面积和电荷的赖斯纳-诺德斯特龙黑洞的质量。对于可能断开的层位，较低的形式 m\\ge(r_A+Q^​​2/r_A)/2, r_A=\\sqrt{A/4\\pi} 可能会失败，适当的语句是上部区域不等式 m\\ge|Q|, r_A\\le m+\\sqrt{m^2-Q^2}； Khuri、Weinstein 和 Yamada 针对具有多个视野的时间对称数据证明了这一点。上部区域是否在"
+      "excerpt_zh": "已证明·数学广义相对论·使用未发布的内部 OpenAI 模型·重要性 34/100。对于电荷和磁电荷，Q^2=Q_E^2+Q_B^2，彭罗斯的启发式表明，给定面积的黑洞的质量不能小于该面积和电荷的赖斯纳-诺德斯特龙黑洞的质量。对于可能断开的层位，较低的形式 m\\ge(r_A+Q^​​2/r_A)/2, r_A=\\sqrt{A/4\\pi} 可能会失败，适当的语句是上部区域不等式 m\\ge|Q|, r_A\\le m+\\sqrt{m^2-Q^2}； Khuri、Weinstein 和 Yamada 针对具有多个视野的时间对称数据证明了这一点。上部区域是否在",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
     },
     {
       "id": "e6391c83b07a2abaddb3",
@@ -1261,7 +4239,48 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "紧密可分离 C* 代数的空间 Kadison-Kastler 问题",
-      "excerpt_zh": "反证·算子代数； C* 代数的扰动 · 未发布的内部 OpenAI 模型 · 重要性 22/100。 Kadison 和 Kastler (1972) 开创了闭算子代数的研究。对于 C* 代数，Johnson 证明了实现酉不需要接近恒等式，Choi-Christensen 给出了接近的非同构代数，但只是不可分的代数。 Christensen、Sinclair、Smith、White 和 Winter 证明了可分离希尔伯特空间上足够接近的可分离核 C* 代数是空间同构的，并讨论了可分离空间公式：是否存在 δ>0 使得任意两个"
+      "excerpt_zh": "反证·算子代数； C* 代数的扰动 · 未发布的内部 OpenAI 模型 · 重要性 22/100。 Kadison 和 Kastler (1972) 开创了闭算子代数的研究。对于 C* 代数，Johnson 证明了实现酉不需要接近恒等式，Choi-Christensen 给出了接近的非同构代数，但只是不可分的代数。 Christensen、Sinclair、Smith、White 和 Winter 证明了可分离希尔伯特空间上足够接近的可分离核 C* 代数是空间同构的，并讨论了可分离空间公式：是否存在 δ>0 使得任意两个",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.8
+    },
+    {
+      "id": "743d60bdc4417b13a3e0",
+      "source_id": "gil-kalai",
+      "source": "Gil Kalai · Combinatorics and more",
+      "title": "Quantum Computers and Applied Mathematics at Brown University",
+      "url": "https://gilkalai.wordpress.com/2026/10/04/quantum-computers-and-applied-mathematics-at-brown-university",
+      "published_at": "2026-10-04T14:08:49+00:00",
+      "date_precision": "datetime",
+      "excerpt": "My host at Brown University was the fascinating Basilis Gidas whom I first met in Rio in 2018. Basilis has had a remarkable career, taking him from electrical and mechanical engineering through quantum field theory to many areas of applied … Continue reading →",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "gil-kalai",
+          "name": "Gil Kalai · Combinatorics and more"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 89.5,
+      "title_zh": "布朗大学量子计算机和应用数学",
+      "excerpt_zh": "我在布朗大学的主人是迷人的巴西利斯·吉达斯（Basilis Gidas），我于 2018 年在里约热内卢第一次见到他。巴西利斯有着非凡的职业生涯，从电气和机械工程到量子场论，再到许多应用领域……继续阅读 →"
     },
     {
       "id": "a83544d702c82deecec3",
@@ -1276,7 +4295,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "p = 2 时的前模性：奇数绝对不可约 2-adic 表示出现在完整的 Hecke 代数中（允许辅助驯服级别）",
-      "excerpt_zh": "已证明 · 完成赫克代数； p-adic Langlands for GL2 over Q · 具有未发布的内部 OpenAI 模型 · 重要性 22/100。设 \\mathbb T_p(N) 为驯服级别 N 的完整变权 p 进赫克代数。Emerton (2011, Conjecture 2.12) 记录了这样的期望：G_{\\mathbb Q} 的每个连续奇二维 p 进表示在有限多个素数之外未分支出现在这样的代数中，在 p 处没有霍奇理论条件，并且具有由分支规定的驯服级别。早期的模块化定理（Skinner-Wiles、Emerton、Pan）需要 p>2 或残差限制。对于 p=2，每个连续"
+      "excerpt_zh": "已证明 · 完成赫克代数； p-adic Langlands for GL2 over Q · 具有未发布的内部 OpenAI 模型 · 重要性 22/100。设 \\mathbb T_p(N) 为驯服级别 N 的完整变权 p 进赫克代数。Emerton (2011, Conjecture 2.12) 记录了这样的期望：G_{\\mathbb Q} 的每个连续奇二维 p 进表示在有限多个素数之外未分支出现在这样的代数中，在 p 处没有霍奇理论条件，并且具有由分支规定的驯服级别。早期的模块化定理（Skinner-Wiles、Emerton、Pan）需要 p>2 或残差限制。对于 p=2，每个连续",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.5
     },
     {
       "id": "14d815b8a353afc12aec",
@@ -1291,7 +4323,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "Thue–Morse：所有三个 Joshi–Rust 首次出现公式",
-      "excerpt_zh": "已证明 · 单词组合学；自动序列和算术级数 · 使用 OpenAI Codex · 重要性 6/100。设 t(j) 为 j 的二进制数字和的奇偶校验，索引从零开始。令 A(d) 为 t 中正差 d 的单色算术级数的最大长度，令 i(d) 为达到 A(d) 的最小起始索引。乔希-鲁斯特猜想 3.8 要求三个首次出现恒等式：对于 n\\ge2，i(2^n+1)=3\\cdot 2^{2n}-2^n-1； i(2^{2n}-1)=3\\cdot 2^{4n}-2^{2n}+1 对于 n\\ge1;对于 n\\ge0，i(2^{2n+1}-1)=2^{2n+1}-1。范围是明确的：第一个公式不包括 n=1，其中"
+      "excerpt_zh": "已证明 · 单词组合学；自动序列和算术级数 · 使用 OpenAI Codex · 重要性 6/100。设 t(j) 为 j 的二进制数字和的奇偶校验，索引从零开始。令 A(d) 为 t 中正差 d 的单色算术级数的最大长度，令 i(d) 为达到 A(d) 的最小起始索引。乔希-鲁斯特猜想 3.8 要求三个首次出现恒等式：对于 n\\ge2，i(2^n+1)=3\\cdot 2^{2n}-2^n-1； i(2^{2n}-1)=3\\cdot 2^{4n}-2^{2n}+1 对于 n\\ge1;对于 n\\ge0，i(2^{2n+1}-1)=2^{2n+1}-1。范围是明确的：第一个公式不包括 n=1，其中",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.5
     },
     {
       "id": "927e77232e8d11460e53",
@@ -1306,7 +4351,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "混合变换的多个遍历平均值的逐点收敛",
-      "excerpt_zh": "证明·历经理论；多重遍历平均值 · 使用未发布的内部 OpenAI 模型 · 显着性 40/100。令 T 为概率空间和 f_1,\\dots,f_n 有界可测函数的可逆测度保留变换。自从 Furstenberg 对 Szemeredi 定理的遍历证明以来，多重遍历平均值 \\frac1N\\sum_{k=1}^N\\prod_{j=1}^n f_j(T^{jk}x) 一直是中心。 Host-Kra 和 Ziegler 证明了 L^2 中每个 n 的收敛性，但几乎处处收敛仅在 n=2 (Bourgain) 时才知道，并且在更大 n 的额外结构下：K 系统、具有谱或 j 的弱混合系统"
+      "excerpt_zh": "证明·历经理论；多重遍历平均值 · 使用未发布的内部 OpenAI 模型 · 显着性 40/100。令 T 为概率空间和 f_1,\\dots,f_n 有界可测函数的可逆测度保留变换。自从 Furstenberg 对 Szemeredi 定理的遍历证明以来，多重遍历平均值 \\frac1N\\sum_{k=1}^N\\prod_{j=1}^n f_j(T^{jk}x) 一直是中心。 Host-Kra 和 Ziegler 证明了 L^2 中每个 n 的收敛性，但几乎处处收敛仅在 n=2 (Bourgain) 时才知道，并且在更大 n 的额外结构下：K 系统、具有谱或 j 的弱混合系统",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.5
     },
     {
       "id": "4f2f308bf445e4f1d94f",
@@ -1321,7 +4379,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "通过二元性保持恢复平衡",
-      "excerpt_zh": "已证明·编码理论； DNA 存储中的随机访问 · 使用 OpenAI Codex (GPT-6 Astra) · 重要性 6/100。 Gruica、Bar-Lev、Ravagnani 和 Yaakobi 的猜想 1 询问线性码是否是恢复平衡的当且仅当其正交对偶是恢复平衡的。这里，编码坐标是独立且统一地替换读取的；恢复平衡意味着恢复坐标所需的预期读取次数对于每个坐标都是相同的。"
+      "excerpt_zh": "已证明·编码理论； DNA 存储中的随机访问 · 使用 OpenAI Codex (GPT-6 Astra) · 重要性 6/100。 Gruica、Bar-Lev、Ravagnani 和 Yaakobi 的猜想 1 询问线性码是否是恢复平衡的当且仅当其正交对偶是恢复平衡的。这里，编码坐标是独立且统一地替换读取的；恢复平衡意味着恢复坐标所需的预期读取次数对于每个坐标都是相同的。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.5
     },
     {
       "id": "d4b4811dddf870f46403",
@@ -1336,7 +4407,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "最坏情况时间子集总和 2^((1/2 - c)n)",
-      "excerpt_zh": "已证明 · 精确的指数算法；细粒度的复杂性 · 具有未发布的内部 OpenAI 模型 · 重要性 46/100。给定正整数 a_1,\\dots,a_n 和目标 t，Subset Sum 询问 a_i 的某个子集是否与 t 相加。 Horowitz 和 Sahni (1974) 的中间相遇算法在时间 2^{n/2}\\cdot\\mathrm{poly} 内求解，而 Schroeppel 和 Shamir (1981) 则用空间 2^{n/4} 保持该时间。后来的工作只保存了最坏情况下的多项式因子（Chen，Jin，Randolph 和 Servedio，2023，时间 2^{n/2}/n^{\\delta}），而表示方法仅在随机实例上击败 2^{n/2}。有没有算法"
+      "excerpt_zh": "已证明 · 精确的指数算法；细粒度的复杂性 · 具有未发布的内部 OpenAI 模型 · 重要性 46/100。给定正整数 a_1,\\dots,a_n 和目标 t，Subset Sum 询问 a_i 的某个子集是否与 t 相加。 Horowitz 和 Sahni (1974) 的中间相遇算法在时间 2^{n/2}\\cdot\\mathrm{poly} 内求解，而 Schroeppel 和 Shamir (1981) 则用空间 2^{n/4} 保持该时间。后来的工作只保存了最坏情况下的多项式因子（Chen，Jin，Randolph 和 Servedio，2023，时间 2^{n/2}/n^{\\delta}），而表示方法仅在随机实例上击败 2^{n/2}。有没有算法",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.5
     },
     {
       "id": "3357695a5308ea31ed50",
@@ -1351,7 +4435,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "素数域上多项式的确定性多项式时间因式分解",
-      "excerpt_zh": "已证明 · 算法数论、去随机化 · 使用未发布的内部 OpenAI 模型 · 重要性 55/100。 Berlekamp 的算法 (1967, 1970) 减少因式分解 f\\in\\mathbb F_p[x] 来寻找商代数的分离元素，而 Cantor-Zassenhaus 等随机算法则对 \\deg f 和 \\log p 中的预期时间多项式进行因式分解。确定性地，Shoup 的界限取决于 p^{1/2+o(1)}；在 GRH 下，Ronyai 处理了有限数量的因子，Evdokimov 得到了 (n^{\\log n}\\log p)^{O(1)}，仍然是拟多项式。 Altman（2025）调查了剩余的障碍。是否有确定性算法"
+      "excerpt_zh": "已证明 · 算法数论、去随机化 · 使用未发布的内部 OpenAI 模型 · 重要性 55/100。 Berlekamp 的算法 (1967, 1970) 减少因式分解 f\\in\\mathbb F_p[x] 来寻找商代数的分离元素，而 Cantor-Zassenhaus 等随机算法则对 \\deg f 和 \\log p 中的预期时间多项式进行因式分解。确定性地，Shoup 的界限取决于 p^{1/2+o(1)}；在 GRH 下，Ronyai 处理了有限数量的因子，Evdokimov 得到了 (n^{\\log n}\\log p)^{O(1)}，仍然是拟多项式。 Altman（2025）调查了剩余的障碍。是否有确定性算法",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.5
     },
     {
       "id": "cb220c1b7e589071c5d4",
@@ -1366,7 +4463,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "阿廷的原根猜想：每个可接受的底数都是无穷大",
-      "excerpt_zh": "已证明 · 解析数论，原根 · 使用未发布的内部 OpenAI 模型 · 重要性 63/100。 Artin 在 1927 年推测，每个非完全平方的整数 a\\ne-1 都是对无穷多个素数 p 取模的原根，更准确地说，对于显式常数 A(a)>0，此类 p\\le x 的数量渐近于 A(a)\\,x/\\log x。 Hooley (1967) 在库默域的广义黎曼假设下证明了这一点。无条件地，Gupta-Murty 和 Heath-Brown (1986) 表明，至多两个素数碱基无法满足无限断言，因此 2,3,5 之一有效，但没有一个规定"
+      "excerpt_zh": "已证明 · 解析数论，原根 · 使用未发布的内部 OpenAI 模型 · 重要性 63/100。 Artin 在 1927 年推测，每个非完全平方的整数 a\\ne-1 都是对无穷多个素数 p 取模的原根，更准确地说，对于显式常数 A(a)>0，此类 p\\le x 的数量渐近于 A(a)\\,x/\\log x。 Hooley (1967) 在库默域的广义黎曼假设下证明了这一点。无条件地，Gupta-Murty 和 Heath-Brown (1986) 表明，至多两个素数碱基无法满足无限断言，因此 2,3,5 之一有效，但没有一个规定",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.5
     },
     {
       "id": "35248b0f418738ac3117",
@@ -1381,7 +4491,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "非理性层面的全局量子几何朗兰兹猜想",
-      "excerpt_zh": "证明·几何表示论；几何 Langlands · 具有未发布的内部 OpenAI 模型 · 重要性 36/100。对于具有朗兰兹对偶 G^\\vee、系结数 r 和平滑射影曲线 X 的连通简单复群 G，令 D_c(\\mathrm{Bun}_G(X)) 为 G 束模堆栈上 D 模的 DG 类别，该模堆栈由对应于移位水平 c 的行列式线的幂扭曲。量子几何朗兰兹猜想，以斯托亚诺夫斯基的反参数形式归因于德林菲尔德，并在 Gaitsgory 的量子朗兰兹程序中发展，预测等价 D_c(\\mathrm{Bun}_G(X))\\sim"
+      "excerpt_zh": "证明·几何表示论；几何 Langlands · 具有未发布的内部 OpenAI 模型 · 重要性 36/100。对于具有朗兰兹对偶 G^\\vee、系结数 r 和平滑射影曲线 X 的连通简单复群 G，令 D_c(\\mathrm{Bun}_G(X)) 为 G 束模堆栈上 D 模的 DG 类别，该模堆栈由对应于移位水平 c 的行列式线的幂扭曲。量子几何朗兰兹猜想，以斯托亚诺夫斯基的反参数形式归因于德林菲尔德，并在 Gaitsgory 的量子朗兰兹程序中发展，预测等价 D_c(\\mathrm{Bun}_G(X))\\sim",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.5
     },
     {
       "id": "ab39910e4f2ebf98226a",
@@ -1396,7 +4519,48 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "无幂二元态射长度的 8/3+ 稳定性猜想",
-      "excerpt_zh": "已证明 · 单词组合学；无重复态射 · 与 OpenAI Codex · 重要性 6/100。 Shallit、Shur 和 Zorcic 要求相变保持在一致二元态射的允许长度内，同时避免重复。在无幂互补二元态射的第 4 节中，他们推测每当 (8/3)^+\\leq\\alpha<3 时，允许长度的集合保持不变，并在严格阈值 8/3 处进行另一个转换。这里，如果态射将每个无 α 的二进制输入字发送到无 α 的输出，则它是无 α 的； plus 约定允许指数恰好为 8/3。"
+      "excerpt_zh": "已证明 · 单词组合学；无重复态射 · 与 OpenAI Codex · 重要性 6/100。 Shallit、Shur 和 Zorcic 要求相变保持在一致二元态射的允许长度内，同时避免重复。在无幂互补二元态射的第 4 节中，他们推测每当 (8/3)^+\\leq\\alpha<3 时，允许长度的集合保持不变，并在严格阈值 8/3 处进行另一个转换。这里，如果态射将每个无 α 的二进制输入字发送到无 α 的输出，则它是无 α 的； plus 约定允许指数恰好为 8/3。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "vibemathed",
+          "name": "VibeMathed"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 85,
+      "recency_basis": "published",
+      "discovery_score": 91.5
+    },
+    {
+      "id": "d90fac0376bd1af0f6bb",
+      "source_id": "quanta-math",
+      "source": "Quanta · Mathematics",
+      "title": "What Does the Fourth Dimension Actually Look Like?",
+      "url": "https://www.quantamagazine.org/what-does-the-fourth-dimension-actually-look-like-20261001",
+      "published_at": "2026-10-01T13:20:29+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Maggie Miller explains why our intuition about three dimensions breaks down in four, and how she visualizes 4D spaces as a reel of three-dimensional snapshots. The post What Does the Fourth Dimension Actually Look Like? first appeared on Quanta Magazine",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "analysis",
+      "priority": 86,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "quanta-math",
+          "name": "Quanta · Mathematics"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 91.7,
+      "title_zh": "第四维度实际上是什么样子？",
+      "excerpt_zh": "玛吉·米勒 (Maggie Miller) 解释了为什么我们对三维的直觉会分解为四个维度，以及她如何将 4D 空间可视化为三维快照的卷轴。文章《第四维度实际上是什么样子？》首次出现在广达杂志上"
     },
     {
       "id": "e3efd7d8877000651672",
@@ -1411,7 +4575,248 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "悲伤，还是不悲伤？",
-      "excerpt_zh": "数学人工智能领域最近发生的事件毫无疑问地向我们表明，该领域目前正在经历快速变革，这与我们以前见过的任何事情都不同。语言模型正在解决一些难题……继续阅读 →"
+      "excerpt_zh": "数学人工智能领域最近发生的事件毫无疑问地向我们表明，该领域目前正在经历快速变革，这与我们以前见过的任何事情都不同。语言模型正在解决一些难题……继续阅读 →",
+      "topics": [
+        "ai_math",
+        "formal"
+      ],
+      "source_refs": [
+        {
+          "id": "xena",
+          "name": "Xena Project"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 95.6
+    },
+    {
+      "id": "08aa8115cb5d9c892099",
+      "source_id": "deepmind-math",
+      "source": "Google DeepMind · 数学研究",
+      "title": "Introducing SynthID Bio",
+      "url": "https://deepmind.google/blog/introducing-synthid-bio",
+      "published_at": "2026-09-30T15:03:07+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Proof of concept for watermarking AI-generated proteins while preserving biological function.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "research",
+      "priority": 88,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "deepmind-math",
+          "name": "Google DeepMind · 数学研究"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 93.5,
+      "title_zh": "SynthID Bio 简介",
+      "excerpt_zh": "在保留生物功能的同时对人工智能生成的蛋白质加水印的概念证明。"
+    },
+    {
+      "id": "bb47e7603c155c861112",
+      "source_id": "gil-kalai",
+      "source": "Gil Kalai · Combinatorics and more",
+      "title": "Jeff Fest: Probabilistic Combinatorics at Rutgers",
+      "url": "https://gilkalai.wordpress.com/2026/09/29/jeff-fest-probabilistic-combinatorics-at-rutgers",
+      "published_at": "2026-09-29T11:37:15+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Greetings from Providence! Next week there will be a conference at Rutgers University in honor of Jeff Kahn. Jeff is a great mathematician whose contributions span all areas of combinatorics. He has also been my friend for four decades and … Continue reading →",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "gil-kalai",
+          "name": "Gil Kalai · Combinatorics and more"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 88.3,
+      "title_zh": "Jeff Fest：罗格斯大学的概率组合学",
+      "excerpt_zh": "来自普罗维登斯的问候！下周将在罗格斯大学举行一次纪念杰夫·卡恩的会议。杰夫是一位伟大的数学家，他的贡献涵盖组合数学的所有领域。他也是我四十年的朋友...... 继续阅读 →"
+    },
+    {
+      "id": "fbb70e1a4deeb229ca3a",
+      "source_id": "quanta-math",
+      "source": "Quanta · Mathematics",
+      "title": "Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture",
+      "url": "https://www.quantamagazine.org/mathematicians-harness-randomness-to-crack-a-55-year-old-conjecture-20260928",
+      "published_at": "2026-09-28T14:35:21+00:00",
+      "date_precision": "datetime",
+      "excerpt": "After a long hiatus, the problem, which was likely inspired by juggling, has finally been resolved by a group of young mathematicians. The post Mathematicians Harness Randomness To Crack a 55-Year-Old Conjecture first appeared on Quanta Magazine",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "analysis",
+      "priority": 86,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "quanta-math",
+          "name": "Quanta · Mathematics"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 91.1,
+      "title_zh": "数学家利用随机性破解了 55 年前的猜想",
+      "excerpt_zh": "经过很长一段时间的中断后，这个可能受到杂耍启发的问题终于被一群年轻的数学家解决了。 《数学家利用随机性破解 55 年前的猜想》一文首次发表于《Quanta》杂志"
+    },
+    {
+      "id": "efb5db434bee844345a0",
+      "source_id": "gil-kalai",
+      "source": "Gil Kalai · Combinatorics and more",
+      "title": "Tobias Boege and Geva Yashfe: Recognizing Algebraic Matroids Is Undecidable",
+      "url": "https://gilkalai.wordpress.com/2026/09/25/tobias-boege-and-geva-yashfe-recognizing-algebraic-matroids-is-undecidable",
+      "published_at": "2026-09-25T09:46:31+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Algebraic Matroids are Undecidable Tobias Boege and Geva Yashfe have posted a remarkable paper, Recognition of algebraic matroids is undecidable. It brings together matroid theory, algebraic geometry, model theory, and undecidability. An algebraic matroid abstracts algebraic independence in a field … Continue reading →",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "gil-kalai",
+          "name": "Gil Kalai · Combinatorics and more"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 87.6,
+      "title_zh": "Tobias Boege 和 Geva Yashfe：认识代数拟阵是不可判定的",
+      "excerpt_zh": "代数拟阵是不可判定的 Tobias Boege 和 Geva Yashfe 发表了一篇出色的论文：代数拟阵的识别是不可判定的。它汇集了拟阵理论、代数几何、模型理论和不可判定性。代数拟阵抽象了域中的代数独立性……继续阅读 →"
+    },
+    {
+      "id": "e8e666640308bb995b32",
+      "source_id": "lean4-releases",
+      "source": "Lean 4 · Releases",
+      "title": "v4.35.0-rc3",
+      "url": "https://github.com/leanprover/lean4/releases/tag/v4.35.0-rc3",
+      "published_at": "2026-09-24T21:47:51+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is release candidate 3 for the v4.35.0 release of Lean. View the release notes for more information.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "recency_basis": "updated",
+      "source_refs": [
+        {
+          "id": "lean4-releases",
+          "name": "Lean 4 · Releases"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 86.5,
+      "title_zh": "v4.35.0-rc3",
+      "excerpt_zh": "这是 Lean v4.35.0 版本的候选版本 3。查看发行说明以获取更多信息。"
+    },
+    {
+      "id": "176b8a89f7899f3bb205",
+      "source_id": "lean4-releases",
+      "source": "Lean 4 · Releases",
+      "title": "v4.34.1",
+      "url": "https://github.com/leanprover/lean4/releases/tag/v4.34.1",
+      "published_at": "2026-09-24T20:34:14+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is the v4.34.1 release of Lean. View the release notes for more information.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "recency_basis": "updated",
+      "source_refs": [
+        {
+          "id": "lean4-releases",
+          "name": "Lean 4 · Releases"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 86.5,
+      "title_zh": "v4.34.1",
+      "excerpt_zh": "这是 Lean 的 v4.34.1 版本。查看发行说明以获取更多信息。"
+    },
+    {
+      "id": "3be340487d9afd1820e2",
+      "source_id": "gil-kalai",
+      "source": "Gil Kalai · Combinatorics and more",
+      "title": "“Be a Grothendieck!”—On AI and Mathematics",
+      "url": "https://gilkalai.wordpress.com/2026/09/22/be-a-grothendieck-on-ai-and-mathematics",
+      "published_at": "2026-09-22T09:46:13+00:00",
+      "date_precision": "datetime",
+      "excerpt": "What is mathematics? Over the years I devoted a few dozen posts to the question “What is mathematics?”. Some posts in this category bring tears to my eyes like Christine Bjorner’s beautiful post: The Golden Room and the Golden Mountain, … Continue reading →",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "gil-kalai",
+          "name": "Gil Kalai · Combinatorics and more"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 87.1,
+      "title_zh": "“做一个格洛腾迪克！”——论人工智能和数学",
+      "excerpt_zh": "什么是数学？多年来，我专门发表了几十篇文章来讨论“什么是数学？”这个问题。此类别中的一些帖子让我热泪盈眶，例如克里斯汀·比约纳 (Christine Bjorner) 的美丽帖子：金室和金山，…… 继续阅读 →"
+    },
+    {
+      "id": "b76b1fab024e03634c67",
+      "source_id": "quanta-math",
+      "source": "Quanta · Mathematics",
+      "title": "Mathematicians Build Long-Awaited Graph Sandwich",
+      "url": "https://www.quantamagazine.org/mathematicians-build-long-awaited-graph-sandwich-20260918",
+      "published_at": "2026-09-18T13:55:50+00:00",
+      "date_precision": "datetime",
+      "excerpt": "The proof of a decades-old conjecture has given researchers a new way to understand complex networks. The post Mathematicians Build Long-Awaited Graph Sandwich first appeared on Quanta Magazine",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "analysis",
+      "priority": 86,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "quanta-math",
+          "name": "Quanta · Mathematics"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 89.7,
+      "title_zh": "数学家构建期待已久的图三明治",
+      "excerpt_zh": "几十年前的猜想的证明为研究人员提供了一种理解复杂网络的新方法。数学家构建期待已久的图形三明治一文首次出现在《Quanta》杂志上"
     },
     {
       "id": "bcfb6f67f71edc9a950c",
@@ -1426,7 +4831,135 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "为什么我没有在菲尔兹奖获得者的信上签名",
-      "excerpt_zh": "[这篇文章已交叉发布到陶哲轩的博客。] 当我 11 岁左右时，我第一次听说费马大定理。我立即被问题陈述以及附带的故事所吸引，并认真地尝试证明这一点。不出所料，我失败了，但我学到了 […]"
+      "excerpt_zh": "[这篇文章已交叉发布到陶哲轩的博客。] 当我 11 岁左右时，我第一次听说费马大定理。我立即被问题陈述以及附带的故事所吸引，并认真地尝试证明这一点。不出所料，我失败了，但我学到了 […]",
+      "topics": [
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "gowers",
+          "name": "Gowers’s Weblog"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 93.6
+    },
+    {
+      "id": "b12d3ffcafa84aa8f84d",
+      "source_id": "lean4-releases",
+      "source": "Lean 4 · Releases",
+      "title": "v4.35.0-rc2",
+      "url": "https://github.com/leanprover/lean4/releases/tag/v4.35.0-rc2",
+      "published_at": "2026-09-16T13:11:19+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is release candidate 2 for the v4.35.0 release of Lean. View the release notes for more information.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "recency_basis": "updated",
+      "source_refs": [
+        {
+          "id": "lean4-releases",
+          "name": "Lean 4 · Releases"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 85.5,
+      "title_zh": "v4.35.0-rc2",
+      "excerpt_zh": "这是 Lean v4.35.0 版本的候选版本 2。查看发行说明以获取更多信息。"
+    },
+    {
+      "id": "8b41b2ddfdd945283bb1",
+      "source_id": "lean4-releases",
+      "source": "Lean 4 · Releases",
+      "title": "v4.35.0-rc1",
+      "url": "https://github.com/leanprover/lean4/releases/tag/v4.35.0-rc1",
+      "published_at": "2026-09-15T15:18:43+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is release candidate 1 for the v4.35.0 release of Lean. View the release notes for more information.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "recency_basis": "updated",
+      "source_refs": [
+        {
+          "id": "lean4-releases",
+          "name": "Lean 4 · Releases"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 85.5,
+      "title_zh": "v4.35.0-rc1",
+      "excerpt_zh": "这是 Lean v4.35.0 版本的候选版本 1。查看发行说明以获取更多信息。"
+    },
+    {
+      "id": "bb28655b67a21e1289bc",
+      "source_id": "gil-kalai",
+      "source": "Gil Kalai · Combinatorics and more",
+      "title": "Alef’s corner: AI and Percolation",
+      "url": "https://gilkalai.wordpress.com/2026/09/15/alefs-corner-ai-and-percolation",
+      "published_at": "2026-09-15T08:52:59+00:00",
+      "date_precision": "datetime",
+      "excerpt": "",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "gil-kalai",
+          "name": "Gil Kalai · Combinatorics and more"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 86.4,
+      "title_zh": "Alef 的角落：人工智能和渗透"
+    },
+    {
+      "id": "e0f70bcef90f4609f148",
+      "source_id": "lean4-releases",
+      "source": "Lean 4 · Releases",
+      "title": "v4.34.0",
+      "url": "https://github.com/leanprover/lean4/releases/tag/v4.34.0",
+      "published_at": "2026-09-14T14:07:40+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is the v4.34.0 release of Lean. View the release notes for more information.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "recency_basis": "updated",
+      "source_refs": [
+        {
+          "id": "lean4-releases",
+          "name": "Lean 4 · Releases"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 85.4,
+      "title_zh": "v4.34.0",
+      "excerpt_zh": "这是 Lean 的 v4.34.0 版本。查看发行说明以获取更多信息。"
     },
     {
       "id": "fc84d6e63d496f407c31",
@@ -1441,7 +4974,76 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "ArXivMath 和 BrokenArXiv：更难的问题和修订的评分",
-      "excerpt_zh": "更难的基于猜想的问题、本机编码工具以及 ArXivMath 和 BrokenArXiv 的修订评分。"
+      "excerpt_zh": "更难的基于猜想的问题、本机编码工具以及 ArXivMath 和 BrokenArXiv 的修订评分。",
+      "topics": [
+        "ai_math"
+      ],
+      "source_refs": [
+        {
+          "id": "matharena",
+          "name": "MathArena"
+        }
+      ],
+      "content_type": "benchmark",
+      "priority": 88,
+      "recency_basis": "published",
+      "discovery_score": 91.2
+    },
+    {
+      "id": "65f7a1793f17c69265c2",
+      "source_id": "gil-kalai",
+      "source": "Gil Kalai · Combinatorics and more",
+      "title": "Jesús A. De Loera, Ethan X. Fang, Shengtao Guo, Junwei Lu, and Hailun Zheng Proved the Simplex–Cube Conjecture for Simple Polytopes.",
+      "url": "https://gilkalai.wordpress.com/2026/09/11/jesus-a-de-loera-ethan-x-fang-shengtao-guo-junwei-lu-and-hailun-zheng-proved-the-simplex-cube-conjecture-for-simple-polytopes",
+      "published_at": "2026-09-11T06:11:41+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Shana Tova Shana Tova (happy new Jewish year) to all our readers! We have just returned to Tel Aviv from the beautiful city of Tiberias, on the Sea of Galilee. The Simplex cube conjecture The simplex–cube conjecture was posed in … Continue reading →",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "gil-kalai",
+          "name": "Gil Kalai · Combinatorics and more"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 86.1,
+      "title_zh": "Jesus A. De Loera、Ethan X. Fang、ShengtaoGuo、Junwei Lu 和 Hailun Cheng 证明了简单多面体的单纯形-立方体猜想。",
+      "excerpt_zh": "Shana Tova Shana Tova（犹太新年快乐）祝所有读者！我们刚刚从加利利海美丽的提比里亚市回到特拉维夫。单纯形立方猜想单纯形立方猜想被提出于…… 继续阅读 →"
+    },
+    {
+      "id": "f82ce5ccdf20ffbde88a",
+      "source_id": "quanta-math",
+      "source": "Quanta · Mathematics",
+      "title": "The Four-Color Theorem Gets a Rare New Proof",
+      "url": "https://www.quantamagazine.org/the-four-color-theorem-gets-a-rare-new-proof-20260910",
+      "published_at": "2026-09-10T14:27:36+00:00",
+      "date_precision": "datetime",
+      "excerpt": "By revisiting the famous problem — which was controversially solved in the 1970s with the help of computers — mathematicians have gained important new insights into the nature of graphs. The post The Four-Color Theorem Gets a Rare New Proof first appeared on Quanta Magazine",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "analysis",
+      "priority": 86,
+      "recency_basis": "published",
+      "source_refs": [
+        {
+          "id": "quanta-math",
+          "name": "Quanta · Mathematics"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 89.1,
+      "title_zh": "四色定理获得罕见的新证明",
+      "excerpt_zh": "通过重新审视这个著名的问题——这个问题在 20 世纪 70 年代借助计算机得到了有争议的解决——数学家们对图的本质获得了重要的新见解。 《四色定理获得罕见的新证明》一文首次出现在《Quanta》杂志上"
     },
     {
       "id": "55c9a4d228f80a02b8fd",
@@ -1456,7 +5058,78 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "FLT：人类已经打败了我",
-      "excerpt_zh": "我猜从技术上讲，这是由伊斯灵顿的一家咖啡店在 Insta 上向世界透露的，但一小时后，Anthropic 正式宣布：他们的内部模型之一，使用 Prove2.me 平台，已经正式制定了完整的…… 继续阅读 →"
+      "excerpt_zh": "我猜从技术上讲，这是由伊斯灵顿的一家咖啡店在 Insta 上向世界透露的，但一小时后，Anthropic 正式宣布：他们的内部模型之一，使用 Prove2.me 平台，已经正式制定了完整的…… 继续阅读 →",
+      "topics": [
+        "formal"
+      ],
+      "source_refs": [
+        {
+          "id": "xena",
+          "name": "Xena Project"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 92.7
+    },
+    {
+      "id": "3669ff54b8c84f26b1bd",
+      "source_id": "lean4-releases",
+      "source": "Lean 4 · Releases",
+      "title": "v4.33.1",
+      "url": "https://github.com/leanprover/lean4/releases/tag/v4.33.1",
+      "published_at": "2026-08-21T13:20:01+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is the v4.33.1 release of Lean. View the release notes for more information.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "recency_basis": "updated",
+      "source_refs": [
+        {
+          "id": "lean4-releases",
+          "name": "Lean 4 · Releases"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 84.1,
+      "title_zh": "v4.33.1",
+      "excerpt_zh": "这是 Lean 的 v4.33.1 版本。查看发行说明以获取更多信息。"
+    },
+    {
+      "id": "15be9b4ad735ccc04fcf",
+      "source_id": "lean4-releases",
+      "source": "Lean 4 · Releases",
+      "title": "v4.34.0-rc2",
+      "url": "https://github.com/leanprover/lean4/releases/tag/v4.34.0-rc2",
+      "published_at": "2026-08-21T11:51:53+00:00",
+      "date_precision": "datetime",
+      "excerpt": "This is release candidate 2 for the v4.34.0 release of Lean. View the release notes for more information.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "recency_basis": "updated",
+      "source_refs": [
+        {
+          "id": "lean4-releases",
+          "name": "Lean 4 · Releases"
+        }
+      ],
+      "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
+      "discovery_score": 84.1,
+      "title_zh": "v4.34.0-rc2",
+      "excerpt_zh": "这是 Lean v4.34.0 版本的候选版本 2。查看发行说明以获取更多信息。"
     },
     {
       "id": "6e7a48655cfc971609e5",
@@ -1471,7 +5144,20 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "年鉴挑战",
-      "excerpt_zh": "我的博士后团队由文艺复兴慈善基金资助，构建了一个包含 50 个精益陈述的数据集，对应于最近 50 个重要的数学定理！这50条定理全部发表在Annals of Mathematics（著名数学杂志）上……继续阅读 →"
+      "excerpt_zh": "我的博士后团队由文艺复兴慈善基金资助，构建了一个包含 50 个精益陈述的数据集，对应于最近 50 个重要的数学定理！这50条定理全部发表在Annals of Mathematics（著名数学杂志）上……继续阅读 →",
+      "topics": [
+        "formal"
+      ],
+      "source_refs": [
+        {
+          "id": "xena",
+          "name": "Xena Project"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 91.9
     },
     {
       "id": "8a514fdb6390d1896f65",
@@ -1486,7 +5172,21 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "LLM 擅长什么类型的数学？",
-      "excerpt_zh": "为了那些可能在遥远的未来（比如一个月后）阅读这篇博文的人，让我提一下，我是在 OpenAI 宣布它已经解决了数学和理论计算机科学的十大问题（包括第一个构建非 sof 群）几天后写的，[...]"
+      "excerpt_zh": "为了那些可能在遥远的未来（比如一个月后）阅读这篇博文的人，让我提一下，我是在 OpenAI 宣布它已经解决了数学和理论计算机科学的十大问题（包括第一个构建非 sof 群）几天后写的，[...]",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "gowers",
+          "name": "Gowers’s Weblog"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 91.9
     },
     {
       "id": "8e14ff17ad4051346dc9",
@@ -1501,7 +5201,21 @@
       "domain": "mathematics",
       "first_seen_at": "2026-10-18T07:16:47.795974+00:00",
       "title_zh": "关于《莱顿宣言》的思考",
-      "excerpt_zh": "去年九月，我参加了莱顿洛伦兹中心的一个研讨会，与历史学家、哲学家、计算机科学家、人工智能研究人员和几种不同风格的数学家讨论数学和人工智能（尽管代数几何学家的优势令人惊讶）。整个活动非常刺激，有一些演讲，但也有很多时间 […]"
+      "excerpt_zh": "去年九月，我参加了莱顿洛伦兹中心的一个研讨会，与历史学家、哲学家、计算机科学家、人工智能研究人员和几种不同风格的数学家讨论数学和人工智能（尽管代数几何学家的优势令人惊讶）。整个活动非常刺激，有一些演讲，但也有很多时间 […]",
+      "topics": [
+        "ai_math",
+        "frontier"
+      ],
+      "source_refs": [
+        {
+          "id": "gowers",
+          "name": "Gowers’s Weblog"
+        }
+      ],
+      "content_type": "blog",
+      "priority": 90,
+      "recency_basis": "published",
+      "discovery_score": 91.5
     }
   ],
   "summary_policy": "Source excerpts; Chinese translations when available. Undated articles are excluded from recent windows."

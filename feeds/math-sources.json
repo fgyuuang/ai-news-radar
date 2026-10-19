@@ -1,13 +1,344 @@
 {
-  "window_hours": 72,
+  "window_hours": 168,
   "archive_days": 90,
   "translate_zh": true,
   "sources": [
-    {"id": "terrytao", "name": "Terence Tao — What’s New", "url": "https://terrytao.wordpress.com/", "feed": "https://terrytao.wordpress.com/feed/", "type": "rss", "enabled": true},
-    {"id": "proofsandprompts", "name": "Proofs and Prompts", "url": "https://proofsandprompts.com/", "feed": "https://proofsandprompts.com/feed/", "type": "rss", "enabled": true},
-    {"id": "vibemathed", "name": "VibeMathed", "url": "https://vibemathed.com/", "feed": "https://vibemathed.com/feed.xml", "type": "rss", "enabled": true},
-    {"id": "gowers", "name": "Gowers’s Weblog", "url": "https://gowers.wordpress.com/", "feed": "https://gowers.wordpress.com/feed/", "type": "rss", "enabled": true},
-    {"id": "xena", "name": "Xena Project", "url": "https://xenaproject.wordpress.com/", "feed": "https://xenaproject.wordpress.com/feed/", "type": "rss", "enabled": true},
-    {"id": "matharena", "name": "MathArena", "url": "https://matharena.ai/blogs", "type": "matharena", "enabled": true}
+    {
+      "id": "terrytao",
+      "name": "Terence Tao — What’s New",
+      "url": "https://terrytao.wordpress.com/",
+      "feed": "https://terrytao.wordpress.com/feed/",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 90
+    },
+    {
+      "id": "proofsandprompts",
+      "name": "Proofs and Prompts",
+      "url": "https://proofsandprompts.com/",
+      "feed": "https://proofsandprompts.com/feed/",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "blog",
+      "priority": 90
+    },
+    {
+      "id": "vibemathed",
+      "name": "VibeMathed",
+      "url": "https://vibemathed.com/",
+      "feed": "https://vibemathed.com/feed.xml",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "blog",
+      "priority": 85
+    },
+    {
+      "id": "gowers",
+      "name": "Gowers’s Weblog",
+      "url": "https://gowers.wordpress.com/",
+      "feed": "https://gowers.wordpress.com/feed/",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 90
+    },
+    {
+      "id": "xena",
+      "name": "Xena Project",
+      "url": "https://xenaproject.wordpress.com/",
+      "feed": "https://xenaproject.wordpress.com/feed/",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "formal"
+      ],
+      "content_type": "blog",
+      "priority": 90
+    },
+    {
+      "id": "matharena",
+      "name": "MathArena",
+      "url": "https://matharena.ai/blogs",
+      "type": "matharena",
+      "enabled": true,
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "benchmark",
+      "priority": 88
+    },
+    {
+      "id": "arxiv-math-nt",
+      "name": "arXiv · 数论",
+      "url": "https://arxiv.org/",
+      "feed": "https://rss.arxiv.org/rss/math.NT",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "max_items": 8,
+      "allow_empty": true,
+      "recency_basis": "announced",
+      "recent_url": "https://arxiv.org/list/math.NT/recent"
+    },
+    {
+      "id": "arxiv-math-co",
+      "name": "arXiv · 组合数学",
+      "url": "https://arxiv.org/",
+      "feed": "https://rss.arxiv.org/rss/math.CO",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "max_items": 8,
+      "allow_empty": true,
+      "recency_basis": "announced",
+      "recent_url": "https://arxiv.org/list/math.CO/recent"
+    },
+    {
+      "id": "arxiv-math-ag",
+      "name": "arXiv · 代数几何",
+      "url": "https://arxiv.org/",
+      "feed": "https://rss.arxiv.org/rss/math.AG",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "max_items": 8,
+      "allow_empty": true,
+      "recency_basis": "announced",
+      "recent_url": "https://arxiv.org/list/math.AG/recent"
+    },
+    {
+      "id": "arxiv-math-pr",
+      "name": "arXiv · 概率",
+      "url": "https://arxiv.org/",
+      "feed": "https://rss.arxiv.org/rss/math.PR",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "max_items": 8,
+      "allow_empty": true,
+      "recency_basis": "announced",
+      "recent_url": "https://arxiv.org/list/math.PR/recent"
+    },
+    {
+      "id": "arxiv-math-na",
+      "name": "arXiv · 数值分析",
+      "url": "https://arxiv.org/",
+      "feed": "https://rss.arxiv.org/rss/math.NA",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "max_items": 8,
+      "allow_empty": true,
+      "recency_basis": "announced",
+      "recent_url": "https://arxiv.org/list/math.NA/recent"
+    },
+    {
+      "id": "arxiv-math-lo",
+      "name": "arXiv · 数理逻辑",
+      "url": "https://arxiv.org/",
+      "feed": "https://rss.arxiv.org/rss/math.LO",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "max_items": 8,
+      "allow_empty": true,
+      "recency_basis": "announced",
+      "recent_url": "https://arxiv.org/list/math.LO/recent"
+    },
+    {
+      "id": "arxiv-cs-ai",
+      "name": "arXiv · AI for Math · cs.AI",
+      "url": "https://arxiv.org/",
+      "feed": "https://rss.arxiv.org/rss/cs.AI",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "paper",
+      "priority": 78,
+      "max_items": 8,
+      "allow_empty": true,
+      "filter": "math_ai",
+      "recency_basis": "announced",
+      "recent_url": "https://arxiv.org/list/cs.AI/recent"
+    },
+    {
+      "id": "arxiv-cs-lg",
+      "name": "arXiv · AI for Math · cs.LG",
+      "url": "https://arxiv.org/",
+      "feed": "https://rss.arxiv.org/rss/cs.LG",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "paper",
+      "priority": 78,
+      "max_items": 8,
+      "allow_empty": true,
+      "filter": "math_ai",
+      "recency_basis": "announced",
+      "recent_url": "https://arxiv.org/list/cs.LG/recent"
+    },
+    {
+      "id": "arxiv-cs-cl",
+      "name": "arXiv · AI for Math · cs.CL",
+      "url": "https://arxiv.org/",
+      "feed": "https://rss.arxiv.org/rss/cs.CL",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "paper",
+      "priority": 78,
+      "max_items": 8,
+      "allow_empty": true,
+      "filter": "math_ai",
+      "recency_basis": "announced",
+      "recent_url": "https://arxiv.org/list/cs.CL/recent"
+    },
+    {
+      "id": "quanta-math",
+      "name": "Quanta · Mathematics",
+      "url": "https://www.quantamagazine.org/",
+      "feed": "https://www.quantamagazine.org/mathematics/feed/",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "analysis",
+      "priority": 86,
+      "max_items": 15
+    },
+    {
+      "id": "gil-kalai",
+      "name": "Gil Kalai · Combinatorics and more",
+      "url": "https://gilkalai.wordpress.com/",
+      "feed": "https://gilkalai.wordpress.com/feed/",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "blog",
+      "priority": 83,
+      "max_items": 15
+    },
+    {
+      "id": "deepmind-math",
+      "name": "Google DeepMind · 数学研究",
+      "url": "https://deepmind.google/",
+      "feed": "https://deepmind.google/blog/rss.xml",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "research",
+      "priority": 88,
+      "max_items": 15,
+      "filter": "math_ai"
+    },
+    {
+      "id": "google-research-math",
+      "name": "Google Research · 数学研究",
+      "url": "https://research.google/",
+      "feed": "https://research.google/blog/rss/",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "research",
+      "priority": 86,
+      "max_items": 15,
+      "filter": "math_ai"
+    },
+    {
+      "id": "msr-math",
+      "name": "Microsoft Research · 数学与证明",
+      "url": "https://www.microsoft.com/",
+      "feed": "https://www.microsoft.com/en-us/research/feed/",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "research",
+      "priority": 84,
+      "max_items": 15,
+      "filter": "math_ai"
+    },
+    {
+      "id": "lean4-releases",
+      "name": "Lean 4 · Releases",
+      "url": "https://github.com/leanprover/lean4/",
+      "feed": "https://github.com/leanprover/lean4/releases.atom",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "formal",
+        "tools"
+      ],
+      "content_type": "release",
+      "priority": 82,
+      "max_items": 15
+    },
+    {
+      "id": "leandojo-releases",
+      "name": "LeanDojo · Releases",
+      "url": "https://github.com/lean-dojo/LeanDojo/",
+      "feed": "https://github.com/lean-dojo/LeanDojo/releases.atom",
+      "type": "rss",
+      "enabled": true,
+      "topics": [
+        "formal",
+        "tools",
+        "ai_math"
+      ],
+      "content_type": "release",
+      "priority": 80,
+      "max_items": 15
+    }
   ]
 }
