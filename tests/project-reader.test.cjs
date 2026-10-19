@@ -1,6 +1,6 @@
 const test = require('node:test');
 const assert = require('node:assert/strict');
-const { periodRows, balanced, metricText } = require('../assets/project-radar.js');
+const { periodRows, balanced, metricText, recommend } = require('../assets/project-radar.js');
 const project = (platform, name) => ({ platform, project_name: name, url: `https://example.org/${platform}/${name}`, topics: ['ai'] });
 const board = (period, basis, projects, metric = 'stars', stale = false) => ({
   platform: projects[0]?.platform, period, basis, metric, stale,
@@ -50,4 +50,17 @@ test('Hugging Face is one platform family and decreases retain their sign', () =
   const rows = balanced(periodRows(data, 'weekly'), 2);
   assert.equal(rows[1].project.platform, 'gitlab');
   assert.equal(metricText({ ...rows[0], entry: { value: -7 } }), '-7 点赞 / 周');
+});
+
+test('personal picks require Luna and balance specialist topics without duplicates', () => {
+  const items = [project('github', 'ai'), { ...project('gitlab', 'proof'), topics: ['math'] },
+    { ...project('github', 'skill'), topics: ['skills'] }, project('codeberg', 'other'), project('npm', 'stale')];
+  items[4].stale = true;
+  const rows = periodRows({ items, boards: items.map(p => board('daily', 'current_snapshot', [p])) }, 'daily');
+  const get = p => ({ model: p.project_name === 'other' ? 'other-model' : 'gpt-6-luna',
+    project_insight: { recommendation_score: p.project_name === 'ai' ? 90 : 75 }, generated_at: '2026-10-19T00:00:00Z' });
+  const result = recommend(rows, get);
+  assert.equal(result.total, 3);
+  assert.deepEqual(result.chosen.map(p => p.project.project_name), ['ai', 'proof', 'skill']);
+  assert.equal(recommend(rows, () => null).chosen.length, 0);
 });

@@ -216,3 +216,37 @@ body[data-information-channel=project] #updatedAt,body[data-information-channel=
   .project-radar-v2 .news-summary { -webkit-line-clamp:4; }
   .project-advanced-controls { flex-wrap:wrap; }
 }
+
+/* Readable recommendations from a real, source-bound Luna edition. */
+.project-radar-v2 .project-recommendations { margin-top:18px; }
+.project-rec-intro { margin:0; padding:12px 18px; color:var(--muted); font-size:12px; line-height:1.8; border-bottom:1px solid var(--line-soft); }
+.project-recommendation-grid { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:16px; padding:16px; background:var(--bg); }
+.project-recommendation { min-width:0; display:flex; flex-direction:column; gap:10px; padding:18px; border:1px solid var(--line); border-top:3px solid var(--line); border-radius:var(--radius); background:var(--surface); }
+.project-recommendation.lead { border-top-color:var(--accent); }
+.project-rec-top { display:flex; align-items:center; justify-content:space-between; flex-wrap:wrap; gap:8px; }
+.project-rec-category { font-size:12px; font-weight:750; color:var(--accent); }
+.project-rec-tier { font-size:11px; color:var(--accent); background:rgba(18,106,115,.07); padding:3px 7px; border-radius:4px; }
+.project-recommendation h3 { margin:0; font-size:19px; line-height:1.55; }
+.project-recommendation h3 a { color:var(--ink); text-decoration:none; overflow-wrap:anywhere; }
+.project-recommendation h3 a:hover { color:var(--accent); }
+.project-rec-original { color:var(--muted); font-size:11px; margin:0; overflow-wrap:anywhere; }
+.project-rec-one-liner { margin:0; color:var(--ink); font-size:14px; line-height:1.8; font-weight:650; }
+.project-rec-summary,.project-rec-section p { margin:0; color:var(--ink-soft); font-size:13px; line-height:1.85; overflow-wrap:anywhere; }
+.project-rec-section { padding-top:10px; border-top:1px solid var(--line-soft); }
+.project-rec-section h4 { margin:0 0 5px; font-size:12px; color:var(--accent); }
+.project-rec-caveat { padding:10px 12px; background:var(--surface-soft,var(--surface-alt)); border-left:2px solid var(--warn); font-size:12px; line-height:1.8; color:var(--ink-soft); }
+.project-rec-caveat strong { color:var(--warn); font-size:11px; }
+.project-rec-caveat p { margin:4px 0 0; overflow-wrap:anywhere; }
+.project-recommendation .project-card-footer { margin-top:auto; }
+.project-rec-more { margin:0 16px 16px; border:1px solid var(--line-soft); border-radius:var(--radius); }
+.project-rec-more > summary { cursor:pointer; padding:12px 14px; color:var(--accent); font-size:13px; }
+.project-rec-more > div { display:grid; grid-template-columns:repeat(3,minmax(0,1fr)); gap:12px; padding:14px; border-top:1px solid var(--line-soft); }
+.project-rec-alternative { min-width:0; padding:12px; background:var(--surface-soft,var(--surface-alt)); border:1px solid var(--line-soft); border-radius:var(--radius); }
+.project-rec-alternative > a { display:block; color:var(--ink); font-size:14px; font-weight:650; text-decoration:none; line-height:1.7; overflow-wrap:anywhere; }
+.project-rec-alternative .project-muted { display:block; margin:6px 0; font-size:11px; }
+.project-rec-alternative p { color:var(--ink-soft); font-size:12px; line-height:1.8; margin:0; }
+.project-rec-empty { padding:12px; font-size:13px; line-height:1.8; color:var(--muted); }
+.project-radar-v2 .project-card.has-insight .news-summary { display:block; -webkit-line-clamp:unset; }
+.project-radar-v2 .project-card.has-insight .project-recommend { font-size:13px; }
+@media(max-width:1000px) { .project-recommendation-grid { grid-template-columns:repeat(2,minmax(0,1fr)); } .project-recommendation.lead { grid-column:1/-1; } .project-rec-more > div { grid-template-columns:repeat(2,minmax(0,1fr)); } }
+@media(max-width:760px) { .project-recommendation-grid { grid-template-columns:minmax(0,1fr); padding:10px; gap:12px; } .project-recommendation { padding:16px; } .project-recommendation h3 { font-size:18px; } .project-rec-intro { padding:10px 14px; } .project-rec-more { margin:0 10px 12px; } .project-rec-more > div { grid-template-columns:minmax(0,1fr); padding:10px; } }

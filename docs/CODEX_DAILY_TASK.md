@@ -1,10 +1,21 @@
 # 个人雷达每日 AI 编辑与信道推送
 
 每天上海时间 09:00，由 Codex 原生自动任务执行一次。本任务只做 AI 编辑、发布和投递；
-Windows 的 `Personal Radar Source Collection` 每 30 分钟采集，禁止在本任务启动其他模型 CLI 或模型 API。
+Windows 的 `Personal Radar Source Collection` 每 30 分钟采集，不运行模型。
+项目的中文翻译、深入解读及推荐固定使用已登录的 Codex CLI `gpt-6-luna`；禁止替换为 Astra 或其他模型。
+其他 AI / 数学编辑继续由当前原生 Codex 任务直接完成，不启动其他模型 CLI 或模型 API。
 项目目录：`C:\Users\fgy\Documents\ainews\ai-news-radar-personal`；在本地运行，不使用 worktree。
 
-1. 使用 PowerShell 7，在项目目录执行：
+0. 使用 PowerShell 7，先同步编辑运行仓库并更新当天的 Luna 项目解读：
+
+   `& .\.venv\Scripts\python.exe -X utf8 scripts/project_recommendations.py --repo ..\ai-news-radar-codex-runtime --max-projects 18 --sync --publish`
+
+   这是本任务唯一允许的模型 CLI，脚本固定 `gpt-6-luna`，不得改用 Astra、其他模型或 API。
+   每天冻结一次候选，按来源版本缓存；同日已完成则 ALREADY_COMPLETE，不重复生成。
+   失败时保留旧编辑数据并报告 FAILED，禁止将其他模型结果标成 Luna。
+   不通过这个步骤发送信道消息，也不绕过后续严格校验与已有投递去重。
+
+1. 在项目目录执行：
 
    `& .\.venv\Scripts\python.exe -X utf8 scripts/radar_daily.py prepare --repo ..\ai-news-radar-codex-runtime`
 
@@ -16,7 +27,7 @@ Windows 的 `Personal Radar Source Collection` 每 30 分钟采集，禁止在�
    分别读取 `batch-001.json` 等批次，不必一次读入全部原文。
    对每批生成同名编号的 `result-001.json` 等，UTF-8，无 BOM，严格符合
    `scripts/codex_editorial.schema.json`。每个输入 key 必须恰好出现一次。
-   这些输出是你作为当前 Codex 自动任务直接生成的，不调用 codex exec、DeepSeek、OpenAI API 或其他模型。
+   这些 pending 输出由你直接生成，不额外调用模型。项目的 Luna 结果优先从步骤 0 的编辑缓存复用。
    若已有 result 文件，先检查其覆盖的 key 和结构，正确则保留。
 
 3. 每条提供准确中文标题、2–3 句具体摘要、具体阅读价值，以及三种 persona 的 0–100 评分和一句点评。
@@ -57,3 +68,5 @@ Windows 的 `Personal Radar Source Collection` 每 30 分钟采集，禁止在�
 日报另附 prepare 冻结的 project_rankings（日、周、月及社区当前快照），由脚本按原始计数生成，
 热度变化不消耗重复 AI 编辑。不补造历史升星，不把点赞、下载量或累计 Star 当成新增 Star。
 来源、排名口径与自定义关注领域配置见 `docs/PROJECT_RADAR.md`、`feeds/project-radar.json`。
+项目摘要包含中文翻译、推荐理由、使用场景、上手方向与限制；网站「今日推荐」从 Luna 已解读项目中
+按推荐分选择首选，并兼顾数学科研与 Skills/Agent/MCP。推荐分是模型判断，不是全网最佳或实测质量认证。

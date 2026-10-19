@@ -118,6 +118,8 @@ def candidates(repo, max_ai, now, max_projects=0):
             if domain == "project":
                 record["platform"] = item.get("platform")
                 record["topics"] = item.get("topics", [])
+                record["license"] = item.get("license")
+                record["gated"] = item.get("gated", False)
             if domain == "math":
                 record.update(topics=item.get("topics", []), content_type=item.get("content_type", "blog"),
                               source_summary_kind=item.get("summary_kind", "source_excerpt"))
@@ -192,7 +194,29 @@ def validate(payload, expected):
         source = by_key[key]
         fields = ("key", "title_zh", "summary_zh", "recommend_reason_zh", "pragmatic_score", "pragmatic_review",
                   "cynic_score", "cynic_review", "paper_score", "paper_review")
-        result.append({**source, **{field: entry[field] for field in fields}})
+        record = {**source, **{field: entry[field] for field in fields}}
+        if "project_insight" in entry:
+            insight = entry["project_insight"]
+            if source.get("domain") != "project" or not isinstance(insight, dict):
+                raise ValueError("Project insight requires a project source")
+            limits = {"translation_zh": 1600, "one_liner_zh": 180, "getting_started_zh": 600, "limitations_zh": 600}
+            for field, limit in limits.items():
+                value = insight.get(field)
+                if (not isinstance(value, str) or not value.strip() or len(value) > limit
+                        or not re.search(r"[\u4e00-\u9fff]", value)
+                        or re.search(r"Traceback|HTTPError|powershell\.exe|<script|sk-proj-", value, re.I)):
+                    raise ValueError("Invalid project insight: " + field)
+            cases = insight.get("use_cases_zh")
+            if (not isinstance(cases, list) or not 1 <= len(cases) <= 3
+                    or any(not isinstance(case, str) or not case.strip() or len(case) > 240
+                           or not re.search(r"[\u4e00-\u9fff]", case) for case in cases)):
+                raise ValueError("Invalid project use cases")
+            if type(insight.get("recommendation_score")) is not int or not 0 <= insight["recommendation_score"] <= 100:
+                raise ValueError("Invalid project recommendation score")
+            if insight.get("recommendation_tier") not in {"try", "read", "watch"}:
+                raise ValueError("Invalid project recommendation tier")
+            record["project_insight"] = {field: insight[field] for field in (*limits, "use_cases_zh", "recommendation_score", "recommendation_tier")}
+        result.append(record)
     return result
 
 
@@ -228,19 +252,29 @@ def generate(batch, model, state_dir, batch_number):
         "cynic审慎评论员指出宣传或前提限制，必须有依据；paper较真党审查论文、代码、"
         "证明和可复现证据是否在材料中出现，不得凭空宣称独立验证。"
         "只输出符合JSON Schema的对象，不输出日志或其他说明。\n"
+        "开源项目（domain=project）额外输出 project_insight：translation_zh 准确翻译来源摘录；"
+        "one_liner_zh 用一句具体中文说明核心能力；use_cases_zh 给1至3个适合个人用户的具体场景；"
+        "getting_started_zh 给谨慎、可执行的入门方向（不要编造安装命令或声称已试用）；"
+        "limitations_zh 交代证据支持的限制、许可、访问或资料不足；"
+        "recommendation_score 给0至100推荐分，综合个人使用价值、数学/科研相关性、可验证材料与实用性；"
+        "recommendation_tier 取 try（值得试用）、read（值得研读）或 watch（先观察）。"
+        "关注个人AI与数学科研使用，优先前沿Skills、Agent架构、MCP插件；热度不是质量证据。"
+        "比较同批候选，避免全部高分。GitLab/Codeberg工具也可推荐，模型和数据集不可冒称开源软件。\n"
         + json.dumps(batch, ensure_ascii=False)
     )
     (run_dir / "prompt.txt").write_text(prompt, encoding="utf-8")
     command = [*codex_command(), "exec", "--ignore-user-config", "--ignore-rules", "--ephemeral",
                "--skip-git-repo-check", "--sandbox", "read-only", "-C", str(run_dir),
                "-m", model, "-c", "model_reasoning_effort=high", "--color", "never",
-               "--output-schema", str(ROOT / "scripts/codex_editorial.schema.json"),
+               "--output-schema", str(ROOT / "scripts" / ("project_recommendations.schema.json" if all(p.get("domain") == "project" for p in batch) else "codex_editorial.schema.json")),
                "--output-last-message", str(final_path), "-"]
     kwargs = {"creationflags": subprocess.CREATE_NO_WINDOW} if os.name == "nt" else {}
     with (run_dir / "stdout.log").open("w", encoding="utf-8") as stdout, (run_dir / "stderr.log").open("w", encoding="utf-8") as stderr:
         subprocess.run(command, input=prompt, encoding="utf-8", stdout=stdout, stderr=stderr,
                        timeout=900, check=True, **kwargs)
     entries = validate(read(final_path), batch)
+    if any(entry.get("domain") == "project" and "project_insight" not in entry for entry in entries):
+        raise ValueError("Codex omitted required project interpretation")
     generated_at = datetime.now(UTC).isoformat()
     for entry in entries:
         entry.pop("context", None)

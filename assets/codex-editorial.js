@@ -16,6 +16,7 @@
     if (!item) return null;
     const versions = entries.get(item.url || item.primary_url) || [];
     return versions.find(entry => entry.source_title === (item.title_original || item.title || item.project_name || "")
+      && (!entry.project_insight || entry.license === undefined || ((entry.license ?? null) === (item.license ?? null) && Boolean(entry.gated) === Boolean(item.gated)))
       && clean(entry.domain === "math" ? item.excerpt : item.summary).slice(0, 1600) === entry.source_excerpt) || null;
   }
   function details(entry) {
@@ -31,7 +32,7 @@
     }
     const attribution = document.createElement("p");
     attribution.className = "codex-attribution";
-    attribution.textContent = `${entry.model} · 基于${entry.context_kind === "article_text" ? "抓取正文或摘要" : entry.context_kind === "source_metadata" ? "论文元信息（未取得摘要）" : "来源摘录"} · ${new Date(entry.generated_at).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai" })}（北京时间）`;
+    attribution.textContent = `${entry.model} · 基于${entry.context_kind === "repository_readme" ? "项目 README" : entry.context_kind === "article_text" ? "抓取正文或摘要" : entry.context_kind === "source_metadata" ? "论文元信息（未取得摘要）" : "来源摘录"} · ${new Date(entry.generated_at).toLocaleString("zh-CN", { timeZone: "Asia/Shanghai" })}（北京时间）`;
     panel.append(attribution);
     return panel;
   }

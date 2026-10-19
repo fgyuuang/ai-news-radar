@@ -1,50 +1,27 @@
 {
   "schema_version": 1,
   "provider": "codex-cli",
-  "model": "codex-native-scheduled-task",
-  "generated_at": "2026-10-19T01:00:20.199109+00:00",
+  "model": "gpt-6-luna",
+  "generated_at": "2026-10-19T04:16:41.517114+00:00",
   "selected_keys": [
-    "b6e855cef179af68c3db97ee",
-    "547b92a504045e110f0dd7fc",
-    "ba526e18f7c860e944b445be",
-    "577a19e3b96bc8c70d1acb8f",
-    "bcf1e0050b5bf13d67d1d04e",
-    "9f5d2f92b9a4da876216e465",
-    "ed1f6a21934ef722bebf6073",
-    "c410d4592092fd3ec9b87668",
-    "2d9c213ea1494716c15156cb",
-    "59992693d4631b33c824446d",
-    "1942a6e6c058b0210731cb6e",
-    "f6aed47bcc99f208dc42d906",
-    "d0d2de7d8a2ebd2560d0f975",
-    "cdd54c0e6c650230f8ba2aa1",
-    "fa522957317f03536ffcd1f0",
-    "072781bc961086c62fe3eb70",
-    "f00bf48a522f5fe0ca196880",
-    "5ea7536e85e42f5ecd3ec99b",
-    "4da6a76451cad49f09153ac1",
-    "7e7d36db42fa353ab5d2e268",
-    "001f236104b0030d3e9d107f",
-    "eccc159fd6cf74a45c14152c",
-    "56308b27b003070181dbd922",
-    "018bfd701134c8d698eb2d47",
-    "f276b52eaa0cbc62e22ea91d",
-    "7c2890708f1921e2e28f5c75",
-    "69ad5446150133ba78e3a028",
-    "4b1bd7bde504f499857cd715",
-    "f427c0333bae1367b00d2c80",
-    "34655865b8622141aae8539a",
-    "db89f716c774a8b8c04225bd",
-    "35a97a40b45380a581396a64",
-    "82184ed9bb6288c318eda76f",
-    "2ace3123a3c9721a033b70a3",
-    "1240f558ce08a06c81de52a6",
-    "de91881dc3343db2b793fc6e",
-    "15948e882e67e14fa0ee175f",
-    "3af2ca894fc5071aad34bdd1",
-    "4470e574aa7901371057accd",
-    "d927955753d6d150047269f1",
-    "79169c846e49cc6e8162245c"
+    "c12aeedc22b0f782022ae8f1",
+    "4b9aeab7a14255104f52f5f4",
+    "81562c0d017115b89bb16593",
+    "dfdcef9555397e528703e515",
+    "af096ab265cbf524b050cb16",
+    "297be4c75e30aa38bc4e1fa5",
+    "13ac1b0b02d2ba13cc366b10",
+    "bcbc5cc72e0fa3336dbaff2d",
+    "039bb97a0ea5409e39f3d8c1",
+    "f9156cbd4c90c883e7efbcad",
+    "8193a1e6d5f60fd1d39debad",
+    "61d62f5c54231fc24357fa7d",
+    "fb7db0b53f2afa5ef664c74d",
+    "4fc9b8b54bffd3f4508a34c9",
+    "757c8b9810ad5e3049fa5c5e",
+    "6a943907dfb75539b94e4232",
+    "43135e0db06f1236a757f935",
+    "07e4419a3657fba3702b2a25"
   ],
   "entries": [
     {
@@ -94,6 +71,50 @@
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
     },
     {
+      "url": "https://huggingface.co/datasets/FineEnvs/openai-math",
+      "domain": "project",
+      "source": "Hugging Face Datasets",
+      "source_title": "FineEnvs/openai-math",
+      "source_excerpt": "openai/math as Harbor environments Experimental. Built on a research release that is itself new and not yet independently reviewed. Expect rough edges, and read any proof that scores 1 before relying on it. We ported the math problems from OpenAI's openai/math release (commit adc7f12) into Harbor environments. The release formalizes 405 of its results as Lean statements. This dataset contains 369 environments, the ones whose official proof we verified end to end in the… See the full description on the dataset page: https://huggingface.co/datasets/FineEnvs/openai-math.",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "hf_datasets",
+      "topics": [
+        "math",
+        "research",
+        "agents"
+      ],
+      "key": "039bb97a0ea5409e39f3d8c1",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/datasets/FineEnvs/openai-math/raw/main/README.md",
+      "title_zh": "FineEnvs/openai-math：用于 Harbor 的 Lean 数学证明环境数据集",
+      "summary_zh": "该数据集把 OpenAI 的 openai/math 数学问题移植为 Harbor 环境，369 个任务的官方证明已在所述环境中由 oracle 端到端验证；原发布中的 405 条 Lean 陈述有 36 条未纳入，原因包括依赖缺失、内存不足或验证未完成。任务要求智能体在 Lean 4 与预构建 Mathlib 沙箱中补全证明，并由独立沙箱中的 Lean 内核检查精确陈述。",
+      "recommend_reason_zh": "对研究 Lean 定理证明智能体、基准构造或奖励判定的人有直接价值，尤其值得关注其严格验证规则和未纳入任务的记录；运行成本和判分限制也应纳入实验设计。",
+      "pragmatic_score": 69,
+      "pragmatic_review": "可用于 Harbor 智能体的定理证明实验，但每个任务需要较多计算资源，且需配置 Daytona 与模型凭据。",
+      "cynic_score": 74,
+      "cynic_review": "严格匹配原陈述让判分更明确，却会把等价表述、部分进展和有缺口的策略一律记为零，限制了它作为开放式数学研究信号的代表性。",
+      "paper_score": 82,
+      "paper_review": "材料给出任务数、验证规则、官方证明的 oracle 结果及失败分类，证据较具体，但本摘录仍不是对数据集或其证明的独立复核。",
+      "project_insight": {
+        "translation_zh": "这是将 OpenAI 发布的 openai/math 问题移植为 Harbor 环境的数据集。发布说明称，原发布将 405 个结果形式化为 Lean 陈述；本数据集包含其中 369 个环境，其官方证明已在相应环境中端到端验证，覆盖 17 个领域的 214 个结果族。任务要求智能体在无网络的 Lean 4 与预构建 Mathlib 沙箱中补全缺失证明，随后由新的沙箱检查证明是否对应完全相同的原陈述、没有遗留 sorry 或新增公理，并被 Lean 内核接受。项目标注 Apache-2.0，并另列 openai/math 的许可与归属文件。",
+        "one_liner_zh": "一组用于 Harbor 的 Lean 4 定理证明任务，以精确陈述匹配和 Lean 内核检查作为成功判据。",
+        "getting_started_zh": "先阅读数据集的 Validation 与严格奖励说明，挑选少量任务确认 Lean 陈述、依赖和 oracle 状态；按页面要求准备 Harbor 0.24+、Daytona 后端及智能体凭据，并预留约 9 GB 的共享沙箱镜像构建资源和每题所列资源。",
+        "limitations_zh": "页面明确标注该数据集为实验性，底层研究发布也尚未独立审阅，并建议依赖评分为 1 的证明前先阅读证明。369 个任务之外还有 36 条陈述未验证；任务需 Daytona、智能体凭据、每题 4 CPU/8 GB 内存/10 GB 磁盘且最长 4 小时，页面报告已接受证明的中位验证耗时为 8 分钟。判分要求完全证明原始精确陈述，不奖励等价改写或部分进展。",
+        "use_cases_zh": [
+          "比较不同代码智能体或模型完成 Lean 4 数学证明任务的能力。",
+          "研究形式化证明基准如何设计可复核的奖励与防作弊验证。",
+          "用已验证任务测试 Lean 工具链、Mathlib 环境或智能体解题流程。"
+        ],
+        "recommendation_score": 79,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:01.219470+00:00"
+    },
+    {
       "url": "https://www.producthunt.com/products/nitrostack",
       "domain": "ai",
       "source": "Product Hunt",
@@ -116,6 +137,48 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
+    },
+    {
+      "url": "https://gitlab.com/petsc/petsc",
+      "domain": "project",
+      "source": "GitLab",
+      "source_title": "petsc/petsc",
+      "source_excerpt": "PETSc, pronounced PET-see (the S is silent), is a suite of data structures and routines for the scalable (parallel) solution of scientific applications modeled by partial differential equations.",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "gitlab",
+      "topics": [
+        "research"
+      ],
+      "key": "07e4419a3657fba3702b2a25",
+      "context_kind": "repository_readme",
+      "context_url": "https://gitlab.com/api/v4/projects/petsc%2Fpetsc/repository/files/README.md/raw?ref=HEAD",
+      "title_zh": "PETSc 并行科学计算库",
+      "summary_zh": "PETSc 是一套面向偏微分方程等科学应用的可扩展并行数据结构与数值算法库，项目仓库承担其数值库代码维护。摘录仅提供项目用途、下载与安装文档入口及贡献渠道，没有列出具体算法或性能结果。",
+      "recommend_reason_zh": "对需要在大型科学计算中求解偏微分方程的研究者有直接价值；项目官网提供安装入口，适合作为数值计算工具链的候选，但上手成本高于一般个人 AI 工具。",
+      "pragmatic_score": 71,
+      "pragmatic_review": "适用于需要并行数值求解的科研计算任务，开始使用前应按 PETSc 官方安装文档核对依赖与目标平台。",
+      "cynic_score": 49,
+      "cynic_review": "这段仓库说明较简略，未覆盖具体求解器、学习曲线或与个人工作站相关的配置建议。",
+      "paper_score": 61,
+      "paper_review": "材料仅说明库的用途并链接下载与安装页面，没有论文、算法说明或可复现基准数据。",
+      "project_insight": {
+        "translation_zh": "PETSc（发音为 PET-see，S 不发音）是一套数据结构与程序例程，用于可扩展地并行求解以偏微分方程建模的科学应用。",
+        "one_liner_zh": "面向科学计算与偏微分方程应用的并行数值库。",
+        "getting_started_zh": "从 PETSc 官方下载和安装文档入手，先确认操作系统、编译器及并行环境要求，再根据具体科学应用选择合适的示例和求解器文档。",
+        "limitations_zh": "摘录是简短仓库说明，未提供详细功能清单、入门教程或性能评测；PETSc 面向科学计算开发，使用者需具备相关数值计算与并行环境知识。摘录未注明许可证，需查看官方发布材料确认。",
+        "use_cases_zh": [
+          "实现或扩展需要并行线性代数与数值求解的科研程序。",
+          "为偏微分方程模拟搭建可扩展的数值计算流程。",
+          "学习成熟科学软件项目如何组织并行数据结构和求解工具。"
+        ],
+        "recommendation_score": 61,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:41.517114+00:00"
     },
     {
       "url": "https://openrouter.ai/deepseek/deepseek-v4.1-flash-1017",
@@ -162,6 +225,47 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
+    },
+    {
+      "url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "domain": "project",
+      "source": "Hugging Face Models",
+      "source_title": "deepseek-ai/DeepSeek-V4.1-Flash-1017",
+      "source_excerpt": "transformers · safetensors · deepseek_v41 · text-generation · image-text-to-text · license:mit · endpoints_compatible · 8-bit · fp8 · region:us",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "hf_models",
+      "topics": [
+        "ai"
+      ],
+      "key": "13ac1b0b02d2ba13cc366b10",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/deepseek-ai/DeepSeek-V4.1-Flash-1017/raw/main/README.md",
+      "title_zh": "DeepSeek-V4.1-Flash-1017：模型卡与推理说明",
+      "summary_zh": "DeepSeek-AI 将其描述为 DeepSeek-V4.1-Flash 的小幅更新，称其在推理、编码、智能体任务和视觉基准上有所提升，同时减少任务执行时间与输出长度；这些结论来自页面所列基准成绩。页面还提供提示词编码参考实现、推理说明，并称模型权重采用 MIT 许可。",
+      "recommend_reason_zh": "对想比较多模态与智能体模型的人有参考价值，页面也给出提示词格式实现和本地推理入口；不过应结合技术报告、运行成本和自己的任务评测判断是否适用。",
+      "pragmatic_score": 68,
+      "pragmatic_review": "可从提示编码参考实现和推理目录着手评估，但页面没有在此摘录中说明硬件需求、实际部署成本或完整操作步骤。",
+      "cynic_score": 53,
+      "cynic_review": "“性能—成本前沿”等说法来自发布方自述，基准结果受测试框架、提示和任务集影响，不能直接代表个人使用体验。",
+      "paper_score": 57,
+      "paper_review": "页面列出基准表和技术报告链接，但摘录没有报告全文、评测细节或独立复现结果。",
+      "project_insight": {
+        "translation_zh": "页面称 DeepSeek-V4.1-Flash-1017 是 DeepSeek-V4.1-Flash 的小幅更新，在推理、编码、智能体任务和视觉基准上取得提升，并减少任务执行时间和输出长度。该仓库提供 Python 提示词编码参考实现及测试用例，另有 Rust 库 deepseek-recipe（含 Python 绑定）用于格式转换与解析；模型推理、工具执行和 HTTP 传输由调用方负责。模型权重标注为 MIT 许可。",
+        "one_liner_zh": "一个支持文本与图像输入的 DeepSeek 模型版本，并附带面向其对话、工具调用和图像内容格式的编码资源。",
+        "getting_started_zh": "先阅读页面链接的技术报告和 encoding、inference 目录，核对模型文件、硬件与依赖要求，再用少量自有任务与基线模型进行同条件比较；页面建议的采样参数可作为起点，而非通用保证。",
+        "limitations_zh": "基准成绩和性能提升是发布方报告的结果，摘录未提供独立复现证据；本身不包含完整推理服务、工具执行或 HTTP 传输。页面称模型权重采用 MIT 许可，但部署所需资源与实际成本在摘录中未说明。",
+        "use_cases_zh": [
+          "比较模型在个人代码助手、数学推理或图表理解任务上的表现。",
+          "研究如何将 Messages、Chat Completions 或 Responses API 请求转换为 DeepSeek V4/V4.1 提示格式。"
+        ],
+        "recommendation_score": 62,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:01.219470+00:00"
     },
     {
       "url": "https://proofsandprompts.com/2026/10/18/who-will-lead-mathematical-ai",
@@ -296,6 +400,48 @@
       "provider": "codex-cli",
       "model": "gpt-6-luna",
       "generated_at": "2026-10-18T07:56:42.851798+00:00"
+    },
+    {
+      "url": "https://www.npmjs.com/package/@modelcontextprotocol/sdk",
+      "domain": "project",
+      "source": "npm",
+      "source_title": "@modelcontextprotocol/sdk",
+      "source_excerpt": "Model Context Protocol implementation for TypeScript",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "npm",
+      "topics": [
+        "plugins"
+      ],
+      "key": "297be4c75e30aa38bc4e1fa5",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/modelcontextprotocol/typescript-sdk/readme",
+      "title_zh": "MCP TypeScript SDK：TypeScript 客户端与服务端库",
+      "summary_zh": "该仓库提供 TypeScript MCP 客户端和服务端库、传输实现、认证辅助组件、可选框架中间件及示例，支持 Node.js、Bun 和 Deno。README 说明当前 main 分支是 v2，采用 2026-07-28 MCP 规范；v1.x 位于单独分支，继续接收至少六个月的错误修复和安全更新。",
+      "recommend_reason_zh": "适合要自行构建 MCP 工具或客户端的开发者；拆分后的 server/client 包、stdio 与 Streamable HTTP 示例，以及迁移指南有助于从小型原型开始。",
+      "pragmatic_score": 82,
+      "pragmatic_review": "新项目可从 v2 的 server 或 client 文档和自验证示例入手；已有 v1 项目则先核对迁移指南和分支维护安排。",
+      "cynic_score": 64,
+      "cynic_review": "仓库处于 v1 到 v2 的迁移期，包名和 API 选择容易造成版本混淆，集成前应明确使用的分支与规范版本。",
+      "paper_score": 55,
+      "paper_review": "README 提供包结构、代码示例和文档入口，但摘录未包含测试报告、实现审查或安全评估证据。",
+      "project_insight": {
+        "translation_zh": "Model Context Protocol（MCP）允许应用以标准化方式向大语言模型提供上下文，将上下文提供与模型交互本身分开。该 TypeScript SDK 仓库面向 Node.js、Bun 和 Deno，包含 MCP 服务端和客户端库、可选中间件及可运行示例；当前 main 分支是基于 2026-07-28 MCP 规范的 v2，v1.x 位于单独分支并继续接收至少六个月的错误修复和安全更新。",
+        "one_liner_zh": "这是用于构建 MCP TypeScript 客户端与服务端的 SDK，提供工具、资源、提示及 stdio 和 Streamable HTTP 传输支持。",
+        "getting_started_zh": "先确认项目目标运行时和所需传输方式，再阅读 v2 对应的服务端或客户端教程；用仓库中的自验证示例核对工具发现和调用流程。若维护 v1 应用，先阅读 v1 文档与迁移指南，避免混用 v1 和 v2 包及 API。",
+        "limitations_zh": "摘录强调 main 分支为 v2，而 v1 文档和修复位于独立分支，存在迁移与版本选择成本。SDK 是开发构建组件，不能替代对服务端权限、认证和具体工具行为的安全审查。仓库说明新贡献采用 Apache 2.0，现有代码采用 MIT；应以各文件的实际许可证标注为准。",
+        "use_cases_zh": [
+          "为个人研究脚本构建 stdio MCP 服务端，把本地数据处理能力封装成工具。",
+          "开发 MCP 客户端，连接服务并发现、调用工具。",
+          "将现有 MCP 服务接入 Express、Fastify 或 Hono 应用。"
+        ],
+        "recommendation_score": 84,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:15:22.226198+00:00"
     },
     {
       "url": "https://www.producthunt.com/products/tomo-for-chatgpt",
@@ -462,6 +608,50 @@
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
     },
     {
+      "url": "https://www.npmjs.com/package/ai",
+      "domain": "project",
+      "source": "npm",
+      "source_title": "ai",
+      "source_excerpt": "AI SDK by Vercel - build apps like ChatGPT, Claude, Gemini, and more with a single interface for any model using the Vercel AI Gateway or go direct to OpenAI, Anthropic, Google, or any other model provider.",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "npm",
+      "topics": [
+        "agents",
+        "ai",
+        "plugins"
+      ],
+      "key": "43135e0db06f1236a757f935",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/vercel/ai/readme",
+      "title_zh": "Vercel AI SDK",
+      "summary_zh": "Vercel AI SDK 是面向 TypeScript 的模型提供方无关工具包，用于在多种 Web 框架和 Node.js 中构建 AI 应用与智能体，支持文本生成、结构化输出、工具循环智能体及聊天界面集成。材料展示了统一提供方接口和示例，也说明可经 Vercel AI Gateway 或直接连接各模型提供方。",
+      "recommend_reason_zh": "适合用 TypeScript 快速构建个人研究工具或模型交互原型；统一接口、结构化输出和工具调用示例便于连接不同模型并实现简单智能体。",
+      "pragmatic_score": 78,
+      "pragmatic_review": "若已有 Node.js 与 TypeScript 环境，可从单模型文本生成示例开始，再扩展到结构化输出和工具调用。",
+      "cynic_score": 61,
+      "cynic_review": "统一接口降低了接入差异，但网关路径可能引入额外服务依赖，直接连接各提供方仍需处理各自的凭据与能力差异。",
+      "paper_score": 56,
+      "paper_review": "摘录提供文档、API 参考和代码示例，没有论文或系统性评测材料可供学术审查。",
+      "project_insight": {
+        "translation_zh": "AI SDK 是 Vercel 提供的、与模型提供方无关的 TypeScript 工具包，可用于借助常见 UI 框架和 Node.js 构建 AI 应用与智能体。",
+        "one_liner_zh": "用统一的 TypeScript 接口调用多家模型，并组合文本生成、结构化输出、工具和聊天界面。",
+        "getting_started_zh": "先确认本机满足文档列出的 Node.js 22+ 要求，阅读官方安装与提供方文档；选择网关或直接提供方连接方式，从简单文本生成示例开始，并妥善管理 API 凭据。",
+        "limitations_zh": "材料所述安装方式需要 Node.js 22+；使用模型还需相应提供方或网关访问权限，具体费用与可用性取决于服务选择。摘录没有提供安全审计或性能比较结果。",
+        "use_cases_zh": [
+          "制作个人文献整理或数学问答网页原型，并为模型响应定义结构化格式。",
+          "为研究脚本或个人知识库搭建带工具调用的轻量智能体界面。",
+          "在不同模型提供方之间切换，比较同一任务的输出和成本。"
+        ],
+        "recommendation_score": 72,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:41.517114+00:00"
+    },
+    {
       "url": "https://terrytao.wordpress.com/2026/10/17/starting-a-new-journal",
       "domain": "math",
       "source": "Terence Tao — What’s New",
@@ -530,6 +720,50 @@
       "generated_at": "2026-10-18T07:57:25.525249+00:00"
     },
     {
+      "url": "https://gitlab.com/armadillo-lib/armadillo-code",
+      "domain": "project",
+      "source": "GitLab",
+      "source_title": "armadillo-lib/armadillo-code",
+      "source_excerpt": "Armadillo: fast C++ library for linear algebra (matrix maths) & scientific computing - https://arma.sourceforge.net",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "gitlab",
+      "topics": [
+        "ai",
+        "math",
+        "research"
+      ],
+      "key": "4b9aeab7a14255104f52f5f4",
+      "context_kind": "repository_readme",
+      "context_url": "https://gitlab.com/api/v4/projects/armadillo-lib%2Farmadillo-code/repository/files/README.md/raw?ref=HEAD",
+      "title_zh": "Armadillo：C++ 线性代数与科学计算库",
+      "summary_zh": "Armadillo 是面向线性代数和科学计算的 C++ 库，提供向量、矩阵、立方体及 200 多个相关函数，接口风格有意接近 Matlab。特征值、SVD、QR 等分解通过 LAPACK 或兼容实现提供；项目称其目标是在速度和易用性之间取得平衡。",
+      "recommend_reason_zh": "适合用 C++ 实现数值算法或将研究代码转入生产环境的人；README 说明了 BLAS、LAPACK 等依赖、稀疏矩阵组件和 Windows 编译选项，便于判断接入成本。",
+      "pragmatic_score": 76,
+      "pragmatic_review": "如果你的项目使用 C++，可从官方函数文档和一个小型矩阵运算原型开始，并按需求配置 BLAS、LAPACK 及稀疏矩阵依赖。",
+      "cynic_score": 58,
+      "cynic_review": "“高质量”和“高效”是项目自述，实际速度与功能取决于编译器、BLAS/LAPACK 实现及使用场景；README 还列有 LLM 使用限制，使用前应查阅具体条款。",
+      "paper_score": 53,
+      "paper_review": "摘录提供了依赖、版本策略和两篇引用论文的信息，但未包含论文全文、基准数据或本次评测证据。",
+      "project_insight": {
+        "translation_zh": "Armadillo 是一个 C++ 线性代数与科学计算库，旨在兼顾速度和易用性。它提供向量、矩阵和立方体类，以及 200 多个矩阵处理函数；特征值、SVD、QR 等分解通过 LAPACK 或高性能替代库实现，并以模板元编程表达式求值器合并部分运算以提高速度和效率。",
+        "one_liner_zh": "Armadillo 为 C++ 提供接近 Matlab 风格的矩阵运算接口，并借助 BLAS/LAPACK 实现常见数值线性代数操作。",
+        "getting_started_zh": "先查阅官方函数文档、安装说明和 API 稳定性策略；确认编译器支持 C++14，并按是否需要稀疏矩阵决定是否配置 ARPACK、SuperLU。用小型程序核对链接库与目标平台后，再纳入正式项目。",
+        "limitations_zh": "需要支持 C++14 的编译器；部分功能依赖 BLAS、LAPACK、ARPACK 或 SuperLU，实际构建配置因平台而异。摘录列出了 Apache 2.0 许可及 NOTICE 归属要求，也列有“禁止使用大型语言模型（LLMs）”一节，但没有提供该节的具体条款，应先核对原文再决定相关使用方式。",
+        "use_cases_zh": [
+          "在 C++ 项目中实现矩阵运算、特征值或 QR/SVD 等数值算法。",
+          "将 Matlab 风格的研究原型迁移到 C++ 应用中。",
+          "为统计、信号处理或计算机视觉程序配置稠密或稀疏线性代数功能。"
+        ],
+        "recommendation_score": 72,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:15:22.226198+00:00"
+    },
+    {
       "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
       "domain": "ai",
       "source": "Product Hunt",
@@ -552,6 +786,48 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
+    },
+    {
+      "url": "https://codeberg.org/rossabaker/no-agents.md",
+      "domain": "project",
+      "source": "Codeberg",
+      "source_title": "rossabaker/no-agents.md",
+      "source_excerpt": "A project to reject AI agents via `AGENTS.md`",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "codeberg",
+      "topics": [
+        "ai",
+        "agents"
+      ],
+      "key": "4fc9b8b54bffd3f4508a34c9",
+      "context_kind": "repository_readme",
+      "context_url": "https://codeberg.org/api/v1/repos/rossabaker/no-agents.md/contents/README.md",
+      "title_zh": "no-agents.md：通过 AGENTS.md 拒绝 AI 智能体",
+      "summary_zh": "这是一个提供拒绝 AI 编码智能体指示文件的小项目，建议将仓库中的 AGENTS.md 复制到目标仓库根目录，并可选使用 CLAUDE.md 针对 Claude。作者承认这类指示无法做到完全可靠，理由是 AGENTS.md 属于由非确定性工具实现的新兴约定。",
+      "recommend_reason_zh": "对维护开源仓库的人有参考价值：它把拒绝智能体访问的意愿写成易发现的仓库级文件，也提醒读者这类约定不能构成技术访问控制。",
+      "pragmatic_score": 57,
+      "pragmatic_review": "复制指示文件即可表达项目偏好，但不能代替权限、令牌或执行环境层面的控制。",
+      "cynic_score": 78,
+      "cynic_review": "作者明确承认采用者无法保证所有工具遵守该文件，因此其效果取决于智能体实现和使用者的约束。",
+      "paper_score": 58,
+      "paper_review": "材料是简短的使用说明和立场陈述，没有提供工具兼容性测试或拒绝效果评估。",
+      "project_insight": {
+        "translation_zh": "一个通过 AGENTS.md 向 AI 智能体表达其不受欢迎的项目；作者认为这种方式可能有帮助，但并不可靠。",
+        "one_liner_zh": "提供可复制到仓库根目录的指示文件，用于告知编码智能体不要参与该项目。",
+        "getting_started_zh": "先查看仓库中的 AGENTS.md 和可选的 CLAUDE.md，确认措辞适合自己的项目后再复制到目标仓库根目录；同时通过仓库权限和自动化规则管理实际访问。",
+        "limitations_zh": "作者明确表示这不是严密的技术防护，不能保证智能体遵守。项目采用 CC0 1.0 Universal 公共领域许可。",
+        "use_cases_zh": [
+          "维护开源仓库时，公开表达不希望 AI 编码智能体贡献代码的偏好。",
+          "审查现有仓库指示文件，了解 AGENTS.md 约定如何表达拒绝意愿。"
+        ],
+        "recommendation_score": 43,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:41.517114+00:00"
     },
     {
       "url": "https://x.com/arena/status/2111894091168682086",
@@ -760,6 +1036,49 @@
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
     },
     {
+      "url": "https://gitlab.com/scilab/scilab",
+      "domain": "project",
+      "source": "GitLab",
+      "source_title": "scilab/scilab",
+      "source_excerpt": "Scilab is free and open source software for numerical computation providing a powerful computing environment for engineering and scientific applications.",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "gitlab",
+      "topics": [
+        "math",
+        "research"
+      ],
+      "key": "61d62f5c54231fc24357fa7d",
+      "context_kind": "repository_readme",
+      "context_url": "https://gitlab.com/api/v4/projects/scilab%2Fscilab/repository/files/README.md/raw?ref=HEAD",
+      "title_zh": "Scilab：科学与工程数值计算软件",
+      "summary_zh": "Scilab 是自由且开源的数值计算软件，提供高层语言、数学函数和二维、三维绘图，并覆盖优化、统计、控制系统、信号处理及混合动力系统建模仿真。项目页面列出了功能类别，但摘录未提供版本特定的性能数据或与其他工具的对比。",
+      "recommend_reason_zh": "适合工程与科学计算用户了解其优化、信号处理和 Xcos 仿真能力；是否适合现有科研流程，还需结合所需算法、绘图输出和外部工具接口核对。",
+      "pragmatic_score": 67,
+      "pragmatic_review": "若任务涉及数值计算、控制或信号处理，可按具体功能查阅 Scilab 文档并试做小型工作流；材料没有给出迁移指南。",
+      "cynic_score": 39,
+      "cynic_review": "项目简介列出功能广度，但没有说明各模块的边界、维护情况或与常用科研工具的兼容差异。",
+      "paper_score": 26,
+      "paper_review": "摘录是项目功能说明，没有论文、基准测试或可复现的科学计算示例。",
+      "project_insight": {
+        "translation_zh": "Scilab 是用于数值计算的自由开源软件，提供适用于工程和科学应用的计算环境。它包含数学运算与数据分析功能，以及二维和三维可视化、连续与离散优化、统计建模、控制系统分析、信号处理和应用开发工具；Xcos 用于混合动力系统建模与仿真。",
+        "one_liner_zh": "一个面向工程与科学应用的数值计算环境，覆盖数据分析、优化、绘图、控制、信号处理和 Xcos 仿真。",
+        "getting_started_zh": "先按研究问题查阅 Scilab 的官方功能文档和最新发布说明，选一个小型数据分析、优化或 Xcos 模型验证所需函数与图形导出流程，再决定是否纳入现有工具链。",
+        "limitations_zh": "摘录仅概述功能类别，没有给出具体算法实现、性能比较、兼容性或维护状态；“自由开源”来自项目说明，材料未附具体许可条款。",
+        "use_cases_zh": [
+          "进行工程或科学数据分析，并绘制二维或三维结果图。",
+          "尝试连续或离散优化、统计建模、控制系统分析或信号处理任务。",
+          "通过 Xcos 建立机械、液压或控制系统的混合动力模型并进行仿真。"
+        ],
+        "recommendation_score": 57,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:01.219470+00:00"
+    },
+    {
       "url": "https://www.producthunt.com/products/taim-4",
       "domain": "ai",
       "source": "Product Hunt",
@@ -782,6 +1101,48 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
+    },
+    {
+      "url": "https://huggingface.co/spaces/multimodalart/jev-decision-index",
+      "domain": "project",
+      "source": "Hugging Face Spaces",
+      "source_title": "multimodalart/jev-decision-index",
+      "source_excerpt": "Benchmarks and news on various repros of TypeSafe's Jev",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "hf_spaces",
+      "topics": [
+        "ai"
+      ],
+      "key": "6a943907dfb75539b94e4232",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/spaces/multimodalart/jev-decision-index/raw/main/README.md",
+      "title_zh": "Jev 决策指数：复现追踪与排行榜",
+      "summary_zh": "Jev Decision Index 是一个静态 Space，追踪 TypeSafe 的 Jev（System One / RLCD）的开放复现、相关消息和模型榜单，并将候选分为解码、扩散、训练模型、先例及解读等类别。页面说明综合分包含公开基准、私有同类测试和新领域任务，并明确指出 TypeSafe 的权重、RLCD 算法及符合其校准主张的开放模型仍未公开。",
+      "recommend_reason_zh": "适合关注决策模型与推理复现的人快速查看项目谱系和评测分类；其对私有测试占比和未开放部分的说明有助于避免把公开基准成绩等同于完整复现。",
+      "pragmatic_score": 64,
+      "pragmatic_review": "可用于筛选值得进一步检查的 Jev 复现和模型，但页面本身是追踪与比较工具，不是可直接部署的智能体。",
+      "cynic_score": 73,
+      "cynic_review": "排行榜中多数分数依赖未公开的私有测试，且页面注明互动指标是特定日期的快照，读者难以独立重算全部结果。",
+      "paper_score": 67,
+      "paper_review": "摘录说明了计分权重、公开基准数量及方法页位置，但没有展示具体评测数据和完整方法细节。",
+      "project_insight": {
+        "translation_zh": "Jev 复现追踪器：追踪社区正在公开复现 TypeSafe 的 Jev（System One / RLCD）的进展。它提供新闻条目和决策模型索引，涵盖解码方法、扩散模型、训练模型、先例与解释材料。",
+        "one_liner_zh": "汇总 Jev 相关复现动态，并以包含公开基准和私有任务的指数比较候选模型。",
+        "getting_started_zh": "先查看 Methodology 页面，弄清综合分与公开分的差异，再用自定义权重观察排名变化；对重要结论回到对应模型、基准或原始公告核对。",
+        "limitations_zh": "Space 自述与 TypeSafe AI 无关联，且排行榜包含私有测试和新领域任务，全部分数无法仅凭公开基准独立验证。互动数据是 2026-09-24 的快照，页面属于静态追踪索引，不是模型或基准软件包。",
+        "use_cases_zh": [
+          "跟踪开放社区对 Jev 类决策模型的复现进展。",
+          "查看模型在公开基准、视觉任务和不同评分权重下的相对位置。",
+          "梳理哪些能力或算法仍未公开，作为相关研究的背景资料。"
+        ],
+        "recommendation_score": 66,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:41.517114+00:00"
     },
     {
       "url": "https://terrytao.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics",
@@ -826,6 +1187,48 @@
       "provider": "codex-cli",
       "model": "gpt-6-luna",
       "generated_at": "2026-10-18T07:56:42.851798+00:00"
+    },
+    {
+      "url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B",
+      "domain": "project",
+      "source": "Hugging Face Models",
+      "source_title": "openbmb/MiniCPM-V-4.7-35B-A3B",
+      "source_excerpt": "transformers · safetensors · minicpmv4_7 · image-text-to-text · minicpm-v · multimodal · On-Device Model · lightweight · moe · conversational · license:apache-2.0 · endpoints_compatible · region:us",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "hf_models",
+      "topics": [
+        "ai"
+      ],
+      "key": "757c8b9810ad5e3049fa5c5e",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/openbmb/MiniCPM-V-4.7-35B-A3B/raw/main/README.md",
+      "title_zh": "MiniCPM-V 4.7 35B-A3B 多模态模型",
+      "summary_zh": "MiniCPM-V 4.7 35B-A3B 是 MiniCPM-V 系列的 MoE 多模态模型，面向图像、多图和视频理解，并配套视觉 token 压缩、量化及 Lookahead Expert Scheduling 等端侧推理方案。模型卡声称其在 iPhone 17 Pro Max 上可达到每秒 13 个以上 token，并在部分 Instruct 模式比较中以较短推理时间取得高于 Qwen3.6 35B-A3B 的总分；这些为发布方报告的结果，摘录未给出完整测评数据。",
+      "recommend_reason_zh": "对研究端侧多模态推理、MoE 专家调度或视觉 token 压缩的人有较强参考价值；模型卡也列出推理框架、量化格式和设备支持信息。",
+      "pragmatic_score": 68,
+      "pragmatic_review": "若有合适的设备和推理框架，可从模型卡给出的权重与部署指引评估图像或视频理解任务。",
+      "cynic_score": 62,
+      "cynic_review": "端侧速度与“无损”表现依赖特定设备、量化及调度组合，不能直接外推到其他硬件或任务。",
+      "paper_score": 60,
+      "paper_review": "材料包含方法概述和评测图链接，但未提供完整论文、原始基准数据或独立复现信息。",
+      "project_insight": {
+        "translation_zh": "MiniCPM-V 4.7 是 MiniCPM-V 系列的 35B-A3B 多模态模型，也是该系列首个 MoE 变体。模型卡称其支持单图、多图和视频理解，并结合视觉 token 压缩、分层量化与专家调度改善端侧推理。",
+        "one_liner_zh": "一个面向视觉与视频理解、并提供端侧 MoE 推理方案的多模态模型权重发布页。",
+        "getting_started_zh": "先核对模型卡链接的权重、推理和端侧部署文档，按目标设备选择支持的框架与量化版本；用公开样例和自己的小型测试集评估质量、显存占用及速度。",
+        "limitations_zh": "这是模型而非软件工具；模型卡标注 Apache-2.0，但部署还需符合所选推理框架及依赖的许可条件。13+ tokens/s 等端侧数据来自发布方材料，且与 iPhone 17 Pro Max 等特定配置相关；摘录未提供独立复现结果。",
+        "use_cases_zh": [
+          "在本地设备上测试论文图表、实验照片或教学截图的视觉问答。",
+          "研究视频理解中视觉 token 压缩对速度与细节保留的影响。",
+          "比较 MoE 专家调度和不同量化格式在受限设备上的推理表现。"
+        ],
+        "recommendation_score": 71,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:41.517114+00:00"
     },
     {
       "url": "https://github.com/akitaonrails/ai-memory",
@@ -918,6 +1321,92 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
+    },
+    {
+      "url": "https://codeberg.org/goern/forgejo-mcp",
+      "domain": "project",
+      "source": "Codeberg",
+      "source_title": "goern/forgejo-mcp",
+      "source_excerpt": "Due to the latest policy changes by Codeberg e.V. (see https://blog.codeberg.org/protecting-our-floss-commons-from-llms.html) the project has been migrated to https://git.b4mad.industries/agentic-forges/forgejo-mcp This repository remains as a r/o-mirror. Issues and Pull Request are welcome at the new location. There will be no new releases in this repository. We love every contribution by Humans or AI-Agents!",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "codeberg",
+      "topics": [
+        "ai",
+        "agents",
+        "plugins"
+      ],
+      "key": "81562c0d017115b89bb16593",
+      "context_kind": "repository_readme",
+      "context_url": "https://codeberg.org/api/v1/repos/goern/forgejo-mcp/contents/README.md",
+      "title_zh": "Forgejo MCP Server：Forgejo 的 MCP 服务端",
+      "summary_zh": "Forgejo MCP Server 通过 MCP 让兼容的 AI 助手以自然语言操作 Forgejo 仓库、议题、拉取请求、文件和 Actions 工作流。项目已迁移到 git.b4mad.industries；Codeberg 仓库是只读镜像，不再发布新版本或容器镜像。",
+      "recommend_reason_zh": "如果你在用 Forgejo，可用它把仓库浏览、议题处理和工作流查看接入 MCP 助手；README 也说明了访问令牌、stdio/HTTP 传输和远程访问的配置要点。",
+      "pragmatic_score": 74,
+      "pragmatic_review": "可先在自己的 Forgejo 实例上为令牌授予所需的最小权限，并从本机 stdio 接入开始，再逐项确认助手能访问哪些仓库操作。",
+      "cynic_score": 62,
+      "cynic_review": "该工具能执行写操作，配置令牌和网络可达性会扩大操作影响；远程 HTTP 部署还要求明确主机、来源和认证设置。",
+      "paper_score": 48,
+      "paper_review": "摘录含有操作示例及多种部署说明，但未展示代码审查、测试结果或独立安全验证。",
+      "project_insight": {
+        "translation_zh": "Forgejo MCP Server 是连接 Forgejo 与 MCP 系统的集成插件。配置后，可通过 Claude、Cursor 或 VS Code 扩展等 MCP 兼容助手，以自然语言与 Forgejo 仓库交互；项目已迁移，Codeberg 仓库仅作为只读镜像。",
+        "one_liner_zh": "它把 Forgejo 的仓库、议题、拉取请求和工作流操作接入 MCP 助手。",
+        "getting_started_zh": "从项目当前维护位置获取安装和发布信息；先在测试仓库创建权限受限的访问令牌，采用本机 stdio 方式配置 MCP，并检查每项写操作的目标后再执行。若部署 HTTP 服务，应按文档配置认证、监听地址、允许的主机名和来源。",
+        "limitations_zh": "Codeberg 页面是只读镜像，维护、问题反馈、发布和容器镜像均已迁移到 git.b4mad.industries。服务需要 Forgejo 实例和访问令牌；HTTP 远程部署涉及主机、来源和认证配置。所给摘录未显示许可证信息，不能据此判断具体许可条款。",
+        "use_cases_zh": [
+          "让助手列出个人 Forgejo 实例中的仓库或读取 README 文件。",
+          "在确认目标仓库和权限后，通过助手创建议题或查看开放的拉取请求。",
+          "查看指定项目最近的 Actions 工作流运行记录。"
+        ],
+        "recommendation_score": 70,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:15:22.226198+00:00"
+    },
+    {
+      "url": "https://github.com/anomalyco/opencode",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "anomalyco/opencode",
+      "source_excerpt": "The open source coding agent.",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "agents"
+      ],
+      "key": "8193a1e6d5f60fd1d39debad",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/anomalyco/opencode/readme",
+      "title_zh": "OpenCode：开源 AI 编码智能体",
+      "summary_zh": "OpenCode 是一个开源 AI 编码智能体，README 列出 build（默认全权限）、plan（默认只读）两种内置智能体，以及用于复杂搜索和多步骤任务的 general 子智能体。项目提供命令行和 Beta 桌面应用，并列出多种安装方式；摘录未说明模型支持范围或独立评测结果。",
+      "recommend_reason_zh": "对希望研究编码智能体工作模式的人，plan 与 build 的权限区分以及 general 子智能体值得关注；使用前应确认当前版本、权限行为和模型配置。",
+      "pragmatic_score": 72,
+      "pragmatic_review": "可先用只读 plan 模式探索代码库，再根据需要切换 build，但 README 所示命令和桌面版状态可能随版本变化。",
+      "cynic_score": 48,
+      "cynic_review": "“开源”与多平台安装入口并不能单独说明模型能力或命令执行风险，build 模式默认具备完整访问权限尤其需要留意。",
+      "paper_score": 34,
+      "paper_review": "摘录列出安装渠道和智能体模式，但没有给出论文、基准成绩或独立复现证据。",
+      "project_insight": {
+        "translation_zh": "OpenCode 将自己描述为开源 AI 编码智能体。它提供两种内置智能体：用于开发工作的默认全权限 build，以及默认拒绝文件编辑、适合分析与代码探索的只读 plan；还提供用于复杂搜索和多步骤工作的 general 子智能体。项目有命令行版本和 Beta 桌面应用，并列出多种安装方式。",
+        "one_liner_zh": "一个带有全权限开发、只读规划和通用子智能体模式的开源编码助手。",
+        "getting_started_zh": "先阅读官方文档中的安装、智能体和权限说明，按自己的操作系统选择受支持的安装渠道；首次使用可从 plan 模式和非敏感代码库开始，核实模型配置及命令执行许可后再使用 build。",
+        "limitations_zh": "README 对模式和安装渠道的描述属于项目自述；摘录没有提供模型清单、独立性能评测或安全审计细节。build 被描述为默认全权限，桌面应用标注为 Beta；版本和安装方式应以官方文档为准。",
+        "use_cases_zh": [
+          "用只读模式了解陌生代码库结构和实现逻辑。",
+          "在人工检查范围内，让编码智能体协助修改代码或处理多步骤开发任务。",
+          "研究编码助手如何区分规划与执行权限，并调用子智能体处理复杂搜索。"
+        ],
+        "recommendation_score": 65,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:01.219470+00:00"
     },
     {
       "url": "https://github.com/anthropics/claude-plugins-official",
@@ -1034,6 +1523,48 @@
       "generated_at": "2026-10-18T07:56:42.851798+00:00"
     },
     {
+      "url": "https://huggingface.co/spaces/kulkas2pintu/wan777",
+      "domain": "project",
+      "source": "Hugging Face Spaces",
+      "source_title": "kulkas2pintu/wan777",
+      "source_excerpt": "generate a video from an image with a text prompt",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "hf_spaces",
+      "topics": [
+        "ai",
+        "plugins"
+      ],
+      "key": "af096ab265cbf524b050cb16",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/spaces/kulkas2pintu/wan777/raw/main/README.md",
+      "title_zh": "Wan2.2 14B 预览版：图像生成视频空间",
+      "summary_zh": "这是一个基于 Gradio 的 Hugging Face Space，页面将其描述为使用图像和文本提示生成视频，并标注为“Wan2.2 14B Preview”。现有材料没有提供模型权重、生成效果、运行配置或访问状态的进一步信息。",
+      "recommend_reason_zh": "可作为图像转视频演示入口，用来初步了解这类提示交互；但材料不足以判断生成质量、运行门槛或它与其他 Wan2.2 实现的关系。",
+      "pragmatic_score": 32,
+      "pragmatic_review": "如页面可访问，可先用非敏感的测试图和简单提示观察交互与输出，再判断是否适合个人创作流程。",
+      "cynic_score": 72,
+      "cynic_review": "Space 标注为预览版，摘录只说明图像加文本生成视频，没有给出质量、速度、排队情况或稳定性数据。",
+      "paper_score": 15,
+      "paper_review": "材料只有 Space 元数据和简短功能描述，没有论文、代码细节、评测数据或可复现说明。",
+      "project_insight": {
+        "translation_zh": "页面的简短描述是“用图像和文本提示生成视频”。Space 配置标注名称为 Wan2.2 14B Preview，使用 Gradio。",
+        "one_liner_zh": "这是一个 Gradio 演示空间，旨在根据输入图像和文本提示生成视频。",
+        "getting_started_zh": "先查看 Space 页面是否可访问及其当前运行状态；使用不含个人或敏感信息的测试图和简短提示进行体验，并留意页面是否提供模型、排队和输出限制说明。",
+        "limitations_zh": "现有摘录没有说明权重来源、许可、生成质量、速度、算力需求或数据处理方式；名称标注为 Preview，不能据此推断稳定性。",
+        "use_cases_zh": [
+          "尝试将个人创作图像转成带有指定动作或场景变化的视频。",
+          "初步观察图像转视频界面的提示输入和输出形式。"
+        ],
+        "recommendation_score": 31,
+        "recommendation_tier": "watch"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:15:22.226198+00:00"
+    },
+    {
       "url": "https://sphinx-six-theta.vercel.app",
       "domain": "ai",
       "source": "Hacker News (黑客新闻)",
@@ -1126,6 +1657,51 @@
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
     },
     {
+      "url": "https://github.com/paperclipai/paperclip",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "paperclipai/paperclip",
+      "source_excerpt": "The open-source app everyone uses to manage agents at work",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "agents",
+        "ai",
+        "plugins",
+        "skills"
+      ],
+      "key": "bcbc5cc72e0fa3336dbaff2d",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/paperclipai/paperclip/readme",
+      "title_zh": "Paperclip：多智能体团队编排与管理平台",
+      "summary_zh": "Paperclip 是一个开源的 Node.js 服务和 React 界面，用于把不同提供方和运行环境的智能体组织到共同目标下，并集中管理任务、角色、权限、预算与运行记录。项目还介绍了审批、定时唤醒、成本控制和技能评测等功能；这些是 README 对产品能力的描述，摘录没有独立使用评估。",
+      "recommend_reason_zh": "适合关注智能体编排的人研读其目标、组织结构、权限和审批设计；若只是个人运行少量助手，完整的组织管理模型可能带来额外配置负担。",
+      "pragmatic_score": 65,
+      "pragmatic_review": "若需要统一追踪多个编码助手的任务与预算，集中看板可能有用，但摘录没有展示部署要求或个人单机使用的具体流程。",
+      "cynic_score": 59,
+      "cynic_review": "“管理 AI 公司”等定位是项目宣传语，实际效果取决于适配器、智能体运行稳定性和人工审批流程。",
+      "paper_score": 46,
+      "paper_review": "README 描述了功能与支持的适配器，但摘录没有呈现架构验证、性能数据或独立评测。",
+      "project_insight": {
+        "translation_zh": "Paperclip 将自己描述为面向 AI 智能体团队的开源编排应用，提供 Node.js 服务和 React 界面。用户可接入不同智能体与提供方，为其分配目标，并在一个仪表板中管理任务、成本、技能、权限和历史记录；README 还列出组织架构、预算、审批、定时唤醒、多组织隔离及技能评测等能力。项目标注 MIT 许可。",
+        "one_liner_zh": "把多个不同来源的 AI 智能体纳入统一组织架构，集中分派任务、设定权限与预算并跟踪工作记录。",
+        "getting_started_zh": "从 README 的 Quickstart 和官方文档入口开始，先确认本机 Node.js 等环境要求与当前支持的适配器；建议先接入一个非关键任务，验证权限、预算告警和停止机制后再扩展。",
+        "limitations_zh": "README 中的功能清单与适配器兼容性属于项目自述，摘录未展示独立验证或实际运行结果；多智能体长期自治效果、维护成本和安全边界仍需按具体配置评估。项目标注 MIT 许可，Cloud 服务在页面中仅提供候补名单入口。",
+        "use_cases_zh": [
+          "同时使用多个编码智能体时，集中查看任务进度、阻塞事项和运行记录。",
+          "为长期运行的个人自动化流程配置审批节点、预算上限和人工检查。",
+          "研究多智能体系统如何建模角色、委派关系、技能版本和权限边界。"
+        ],
+        "recommendation_score": 67,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:01.219470+00:00"
+    },
+    {
       "url": "https://arxiv.org/abs/2610.18861",
       "domain": "ai",
       "source": "arxiv.org",
@@ -1148,6 +1724,51 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
+    },
+    {
+      "url": "https://github.com/morluto/rea",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "morluto/rea",
+      "source_excerpt": "Reverse engineer anything with agents, from app behavior down to native binaries.",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "agents",
+        "ai",
+        "plugins",
+        "skills"
+      ],
+      "key": "c12aeedc22b0f782022ae8f1",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/morluto/rea/readme",
+      "title_zh": "REA：逆向分析任何对象",
+      "summary_zh": "REA 通过 MCP 将 AI 助手连接到分析工具，用于检查原生二进制文件、JavaScript 和 Electron 应用、.NET 程序集及网站，并返回带证据和局限说明的发现。分析在本地进行；原生分析需要 Hopper、Ghidra 或 IDA，静态 JavaScript 分析则不需要原生分析引擎。",
+      "recommend_reason_zh": "适合需要理解闭源应用功能或追踪二进制行为的开发者；它强调提供分析证据和未知项，可帮助把逆向结论与后续实现工作衔接起来。",
+      "pragmatic_score": 78,
+      "pragmatic_review": "若已有兼容的 AI 助手和目标分析工具，可先挑一个本地应用功能，用 REA 检查它返回的证据是否足以支持解释。",
+      "cynic_score": 63,
+      "cynic_review": "材料列出了多种分析目标，但原生分析依赖外部工具，支持范围和结果质量仍取决于具体目标与配置。",
+      "paper_score": 45,
+      "paper_review": "摘录描述了工具能力和证据输出，也提供文档入口，但没有呈现具体案例的完整分析记录、测试结果或独立评估。",
+      "project_insight": {
+        "translation_zh": "REA 将代理连接到检查原生二进制文件、JavaScript 和 Electron 应用、.NET 程序集及网站的工具；也可以从终端使用相同工具。分析在本地运行，结果包含结论所依据的证据和局限。",
+        "one_liner_zh": "REA 是一个 MCP 逆向分析工具集，可让 AI 助手检查应用和二进制文件，并带着证据解释其行为。",
+        "getting_started_zh": "先阅读官方安装说明，核对 Node.js 版本、目标类型及所需分析工具；再选择一个无敏感数据的本地目标，按 setup 流程检查代理配置变更并重启助手，最后核对输出中的证据和未知项。",
+        "limitations_zh": "原生分析需要已有的 Hopper、Ghidra 或 IDA；部分目标还依赖平台或外部工具。摘录没有给出具体案例的完整复现材料或独立性能评估，且逆向分析结论应结合其证据和局限审查。README 标示 MIT 许可。",
+        "use_cases_zh": [
+          "检查一个本地 Electron 应用的模块、导入和 Electron 边界。",
+          "借助 Hopper、Ghidra 或 IDA 分析原生程序的伪代码、汇编、符号及调用关系。",
+          "将应用中的某项功能作为参照，先调查其实现线索，再评估如何在自己的项目中复现类似行为。"
+        ],
+        "recommendation_score": 77,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:15:22.226198+00:00"
     },
     {
       "url": "https://www.tomshardware.com/tech-industry/artificial-intelligence/anthropics-proposed-ai-safety-bill-only-kicks-in-if-50-deaths-or-usd1-billion-in-damages-are-on-the-line-proposal-would-effectively-make-the-commerce-department-the-only-agency-capable-of-stopping-an-ai-model",
@@ -1314,6 +1935,49 @@
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
     },
     {
+      "url": "https://huggingface.co/datasets/DeepLethe/FDE-Gym",
+      "domain": "project",
+      "source": "Hugging Face Datasets",
+      "source_title": "DeepLethe/FDE-Gym",
+      "source_excerpt": "FDE-Gym: The Last Mile of AI Delivery FDE-Gym tests whether an agent can do the work of a forward-deployed engineer: enter a customer's running environment, find out what matters there, make the decisions the job needs, and ship a system that holds up in production. Paper: arXiv:2610.22350 · Leaderboard: https://fde-gym.com/paper This repository holds the original task of each of the 20 scenarios. What is here cases/ / engagement.json title, what the… See the full description on the dataset page: https://huggingface.co/datasets/DeepLethe/FDE-Gym.",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "hf_datasets",
+      "topics": [
+        "ai",
+        "research",
+        "agents"
+      ],
+      "key": "dfdcef9555397e528703e515",
+      "context_kind": "article_text",
+      "title_zh": "FDE-Gym：AI 交付的最后一公里",
+      "summary_zh": "FDE-Gym 是一个评测代理能否进入客户运行环境、判断关键需求、作出决策并交付可投入生产系统的基准，材料称其论文编号为 arXiv:2610.22350。数据集页面包含 20 个原始场景；另有 75 个变体只用于排行榜评测，参考解答也未公开。",
+      "recommend_reason_zh": "它把代理评测放进银行、医院、制造等具体业务环境，并将交付效果与利益相关者沟通成本结合，适合研究者分析长程代理任务的设定和评分方式。",
+      "pragmatic_score": 57,
+      "pragmatic_review": "可先阅读场景说明和评分定义，挑选一个原始任务检查评测流程；若要使用受限案例文件，需先接受访问条件。",
+      "cynic_score": 66,
+      "cynic_review": "页面称该分数是相对于基线和参考解答的归一化业务提升再减去沟通成本，因而结果依赖场景、评分锚点及成本设定。",
+      "paper_score": 61,
+      "paper_review": "摘录列出论文编号、20 个场景目录和评分方法，但没有论文正文或实测结果；75 个变体与参考解答未公开，不能据此独立复核排行榜表现。",
+      "project_insight": {
+        "translation_zh": "FDE-Gym 测试代理能否承担前向部署工程师的工作：进入客户运行环境，查明关键事项，作出工作所需决策，并交付能在生产中稳定运行的系统。该仓库保存 20 个场景的原始任务；基准还包括 75 个只用于排行榜评分的变体，参考解答不公开。数据文件需接受 LICENSE.md 中的条件后访问，其中包括不得在组织外分享、不得公开评分器/参考事实/解答，以及不得将文件用于模型训练。",
+        "one_liner_zh": "FDE-Gym 用带有客户资料、模拟服务和评分器的业务场景评估代理的端到端交付表现。",
+        "getting_started_zh": "先阅读论文和数据集访问条件，确认所在组织能接受许可限制；再查看公开场景目录与 FDE-Gym harness 说明，按页面提供的流程运行一个原始案例，并记录其与基线及评分锚点的关系。不要公开案例文件、评分器、参考事实或解答。",
+        "limitations_zh": "数据集文件需要登录并接受访问条款，且禁止组织外分享相关文件、公开评分器/参考事实/解答以及将文件纳入模型训练数据。页面称基准共有 95 个任务，但变体为保留评测用途而未公开；因此仅凭当前摘录无法重现完整排行榜比较。",
+        "use_cases_zh": [
+          "研究代理在信息不完整的业务环境中如何收集需求、联系利益相关者并交付系统。",
+          "比较同一场景不同任务指令层级（L0 至 L3）对代理执行方式的影响。",
+          "检查基准如何把生产流量表现、参考解答和利益相关者沟通成本纳入评分。"
+        ],
+        "recommendation_score": 78,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:15:22.226198+00:00"
+    },
+    {
       "url": "https://www.producthunt.com/products/crew-tower",
       "domain": "ai",
       "source": "Product Hunt",
@@ -1456,6 +2120,47 @@
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
     },
     {
+      "url": "https://www.npmjs.com/package/claude-cup",
+      "domain": "project",
+      "source": "npm",
+      "source_title": "claude-cup",
+      "source_excerpt": "Claude Cup — worldwide building contest. Track your Value/Token Ratio, climb the real-time leaderboard, and fill a live trophy in your terminal.",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "npm",
+      "topics": [
+        "plugins",
+        "skills"
+      ],
+      "key": "f9156cbd4c90c883e7efbcad",
+      "context_kind": "source_excerpt",
+      "title_zh": "Claude Cup：价值与 Token 比率排行榜工具",
+      "summary_zh": "来源摘录称 Claude Cup 是一项全球构建竞赛，可追踪 Value/Token Ratio、参与实时排行榜，并在终端显示奖杯进度。材料仅提供一句简介，没有说明指标定义、计分方法、参赛规则或软件许可。",
+      "recommend_reason_zh": "若正在参加该竞赛，终端内的进度展示可能方便；对一般 AI 或数学科研用户，当前资料不足以判断排行榜指标是否有参考价值。",
+      "pragmatic_score": 31,
+      "pragmatic_review": "目前只能确认它提供终端排行榜与奖杯展示，摘录没有足够信息指导安装或用于日常工作。",
+      "cynic_score": 72,
+      "cynic_review": "Value/Token Ratio 的定义和统计口径未见于材料，不能据此把排行榜名次当作模型或项目质量的可靠比较。",
+      "paper_score": 12,
+      "paper_review": "材料没有论文、代码细节、计分验证或可复现的评测证据。",
+      "project_insight": {
+        "translation_zh": "Claude Cup 是一项全球构建竞赛，可追踪 Value/Token Ratio、参与实时排行榜，并在终端显示动态奖杯。",
+        "one_liner_zh": "围绕 Claude Cup 竞赛提供终端内的 Value/Token Ratio 追踪、实时排名和奖杯展示。",
+        "getting_started_zh": "先查看 npm 页面中的完整说明、版本、许可和竞赛计分规则，再决定是否安装；使用前应确认 Value/Token Ratio 的计算方式及其数据来源。",
+        "limitations_zh": "当前摘录只有简短宣传描述，未给出计分定义、安装方法、许可、数据采集方式或维护状态；名称中的 Claude 也不足以说明其与 Anthropic 官方产品的关系。",
+        "use_cases_zh": [
+          "参加 Claude Cup 时查看自己的竞赛指标与排名。",
+          "对比不同构建尝试的 Token 使用与竞赛所定义的价值指标，前提是先确认其计分口径。"
+        ],
+        "recommendation_score": 24,
+        "recommendation_tier": "watch"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:01.219470+00:00"
+    },
+    {
       "url": "https://www.producthunt.com/products/krea",
       "domain": "ai",
       "source": "Product Hunt",
@@ -1478,6 +2183,48 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
+    },
+    {
+      "url": "https://github.com/vectorize-io/hindsight",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "vectorize-io/hindsight",
+      "source_excerpt": "Hindsight: Agent Memory That Learns",
+      "published_at": null,
+      "observed_at": "2026-10-19T03:20:29.471903Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "agents"
+      ],
+      "key": "fb7db0b53f2afa5ef664c74d",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/vectorize-io/hindsight/readme",
+      "title_zh": "Hindsight：会学习的智能体记忆系统",
+      "summary_zh": "Hindsight 面向会随时间积累信息的智能体记忆，提供 retain、recall、reflect 操作，并可通过客户端、LLM 包装器及 MCP 等方式接入。项目 README 声称其在 LongMemEval 上达到领先表现，并称部分基准结果已由 Virginia Tech Sanghani Center 和《华盛顿邮报》的研究合作者独立复现；这些是来源中的自述，摘录未提供具体实验数据。",
+      "recommend_reason_zh": "适合想为个人助手或研究代理增加跨会话记忆的人；文档列出本地部署、嵌入式用法和多种模型提供方，便于评估是否适合自己的数据与推理环境。",
+      "pragmatic_score": 83,
+      "pragmatic_review": "retain/recall/reflect 的接口和本地部署路径清楚，可先用少量非敏感资料验证记忆检索效果。",
+      "cynic_score": 65,
+      "cynic_review": "README 对优于 RAG 和领先基准表现的表述较强，但摘录未给出对比细节，而且完整能力可能依赖外部模型及其成本。",
+      "paper_score": 69,
+      "paper_review": "材料链接了论文和动态基准页，并提到独立复现，但本摘录没有论文方法、结果表或复现配置可供核查。",
+      "project_insight": {
+        "translation_zh": "Hindsight：会学习的智能体记忆系统。项目称它专注于让智能体从长期交互中学习，而不只是回忆对话历史。",
+        "one_liner_zh": "为智能体提供信息写入、记忆检索和基于记忆生成回应的长期记忆服务。",
+        "getting_started_zh": "先阅读安装与模型提供方文档，选择嵌入式方式或本地服务；用一组虚构或非敏感事实测试 retain、recall、reflect，并记录模型、延迟和答案准确性，再决定是否接入真实资料。",
+        "limitations_zh": "README 表明可使用本地及托管模型，但某些提供方需要凭据；托管 Hindsight Cloud 按用量计费。长期记忆涉及资料保留与访问控制，摘录没有说明其具体隐私和安全机制。项目的基准领先及生产使用情况来自项目材料，摘录未包含完整论文与复现细节。",
+        "use_cases_zh": [
+          "为个人研究助理保存项目背景、文献阅读记录，再按问题检索。",
+          "给本地或自托管智能体添加跨会话上下文，比较不同记忆策略的效果。",
+          "通过 MCP 或 LLM 包装器评估记忆能力对日常编码助手的帮助。"
+        ],
+        "recommendation_score": 82,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-19T04:16:41.517114+00:00"
     }
   ]
 }

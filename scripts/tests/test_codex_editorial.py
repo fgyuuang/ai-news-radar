@@ -51,6 +51,29 @@ def test_changed_source_has_a_different_cache_key():
     assert editorial.source_key({**original, "source_excerpt": "Revised evidence"}) != original["key"]
 
 
+def project_insight():
+    return {"translation_zh": "用于科学研究的开源工具。", "one_liner_zh": "帮助研究者整理证明。",
+            "use_cases_zh": ["整理证明资料"], "getting_started_zh": "先阅读项目的示例和许可。",
+            "limitations_zh": "目前只有项目说明，没有实际复现。", "recommendation_score": 70, "recommendation_tier": "read"}
+
+
+def test_project_interpretation_preserves_fields_and_source_attribution():
+    source = {**article(), "domain": "project"}
+    entry = {**result(), "project_insight": project_insight(), "url": "https://forged.example/"}
+    actual = editorial.validate({"entries": [entry]}, [source])[0]
+    assert actual["url"] == source["url"]
+    assert actual["project_insight"] == project_insight()
+
+
+@pytest.mark.parametrize("field,value", [("recommendation_score", True), ("recommendation_score", 101),
+                                         ("recommendation_tier", "best"), ("translation_zh", "English only"),
+                                         ("use_cases_zh", []), ("limitations_zh", "Traceback 内部错误")])
+def test_invalid_project_interpretation_is_rejected(field, value):
+    entry = {**result(), "project_insight": {**project_insight(), field: value}}
+    with pytest.raises(ValueError):
+        editorial.validate({"entries": [entry]}, [{**article(), "domain": "project"}])
+
+
 def test_proper_model_name_may_remain_in_latin_letters():
     entry = {**result(), "title_zh": "DeepSeek V4.1 Flash 1017"}
     assert editorial.validate({"entries": [entry]}, [article()])[0]["title_zh"] == entry["title_zh"]

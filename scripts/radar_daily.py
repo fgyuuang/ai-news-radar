@@ -209,6 +209,10 @@ def render(bundle, entries):
                           f"阅读价值：{entry['recommend_reason_zh']}",
                           f"依据：{'原文正文' if entry.get('context_kind') == 'article_text' else '来源摘录'}",
                           f"链接：{item['url']}", ""])
+            if entry.get("project_insight") and entry.get("model") == "gpt-6-luna":
+                insight = entry["project_insight"]
+                lines.extend([f"适合：{'；'.join(insight['use_cases_zh'])}",
+                              f"上手：{insight['getting_started_zh']}", f"限制：{insight['limitations_zh']}", ""])
         deferred = bundle["deferred"].get(domain, 0)
         if deferred:
             lines.extend([f"另有 {deferred} 条待筛选，保留在采集记录中。", ""])

@@ -1,0 +1,109 @@
+{
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "entries"
+  ],
+  "properties": {
+    "entries": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "additionalProperties": false,
+        "required": [
+          "key",
+          "title_zh",
+          "summary_zh",
+          "recommend_reason_zh",
+          "pragmatic_score",
+          "pragmatic_review",
+          "cynic_score",
+          "cynic_review",
+          "paper_score",
+          "paper_review",
+          "project_insight"
+        ],
+        "properties": {
+          "key": {
+            "type": "string"
+          },
+          "title_zh": {
+            "type": "string"
+          },
+          "summary_zh": {
+            "type": "string"
+          },
+          "recommend_reason_zh": {
+            "type": "string"
+          },
+          "pragmatic_score": {
+            "type": "integer"
+          },
+          "pragmatic_review": {
+            "type": "string"
+          },
+          "cynic_score": {
+            "type": "integer"
+          },
+          "cynic_review": {
+            "type": "string"
+          },
+          "paper_score": {
+            "type": "integer"
+          },
+          "paper_review": {
+            "type": "string"
+          },
+          "project_insight": {
+            "type": "object",
+            "additionalProperties": false,
+            "required": [
+              "translation_zh",
+              "one_liner_zh",
+              "use_cases_zh",
+              "getting_started_zh",
+              "limitations_zh",
+              "recommendation_score",
+              "recommendation_tier"
+            ],
+            "properties": {
+              "translation_zh": {
+                "type": "string"
+              },
+              "one_liner_zh": {
+                "type": "string"
+              },
+              "use_cases_zh": {
+                "type": "array",
+                "items": {
+                  "type": "string"
+                },
+                "minItems": 1,
+                "maxItems": 3
+              },
+              "getting_started_zh": {
+                "type": "string"
+              },
+              "limitations_zh": {
+                "type": "string"
+              },
+              "recommendation_score": {
+                "type": "integer",
+                "minimum": 0,
+                "maximum": 100
+              },
+              "recommendation_tier": {
+                "type": "string",
+                "enum": [
+                  "try",
+                  "read",
+                  "watch"
+                ]
+              }
+            }
+          }
+        }
+      }
+    }
+  }
+}

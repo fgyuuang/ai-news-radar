@@ -40,7 +40,20 @@
     if (board.metric === 'downloads') return `${value} ${PERIODS[board.period][0]}下载`;
     return `${entry.value >= 0 ? '+' : ''}${value} ${board.metric === 'likes' ? '点赞' : 'Star'} / ${PERIODS[board.period][0]}`;
   }
-  if (typeof module !== 'undefined' && module.exports) module.exports = { periodRows, balanced, metricText };
+  function recommend(rows, getReview, max = 3) {
+    const pool = rows.map(row => ({ ...row, review: getReview(row.project) })).filter(row =>
+      row.review?.model === 'gpt-6-luna' && row.review.project_insight && !row.project.stale && !row.board.stale);
+    pool.sort((a, b) => b.review.project_insight.recommendation_score - a.review.project_insight.recommendation_score
+      || String(b.review.generated_at).localeCompare(String(a.review.generated_at)) || a.project.url.localeCompare(b.project.url));
+    const chosen = [];
+    for (const category of [null, ['math', 'research'], ['skills', 'agents', 'plugins']]) {
+      const row = pool.find(row => !chosen.some(p => p.project.url === row.project.url) && (!category || row.project.topics?.some(t => category.includes(t))));
+      if (row && chosen.length < max) chosen.push(row);
+    }
+    for (const row of pool) if (chosen.length < max && !chosen.some(p => p.project.url === row.project.url)) chosen.push(row);
+    return { chosen, remaining: pool.filter(row => !chosen.some(p => p.project.url === row.project.url)), total: pool.length };
+  }
+  if (typeof module !== 'undefined' && module.exports) module.exports = { periodRows, balanced, metricText, recommend };
   if (typeof document === 'undefined') return;
   const main = document.querySelector('main.shell'); if (!main) return;
   const DEFAULT = { period: 'daily', topic: '', platform: '', query: '', mode: 'selected' };
@@ -78,6 +91,12 @@
   for (const [id, name] of Object.entries(PERIODS)) { const b = button(name, () => update('period', id)); periodButtons.set(id, b); periods.append(b); }
   controls.append(modes, query, periods);
   const status = el('p', '正在加载开源项目…', 'project-data-status'); status.setAttribute('role', 'status');
+  const recommendations = el('section', undefined, 'list-wrap project-recommendations'); recommendations.setAttribute('aria-label', '为你推荐的最佳项目');
+  const recHead = el('div', undefined, 'list-head'), recTitle = el('h2', '为你推荐'), recStatus = el('span', '中文解读与使用建议', 'project-muted'); recHead.append(recTitle, recStatus);
+  const recIntro = el('p', '优先看与你的 AI、数学科研、Skills 和 Agent 工作流相关的项目。', 'project-rec-intro');
+  const recList = el('div', undefined, 'project-recommendation-grid');
+  const recMore = el('details', undefined, 'project-rec-more'); recMore.append(el('summary', '更多值得关注的项目')); const recMoreList = el('div'); recMore.append(recMoreList);
+  recommendations.append(recHead, recIntro, recList, recMore);
   const advanced = el('details', undefined, 'advanced-panel project-advanced');
   const advancedTitle = el('summary'); advancedTitle.append(el('span', '高级筛选'), el('span', '选择社区平台 · 查看来源和统计口径', 'advanced-hint')); advanced.append(advancedTitle);
   const advancedBody = el('div', undefined, 'advanced-content');
@@ -96,7 +115,7 @@
   const feedHead = el('div', undefined, 'list-head'), feedTitle = el('h2', '精选项目'), count = el('span', '', 'project-muted'); count.setAttribute('aria-live', 'polite'); feedHead.append(feedTitle, count);
   const hint = el('p', '', 'project-reading-hint'), list = el('div', undefined, 'project-timeline');
   const more = button('加载更多项目', () => { visible += 20; render(); }, 'list-more-btn'); feed.append(feedHead, hint, list, more);
-  reader.append(nav, controls, status, advanced, focus, feed); main.querySelector('.personal-channels')?.after(reader);
+  reader.append(nav, controls, status, recommendations, advanced, focus, feed); main.querySelector('.personal-channels')?.after(reader);
   function channel() {
     reader.hidden = document.body.dataset.informationChannel !== 'project';
     const skip = document.querySelector('.skip-link'); if (!skip) return;
@@ -123,6 +142,12 @@
     const tags = el('div', undefined, 'project-topic-tags'); for (const topic of p.topics || []) if (TOPICS[topic]) tags.append(el('span', TOPICS[topic], 'signal-tag'));
     body.append(meta, heading, summary, tags);
     if (r) body.append(el('p', `推荐理由：${r.recommend_reason_zh}`, 'project-recommend'));
+    if (r?.project_insight && r.model === 'gpt-6-luna') {
+      card.classList.add('has-insight');
+      body.append(el('p', `适合：${r.project_insight.use_cases_zh.join('；')}`, 'project-recommend'));
+      body.append(el('p', `上手：${r.project_insight.getting_started_zh}`, 'project-recommend'));
+      const translated = el('details', undefined, 'project-evidence'); translated.append(el('summary', '查看来源中文译文'), el('p', r.project_insight.translation_zh)); body.append(translated);
+    }
     const footer = el('div', undefined, 'project-card-footer'); footer.append(el('span', `观察于 ${date(p.observed_at)}`, 'project-muted'));
     const original = link(p.url, '查看项目 ↗', 'original-link'); if (original) footer.append(original); body.append(footer);
     const details = el('details', undefined, 'project-evidence'); details.append(el('summary', '指标详情与许可'));
@@ -142,18 +167,60 @@
     const words = prefs.query.trim().toLowerCase().split(/\s+/).filter(Boolean);
     const pool = periodRows(data, prefs.period, prefs.mode === 'all').filter(row => (!prefs.platform || row.project.platform === prefs.platform) && words.every(word => searchable(row).includes(word)));
     for (const [id, b] of topicButtons) { b.classList.toggle('active', prefs.topic === id); b.setAttribute('aria-pressed', String(prefs.topic === id)); b.querySelector('strong').textContent = String(pool.filter(row => !id || row.project.topics?.includes(id)).length); }
-    const matching = pool.filter(row => !prefs.topic || row.project.topics?.includes(prefs.topic)), ordered = balanced(matching);
+    const matching = pool.filter(row => !prefs.topic || row.project.topics?.includes(prefs.topic));
+    const recPool = periodRows(data, prefs.period, true).filter(row => (!prefs.platform || row.project.platform === prefs.platform)
+      && (!prefs.topic || row.project.topics?.includes(prefs.topic)) && words.every(word => searchable(row).includes(word)));
+    const picks = recommend(recPool, review); renderRecommendations(picks);
+    const interpreted = matching.filter(row => review(row.project)?.project_insight && review(row.project)?.model === 'gpt-6-luna')
+      .sort((a, b) => review(b.project).project_insight.recommendation_score - review(a.project).project_insight.recommendation_score);
+    const interpretedUrls = new Set(interpreted.map(row => row.project.url));
+    const ordered = [...interpreted, ...balanced(matching.filter(row => !interpretedUrls.has(row.project.url)))];
     const rows = prefs.mode === 'selected' ? ordered.slice(0, 30) : ordered;
     list.replaceChildren(); focusList.replaceChildren();
     for (const row of balanced(matching.filter(row => row.rank && !row.board.stale && !row.project.stale), 5)) {
       const item = el('div', undefined, 'hot-row project-hot-row'), a = link(row.project.url, title(row.project), 'hot-row-title'); if (!a) continue;
       item.append(el('span', `#${row.rank}`, 'hot-row-rank'), a, el('span', `${NAMES[row.project.platform]} · ${metricText(row)}`, 'hot-row-meta')); focusList.append(item);
     }
-    focus.hidden = !focusList.childElementCount; feedTitle.textContent = prefs.mode === 'selected' ? '精选项目' : '全部项目'; count.textContent = `${rows.length} 个项目 · ${PERIODS[prefs.period]}`;
+    focus.hidden = picks.total > 0 || !focusList.childElementCount; feedTitle.textContent = prefs.mode === 'selected' ? '精选项目与中文解读' : '全部项目'; count.textContent = `${rows.length} 个项目 · ${PERIODS[prefs.period]}`;
     hint.textContent = `${prefs.mode === 'selected' ? '平台内按热度排序，跨平台交替展示' : '每个项目仅展示一次，包含榜单与社区发现'}${rows.some(row => row.board.basis === 'current_snapshot') ? ' · 含当前快照' : ''}`;
     for (const row of rows.slice(0, visible)) { const card = rowCard(row); if (card) list.append(card); }
     more.hidden = visible >= rows.length; clear.hidden = !prefs.query && !prefs.topic && !prefs.platform;
     if (!rows.length) { const empty = el('div', undefined, 'project-empty'); empty.append(el('h3', '没有符合条件的项目'), el('p', '试试其他关键词、领域或社区平台。'), button('清除筛选', () => clear.click(), 'clear-filters-btn')); list.append(empty); }
+  }
+  function renderRecommendations(picks) {
+    recList.replaceChildren(); recMoreList.replaceChildren(); recMore.hidden = !picks.remaining.length;
+    if (!picks.chosen.length) {
+      recTitle.textContent = '为你推荐'; recStatus.textContent = '等待本轮中文解读';
+      recIntro.textContent = '优先筛选 AI、数学科研、Skills、Agent 与插件，完成解读后在这里展示。';
+      recList.append(el('p', '当前筛选范围内还没有已完成的 Luna 推荐。可查看下方热榜，或调整筛选条件。', 'project-rec-empty')); return;
+    }
+    const latest = picks.chosen.map(row => row.review.generated_at).sort().at(-1);
+    const today = new Date().toLocaleDateString('en-CA', { timeZone: 'Asia/Shanghai' });
+    recTitle.textContent = new Date(latest).toLocaleDateString('en-CA', { timeZone: 'Asia/Shanghai' }) === today ? '今日推荐' : '最近推荐';
+    recStatus.textContent = `GPT-6 Luna · ${date(latest)}`;
+    recIntro.textContent = `从 ${picks.total} 个已解读项目中优先选出 ${picks.chosen.length} 个，兼顾使用价值、数学科研和 Agent 工具。推荐分为模型判断，不等于热度。`;
+    const tiers = { try: '值得试用', read: '值得研读', watch: '先观察' };
+    picks.chosen.forEach((row, index) => {
+      const p = row.project, r = row.review, insight = r.project_insight;
+      const card = el('article', undefined, `project-recommendation${index === 0 ? ' lead' : ''}`);
+      const top = el('div', undefined, 'project-rec-top'); top.append(el('span', index === 0 ? '首选推荐' : p.topics?.includes('math') ? '数学与科研' : '同样值得看', 'project-rec-category'), el('span', tiers[insight.recommendation_tier], 'project-rec-tier'));
+      const heading = el('h3'); const a = link(p.url, r.title_zh); if (a) heading.append(a);
+      card.append(top, heading, el('p', p.project_name, 'project-rec-original'), el('p', insight.one_liner_zh, 'project-rec-one-liner'), el('p', r.summary_zh, 'project-rec-summary'));
+      for (const [label, value] of [['为什么推荐', r.recommend_reason_zh], ['适合你做', insight.use_cases_zh.join('；')], ['如何开始', insight.getting_started_zh]]) {
+        const block = el('div', undefined, 'project-rec-section'); block.append(el('h4', label), el('p', value)); card.append(block);
+      }
+      const caveat = el('div', undefined, 'project-rec-caveat'); caveat.append(el('strong', '先了解限制'), el('p', insight.limitations_zh)); card.append(caveat);
+      const footer = el('div', undefined, 'project-card-footer'); footer.append(el('span', `推荐 ${insight.recommendation_score}/100 · ${NAMES[p.platform]}`, 'project-muted'));
+      const original = link(p.url, '查看原项目 ↗'); if (original) footer.append(original); card.append(footer);
+      const sources = el('details', undefined, 'project-evidence'); sources.append(el('summary', '中文译文与解读依据'), el('p', insight.translation_zh));
+      const contextLabel = r.context_kind === 'repository_readme' ? '项目 README' : r.context_kind === 'article_text' ? '原站正文' : '来源摘录';
+      sources.append(el('p', `基于${contextLabel}；未声称实际安装或复现。`));
+      const evidence = link(r.context_url || p.url, '查看解读依据 ↗'); if (evidence) sources.append(evidence); card.append(sources); recList.append(card);
+    });
+    for (const row of picks.remaining.slice(0, 9)) {
+      const item = el('article', undefined, 'project-rec-alternative'); const a = link(row.project.url, row.review.title_zh); if (a) item.append(a);
+      item.append(el('span', `${row.review.project_insight.recommendation_score}/100 · ${NAMES[row.project.platform]}`, 'project-muted'), el('p', row.review.project_insight.one_liner_zh)); recMoreList.append(item);
+    }
   }
   function renderHealth() {
     healthBody.replaceChildren(); healthBody.append(el('p', 'Star、点赞、趋势分和下载量分别解读。当前快照不代表区间增长；实际区间可在项目详情中查看。'));
