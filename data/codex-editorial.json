@@ -2,7 +2,7 @@
   "schema_version": 1,
   "provider": "codex-cli",
   "model": "gpt-6-luna",
-  "generated_at": "2026-10-19T04:16:41.517114+00:00",
+  "generated_at": "2026-10-20T02:17:39.600033+00:00",
   "selected_keys": [
     "c12aeedc22b0f782022ae8f1",
     "4b9aeab7a14255104f52f5f4",
@@ -13,14 +13,14 @@
     "13ac1b0b02d2ba13cc366b10",
     "bcbc5cc72e0fa3336dbaff2d",
     "039bb97a0ea5409e39f3d8c1",
-    "f9156cbd4c90c883e7efbcad",
-    "8193a1e6d5f60fd1d39debad",
+    "4cf60417bc460433b858cefb",
+    "43135e0db06f1236a757f935",
     "61d62f5c54231fc24357fa7d",
+    "17c071553563dc5efc5bac4c",
     "fb7db0b53f2afa5ef664c74d",
     "4fc9b8b54bffd3f4508a34c9",
-    "757c8b9810ad5e3049fa5c5e",
-    "6a943907dfb75539b94e4232",
-    "43135e0db06f1236a757f935",
+    "4546ac18c8681f6d274810d6",
+    "f9156cbd4c90c883e7efbcad",
     "07e4419a3657fba3702b2a25"
   ],
   "entries": [
@@ -312,6 +312,50 @@
       "provider": "codex-cli",
       "model": "gpt-6-luna",
       "generated_at": "2026-10-18T07:57:25.525249+00:00"
+    },
+    {
+      "url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap",
+      "domain": "project",
+      "source": "Hugging Face Spaces",
+      "source_title": "hugging-apps/bfs-best-face-swap",
+      "source_excerpt": "Head swap with the BFS LoRA on Qwen-Image-2.1 (+turbo)",
+      "published_at": null,
+      "observed_at": "2026-10-19T16:33:47.563710Z",
+      "recency_basis": null,
+      "platform": "hf_spaces",
+      "topics": [
+        "ai",
+        "plugins"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "17c071553563dc5efc5bac4c",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/spaces/hugging-apps/bfs-best-face-swap/raw/main/README.md",
+      "title_zh": "BFS Best Face Swap：基于 Qwen-Image-2.1 的换头演示",
+      "summary_zh": "这是一个基于 Gradio 的人脸替换演示，使用 BFS LoRA `bfs_head_v1_qwen_2.1` 与 Qwen-Image-2.1，并可选择 Viggle turbo 的 6 步模式。说明提到示例输入裁自 BFS 模型仓库的示例图片，并明确提醒不要使用或分享未经当事人同意的人像结果。",
+      "recommend_reason_zh": "对想快速了解图像生成模型如何结合 LoRA 实现人脸替换的人有演示参考价值；说明同时列出底层模型的非商业许可与肖像同意提醒，适合用来评估实验边界。",
+      "pragmatic_score": 37,
+      "pragmatic_review": "个人用户可将其作为受控演示来观察换脸工作流，但摘录没有说明在线空间的资源配额、可用性或本地部署步骤。",
+      "cynic_score": 79,
+      "cynic_review": "示例图和演示本身不能证明对不同输入的效果稳定，且 Qwen-Image-2.1 与 Viggle turbo LoRA 标注为非商业研究许可，使用场景受限。",
+      "paper_score": 28,
+      "paper_review": "材料只给出模型与演示说明，没有论文、评测数据或可复现对照实验，无法据此验证效果质量或泛化能力。",
+      "project_insight": {
+        "translation_zh": "这是一个使用 BFS LoRA 在 Qwen-Image-2.1 上进行头部或人脸替换的演示，并可选择 Viggle turbo 的 6 步模式。示例输入取自 BFS 模型仓库中的示例图片；Qwen-Image-2.1 和 Viggle turbo LoRA 采用 Qwen Research License（非商业）。未经同意，不要使用或分享涉及他人的生成结果。",
+        "one_liner_zh": "通过 Gradio 演示将 BFS 人脸替换 LoRA 应用于 Qwen-Image-2.1，并提供可选的 Viggle turbo 生成模式。",
+        "getting_started_zh": "先阅读空间说明和关联模型仓库的许可条款；如果进行演示，只使用本人或已明确同意的肖像，并确认生成结果的分享和用途符合各模型许可。",
+        "limitations_zh": "摘录未提供独立测试、在线空间可用性说明或本地部署指引。Qwen-Image-2.1 和 Viggle turbo LoRA 标注为非商业研究许可；说明要求未经同意不得使用或分享涉及他人的结果。",
+        "use_cases_zh": [
+          "在获得肖像当事人同意的前提下，观察 LoRA 人脸替换演示流程。",
+          "为个人图像生成研究记录一个采用 Qwen-Image-2.1 与 BFS LoRA 的示例组合。"
+        ],
+        "recommendation_score": 35,
+        "recommendation_tier": "watch"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-20T02:17:39.600033+00:00"
     },
     {
       "url": "https://terrytao.wordpress.com/2026/10/15/why-are-we-even-doing-all-this",
@@ -674,6 +718,51 @@
       "generated_at": "2026-10-18T07:54:47.367255+00:00"
     },
     {
+      "url": "https://huggingface.co/fishaudio/drama-3",
+      "domain": "project",
+      "source": "Hugging Face Models",
+      "source_title": "fishaudio/drama-3",
+      "source_excerpt": "safetensors · fish_omni · fish-audio · text-to-speech · multi-speaker · audio-editing · emotional-speech-generation · zh · en · ja · ko · es · pt · ar · ru · fr",
+      "published_at": null,
+      "observed_at": "2026-10-19T16:33:47.563710Z",
+      "recency_basis": null,
+      "platform": "hf_models",
+      "topics": [
+        "ai",
+        "research"
+      ],
+      "license": "other",
+      "gated": false,
+      "key": "4546ac18c8681f6d274810d6",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/fishaudio/drama-3/raw/main/README.md",
+      "title_zh": "Fish Audio Drama 3：多角色长文本语音模型",
+      "summary_zh": "Fish Audio 将 Drama 3 描述为面向多角色场景和长内容的新一代文本转语音模型，支持多说话人生成、声音克隆、自然语言控制、分块流式输出和最长 16 个角色标签。模型卡列出在 H200 上的流式性能数据，并提供 SGLang-Omni 与 vLLM-Omni 部署示例；这些性能数字是作者报告的测试结果。",
+      "recommend_reason_zh": "对研究中文及多语种语音生成、角色对话合成或语音编辑的人，模型卡提供了架构线索、部署入口和测试条件，便于判断是否值得进一步阅读技术报告或评估部署需求。",
+      "pragmatic_score": 61,
+      "pragmatic_review": "模型卡给出了 SGLang-Omni 和 vLLM-Omni 的部署方向及流式调用示例，但 35B 参数规模和 H200 测试条件使其对普通个人设备的实用性不明。",
+      "cynic_score": 62,
+      "cynic_review": "材料报告了较低首音延迟和高并发吞吐，但测试使用特定 H200 配置、英语提示及给定采样参数，不能直接外推到中文或个人硬件。",
+      "paper_score": 60,
+      "paper_review": "模型卡链接了技术报告并公开了部分性能测试条件和表格，但摘录没有论文正文、代码审查或独立复现证据，许可全文条款也未展示。",
+      "project_insight": {
+        "translation_zh": "Fish Audio Drama 3 是面向多角色场景和长篇内容的新一代文本转语音模型，支持多说话人生成、声音克隆和自然语言控制。模型采用 35B 参数、每个 token 激活 3B 参数的 MoE 文本骨干网络，结合完整注意力与线性注意力；音频解码器使用 Codebook-MTP。它支持最多 16 个说话人标签、自动长文本分块和逐块流式输出。",
+        "one_liner_zh": "一个面向多角色与长文本的语音生成模型，可按说话人标签合成语音，并支持流式输出与基于前序结果的编辑。",
+        "getting_started_zh": "先阅读模型卡链接的技术报告和许可文件，再查看 SGLang-Omni 或 vLLM-Omni 的对应部署配方；结合模型规模、硬件要求和参考音频使用条件，评估是否适合自己的环境。",
+        "limitations_zh": "这是模型权重项目，不应视为开源软件。模型卡标注 Fish Audio Community License，但摘录未展示具体条款；性能数字来自 NVIDIA H200 上的特定测试配置，不能视为个人硬件或所有语言上的保证。声音克隆示例使用参考音频，实际使用应确认拥有相应声音和音频的授权。",
+        "use_cases_zh": [
+          "为多角色音频剧或长篇对话原型生成不同角色的语音。",
+          "评估中文及多语种文本转语音、情绪语音生成和声音克隆工作流。",
+          "研究流式语音服务的吞吐与首音延迟，并比较不同 vocoder 部署位置。"
+        ],
+        "recommendation_score": 64,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-20T02:17:39.600033+00:00"
+    },
+    {
       "url": "https://techcrunch.com/2026/10/18/disney-agrees-to-hire-the-majority-of-character-ais-workforce",
       "domain": "ai",
       "source": "TechCrunch AI",
@@ -762,6 +851,49 @@
       "provider": "codex-cli",
       "model": "gpt-6-luna",
       "generated_at": "2026-10-19T04:15:22.226198+00:00"
+    },
+    {
+      "url": "https://github.com/stablyai/orca",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "stablyai/orca",
+      "source_excerpt": "Orca is the place for working with a fleet of agents (e.g. Grok Bot, Claude Code). Run any coding agent with your own subscription. Available on desktop, mobile and remote runtime.",
+      "published_at": null,
+      "observed_at": "2026-10-19T16:33:47.563710Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "agents"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "4cf60417bc460433b858cefb",
+      "context_kind": "article_text",
+      "title_zh": "Orca：并行编排编程智能体的工作台",
+      "summary_zh": "Orca 将 Codex、Claude Code、OpenCode、Pi 等终端编程智能体集中在桌面工作区中，并提供独立 Git worktree、终端分屏、移动端监控、远程 SSH worktree 和差异审阅等功能。项目介绍还列出 CLI 自动化、GitHub 与 Linear 集成及可视化设计模式；这些能力和“适用于任意 CLI 智能体”等说法来自仓库自述。",
+      "recommend_reason_zh": "适合同时使用多个编程智能体、需要比较并行实现或在手机上跟进长任务的个人开发者；独立 worktree 和差异批注也为审阅 AI 生成的代码提供了具体工作流。",
+      "pragmatic_score": 87,
+      "pragmatic_review": "功能覆盖从并行执行到结果审阅的开发流程，个人用户可先挑一个日常仓库验证 worktree、终端和所用智能体的兼容性。",
+      "cynic_score": 65,
+      "cynic_review": "仓库自述功能丰富且更新频繁，但“任意 CLI 智能体可用”等兼容性承诺、隐私遥测细节和移动端配对体验在摘录中没有独立证据。",
+      "paper_score": 57,
+      "paper_review": "材料包含仓库结构、MIT 许可和文档入口，但没有论文、基准测试或独立复现结果，不能据此判断运行稳定性和各平台功能完整度。",
+      "project_insight": {
+        "translation_zh": "Orca 是一个管理多智能体编程工作流的工作区：可以在各自独立的 worktree 中并行运行 Codex、Claude Code、OpenCode 或 Pi，并集中跟踪任务。它提供桌面端、移动端和远程运行环境。",
+        "one_liner_zh": "在一个工作区中并行运行和审阅多个编程智能体，并通过独立 Git worktree 隔离各自的改动。",
+        "getting_started_zh": "先从项目文档了解桌面端安装、worktree 和所用智能体的接入方式；选一个非关键仓库并确认当前 Git 状态后，尝试创建独立 worktree，检查智能体产生的差异再决定是否合并。",
+        "limitations_zh": "仓库标注 MIT 许可；摘录提及匿名使用数据和退出方式的隐私文档，但没有给出遥测项目或默认设置细节。项目支持的平台和可用功能较多，摘录未提供逐平台测试结果；使用相应编程智能体仍需自己的订阅或凭据。",
+        "use_cases_zh": [
+          "让多个编程智能体分别实现同一功能，再比较差异并挑选方案。",
+          "在手机上查看长时间代码任务的进展，并向运行中的智能体发送后续指令。",
+          "通过 SSH worktree 在远程算力机器上运行智能体，再在本地审阅代码差异。"
+        ],
+        "recommendation_score": 84,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-20T02:17:39.600033+00:00"
     },
     {
       "url": "https://www.producthunt.com/products/bee-frontier-and-bee-eclipse",
