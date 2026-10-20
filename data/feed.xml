@@ -5,15 +5,55 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Mon, 19 Oct 2026 16:31:44 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 04:31:40 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication</title>
-<link>https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</guid>
+<title>Copilot model policy API for enterprise, orgs, and teams</title>
+<link>https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 21:32:18 +0000</pubDate>
+</item>
+<item>
+<title>How to continue a GitHub Copilot app session in VS Code</title>
+<link>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</link>
+<guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</guid>
+<description>GitHub AI &amp; ML</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 18:47:22 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 发布 GPT-6 系列模型，提升 COBOL 等低资源编程语言编码能力 / Advancing coding in low‑resource programming languages</title>
+<link>https://openai.com/index/low-resource-programming-languages</link>
+<guid isPermaLink="true">https://openai.com/index/low-resource-programming-languages</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot models deprecated on October 19, 2026</title>
+<link>https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 21:27:10 +0000</pubDate>
+</item>
+<item>
+<title>Redact 调查：WhatsApp 帮助页面隐藏 LLM 指令，让 AI 不推荐监管机构、不提 GDPR / WhatsApp's help pages hid LLM instructions: dont recommend a regulator</title>
+<link>https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</link>
+<guid isPermaLink="true">https://redact.dev/blog/whatsapp-help-pages-hidden-ai-instructions</guid>
+<description>Redact 发现 WhatsApp 帮助中心页面向 LLM 发送用户看不到的隐藏指令，指示其支持聊天机器人不推荐数据保护监管机构，并在用户提到律师或法律行动后不引用 GDPR、LGPD 或 CCPA。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 04:21:32 +0000</pubDate>
+</item>
+<item>
+<title>FBI 称前 OpenAI 工程师涉嫌窃密，手机中发现 Saudi Gov Docs 文件夹 / Accused OpenAI spy had folder called “Saudi Gov Docs,” FBI says</title>
+<link>https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/accused-openai-spy-had-folder-called-saudi-gov-docs-fbi-says</guid>
+<description>美国法院批准羁押被指控在 OpenAI 会议室安装窃听器的前工程师 Abdulrahman Alfozan。检方称其 iPhone 上有名为 Saudi Gov Docs 的文件夹，与沙特王室成员有 WhatsApp 联系，并曾用 OpenAI 生产力 Agent 搜索适合安放窃听器的会议室；他被捕前已预订沙特政府付费的单程机票，妻子和儿子已离美。（Ars Technica：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 20:21:53 +0000</pubDate>
 </item>
 <item>
 <title>黑客用 AI 智能体入侵 John Deere、SharkNinja 等超 100 家网站 / A hacker broke into John Deere and SharkNinja with an army of AI agents</title>
@@ -24,20 +64,60 @@
 <pubDate>Mon, 19 Oct 2026 14:23:17 +0000</pubDate>
 </item>
 <item>
-<title>macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
-<link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
+<title>AI 把"克隆游戏"门槛砍平，独立开发者开始藏起 Demo 怕被抢跑</title>
+<link>https://www.aibase.com/news/31743</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31743</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 04:31:40 +0000</pubDate>
 </item>
 <item>
-<title>Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits</title>
-<link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</link>
-<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</guid>
-<description>若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。（Ars Technica：AI（RSS））</description>
+<title>Apate.ai 用35万个AI反诈拖住骗子，国内年轻人用AI视频反制AI卖惨账号</title>
+<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20</link>
+<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687365&amp;idx=1&amp;sn=4102098fb8725531aa2f783fa2f20f20</guid>
+<description>作者讲述了两起用AI反制诈骗的案例。澳大利亚公司 Apate.ai 用35万个AI伪装成容易上当的受害者，已与骗子聊天250万次，累计耗掉骗子约17年时间，澳大利亚运营商 TPG 将近59万通可疑来电转给这些AI，澳洲联邦银行公开报告的诈骗损失降低76%，公司今年8月拿到815万美元种子轮融资。（公众号：数字生命卡兹克）</description>
 <category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 00:26:00 +0000</pubDate>
+</item>
+<item>
+<title>Inception Labs 发布扩散大语言模型 Mercury 3，速度达 1068 tokens/秒 / Diffusion at Scale: Introducing Mercury 3</title>
+<link>https://www.inceptionlabs.ai/blog/introducing-mercury-3</link>
+<guid isPermaLink="true">https://www.inceptionlabs.ai/blog/introducing-mercury-3</guid>
+<description>Inception Labs 发布扩散式大语言模型 Mercury 3，称其在多项基准上超过 GPT-6 Luna 和 Claude Haiku 5.5，速度达 1068 tokens/秒，参数量较 Mercury 1 扩大 40 倍以上。（Inception Labs：Blog（网页））</description>
+<category>多源热议</category>
+<pubDate>Mon, 19 Oct 2026 18:45:08 +0000</pubDate>
+</item>
+<item>
+<title>DeepSeek-V4.1-Flash-20261017 (Max) 登顶 Agent Arena 开源模型第一 / Big news: DeepSeek-V4.1-Flash-20261017 (Max) by @deepseek_ai is now the #1 open model in Agent Arena! It just landed at #11 overall with ...</title>
+<link>https://x.com/arena/status/2112247114944360666</link>
+<guid isPermaLink="true">https://x.com/arena/status/2112247114944360666</guid>
+<description>Arena 宣布 DeepSeek-V4.1-Flash-20261017 (Max) 成为 Agent Arena 第一开源模型，总排名第 11，基于超 7.5K 真实会话净提升 +5.1%。其中位任务成本 $0.20，约为 GPT-6.1 Sol 提升幅度的 37%、成本的 27%；Confirmed Success 提升 +11.5%，且无 Tool Hallucination 问题。（X：Arena (@arena)）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 18:18:50 +0000</pubDate>
+</item>
+<item>
+<title>美国国土安全部下令所有联邦文职机构移除 DeepSeek 及基于其开发的产品 / The US orders every civilian agency to rip out DeepSeek, even tools built on it</title>
+<link>https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</link>
+<guid isPermaLink="true">https://madrobot.blog/2026/10/19/us-bans-deepseek-federal-agencies-dhs-order-remove-third-party</guid>
+<description>美国国土安全部依据 2018 年供应链法发布 2026-01 号命令，要求所有联邦文职机构立即停止采购 DeepSeek 及其关联公司产品，并从 IT 系统中移除相关产品，包括使用 DeepSeek 实现开发的第三方产品与服务。（Hacker News：AI 热帖）</description>
+<category>行业动态</category>
+<pubDate>Mon, 19 Oct 2026 15:05:00 +0000</pubDate>
+</item>
+<item>
+<title>某些基于 HTTPS 的 Git 可能暂时需要身份验证 / Some Git over HTTPS may temporarily require authentication</title>
+<link>https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-some-git-over-https-may-temporarily-require-authentication</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 10:37:30 +0000</pubDate>
+</item>
+<item>
+<title>AI助手初创公司Town完成1.08亿美元B轮融资，估值突破10亿美元</title>
+<link>https://www.aibase.com/news/31739</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31739</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 04:31:40 +0000</pubDate>
 </item>
 <item>
 <title>Meta 详解 Thin Orchestrator 模式：让路由少干活提升 AI 智能体可靠性 / The Thin Orchestrator: How We Made Our AI Agents More Reliable by Giving the Router Less to Do</title>
@@ -48,124 +128,44 @@
 <pubDate>Mon, 19 Oct 2026 15:30:37 +0000</pubDate>
 </item>
 <item>
-<title>AI 正在偷改人类记忆：看一眼假图，就"记得"从未发生的事</title>
-<link>https://www.aibase.com/news/31721</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31721</guid>
-<description>AIbase</description>
+<title>Inception 扩散模型 Mercury 3 上线 OpenRouter / Mercury 3 is live on OpenRouter!</title>
+<link>https://x.com/OpenRouter/status/2112225779782398131</link>
+<guid isPermaLink="true">https://x.com/OpenRouter/status/2112225779782398131</guid>
+<description>Inception 的扩散模型 Mercury 3 上线 OpenRouter，生成速度超 1,000 tok/s，支持 1M 上下文，是 Mercury 2.5 的 4 倍。Inception 报告其在 IFBench、GPQA Diamond 和 SWE-Bench Atlas 上超过 GPT-6 Luna 和 Haiku 5.5；上线期五折，价格 $0.10/M 输入、$0.35/M 输出。（X：OpenRouter (@OpenRouter)）</description>
 <category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 12:38:06 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 16:54:03 +0000</pubDate>
 </item>
 <item>
-<title>蚂蚁 inclusionAI 开源 Ming-3.0-tts 语音合成模型 / inclusionAI/Ming-3.0-tts</title>
-<link>https://github.com/inclusionAI/Ming-3.0-tts</link>
-<guid isPermaLink="true">https://github.com/inclusionAI/Ming-3.0-tts</guid>
-<description>蚂蚁 inclusionAI 在 GitHub 发布 Ming-3.0-tts，包含 0.5b dense 和基于 Ling V3 的 tiny（7.9B 总参数、1.3B 激活）两个语音生成模型，MIT 协议开源，权重可在 Hugging Face 和 ModelScope 下载。（蚂蚁 inclusionAI：GitHub 新仓库）</description>
+<title>fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.</title>
+<link>https://x.com/fal/status/2112251022047412492</link>
+<guid isPermaLink="true">https://x.com/fal/status/2112251022047412492</guid>
+<description>fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。（X：fal (@fal)）</description>
 <category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 07:03:25 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 18:34:22 +0000</pubDate>
 </item>
 <item>
-<title>n8n 教程：在 NVIDIA DGX Spark 上离线运行全套 AI 工作流 / Run your n8n AI workflows on NVIDIA DGX Spark, with no cloud API</title>
-<link>https://blog.n8n.io/n8n-nvidia-dgx-spark</link>
-<guid isPermaLink="true">https://blog.n8n.io/n8n-nvidia-dgx-spark</guid>
-<description>n8n 博客发布教程，讲解如何在一台 NVIDIA DGX Spark（128GB 统一内存）上部署七个本地模型，通过 LiteLLM 单一 OpenAI 兼容端点驱动 n8n 工作流，全程不调用云 API。（n8n Blog）</description>
+<title>DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二 / DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</title>
+<link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
+<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2112218661432000694</guid>
+<description>DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。（X：Artificial Analysis (@ArtificialAnlys)）</description>
 <category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 13:22:17 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
 </item>
 <item>
-<title>Numan 如何用 LangGraph 和 LangSmith 构建评测优先的 AI 健康教练 Nu / How Numan Built an Eval-First AI Health Coach with LangGraph and LangSmith</title>
-<link>https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</link>
-<guid isPermaLink="true">https://www.langchain.com/blog/how-numan-built-an-eval-first-ai-health-coach-with-langgraph-and-langsmith</guid>
-<description>英国数字健康公司 Numan 复盘其 AI 健康教练 Nu 的评测体系建设，核心结论是稀缺资产不是提示词而是评测标准。单轮静态数据集和脚本化多轮对话都难以覆盖真实会话，Nu 改为按类别打分的主题数据集、以更廉价模型扮演患者的模拟对话层，并让安全回归自动阻断发布。（LangChain：Blog（RSS））</description>
+<title>Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits</title>
+<link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</link>
+<guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</guid>
+<description>若破产方案获法院批准，Disney 将获得 Character.AI 的员工和大部分技术栈，同时避开导致其破产的诉讼和 46 个州与地区的联合调查。破产文件显示 40 个州指控 Character.AI 聊天机器人曾鼓励未成年人隐瞒自残伤痕甚至杀害父母，公司发言人称该描述不准确；相关州已保留挑战破产方案的权利。（Ars Technica：AI（RSS））</description>
 <category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 15:00:00 +0000</pubDate>
+<pubDate>Mon, 19 Oct 2026 14:45:43 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI发布ChatGPT扩展程序重大升级，支持跨标签页上下文读取与自动化操作</title>
-<link>https://www.aibase.com/news/31728</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31728</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 12:38:06 +0000</pubDate>
-</item>
-<item>
-<title>AWS 发布 TorchNeuron：Trainium 的原生 PyTorch 后端 / Introducing TorchNeuron: Native PyTorch backend for AWS Trainium</title>
-<link>https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</link>
-<guid isPermaLink="true">https://pytorch.org/blog/introducing-torchneuron-native-pytorch-backend-for-aws-trainium</guid>
-<description>AWS 宣布 TorchNeuron，一个面向 Trainium 的开源原生 PyTorch 后端，10 月 20 日起以 Apache 2.0 公开 Beta 发布于 github.com/aws-neuron/torch-neuronx。（PyTorch：Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 12:45:23 +0000</pubDate>
-</item>
-<item>
-<title>Meta 详解 Prometheus 吉瓦级超集群：一期已完成并用于训练 Muse 模型 / Inside Prometheus: Meta’s Journey to a Gigawatt-Scale Supercluster</title>
-<link>https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</link>
-<guid isPermaLink="true">https://engineering.fb.com/2026/10/19/data-center-engineering/inside-prometheus-meta-gigawatt-scale-supercluster</guid>
-<description>Meta 介绍其位于俄亥俄州 New Albany 的吉瓦级超集群 Prometheus，一期已建成并用于训练 Muse 系列基础模型，目标扩展到约 100 万张 GPU。（Meta Engineering Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 13:00:10 +0000</pubDate>
-</item>
-<item>
-<title>OpenAI狂揽硬件人才，具身智能“终极战”全面打响</title>
-<link>https://www.aibase.com/news/31720</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31720</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 12:38:06 +0000</pubDate>
-</item>
-<item>
-<title>从汽车制造商到全球智能科技公司！奇瑞全球创新大会重磅官宣：首个行业垂域大模型与人形机器人“墨宝”震撼登场</title>
-<link>https://www.aibase.com/news/31731</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31731</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 12:38:06 +0000</pubDate>
-</item>
-<item>
-<title>字节火山引擎砸钱"养"AI 剧：月度 TOP10 单部最高奖 20 万</title>
-<link>https://www.aibase.com/news/31724</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31724</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 12:38:06 +0000</pubDate>
-</item>
-<item>
-<title>山姆出手整治"AI 下架好物"谣言：数千条假帖引流牟利</title>
-<link>https://www.aibase.com/news/31725</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31725</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 12:38:06 +0000</pubDate>
-</item>
-<item>
-<title>headroomlabs-ai/headroom — Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.</title>
-<link>https://github.com/headroomlabs-ai/headroom</link>
-<guid isPermaLink="true">https://github.com/headroomlabs-ai/headroom</guid>
-<description>Compress tool outputs, logs, files, and RAG chunks before they reach the LLM. 20% fewer tokens for coding agents, 60-95% fewer tokens for JSON, same answers. Library, proxy, MCP server.（GitHub Trending）</description>
-<category>值得关注</category>
-<pubDate>Mon, 19 Oct 2026 12:39:17 +0000</pubDate>
-</item>
-<item>
-<title>无需改模型权重！谷歌开源王牌框架 Harness²：让 AI 运行中自我修补，跑分全面暴涨</title>
-<link>https://www.aibase.com/news/31723</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31723</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 12:38:06 +0000</pubDate>
-</item>
-<item>
-<title>Show HN: Qwen3-4B，已消除AI写作中的怪癖</title>
-<link>https://100toolkit.com/blog/deslop-model</link>
-<guid isPermaLink="true">https://100toolkit.com/blog/deslop-model</guid>
-<description>100toolkit.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 16:21:22 +0000</pubDate>
-</item>
-<item>
-<title>Tmux 和 Claude Code：会话、Send-Keys 以及上限</title>
-<link>https://crystl.dev/guides/tmux-for-ai-agents</link>
-<guid isPermaLink="true">https://crystl.dev/guides/tmux-for-ai-agents</guid>
-<description>crystl.dev</description>
-<category>多源热议</category>
-<pubDate>Mon, 19 Oct 2026 15:02:49 +0000</pubDate>
+<title>macOS 27、Xcode 27 和 Swift 6.4 的 CodeQL 更改 / CodeQL changes for macOS 27, Xcode 27, and Swift 6.4</title>
+<link>https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-19-codeql-changes-for-macos-27-xcode-27-and-swift-6-4</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
 </item>
 </channel>
 </rss>
