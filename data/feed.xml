@@ -5,10 +5,10 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 20 Oct 2026 04:31:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 20 Oct 2026 06:31:42 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>Copilot model policy API for enterprise, orgs, and teams</title>
+<title>适用于企业、组织和团队的 Copilot 模型策略 API / Copilot model policy API for enterprise, orgs, and teams</title>
 <link>https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-19-copilot-model-policy-api-for-enterprise-orgs-and-teams</guid>
 <description>GitHub Changelog</description>
@@ -16,7 +16,7 @@
 <pubDate>Mon, 19 Oct 2026 21:32:18 +0000</pubDate>
 </item>
 <item>
-<title>How to continue a GitHub Copilot app session in VS Code</title>
+<title>如何在 VS Code 中继续 GitHub Copilot 应用程序会话 / How to continue a GitHub Copilot app session in VS Code</title>
 <link>https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</link>
 <guid isPermaLink="true">https://github.blog/ai-and-ml/github-copilot/how-to-continue-a-github-copilot-app-session-in-vs-code</guid>
 <description>GitHub AI &amp; ML</description>
@@ -32,7 +32,7 @@
 <pubDate>Mon, 19 Oct 2026 12:00:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot models deprecated on October 19, 2026</title>
+<title>GitHub Copilot 模型已于 2026 年 10 月 19 日弃用 / GitHub Copilot models deprecated on October 19, 2026</title>
 <link>https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-19-github-copilot-models-deprecated-on-october-19-2026</guid>
 <description>GitHub Changelog</description>
@@ -136,22 +136,6 @@
 <pubDate>Mon, 19 Oct 2026 16:54:03 +0000</pubDate>
 </item>
 <item>
-<title>fal 联合 bfl_ai 发布后训练视频模型 FLUX 3 Max / Introducing FLUX 3 Max, the latest post-trained video model from fal Research in partnership with @bfl_ai.</title>
-<link>https://x.com/fal/status/2112251022047412492</link>
-<guid isPermaLink="true">https://x.com/fal/status/2112251022047412492</guid>
-<description>fal 发布与 @bfl_ai 合作的最新后训练视频模型 FLUX 3 Max，在第三方 image-to-video 质量评测中并列第一，生成 10 秒 720/768p 视频约需 12 秒。未来三周该模型 75% 折扣，标注为同质量级别最便宜的前沿视频模型。（X：fal (@fal)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 18:34:22 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek V4.1 Flash 1017 发布，Artificial Analysis 智能指数得分 45 并列开源模型第二 / DeepSeek V4.1 Flash 1017 scores 45 on the Artificial Analysis Intelligence Index, improving on DeepSeek V4.1 Flash by 6 points, and is th...</title>
-<link>https://x.com/ArtificialAnlys/status/2112218661432000694</link>
-<guid isPermaLink="true">https://x.com/ArtificialAnlys/status/2112218661432000694</guid>
-<description>DeepSeek 发布 DeepSeek V4.1 Flash 1017，在 Artificial Analysis Intelligence Index 得分 45，比 DeepSeek V4.1 Flash 提高 6 分，与 GLM-5.3 并列开源权重模型第二，仅次于 MiMo-V2.6-Pro。（X：Artificial Analysis (@ArtificialAnlys)）</description>
-<category>行业动态</category>
-<pubDate>Mon, 19 Oct 2026 16:25:46 +0000</pubDate>
-</item>
-<item>
 <title>Disney 拟通过破产程序收购 Character.AI 团队与技术、绕开其诉讼 / Disney found a way to buy Character.AI without buying its lawsuits</title>
 <link>https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</link>
 <guid isPermaLink="true">https://arstechnica.com/tech-policy/2026/10/disney-found-a-way-to-buy-character-ai-without-buying-its-lawsuits</guid>
@@ -166,6 +150,22 @@
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Mon, 19 Oct 2026 10:29:09 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic初级技术岗位占比降至14%，AI代理工作时长达员工6倍</title>
+<link>https://www.aibase.com/news/31744</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31744</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 04:31:40 +0000</pubDate>
+</item>
+<item>
+<title>Claude 给 Mac 当了一回"保安"：写个测温小工具，顺手揪出吃满 12 核的挖矿木马</title>
+<link>https://www.aibase.com/news/31737</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31737</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 04:31:40 +0000</pubDate>
 </item>
 </channel>
 </rss>
