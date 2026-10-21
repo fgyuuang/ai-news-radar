@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 21 Oct 2026 00:31:55 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 02:31:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>FairStress：对 LLM 决策公平性的更深入评估 / FairStress: A deeper evaluation of fairness in LLM decision-making</title>
@@ -24,12 +24,12 @@
 <pubDate>Tue, 20 Oct 2026 16:05:03 +0000</pubDate>
 </item>
 <item>
-<title>GitHub秘密扫描更新 / Updates to GitHub secret scanning</title>
-<link>https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning</guid>
+<title>将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository</title>
+<link>https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 20 Oct 2026 18:03:55 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 18:06:21 +0000</pubDate>
 </item>
 <item>
 <title>特许经营商利用 ChatGPT Work 将现金核对时间缩短 94% / Franchisee reconciles cash in 94% less time with ChatGPT Work</title>
@@ -48,12 +48,20 @@
 <pubDate>Tue, 20 Oct 2026 18:17:47 +0000</pubDate>
 </item>
 <item>
-<title>将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository</title>
-<link>https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository</guid>
+<title>GitHub秘密扫描更新 / Updates to GitHub secret scanning</title>
+<link>https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 20 Oct 2026 18:06:21 +0000</pubDate>
+<pubDate>Tue, 20 Oct 2026 18:03:55 +0000</pubDate>
+</item>
+<item>
+<title>Terminal X 与 GPT-6.1 的高级投资者判断相符 88.6% / Terminal X matches senior investor judgment 88.6% with GPT-6.1</title>
+<link>https://openai.com/index/terminal-x</link>
+<guid isPermaLink="true">https://openai.com/index/terminal-x</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Tue, 20 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
 <title>ALTK-Evolve: How learned memory tops the τ²-bench leaderboard on customer service tasks without a frontier model</title>
@@ -72,6 +80,14 @@
 <pubDate>Tue, 20 Oct 2026 20:40:41 +0000</pubDate>
 </item>
 <item>
+<title>AI 学会主动逃避监管了？OpenAI 披露旗下智能体曾试图关闭内部监控警报</title>
+<link>https://www.aibase.com/news/31771</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31771</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 02:31:54 +0000</pubDate>
+</item>
+<item>
 <title>Dependabot 警报 REST API 现在包括依赖项版本 / Dependabot alerts REST API now includes dependency versions</title>
 <link>https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-20-dependabot-alerts-rest-api-now-includes-dependency-versions</guid>
@@ -88,12 +104,28 @@
 <pubDate>Tue, 20 Oct 2026 12:32:56 +0000</pubDate>
 </item>
 <item>
+<title>OpenAI API 支持 12 小时 prompt 缓存，Codex 与 Work 用户缓存永久保留</title>
+<link>https://x.com/thsottiaux/status/2112712984644784534</link>
+<guid isPermaLink="true">https://x.com/thsottiaux/status/2112712984644784534</guid>
+<description>OpenAI 开发者账号宣布 API 现已可选 12 小时 prompt 缓存，持续运行的智能体可在请求间隔数小时的情况下继续以更低的缓存输入费率复用指令、工具和上下文。Tibo 补充称，Codex 与 Work 中已登录用户的缓存会永久保留，返回旧对话或数小时后恢复会话保证命中缓存，且无额外惩罚。（X：Tibo (@thsottiaux)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 01:10:02 +0000</pubDate>
+</item>
+<item>
 <title>路透：OpenAI 拟在 Anthropic 上市前加速融资约 300 亿美元，估值超 1.4 万亿美元 / Reuters: OpenAI is racing to raise about $30B at a valuation above $1.4T before Anthropic goes public.</title>
 <link>https://x.com/rohanpaul_ai/status/2112455383356989598</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2112455383356989598</guid>
 <description>据 Reuters 报道，OpenAI 正赶在 Anthropic 上市前洽谈融资约 300 亿美元，估值超 1.4 万亿美元，比 3 月的 8520 亿美元至少高 64%。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 20 Oct 2026 08:06:25 +0000</pubDate>
+</item>
+<item>
+<title>Hugging Face 掌门人呛声 Netflix：把 AI 拍成"末日片"，受害方都不认</title>
+<link>https://www.aibase.com/news/31772</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31772</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 02:31:54 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 云合作生变：AWS、Google、微软视其为竞争者 / Anthropic’s cloud partnerships are getting messy</title>
@@ -104,20 +136,20 @@
 <pubDate>Tue, 20 Oct 2026 21:25:22 +0000</pubDate>
 </item>
 <item>
-<title>Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端 / Introducing TorchTPU</title>
-<link>https://pytorch.org/blog/introducing-torchtpu</link>
-<guid isPermaLink="true">https://pytorch.org/blog/introducing-torchtpu</guid>
-<description>Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to("cuda") 改为 .to("tpu")。（PyTorch：Blog（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 16:00:30 +0000</pubDate>
-</item>
-<item>
 <title>DeepSeek 全面开源内部推理框架 DeepInfer</title>
 <link>https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</link>
 <guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzk0OTYwNzc3NQ%3D%3D&amp;mid=2247485884&amp;idx=1&amp;sn=d457981abe7db1f1b5d600fc109dc836</guid>
 <description>DeepSeek 宣布将内部推理框架 DeepInfer 全面开源，并同步开源生产级 Token 编解码组件 deepseek-recipe。（公众号：DeepSeek（深度求索））</description>
 <category>行业动态</category>
 <pubDate>Tue, 20 Oct 2026 08:54:54 +0000</pubDate>
+</item>
+<item>
+<title>Google 与 Meta 发布 TorchTPU：PyTorch 原生 TPU 后端 / Introducing TorchTPU</title>
+<link>https://pytorch.org/blog/introducing-torchtpu</link>
+<guid isPermaLink="true">https://pytorch.org/blog/introducing-torchtpu</guid>
+<description>Google 与 Meta 发布开源项目 TorchTPU，为 Google TPU 提供原生 PyTorch 后端，模型迁移只需把 .to("cuda") 改为 .to("tpu")。（PyTorch：Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Tue, 20 Oct 2026 16:00:30 +0000</pubDate>
 </item>
 <item>
 <title>fal 发布 FLUX 3 Max，图生视频 Elo 达 1139 并列第一 / FLUX 3 Max scores 1,139 Elo on third-party benchmark evaluations, placing it in the #1 tier of frontier image-to-video models based on in...</title>
@@ -128,44 +160,12 @@
 <pubDate>Tue, 20 Oct 2026 17:42:57 +0000</pubDate>
 </item>
 <item>
-<title>AI日报：腾讯开放元宝搜索；MiniMax 更新 M3.1Flash；蚂蚁百灵开源 Ming-3.0 语音系列</title>
-<link>https://www.aibase.com/news/31757</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31757</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 10:34:21 +0000</pubDate>
-</item>
-<item>
 <title>公共预览版中的 GitHub 软件包防火墙 / GitHub package firewall in public preview</title>
 <link>https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-20-github-package-firewall-in-public-preview</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
 <pubDate>Tue, 20 Oct 2026 16:11:53 +0000</pubDate>
-</item>
-<item>
-<title>Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理 / You can now run Perplexity Computer fully local on your Mac with no cloud based inference, without WiFi too. Enjoy!</title>
-<link>https://x.com/AravSrinivas/status/2112583333825950207</link>
-<guid isPermaLink="true">https://x.com/AravSrinivas/status/2112583333825950207</guid>
-<description>Perplexity CEO Aravind Srinivas 宣布，Perplexity Computer 现可在 Mac 上完全本地运行，无需云端推理，也不用 WiFi。模型和智能体都在本机运行，可操作 Mac 原生应用和本地文件，敏感数据不必发送到云端，现已在 Perplexity Mac 应用中可用。（X：Aravind Srinivas（Perplexity CEO） (@AravSrinivas)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 16:34:51 +0000</pubDate>
-</item>
-<item>
-<title>DeepSeek 再掀开源浪潮：内部推理框架 DeepInfer 全面公开，剑指"大模型普惠"</title>
-<link>https://www.aibase.com/news/31759</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31759</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Tue, 20 Oct 2026 10:34:21 +0000</pubDate>
-</item>
-<item>
-<title>Dependabot 现在支持 npm 12、pnpm 11 和 12 以及 Bun 1.4 / Dependabot now supports npm 12, pnpm 11 and 12, and Bun 1.4</title>
-<link>https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-20-dependabot-now-supports-npm-12-pnpm-11-and-12-and-bun-1-4</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 20 Oct 2026 13:52:38 +0000</pubDate>
 </item>
 </channel>
 </rss>
