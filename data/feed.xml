@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 21 Oct 2026 18:31:56 +0000</lastBuildDate>
+<lastBuildDate>Wed, 21 Oct 2026 20:31:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI 披露 Patch the Planet 计划借助 GPT-5.6 Sol 发现 PHP 关键漏洞并协调全球修复 / Patch the Planet: global response coordination as agents uncover critical vulnerabilities</title>
@@ -14,6 +14,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Wed, 21 Oct 2026 16:14:45 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud</title>
+<link>https://openai.com/index/openai-models-google-cloud</link>
+<guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 21 Oct 2026 18:37:43 +0000</pubDate>
 </item>
 <item>
 <title>NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required</title>
@@ -40,14 +48,6 @@
 <pubDate>Wed, 21 Oct 2026 16:43:23 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud</title>
-<link>https://openai.com/index/openai-models-google-cloud</link>
-<guid isPermaLink="true">https://openai.com/index/openai-models-google-cloud</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 12:53:11 +0000</pubDate>
-</item>
-<item>
 <title>SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications</title>
 <link>https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</link>
 <guid isPermaLink="true">https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization</guid>
@@ -62,6 +62,14 @@
 <description>Google AI Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 21 Oct 2026 04:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data</title>
+<link>https://openai.com/index/scaling-ai-research-for-complex-biological-data</link>
+<guid isPermaLink="true">https://openai.com/index/scaling-ai-research-for-complex-biological-data</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 21 Oct 2026 19:57:05 +0000</pubDate>
 </item>
 <item>
 <title>ChinaTalk 解读商务部 48 号公告对 AI 技术出口管制草案的影响 / MOFCOM’s New AI Rules</title>
@@ -89,19 +97,11 @@
 </item>
 <item>
 <title>TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.</title>
-<link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin</link>
-<guid isPermaLink="true">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin</guid>
+<link>https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</link>
+<guid isPermaLink="true">https://huggingface.co/blog/amazon/profiling-torchneuron-part-1</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 21 Oct 2026 16:04:43 +0000</pubDate>
-</item>
-<item>
-<title>AT&amp;T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&amp;T is rethinking in-house legal work with OpenAI</title>
-<link>https://openai.com/index/att-legal</link>
-<guid isPermaLink="true">https://openai.com/index/att-legal</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞 / Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...</title>
@@ -128,14 +128,6 @@
 <pubDate>Wed, 21 Oct 2026 12:51:24 +0000</pubDate>
 </item>
 <item>
-<title>Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials</title>
-<link>https://www.wiz.io/blog/litellm-compromised-steals-credentials</link>
-<guid isPermaLink="true">https://www.wiz.io/blog/litellm-compromised-steals-credentials</guid>
-<description>Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。（Wiz：Research（安全研究））</description>
-<category>行业动态</category>
-<pubDate>Wed, 21 Oct 2026 13:44:12 +0000</pubDate>
-</item>
-<item>
 <title>ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI</title>
 <link>https://www.chinatalk.media/p/mofcoms-new-ai-rules</link>
 <guid isPermaLink="true">https://www.chinatalk.media/p/mofcoms-new-ai-rules</guid>
@@ -144,12 +136,20 @@
 <pubDate>Wed, 21 Oct 2026 13:43:39 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform</title>
-<link>https://openai.com/index/chatgpt-ads-expands-26-new-countries</link>
-<guid isPermaLink="true">https://openai.com/index/chatgpt-ads-expands-26-new-countries</guid>
+<title>Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials</title>
+<link>https://www.wiz.io/blog/litellm-compromised-steals-credentials</link>
+<guid isPermaLink="true">https://www.wiz.io/blog/litellm-compromised-steals-credentials</guid>
+<description>Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。（Wiz：Research（安全研究））</description>
+<category>行业动态</category>
+<pubDate>Wed, 21 Oct 2026 13:44:12 +0000</pubDate>
+</item>
+<item>
+<title>AT&amp;T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&amp;T is rethinking in-house legal work with OpenAI</title>
+<link>https://openai.com/index/att-legal</link>
+<guid isPermaLink="true">https://openai.com/index/att-legal</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 21 Oct 2026 13:00:00 +0000</pubDate>
+<pubDate>Wed, 21 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 招股书拆解:营收暴涨1382%，半年却亏掉807亿美元，算力账单压顶</title>

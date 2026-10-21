@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T18:31:56.125820Z",
+  "generated_at": "2026-10-21T20:31:54.831565Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -150,15 +150,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.8994,
-      "importance": 0.8994,
-      "importance_score": 0.8994,
+      "score": 0.895,
+      "importance": 0.895,
+      "importance_score": 0.895,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8466,
+        "recency": 0.8225,
         "story_heat": 0.75
       },
       "category": "official",
@@ -186,7 +186,161 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
+      }
+    },
+    {
+      "story_id": "story_35d2cfa7a29f",
+      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "primary_url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
+          "title": "OpenAI 模型即将登陆 Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": null,
+          "title_original": "OpenAI 模型即将登陆 Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T18:37:43.968000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
+          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50180079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T12:53:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "OpenAI News",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e79357fbbe0278aadd61a4f01eede8af79c4c174",
+          "title": "OpenAI 模型即将登陆 Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": null,
+          "title_original": "OpenAI 模型即将登陆 Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T18:37:43.968000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
+          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50180079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T12:53:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8871,
+      "importance": 0.8871,
+      "importance_score": 0.8871,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.8841,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T12:00:00Z",
+      "latest_at": "2026-10-21T18:37:43.968000Z",
+      "primary_item": {
+        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+        "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+        "title_en": "OpenAI models are coming to Google Cloud",
+        "title_original": "OpenAI models are coming to Google Cloud",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-models-google-cloud",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -238,15 +392,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9987,
+        "recency": 0.9703,
         "story_heat": 0.0
       },
       "category": "official",
@@ -273,7 +427,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -391,15 +545,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.844,
-      "importance": 0.844,
-      "importance_score": 0.844,
+      "score": 0.8393,
+      "importance": 0.8393,
+      "importance_score": 0.8393,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9301,
+        "recency": 0.9037,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -426,7 +580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -478,15 +632,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8394,
-      "importance": 0.8394,
-      "importance_score": 0.8394,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9742,
+        "recency": 0.9465,
         "story_heat": 0.0
       },
       "category": "official",
@@ -513,128 +667,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
-      }
-    },
-    {
-      "story_id": "story_35d2cfa7a29f",
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "primary_url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
-          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50180079",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-21T12:53:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8668,
-      "importance": 0.8668,
-      "importance_score": 0.8668,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.91,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T12:00:00Z",
-      "latest_at": "2026-10-21T12:53:11Z",
-      "primary_item": {
-        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-        "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-        "title_en": "OpenAI models are coming to Google Cloud",
-        "title_original": "OpenAI models are coming to Google Cloud",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-models-google-cloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -686,15 +719,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8576,
-      "importance": 0.8576,
-      "importance_score": 0.8576,
+      "score": 0.8525,
+      "importance": 0.8525,
+      "importance_score": 0.8525,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9865,
+        "recency": 0.9585,
         "story_heat": 0.0
       },
       "category": "official",
@@ -721,7 +754,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -773,15 +806,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.8058,
+      "importance": 0.8058,
+      "importance_score": 0.8058,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8107,
+        "recency": 0.7876,
         "story_heat": 0.0
       },
       "category": "official",
@@ -808,7 +841,161 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
+      }
+    },
+    {
+      "story_id": "story_52d208e0dc89",
+      "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
+      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "primary_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
+          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
+          "title_zh": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
+          "title_en": "Using thousands of AI agents to uncover new leads in biological data",
+          "title_original": "Using thousands of AI agents to uncover new leads in biological data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T04:50:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "513a6e1e385c5464b648e218e6ae4de7ef4ba66f",
+          "title": "利用数千个人工智能代理从生物数据中发掘新线索",
+          "title_zh": "利用数千个人工智能代理从生物数据中发掘新线索",
+          "title_en": null,
+          "title_original": "利用数千个人工智能代理从生物数据中发掘新线索",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T19:57:05.302000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cc25c64e1fa8040f4f764897cc306e7466016a25",
+          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / OpenAI: Using AI agents to uncover new leads in biological data",
+          "title_zh": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
+          "title_en": "OpenAI: Using AI agents to uncover new leads in biological data",
+          "title_original": "OpenAI: Using AI agents to uncover new leads in biological data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-21T13:37:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
+          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
+          "title_zh": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
+          "title_en": "Using thousands of AI agents to uncover new leads in biological data",
+          "title_original": "Using thousands of AI agents to uncover new leads in biological data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T04:50:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "513a6e1e385c5464b648e218e6ae4de7ef4ba66f",
+          "title": "利用数千个人工智能代理从生物数据中发掘新线索",
+          "title_zh": "利用数千个人工智能代理从生物数据中发掘新线索",
+          "title_en": null,
+          "title_original": "利用数千个人工智能代理从生物数据中发掘新线索",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-21T19:57:05.302000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "cc25c64e1fa8040f4f764897cc306e7466016a25",
+          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / OpenAI: Using AI agents to uncover new leads in biological data",
+          "title_zh": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
+          "title_en": "OpenAI: Using AI agents to uncover new leads in biological data",
+          "title_original": "OpenAI: Using AI agents to uncover new leads in biological data",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-21T13:37:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.8655,
+      "importance": 0.8655,
+      "importance_score": 0.8655,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7972,
+        "story_heat": 0.5
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T04:50:00Z",
+      "latest_at": "2026-10-21T19:57:05.302000Z",
+      "primary_item": {
+        "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
+        "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
+        "title_zh": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
+        "title_en": "Using thousands of AI agents to uncover new leads in biological data",
+        "title_original": "Using thousands of AI agents to uncover new leads in biological data",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -860,15 +1047,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8005,
-      "importance": 0.8005,
-      "importance_score": 0.8005,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.933,
+        "recency": 0.9064,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -894,7 +1081,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -946,15 +1133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7956,
-      "importance": 0.7956,
-      "importance_score": 0.7956,
+      "score": 0.7906,
+      "importance": 0.7906,
+      "importance_score": 0.7906,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9723,
+        "recency": 0.9446,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -980,7 +1167,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -1032,15 +1219,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.7892,
+      "importance": 0.7892,
+      "importance_score": 0.7892,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9641,
+        "recency": 0.9367,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1066,26 +1253,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
-      "story_id": "story_f642b58f4da8",
+      "story_id": "story_2b8c03ec1d03",
       "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
-      "primary_url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
+      "primary_url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "05564a8d173019eca59c5cdaaba6a6c18035e8fe",
+          "id": "37909be9fb1c5e8764627a52de7bbcce57c6d8aa",
           "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
           "title_zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。",
           "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
           "title_original": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1100,14 +1287,14 @@
       ],
       "items": [
         {
-          "id": "05564a8d173019eca59c5cdaaba6a6c18035e8fe",
+          "id": "37909be9fb1c5e8764627a52de7bbcce57c6d8aa",
           "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
           "title_zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。",
           "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
           "title_original": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1118,15 +1305,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8537,
-      "importance": 0.8537,
-      "importance_score": 0.8537,
+      "score": 0.8488,
+      "importance": 0.8488,
+      "importance_score": 0.8488,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9652,
+        "recency": 0.9377,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1138,14 +1325,14 @@
       "earliest_at": "2026-10-21T16:04:43Z",
       "latest_at": "2026-10-21T16:04:43Z",
       "primary_item": {
-        "id": "05564a8d173019eca59c5cdaaba6a6c18035e8fe",
+        "id": "37909be9fb1c5e8764627a52de7bbcce57c6d8aa",
         "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
         "title_zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。",
         "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
         "title_original": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -1153,94 +1340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
-      }
-    },
-    {
-      "story_id": "story_0fb91e12e23c",
-      "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
-      "url": "https://openai.com/index/att-legal",
-      "primary_url": "https://openai.com/index/att-legal",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
-          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
-          "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
-          "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
-          "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/att-legal",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
-          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
-          "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
-          "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
-          "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/att-legal",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8481,
-      "importance": 0.8481,
-      "importance_score": 0.8481,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9781,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T17:00:00Z",
-      "latest_at": "2026-10-21T17:00:00Z",
-      "primary_item": {
-        "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
-        "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
-        "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
-        "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
-        "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/att-legal",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -1292,15 +1392,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7834,
-      "importance": 0.7834,
-      "importance_score": 0.7834,
+      "score": 0.7783,
+      "importance": 0.7783,
+      "importance_score": 0.7783,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9878,
+        "recency": 0.9597,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1326,7 +1426,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -1378,15 +1478,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7681,
-      "importance": 0.7681,
-      "importance_score": 0.7681,
+      "score": 0.7633,
+      "importance": 0.7633,
+      "importance_score": 0.7633,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9361,
+        "recency": 0.9095,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1412,7 +1512,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -1464,15 +1564,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8518,
-      "importance": 0.8518,
-      "importance_score": 0.8518,
+      "score": 0.8471,
+      "importance": 0.8471,
+      "importance_score": 0.8471,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9213,
+        "recency": 0.8951,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1499,93 +1599,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
-      }
-    },
-    {
-      "story_id": "story_9653c3ba2d7e",
-      "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
-      "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-      "primary_url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-      "source": "Wiz：Research（安全研究）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
-          "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-          "title_en": "LiteLLM Compromised, Steals Credentials",
-          "title_original": "LiteLLM Compromised, Steals Credentials",
-          "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
-          "recommend_reason_zh": null,
-          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:44:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Wiz：Research（安全研究）"
-      ],
-      "items": [
-        {
-          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
-          "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-          "title_en": "LiteLLM Compromised, Steals Credentials",
-          "title_original": "LiteLLM Compromised, Steals Credentials",
-          "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
-          "recommend_reason_zh": null,
-          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-          "source": "Wiz：Research（安全研究）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:44:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7886,
-      "importance": 0.7886,
-      "importance_score": 0.7886,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9331,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:44:12Z",
-      "latest_at": "2026-10-21T13:44:12Z",
-      "primary_item": {
-        "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
-        "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
-        "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
-        "title_en": "LiteLLM Compromised, Steals Credentials",
-        "title_original": "LiteLLM Compromised, Steals Credentials",
-        "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
-        "recommend_reason_zh": null,
-        "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
-        "source": "Wiz：Research（安全研究）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -1637,15 +1651,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7885,
-      "importance": 0.7885,
-      "importance_score": 0.7885,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.933,
+        "recency": 0.9064,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1671,30 +1685,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
-      "story_id": "story_369288508eca",
-      "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "story_id": "story_9653c3ba2d7e",
+      "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
+      "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+      "primary_url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+      "source": "Wiz：Research（安全研究）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
+          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
+          "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
+          "title_en": "LiteLLM Compromised, Steals Credentials",
+          "title_original": "LiteLLM Compromised, Steals Credentials",
+          "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:44:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Wiz：Research（安全研究）"
+      ],
+      "items": [
+        {
+          "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
+          "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
+          "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
+          "title_en": "LiteLLM Compromised, Steals Credentials",
+          "title_original": "LiteLLM Compromised, Steals Credentials",
+          "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
+          "recommend_reason_zh": null,
+          "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+          "source": "Wiz：Research（安全研究）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:44:12Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7838,
+      "importance": 0.7838,
+      "importance_score": 0.7838,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9065,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:44:12Z",
+      "latest_at": "2026-10-21T13:44:12Z",
+      "primary_item": {
+        "id": "5be90de5fcd3b96bf2f1146cf21375b6d02a85be",
+        "title": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据 / LiteLLM Compromised, Steals Credentials",
+        "title_zh": "Wiz 披露 LiteLLM PyPI 包供应链攻击，恶意版本 v1.107.0 窃取凭据",
+        "title_en": "LiteLLM Compromised, Steals Credentials",
+        "title_original": "LiteLLM Compromised, Steals Credentials",
+        "summary": "Wiz 披露 10 月 21 日 11:39 UTC 有恶意版本 LiteLLM 1.107.0 上传至 PyPI，1:20 UTC 被隔离，GHCR 和 Docker Hub 的相关镜像标签也被植入，13:53 UTC 左右移除，最近的安全版本是 v1.106.2。",
+        "recommend_reason_zh": null,
+        "url": "https://www.wiz.io/blog/litellm-compromised-steals-credentials",
+        "source": "Wiz：Research（安全研究）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T20:35:14.384733Z"
+      }
+    },
+    {
+      "story_id": "story_0fb91e12e23c",
+      "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "primary_url": "https://openai.com/index/att-legal",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+          "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
+          "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
+          "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "url": "https://openai.com/index/att-legal",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T13:00:00Z",
+          "published_at": "2026-10-21T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1705,33 +1805,33 @@
       ],
       "items": [
         {
-          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+          "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
+          "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
+          "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "url": "https://openai.com/index/att-legal",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T13:00:00Z",
+          "published_at": "2026-10-21T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8462,
-      "importance": 0.8462,
-      "importance_score": 0.8462,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9232,
+        "ai_relevance": 0.91,
+        "recency": 0.9503,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1740,17 +1840,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T13:00:00Z",
-      "latest_at": "2026-10-21T13:00:00Z",
+      "earliest_at": "2026-10-21T17:00:00Z",
+      "latest_at": "2026-10-21T17:00:00Z",
       "primary_item": {
-        "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-        "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-        "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+        "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+        "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
+        "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
+        "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "url": "https://openai.com/index/att-legal",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1758,7 +1858,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -1810,21 +1910,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-21T12:31:47.898778Z",
       "latest_at": "2026-10-21T12:31:47.898778Z",
@@ -1844,7 +1943,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     },
     {
@@ -1896,15 +1995,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7467,
-      "importance": 0.7467,
-      "importance_score": 0.7467,
+      "score": 0.7428,
+      "importance": 0.7428,
+      "importance_score": 0.7428,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.63,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7652,
+        "recency": 0.7434,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1929,7 +2028,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T18:35:36.045039Z"
+        "scored_at": "2026-10-21T20:35:14.384733Z"
       }
     }
   ]
