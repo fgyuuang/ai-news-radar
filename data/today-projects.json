@@ -1,36 +1,8 @@
 {
-  "generated_at": "2026-10-21T16:38:05.920232Z",
+  "generated_at": "2026-10-21T18:33:36.881319Z",
   "date": "2026-10-22",
   "total_items": 4,
   "items": [
-    {
-      "id": "project_9b75bda91938",
-      "project_name": "MadsLorentzen/ai-job-search",
-      "url": "https://github.com/MadsLorentzen/ai-job-search",
-      "summary": "The job search that runs on your machine. AI job application framework built on Claude Code: evaluate postings, tailor CVs, write cover letters, prep interviews. Fork it and own it.",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "MadsLorentzen/ai-job-search 是本地 AI 求职框架，评估岗位、定制简历、写求职信、准备面试。",
-      "recommend_reason_en": "MadsLorentzen/ai-job-search is a local AI job application framework built on Claude Code that evaluates postings, tailors CVs, writes cover letters, and preps interviews, making it worth opening to fork and own your job search.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-10-21T16:34:11.935616Z"
-    },
-    {
-      "id": "project_d9bc770086c8",
-      "project_name": "UseIt Studio",
-      "url": "https://www.producthunt.com/products/useit-studio-from-idea-to-delivery",
-      "summary": "Your AI design agent for real, editable project files.",
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Your AI design agent for real, editable project files」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Your AI design agent for real, editable project files\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-14T13:11:39Z",
-      "updated_at": "2026-10-21T16:36:39Z",
-      "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T16:37:22.720456Z"
-    },
     {
       "id": "project_6426decba2ef",
       "project_name": "cloudflare/security-audit-skill",
@@ -43,21 +15,49 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-21T16:34:11.935616Z"
+      "observed_at": "2026-10-21T18:31:56.125820Z"
     },
     {
-      "id": "project_fcda386cd84b",
-      "project_name": "Flyweel",
-      "url": "https://www.producthunt.com/products/connect-pipedrive-to-ads-with-flyweel",
-      "summary": "Ad spend cards, cash-gap funding, and agent audit via MCP",
+      "id": "project_c5589c2597ed",
+      "project_name": "BAND for Developers",
+      "url": "https://www.producthunt.com/products/band",
+      "summary": "Coding agents, meet teamwork",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Ad spend cards, cash-gap funding, and agent audit via MCP」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Ad spend cards, cash-gap funding, and agent audit via MCP\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-09T02:20:42Z",
-      "updated_at": "2026-10-21T16:36:53Z",
+      "recommend_reason_zh": "体验它主打的「Coding agents, meet teamwork」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Coding agents, meet teamwork\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-12T21:02:39Z",
+      "updated_at": "2026-10-21T18:18:27Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-21T16:37:22.720456Z"
+      "observed_at": "2026-10-21T18:33:21.794761Z"
+    },
+    {
+      "id": "project_65e32dabe8c3",
+      "project_name": "vllm-project/vllm",
+      "url": "https://github.com/vllm-project/vllm",
+      "summary": "A high-throughput and memory-efficient inference and serving engine for LLMs",
+      "site_id": "github_trending",
+      "site_name": "GitHub Trending",
+      "recommend_reason_zh": "看看这个开源项目的「A high-throughput and memory-efficient inference and serving engine for LLMs」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"A high-throughput and memory-efficient inference and serving engine for LLMs\") and judge whether it fits a task you have on hand.",
+      "published_at": null,
+      "updated_at": null,
+      "recency_basis": null,
+      "observed_at": "2026-10-21T18:31:56.125820Z"
+    },
+    {
+      "id": "project_7d8bb1f16934",
+      "project_name": "ilha",
+      "url": "https://www.producthunt.com/products/ilha",
+      "summary": "Your Claude Code and Codex limits, live in the notch",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "体验它主打的「Your Claude Code and Codex limits, live in the notch」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Your Claude Code and Codex limits, live in the notch\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-18T01:10:27Z",
+      "updated_at": "2026-10-21T18:04:10Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-10-21T18:33:21.794761Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 13,
-      "duration_ms": 3922,
+      "item_count": 12,
+      "duration_ms": 2533,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 2683,
+      "duration_ms": 1013,
       "error": null
     }
   ]

@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-21T16:34:11.935616Z",
+  "generated_at": "2026-10-21T18:31:56.125820Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -150,15 +150,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.9038,
-      "importance": 0.9038,
-      "importance_score": 0.9038,
+      "score": 0.8994,
+      "importance": 0.8994,
+      "importance_score": 0.8994,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8709,
+        "recency": 0.8466,
         "story_heat": 0.75
       },
       "category": "official",
@@ -186,30 +186,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
-      "story_id": "story_f642b58f4da8",
-      "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
-      "primary_url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "story_id": "story_6d90c4e450e6",
+      "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+      "url": "https://huggingface.co/blog/nvidia/kumo-relational",
+      "primary_url": "https://huggingface.co/blog/nvidia/kumo-relational",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "05564a8d173019eca59c5cdaaba6a6c18035e8fe",
-          "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-          "title_zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。",
-          "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-          "title_original": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
+          "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "title_zh": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训",
+          "title_en": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "title_original": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T16:04:43Z",
+          "published_at": "2026-10-21T18:26:30Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -220,33 +220,33 @@
       ],
       "items": [
         {
-          "id": "05564a8d173019eca59c5cdaaba6a6c18035e8fe",
-          "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-          "title_zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。",
-          "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-          "title_original": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
+          "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "title_zh": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训",
+          "title_en": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+          "title_original": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+          "url": "https://huggingface.co/blog/nvidia/kumo-relational",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T16:04:43Z",
+          "published_at": "2026-10-21T18:26:30Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8587,
-      "importance": 0.8587,
-      "importance_score": 0.8587,
+      "score": 0.8598,
+      "importance": 0.8598,
+      "importance_score": 0.8598,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9929,
+        "recency": 0.9987,
         "story_heat": 0.0
       },
       "category": "official",
@@ -255,17 +255,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T16:04:43Z",
-      "latest_at": "2026-10-21T16:04:43Z",
+      "earliest_at": "2026-10-21T18:26:30Z",
+      "latest_at": "2026-10-21T18:26:30Z",
       "primary_item": {
-        "id": "05564a8d173019eca59c5cdaaba6a6c18035e8fe",
-        "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-        "title_zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。",
-        "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
-        "title_original": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+        "id": "7c1d9308419989fb3e3ecffcb121bee7aa272527",
+        "title": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训 / NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+        "title_zh": "NVIDIA Kumo Relational 在关系数据上的表现优于监督式机器学习，无需培训",
+        "title_en": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
+        "title_original": "NVIDIA Kumo Relational Outperforms Supervised Machine Learning on Relational Data, No Training Required",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+        "url": "https://huggingface.co/blog/nvidia/kumo-relational",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -273,7 +273,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
@@ -391,15 +391,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8488,
-      "importance": 0.8488,
-      "importance_score": 0.8488,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9569,
+        "recency": 0.9301,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -426,30 +426,238 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
-      "story_id": "story_fc5f96ba9bc3",
-      "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
-      "primary_url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "story_id": "story_d85e988461bd",
+      "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+      "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "primary_url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "title_zh": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌",
+          "title_en": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "title_original": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T16:43:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+          "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "title_zh": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌",
+          "title_en": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "title_original": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T16:43:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9742,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T16:43:23Z",
+      "latest_at": "2026-10-21T16:43:23Z",
+      "primary_item": {
+        "id": "4b2d246bdc7639580d002177b9e1dc8f11e5d834",
+        "title": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌 / GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+        "title_zh": "GitHub CLI：选择过期、自动刷新的 OAuth 令牌",
+        "title_en": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+        "title_original": "GitHub CLI: Opt in to expiring, auto-refreshing OAuth tokens",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-21-github-cli-opt-in-to-expiring-auto-refreshing-oauth-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T18:35:36.045039Z"
+      }
+    },
+    {
+      "story_id": "story_35d2cfa7a29f",
+      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+      "url": "https://openai.com/index/openai-models-google-cloud",
+      "primary_url": "https://openai.com/index/openai-models-google-cloud",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
+          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50180079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T12:53:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "OpenAI News",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-models-google-cloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T12:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7a55ae8c9fbab8c1b6f9d863f09b9cdbf4944141",
+          "title": "OpenAI 模型即将登陆 Google Cloud / OpenAI models are coming to Google Cloud",
+          "title_zh": "OpenAI 模型即将登陆 Google Cloud",
+          "title_en": "OpenAI models are coming to Google Cloud",
+          "title_original": "OpenAI models are coming to Google Cloud",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50180079",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-21T12:53:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8668,
+      "importance": 0.8668,
+      "importance_score": 0.8668,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.91,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T12:00:00Z",
+      "latest_at": "2026-10-21T12:53:11Z",
+      "primary_item": {
+        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
+        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
+        "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
+        "title_en": "OpenAI models are coming to Google Cloud",
+        "title_original": "OpenAI models are coming to Google Cloud",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-models-google-cloud",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T18:35:36.045039Z"
+      }
+    },
+    {
+      "story_id": "story_8e28cf075f3e",
+      "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+      "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
+      "primary_url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
-          "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-          "title_zh": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合",
-          "title_en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-          "title_original": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "id": "213681692e91ea20b028385dda779d335345174f",
+          "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "title_zh": "SLM 词汇专业化如何在实际应用中将推理成本降低 77%",
+          "title_en": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "title_original": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T12:51:24Z",
+          "published_at": "2026-10-21T17:35:36Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -460,33 +668,33 @@
       ],
       "items": [
         {
-          "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
-          "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-          "title_zh": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合",
-          "title_en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-          "title_original": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "id": "213681692e91ea20b028385dda779d335345174f",
+          "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "title_zh": "SLM 词汇专业化如何在实际应用中将推理成本降低 77%",
+          "title_en": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+          "title_original": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+          "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T12:51:24Z",
+          "published_at": "2026-10-21T17:35:36Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8566,
-      "importance": 0.8566,
-      "importance_score": 0.8566,
+      "score": 0.8576,
+      "importance": 0.8576,
+      "importance_score": 0.8576,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.9478,
+        "ai_relevance": 0.95,
+        "recency": 0.9865,
         "story_heat": 0.0
       },
       "category": "official",
@@ -495,17 +703,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T12:51:24Z",
-      "latest_at": "2026-10-21T12:51:24Z",
+      "earliest_at": "2026-10-21T17:35:36Z",
+      "latest_at": "2026-10-21T17:35:36Z",
       "primary_item": {
-        "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
-        "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-        "title_zh": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合",
-        "title_en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
-        "title_original": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+        "id": "213681692e91ea20b028385dda779d335345174f",
+        "title": "SLM 词汇专业化如何在实际应用中将推理成本降低 77% / How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+        "title_zh": "SLM 词汇专业化如何在实际应用中将推理成本降低 77%",
+        "title_en": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
+        "title_original": "How Specializing the Vocabulary of SLMs Can Cut Inference Cost by 77% in Real Applications",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+        "url": "https://huggingface.co/blog/Dharma-AI/vocabx-vocabulary-specialization",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -513,94 +721,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
-      }
-    },
-    {
-      "story_id": "story_369288508eca",
-      "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T13:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T13:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.851,
-      "importance": 0.851,
-      "importance_score": 0.851,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9498,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:00:00Z",
-      "latest_at": "2026-10-21T13:00:00Z",
-      "primary_item": {
-        "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
-        "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
-        "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
@@ -652,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8141,
-      "importance": 0.8141,
-      "importance_score": 0.8141,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.834,
+        "recency": 0.8107,
         "story_heat": 0.0
       },
       "category": "official",
@@ -687,7 +808,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
@@ -739,15 +860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8054,
-      "importance": 0.8054,
-      "importance_score": 0.8054,
+      "score": 0.8005,
+      "importance": 0.8005,
+      "importance_score": 0.8005,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.87,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9598,
+        "recency": 0.933,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -773,7 +894,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
@@ -825,15 +946,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8006,
-      "importance": 0.8006,
-      "importance_score": 0.8006,
+      "score": 0.7956,
+      "importance": 0.7956,
+      "importance_score": 0.7956,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9723,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -859,7 +980,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
@@ -911,15 +1032,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7941,
+      "importance": 0.7941,
+      "importance_score": 0.7941,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9918,
+        "recency": 0.9641,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -945,30 +1066,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
-      "story_id": "story_dc1fcf3e5c71",
-      "title": "宣布推出 SimReady Central：用于机器人和人工智能工厂的仿真就绪 3D 资产开放库 / Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-      "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
-      "primary_url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+      "story_id": "story_f642b58f4da8",
+      "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+      "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
+      "primary_url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b1b0edc372a6d3108e80a3b20ea1cf5d82b9ec40",
-          "title": "宣布推出 SimReady Central：用于机器人和人工智能工厂的仿真就绪 3D 资产开放库 / Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-          "title_zh": "宣布推出 SimReady Central：用于机器人和人工智能工厂的仿真就绪 3D 资产开放库",
-          "title_en": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-          "title_original": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+          "id": "05564a8d173019eca59c5cdaaba6a6c18035e8fe",
+          "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "title_zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。",
+          "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "title_original": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T10:59:42Z",
+          "published_at": "2026-10-21T16:04:43Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -979,33 +1100,33 @@
       ],
       "items": [
         {
-          "id": "b1b0edc372a6d3108e80a3b20ea1cf5d82b9ec40",
-          "title": "宣布推出 SimReady Central：用于机器人和人工智能工厂的仿真就绪 3D 资产开放库 / Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-          "title_zh": "宣布推出 SimReady Central：用于机器人和人工智能工厂的仿真就绪 3D 资产开放库",
-          "title_en": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-          "title_original": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+          "id": "05564a8d173019eca59c5cdaaba6a6c18035e8fe",
+          "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "title_zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。",
+          "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+          "title_original": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+          "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T10:59:42Z",
+          "published_at": "2026-10-21T16:04:43Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8561,
-      "importance": 0.8561,
-      "importance_score": 0.8561,
+      "score": 0.8537,
+      "importance": 0.8537,
+      "importance_score": 0.8537,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 1.0,
-        "recency": 0.9226,
+        "ai_relevance": 0.95,
+        "recency": 0.9652,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1014,17 +1135,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T10:59:42Z",
-      "latest_at": "2026-10-21T10:59:42Z",
+      "earliest_at": "2026-10-21T16:04:43Z",
+      "latest_at": "2026-10-21T16:04:43Z",
       "primary_item": {
-        "id": "b1b0edc372a6d3108e80a3b20ea1cf5d82b9ec40",
-        "title": "宣布推出 SimReady Central：用于机器人和人工智能工厂的仿真就绪 3D 资产开放库 / Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-        "title_zh": "宣布推出 SimReady Central：用于机器人和人工智能工厂的仿真就绪 3D 资产开放库",
-        "title_en": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
-        "title_original": "Announcing SimReady Central: An Open Library of Simulation-Ready 3D Assets for Robotics and AI Factories",
+        "id": "05564a8d173019eca59c5cdaaba6a6c18035e8fe",
+        "title": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。 / Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+        "title_zh": "TorchNeuron 分析（第 1 部分）：AWS Trainium 上的系统级分析。",
+        "title_en": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
+        "title_original": "Profiling TorchNeuron (Part 1): System-level profiling on AWS Trainium.",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/simready-central-assets-robotics-ai-factories",
+        "url": "https://huggingface.co/blog/amazon/profiling-torchneuron-part-1-system-level-profilin",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -1032,67 +1153,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
-      "story_id": "story_9b4c06e45edc",
-      "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-      "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "primary_url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-      "source": "GitHub Changelog",
+      "story_id": "story_0fb91e12e23c",
+      "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+      "url": "https://openai.com/index/att-legal",
+      "primary_url": "https://openai.com/index/att-legal",
+      "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-          "title_zh": "GitHub秘密扫描更新",
-          "title_en": "Updates to GitHub secret scanning",
-          "title_original": "Updates to GitHub secret scanning",
+          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+          "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
+          "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
+          "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/att-legal",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z",
+          "published_at": "2026-10-21T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "GitHub Changelog"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-          "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-          "title_zh": "GitHub秘密扫描更新",
-          "title_en": "Updates to GitHub secret scanning",
-          "title_original": "Updates to GitHub secret scanning",
+          "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+          "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+          "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
+          "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
+          "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-          "source": "GitHub Changelog",
+          "url": "https://openai.com/index/att-legal",
+          "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-20T18:03:55Z",
+          "published_at": "2026-10-21T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
+      "score": 0.8481,
+      "importance": 0.8481,
+      "importance_score": 0.8481,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7225,
+        "ai_relevance": 0.91,
+        "recency": 0.9781,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1101,138 +1222,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-20T18:03:55Z",
-      "latest_at": "2026-10-20T18:03:55Z",
+      "earliest_at": "2026-10-21T17:00:00Z",
+      "latest_at": "2026-10-21T17:00:00Z",
       "primary_item": {
-        "id": "0a015b64ba8b83acce868ec22af69aa779509d3c",
-        "title": "GitHub秘密扫描更新 / Updates to GitHub secret scanning",
-        "title_zh": "GitHub秘密扫描更新",
-        "title_en": "Updates to GitHub secret scanning",
-        "title_original": "Updates to GitHub secret scanning",
+        "id": "9867c4c5b470fc7b82bc19ec2cdec8513af7dcc1",
+        "title": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作 / How AT&T is rethinking in-house legal work with OpenAI",
+        "title_zh": "AT&T 如何重新考虑与 OpenAI 合作的内部法律工作",
+        "title_en": "How AT&T is rethinking in-house legal work with OpenAI",
+        "title_original": "How AT&T is rethinking in-house legal work with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-20-updates-to-github-secret-scanning",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
-      }
-    },
-    {
-      "story_id": "story_52d208e0dc89",
-      "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
-      "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "primary_url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
-          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
-          "title_zh": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-          "title_en": "Using thousands of AI agents to uncover new leads in biological data",
-          "title_original": "Using thousands of AI agents to uncover new leads in biological data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T04:50:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cc25c64e1fa8040f4f764897cc306e7466016a25",
-          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / OpenAI: Using AI agents to uncover new leads in biological data",
-          "title_zh": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-          "title_en": "OpenAI: Using AI agents to uncover new leads in biological data",
-          "title_original": "OpenAI: Using AI agents to uncover new leads in biological data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-21T13:37:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
-          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
-          "title_zh": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-          "title_en": "Using thousands of AI agents to uncover new leads in biological data",
-          "title_original": "Using thousands of AI agents to uncover new leads in biological data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T04:50:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "cc25c64e1fa8040f4f764897cc306e7466016a25",
-          "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / OpenAI: Using AI agents to uncover new leads in biological data",
-          "title_zh": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-          "title_en": "OpenAI: Using AI agents to uncover new leads in biological data",
-          "title_original": "OpenAI: Using AI agents to uncover new leads in biological data",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-21T13:37:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8489,
-      "importance": 0.8489,
-      "importance_score": 0.8489,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8441,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T04:50:00Z",
-      "latest_at": "2026-10-21T13:37:00Z",
-      "primary_item": {
-        "id": "bb58a019ba68f6fa7d30db801c2ede3cecf3636c",
-        "title": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索 / Using thousands of AI agents to uncover new leads in biological data",
-        "title_zh": "OpenAI 与 PerturbAI、Scripps Research 用数千个 GPT‑Rosalind 智能体 32 分钟挖掘脑细胞数据新研究线索",
-        "title_en": "Using thousands of AI agents to uncover new leads in biological data",
-        "title_original": "Using thousands of AI agents to uncover new leads in biological data",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/scaling-ai-research-for-complex-biological-data",
+        "url": "https://openai.com/index/att-legal",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1240,30 +1240,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
-      "story_id": "story_7b2ba03c7801",
-      "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-      "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
-      "primary_url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+      "story_id": "story_730c64d0dbe5",
+      "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞 / Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...",
+      "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
+      "primary_url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
       "source": "X：Rohan Paul (@rohanpaul_ai)",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "title_en": "Main takeaways from SpaceX’s earnings call today",
-          "title_original": "Main takeaways from SpaceX’s earnings call today",
-          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
+          "id": "2851be88778cd989517bd269dbc94e6142927809",
+          "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞 / Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...",
+          "title_zh": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
+          "title_en": "Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...",
+          "title_original": "Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...",
+          "summary": "AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏洞，可让无账号攻击者接管 Web 服务器，影响远至 PHP 5.4 的版本，PHP 提前一天紧急发布修复。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+          "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z",
+          "published_at": "2026-10-21T17:40:59Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1274,33 +1274,33 @@
       ],
       "items": [
         {
-          "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-          "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-          "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-          "title_en": "Main takeaways from SpaceX’s earnings call today",
-          "title_original": "Main takeaways from SpaceX’s earnings call today",
-          "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
+          "id": "2851be88778cd989517bd269dbc94e6142927809",
+          "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞 / Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...",
+          "title_zh": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
+          "title_en": "Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...",
+          "title_original": "Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...",
+          "summary": "AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏洞，可让无账号攻击者接管 Web 服务器，影响远至 PHP 5.4 的版本，PHP 提前一天紧急发布修复。",
           "recommend_reason_zh": null,
-          "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+          "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
           "source": "X：Rohan Paul (@rohanpaul_ai)",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-21T04:50:29Z",
+          "published_at": "2026-10-21T17:40:59Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7786,
-      "importance": 0.7786,
-      "importance_score": 0.7786,
+      "score": 0.7834,
+      "importance": 0.7834,
+      "importance_score": 0.7834,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.85,
+        "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8442,
+        "recency": 0.9878,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1308,17 +1308,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T04:50:29Z",
-      "latest_at": "2026-10-21T04:50:29Z",
+      "earliest_at": "2026-10-21T17:40:59Z",
+      "latest_at": "2026-10-21T17:40:59Z",
       "primary_item": {
-        "id": "e13eb38139c623cbe4e965be9fd72a65ebab90ab",
-        "title": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源 / Main takeaways from SpaceX’s earnings call today",
-        "title_zh": "SpaceX Q3 2026 财报电话会要点：AI 算力业务成最大收入来源",
-        "title_en": "Main takeaways from SpaceX’s earnings call today",
-        "title_original": "Main takeaways from SpaceX’s earnings call today",
-        "summary": "Rohan Paul 总结 SpaceX Q3 2026 财报电话会要点：Super Intelligence 算力租赁业务（客户含 Anthropic 和 Google）收入 $7.6B，近翻三倍于 Q2 的 $2.56B，超过 Starlink 连接业务的 $5.2B 成最大收入来源，其中 $608M 来自新收购的 Cursor。",
+        "id": "2851be88778cd989517bd269dbc94e6142927809",
+        "title": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞 / Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...",
+        "title_zh": "研究人员用 GPT-5.6 Sol 发现 PHP 两个 CVSS 9.2 严重漏洞",
+        "title_en": "Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...",
+        "title_original": "Researchers using GPT-5.6 Sol found massively critical flaw in PHP, which runs about 70% of websites, knocked major sites offline as oper...",
+        "summary": "AI 安全公司 Calif 用 GPT-5.6 Sol 在 PHP 中发现两个 CVSS 9.2 严重漏洞，可让无账号攻击者接管 Web 服务器，影响远至 PHP 5.4 的版本，PHP 提前一天紧急发布修复。",
         "recommend_reason_zh": null,
-        "url": "https://x.com/rohanpaul_ai/status/2112768460866695334",
+        "url": "https://x.com/rohanpaul_ai/status/2112962364996038971",
         "source": "X：Rohan Paul (@rohanpaul_ai)",
         "source_name": "AI HOT"
       },
@@ -1326,7 +1326,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
@@ -1378,15 +1378,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7729,
-      "importance": 0.7729,
-      "importance_score": 0.7729,
+      "score": 0.7681,
+      "importance": 0.7681,
+      "importance_score": 0.7681,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.963,
+        "recency": 0.9361,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1412,30 +1412,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
-      "story_id": "story_ed75b55f2e12",
-      "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-      "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
-      "primary_url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+      "story_id": "story_fc5f96ba9bc3",
+      "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+      "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
+      "primary_url": "https://huggingface.co/blog/nvidia/kumo-forecast",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
-          "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "title_zh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
-          "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "title_original": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
+          "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "title_zh": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合",
+          "title_en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "title_original": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T14:58:18Z",
+          "published_at": "2026-10-21T12:51:24Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1446,33 +1446,33 @@
       ],
       "items": [
         {
-          "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
-          "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "title_zh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
-          "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-          "title_original": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+          "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
+          "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "title_zh": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合",
+          "title_en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+          "title_original": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+          "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-21T14:58:18Z",
+          "published_at": "2026-10-21T12:51:24Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.8559,
-      "importance_score": 0.8559,
+      "score": 0.8518,
+      "importance": 0.8518,
+      "importance_score": 0.8518,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9772,
+        "ai_relevance": 0.98,
+        "recency": 0.9213,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1481,17 +1481,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-21T14:58:18Z",
-      "latest_at": "2026-10-21T14:58:18Z",
+      "earliest_at": "2026-10-21T12:51:24Z",
+      "latest_at": "2026-10-21T12:51:24Z",
       "primary_item": {
-        "id": "2f4186d9925eb504caa2cd586cb2ad5824d210df",
-        "title": "Granite Speech 5.0：更准确、更快地转录、翻译和归因 / Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-        "title_zh": "Granite Speech 5.0：更准确、更快地转录、翻译和归因",
-        "title_en": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
-        "title_original": "Granite Speech 5.0: Transcribe, Translate, and Attribute more Accurately and Faster",
+        "id": "cabb1fd5663b6037feb944cc0a9465cebfcfb6a5",
+        "title": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合 / NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+        "title_zh": "NVIDIA Kumo Forecast 将预训练时间序列表示与历史模式检索和可解释性相结合",
+        "title_en": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
+        "title_original": "NVIDIA Kumo Forecast Combines Pretrained Time-Series Representations with Historical Pattern Retrieval and Interpretability",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/ibm-granite/granite-speech-5",
+        "url": "https://huggingface.co/blog/nvidia/kumo-forecast",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -1499,180 +1499,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
-      }
-    },
-    {
-      "story_id": "story_a59ab3527808",
-      "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-      "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-      "primary_url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-          "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-          "title_zh": "将分支保护批量迁移到代码仓库的规则集",
-          "title_en": "Bulk migrate branch protections to rulesets for a repository",
-          "title_original": "Bulk migrate branch protections to rulesets for a repository",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:06:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-          "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-          "title_zh": "将分支保护批量迁移到代码仓库的规则集",
-          "title_en": "Bulk migrate branch protections to rulesets for a repository",
-          "title_original": "Bulk migrate branch protections to rulesets for a repository",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-20T18:06:21Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7941,
-      "importance": 0.7941,
-      "importance_score": 0.7941,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.723,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-20T18:06:21Z",
-      "latest_at": "2026-10-20T18:06:21Z",
-      "primary_item": {
-        "id": "296a2c6fa45c68848faf438347c81b74800b6fa0",
-        "title": "将分支保护批量迁移到代码仓库的规则集 / Bulk migrate branch protections to rulesets for a repository",
-        "title_zh": "将分支保护批量迁移到代码仓库的规则集",
-        "title_en": "Bulk migrate branch protections to rulesets for a repository",
-        "title_original": "Bulk migrate branch protections to rulesets for a repository",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-20-bulk-migrate-branch-protections-to-rulesets-for-a-repository",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
-      }
-    },
-    {
-      "story_id": "story_78236365dbdf",
-      "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
-      "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-      "primary_url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-      "source": "ChinaTalk（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
-          "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
-          "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
-          "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
-          "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
-          "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
-          "recommend_reason_zh": null,
-          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-          "source": "ChinaTalk（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:43:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "ChinaTalk（RSS）"
-      ],
-      "items": [
-        {
-          "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
-          "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
-          "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
-          "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
-          "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
-          "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
-          "recommend_reason_zh": null,
-          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-          "source": "ChinaTalk（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-21T13:43:39Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.83,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9598,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-21T13:43:39Z",
-      "latest_at": "2026-10-21T13:43:39Z",
-      "primary_item": {
-        "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
-        "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
-        "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
-        "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
-        "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
-        "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
-        "recommend_reason_zh": null,
-        "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
-        "source": "ChinaTalk（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
@@ -1724,15 +1551,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7934,
-      "importance": 0.7934,
-      "importance_score": 0.7934,
+      "score": 0.7886,
+      "importance": 0.7886,
+      "importance_score": 0.7886,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.83,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9599,
+        "recency": 0.9331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1758,7 +1585,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
+      }
+    },
+    {
+      "story_id": "story_78236365dbdf",
+      "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
+      "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+      "primary_url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+      "source": "ChinaTalk（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
+          "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
+          "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
+          "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
+          "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
+          "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
+          "recommend_reason_zh": null,
+          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+          "source": "ChinaTalk（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:43:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "ChinaTalk（RSS）"
+      ],
+      "items": [
+        {
+          "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
+          "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
+          "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
+          "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
+          "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
+          "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
+          "recommend_reason_zh": null,
+          "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+          "source": "ChinaTalk（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T13:43:39Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7885,
+      "importance": 0.7885,
+      "importance_score": 0.7885,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.83,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.933,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:43:39Z",
+      "latest_at": "2026-10-21T13:43:39Z",
+      "primary_item": {
+        "id": "014ca7a5ffbb6e43d9bfa35412917d8a740a9362",
+        "title": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案 / MOFCOM's New Rules and the Future of Chinese AI",
+        "title_zh": "ChinaTalk 解读中国商务部 AI 技术出口管制新规草案",
+        "title_en": "MOFCOM's New Rules and the Future of Chinese AI",
+        "title_original": "MOFCOM's New Rules and the Future of Chinese AI",
+        "summary": "中国商务部与科技部于 10 月 16 日发布 2026 年第 48 号公告，拟向技术出口管制目录新增 40 项技术，其中 23 项涉及 AI，包括 6 项禁止出口和 17 项许可管理，并即日生效临时出口登记制度。",
+        "recommend_reason_zh": null,
+        "url": "https://www.chinatalk.media/p/mofcoms-new-ai-rules",
+        "source": "ChinaTalk（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T18:35:36.045039Z"
+      }
+    },
+    {
+      "story_id": "story_369288508eca",
+      "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+      "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "primary_url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
+          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T13:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+          "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
+          "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-21T13:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9232,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-21T13:00:00Z",
+      "latest_at": "2026-10-21T13:00:00Z",
+      "primary_item": {
+        "id": "cf4f9d26cc3b58ff15b2bc9c973aea621dde7bb8",
+        "title": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台 / ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "title_zh": "ChatGPT 广告扩展到 26 个新国家/地区，已有超过 100,000 名广告商使用该平台",
+        "title_en": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "title_original": "ChatGPT Ads expands to 26 new countries as over 100,000 advertisers have used the platform",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/chatgpt-ads-expands-26-new-countries",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
@@ -1810,15 +1810,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7574,
-      "importance": 0.7574,
-      "importance_score": 0.7574,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9433,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1844,94 +1844,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     },
     {
-      "story_id": "story_35d2cfa7a29f",
-      "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-      "url": "https://openai.com/index/openai-models-google-cloud",
-      "primary_url": "https://openai.com/index/openai-models-google-cloud",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_52656109cb74",
+      "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当 / Empowering frontline maternal care with AI-assisted ultrasound",
+      "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+      "primary_url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+      "source": "Google Research：Blog（网页）",
+      "source_name": "AI HOT",
       "sources": [
         {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
+          "id": "6138f7386148f2207a2015bf08b57d8f3a474867",
+          "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当 / Empowering frontline maternal care with AI-assisted ultrasound",
+          "title_zh": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当",
+          "title_en": "Empowering frontline maternal care with AI-assisted ultrasound",
+          "title_original": "Empowering frontline maternal care with AI-assisted ultrasound",
+          "summary": "Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于\"盲扫\"超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z",
+          "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Google Research：Blog（网页）"
       ],
       "items": [
         {
-          "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-          "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-          "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-          "title_en": "OpenAI models are coming to Google Cloud",
-          "title_original": "OpenAI models are coming to Google Cloud",
-          "summary": null,
+          "id": "6138f7386148f2207a2015bf08b57d8f3a474867",
+          "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当 / Empowering frontline maternal care with AI-assisted ultrasound",
+          "title_zh": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当",
+          "title_en": "Empowering frontline maternal care with AI-assisted ultrasound",
+          "title_original": "Empowering frontline maternal care with AI-assisted ultrasound",
+          "summary": "Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于\"盲扫\"超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。",
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-models-google-cloud",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-21T12:00:00Z",
+          "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+          "source": "Google Research：Blog（网页）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-21T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8465,
-      "importance": 0.8465,
-      "importance_score": 0.8465,
+      "score": 0.7467,
+      "importance": 0.7467,
+      "importance_score": 0.7467,
       "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.9,
+        "editorial": 0.63,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9361,
+        "ai_relevance": 1.0,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "official",
       "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-21T12:00:00Z",
-      "latest_at": "2026-10-21T12:00:00Z",
+      "earliest_at": "2026-10-21T00:00:00Z",
+      "latest_at": "2026-10-21T00:00:00Z",
       "primary_item": {
-        "id": "f9967fd7f79780bcb660db5700355cc0ad143dd2",
-        "title": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden / OpenAI models are coming to Google Cloud",
-        "title_zh": "OpenAI 与 Google Cloud 达成合作，OpenAI 模型将进入 Model Garden",
-        "title_en": "OpenAI models are coming to Google Cloud",
-        "title_original": "OpenAI models are coming to Google Cloud",
-        "summary": null,
+        "id": "6138f7386148f2207a2015bf08b57d8f3a474867",
+        "title": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当 / Empowering frontline maternal care with AI-assisted ultrasound",
+        "title_zh": "Google Research 发表 AI 盲扫超声孕周评估研究，准确性与专家操作相当",
+        "title_en": "Empowering frontline maternal care with AI-assisted ultrasound",
+        "title_original": "Empowering frontline maternal care with AI-assisted ultrasound",
+        "summary": "Google Research 在 JAMA Network Open 发表前瞻性多中心研究，评估基于\"盲扫\"超声的 AI 孕周评估模型在不同临床环境和设备上的泛化能力。",
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-models-google-cloud",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://research.google/blog/empowering-frontline-maternal-care-with-ai-assisted-ultrasound",
+        "source": "Google Research：Blog（网页）",
+        "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-21T16:41:48.515943Z"
+        "scored_at": "2026-10-21T18:35:36.045039Z"
       }
     }
   ]
