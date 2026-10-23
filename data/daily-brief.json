@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-23T20:31:48.516163Z",
+  "generated_at": "2026-10-23T22:31:47.448197Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8552,
-      "importance": 0.8552,
-      "importance_score": 0.8552,
+      "score": 0.8504,
+      "importance": 0.8504,
+      "importance_score": 0.8504,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9403,
+        "recency": 0.9135,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,215 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
+      }
+    },
+    {
+      "story_id": "story_f1fd04d99c59",
+      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T10:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T10:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
+          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8472,
+      "importance": 0.8472,
+      "importance_score": 0.8472,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8345,
+        "story_heat": 0.25
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "multi_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T10:00:00Z",
+      "latest_at": "2026-10-23T19:50:56Z",
+      "primary_item": {
+        "id": "c454633931fc080d83f73a727cbc6af5769ae497",
+        "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
+        "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
+        "title_en": "Securing our frontier model training environment",
+        "title_original": "Securing our frontier model training environment",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T22:43:02.423833Z"
+      }
+    },
+    {
+      "story_id": "story_ef0581bb03bf",
+      "title": "Turn notifications into code with the GitHub app in Teams",
+      "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "primary_url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
+          "title": "Turn notifications into code with the GitHub app in Teams",
+          "title_zh": null,
+          "title_en": "Turn notifications into code with the GitHub app in Teams",
+          "title_original": "Turn notifications into code with the GitHub app in Teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T21:29:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
+          "title": "Turn notifications into code with the GitHub app in Teams",
+          "title_zh": null,
+          "title_en": "Turn notifications into code with the GitHub app in Teams",
+          "title_original": "Turn notifications into code with the GitHub app in Teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T21:29:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9852,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T21:29:58Z",
+      "latest_at": "2026-10-23T21:29:58Z",
+      "primary_item": {
+        "id": "7249caaf5d8e4fa74f500b63fd84ef08e048b474",
+        "title": "Turn notifications into code with the GitHub app in Teams",
+        "title_zh": null,
+        "title_en": "Turn notifications into code with the GitHub app in Teams",
+        "title_original": "Turn notifications into code with the GitHub app in Teams",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -139,15 +347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8511,
-      "importance": 0.8511,
-      "importance_score": 0.8511,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9503,
+        "recency": 0.9233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,30 +382,117 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
-      "story_id": "story_3844d9781f45",
-      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "story_id": "story_8df94465a5bc",
+      "title": "Codex CLI 0.164.0",
+      "url": "https://developers.openai.com/codex/changelog",
+      "primary_url": "https://developers.openai.com/codex/changelog",
+      "source": "OpenAI Codex Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
+          "title": "Codex CLI 0.164.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.164.0",
+          "title_original": "Codex CLI 0.164.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI Codex Changelog"
+      ],
+      "items": [
+        {
+          "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
+          "title": "Codex CLI 0.164.0",
+          "title_zh": null,
+          "title_en": "Codex CLI 0.164.0",
+          "title_original": "Codex CLI 0.164.0",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://developers.openai.com/codex/changelog",
+          "source": "OpenAI Codex Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.7223,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T00:00:00Z",
+      "latest_at": "2026-10-23T00:00:00Z",
+      "primary_item": {
+        "id": "46cf2412bc319ea7599997de82d560e558ffac5d",
+        "title": "Codex CLI 0.164.0",
+        "title_zh": null,
+        "title_en": "Codex CLI 0.164.0",
+        "title_original": "Codex CLI 0.164.0",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://developers.openai.com/codex/changelog",
+        "source": "OpenAI Codex Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T22:43:02.423833Z"
+      }
+    },
+    {
+      "story_id": "story_e601481ec54f",
+      "title": "EMU deletions fix",
+      "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
+      "primary_url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-          "title_en": "Enterprise installations for GitHub Apps generally available",
-          "title_original": "Enterprise installations for GitHub Apps generally available",
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU deletions fix",
+          "title_zh": null,
+          "title_en": "EMU deletions fix",
+          "title_original": "EMU deletions fix",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z",
+          "published_at": "2026-10-23T18:56:18Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -208,33 +503,33 @@
       ],
       "items": [
         {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-          "title_en": "Enterprise installations for GitHub Apps generally available",
-          "title_original": "Enterprise installations for GitHub Apps generally available",
+          "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+          "title": "EMU deletions fix",
+          "title_zh": null,
+          "title_en": "EMU deletions fix",
+          "title_original": "EMU deletions fix",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+          "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z",
+          "published_at": "2026-10-23T18:56:18Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8303,
-      "importance": 0.8303,
-      "importance_score": 0.8303,
+      "score": 0.8349,
+      "importance": 0.8349,
+      "importance_score": 0.8349,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.924,
+        "recency": 0.9495,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,17 +538,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-23T15:03:30Z",
-      "latest_at": "2026-10-23T15:03:30Z",
+      "earliest_at": "2026-10-23T18:56:18Z",
+      "latest_at": "2026-10-23T18:56:18Z",
       "primary_item": {
-        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-        "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-        "title_en": "Enterprise installations for GitHub Apps generally available",
-        "title_original": "Enterprise installations for GitHub Apps generally available",
+        "id": "528bd92cad03cc6da0c9082f63cc3b317526cd7f",
+        "title": "EMU deletions fix",
+        "title_zh": null,
+        "title_en": "EMU deletions fix",
+        "title_original": "EMU deletions fix",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+        "url": "https://github.blog/changelog/2026-10-23-emu-deletions-fix",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -261,94 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
-      }
-    },
-    {
-      "story_id": "story_f1fd04d99c59",
-      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T10:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T10:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8266,
-      "importance": 0.8266,
-      "importance_score": 0.8266,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8589,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T10:00:00Z",
-      "latest_at": "2026-10-23T10:00:00Z",
-      "primary_item": {
-        "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-        "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-        "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-        "title_en": "Securing our frontier model training environment",
-        "title_original": "Securing our frontier model training environment",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -400,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7434,
+        "recency": 0.7223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +643,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -487,15 +695,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7832,
-      "importance": 0.7832,
-      "importance_score": 0.7832,
+      "score": 0.7784,
+      "importance": 0.7784,
+      "importance_score": 0.7784,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9367,
+        "recency": 0.91,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,7 +729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -573,15 +781,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7775,
-      "importance": 0.7775,
-      "importance_score": 0.7775,
+      "score": 0.7725,
+      "importance": 0.7725,
+      "importance_score": 0.7725,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9714,
+        "recency": 0.9438,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,94 +815,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
-      }
-    },
-    {
-      "story_id": "story_fde7fea26706",
-      "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
-          "title_en": "GitHub Copilot in Visual Studio — September update",
-          "title_original": "GitHub Copilot in Visual Studio — September update",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:17:51Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
-          "title_en": "GitHub Copilot in Visual Studio — September update",
-          "title_original": "GitHub Copilot in Visual Studio — September update",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T00:17:51Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8064,
-      "importance": 0.8064,
-      "importance_score": 0.8064,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7466,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T00:17:51Z",
-      "latest_at": "2026-10-23T00:17:51Z",
-      "primary_item": {
-        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
-        "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
-        "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
-        "title_en": "GitHub Copilot in Visual Studio — September update",
-        "title_original": "GitHub Copilot in Visual Studio — September update",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -746,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7756,
-      "importance": 0.7756,
-      "importance_score": 0.7756,
+      "score": 0.7706,
+      "importance": 0.7706,
+      "importance_score": 0.7706,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9777,
+        "recency": 0.9499,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,7 +901,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
+      }
+    },
+    {
+      "story_id": "story_3844d9781f45",
+      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
+          "title_en": "Enterprise installations for GitHub Apps generally available",
+          "title_original": "Enterprise installations for GitHub Apps generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T15:03:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
+          "title_en": "Enterprise installations for GitHub Apps generally available",
+          "title_original": "Enterprise installations for GitHub Apps generally available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-23T15:03:30Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8256,
+      "importance": 0.8256,
+      "importance_score": 0.8256,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8977,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-23T15:03:30Z",
+      "latest_at": "2026-10-23T15:03:30Z",
+      "primary_item": {
+        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
+        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
+        "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
+        "title_en": "Enterprise installations for GitHub Apps generally available",
+        "title_original": "Enterprise installations for GitHub Apps generally available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -832,15 +1040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7611,
-      "importance": 0.7611,
-      "importance_score": 0.7611,
+      "score": 0.7562,
+      "importance": 0.7562,
+      "importance_score": 0.7562,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9641,
+        "recency": 0.9366,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -866,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -918,15 +1126,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7568,
-      "importance": 0.7568,
-      "importance_score": 0.7568,
+      "score": 0.7524,
+      "importance": 0.7524,
+      "importance_score": 0.7524,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8568,
+        "recency": 0.8324,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -952,7 +1160,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -1004,21 +1212,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7483,
+      "importance": 0.7483,
+      "importance_score": 0.7483,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8501,
+        "recency": 0.8259,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T09:17:16.350000Z",
       "latest_at": "2026-10-23T09:17:16.350000Z",
@@ -1038,7 +1245,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -1090,21 +1297,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7508,
-      "importance": 0.7508,
-      "importance_score": 0.7508,
+      "score": 0.7461,
+      "importance": 0.7461,
+      "importance_score": 0.7461,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9234,
+        "recency": 0.8971,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T15:00:43Z",
       "latest_at": "2026-10-23T15:00:43Z",
@@ -1124,94 +1330,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
-      }
-    },
-    {
-      "story_id": "story_cabd6fe41d82",
-      "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-      "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "primary_url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-          "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "title_zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体",
-          "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T22:24:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-          "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "title_zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体",
-          "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T22:24:34Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7266,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T22:24:34Z",
-      "latest_at": "2026-10-22T22:24:34Z",
-      "primary_item": {
-        "id": "07204776abfe7c72a874d53eb6d5212bde479474",
-        "title": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体 / Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-        "title_zh": "将数据库评分转化为 RL 奖励：使用 ThinkingBox 进行训练后智能体",
-        "title_en": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-        "title_original": "Turning Database Grading into RL Rewards: Post-Training Agents with ThinkingBox",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/microsoft/thinkingbox-training",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -1263,15 +1382,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7434,
+        "recency": 0.7223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1298,7 +1417,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -1350,15 +1469,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7415,
+      "importance": 0.7415,
+      "importance_score": 0.7415,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8117,
+        "recency": 0.7886,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1383,7 +1502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -1435,15 +1554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7435,
-      "importance": 0.7435,
-      "importance_score": 0.7435,
+      "score": 0.7397,
+      "importance": 0.7397,
+      "importance_score": 0.7397,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7328,
+        "recency": 0.7119,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1468,94 +1587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
-      }
-    },
-    {
-      "story_id": "story_99e301a8a71e",
-      "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
-      "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-      "primary_url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
-          "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
-          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
-          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T22:19:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-          "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
-          "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
-          "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
-          "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-22T22:19:17Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8026,
-      "importance": 0.8026,
-      "importance_score": 0.8026,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7256,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-22T22:19:17Z",
-      "latest_at": "2026-10-22T22:19:17Z",
-      "primary_item": {
-        "id": "d16f1d6ac60a28268ca1ad5910b6fb861ac96ed0",
-        "title": "使用指标 API 中的自定义技能、代理和 MCP 服务器 / Custom skills, agents, and MCP servers in usage metrics API",
-        "title_zh": "使用指标 API 中的自定义技能、代理和 MCP 服务器",
-        "title_en": "Custom skills, agents, and MCP servers in usage metrics API",
-        "title_original": "Custom skills, agents, and MCP servers in usage metrics API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-custom-skills-agents-and-mcp-servers-in-usage-metrics-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
@@ -1607,15 +1639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7551,
+      "importance": 0.7551,
+      "importance_score": 0.7551,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1641,30 +1673,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     },
     {
-      "story_id": "story_ea79a79632a0",
-      "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-      "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+      "story_id": "story_fde7fea26706",
+      "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+      "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
+      "primary_url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-          "title_zh": "Copilot 功能的全局默认设置已全面可用",
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+          "title_en": "GitHub Copilot in Visual Studio — September update",
+          "title_original": "GitHub Copilot in Visual Studio — September update",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z",
+          "published_at": "2026-10-23T00:17:51Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1675,33 +1707,33 @@
       ],
       "items": [
         {
-          "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-          "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-          "title_zh": "Copilot 功能的全局默认设置已全面可用",
-          "title_en": "Global default for Copilot features generally available",
-          "title_original": "Global default for Copilot features generally available",
+          "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+          "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+          "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+          "title_en": "GitHub Copilot in Visual Studio — September update",
+          "title_original": "GitHub Copilot in Visual Studio — September update",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+          "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-22T20:44:28Z",
+          "published_at": "2026-10-23T00:17:51Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7997,
-      "importance": 0.7997,
-      "importance_score": 0.7997,
+      "score": 0.8026,
+      "importance": 0.8026,
+      "importance_score": 0.8026,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7093,
+        "recency": 0.7254,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1710,17 +1742,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-22T20:44:28Z",
-      "latest_at": "2026-10-22T20:44:28Z",
+      "earliest_at": "2026-10-23T00:17:51Z",
+      "latest_at": "2026-10-23T00:17:51Z",
       "primary_item": {
-        "id": "6fbf6465cc070be2afaa5ed6a14206f4f418c014",
-        "title": "Copilot 功能的全局默认设置已全面可用 / Global default for Copilot features generally available",
-        "title_zh": "Copilot 功能的全局默认设置已全面可用",
-        "title_en": "Global default for Copilot features generally available",
-        "title_original": "Global default for Copilot features generally available",
+        "id": "a88735ec39ef7947f5cfe28a64300598600ccc15",
+        "title": "Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update",
+        "title_zh": "Visual Studio 中的 GitHub Copilot — 9 月更新",
+        "title_en": "GitHub Copilot in Visual Studio — September update",
+        "title_original": "GitHub Copilot in Visual Studio — September update",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-22-global-default-for-copilot-features-generally-available",
+        "url": "https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1728,7 +1760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-23T20:33:54.878323Z"
+        "scored_at": "2026-10-23T22:43:02.423833Z"
       }
     }
   ]
