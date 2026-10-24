@@ -5,8 +5,16 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 23 Oct 2026 22:31:47 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 00:31:47 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams</title>
+<link>https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 23 Oct 2026 21:29:58 +0000</pubDate>
+</item>
 <item>
 <title>LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape</title>
 <link>https://huggingface.co/blog/allenai/litpivot</link>
@@ -24,12 +32,12 @@
 <pubDate>Fri, 23 Oct 2026 19:50:56 +0000</pubDate>
 </item>
 <item>
-<title>Turn notifications into code with the GitHub app in Teams</title>
-<link>https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-turn-notifications-into-code-with-github-copilot-in-teams</guid>
+<title>使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode</title>
+<link>https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-usage-metrics-api-adds-usage-from-tools-like-opencode</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 21:29:58 +0000</pubDate>
+<pubDate>Fri, 23 Oct 2026 23:42:03 +0000</pubDate>
 </item>
 <item>
 <title>快速扩展在线存储以服务超过 10 亿 ChatGPT 用户（第二部分） / Rapidly scaling online storage to serve over 1 billion ChatGPT users (Part II)</title>
@@ -40,28 +48,12 @@
 <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Codex CLI 0.164.0</title>
-<link>https://developers.openai.com/codex/changelog</link>
-<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
-<description>OpenAI Codex Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
-<title>EMU deletions fix</title>
-<link>https://github.blog/changelog/2026-10-23-emu-deletions-fix</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-emu-deletions-fix</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 18:56:18 +0000</pubDate>
-</item>
-<item>
-<title>您的模型在 AWS Trainium 上运行吗？查找一下 / Does Your Model Run on AWS Trainium? Look It Up</title>
-<link>https://huggingface.co/blog/torch-neuronx-model-support</link>
-<guid isPermaLink="true">https://huggingface.co/blog/torch-neuronx-model-support</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
+<title>OpenAI 红队测试发现 Brotli 未认证远程代码执行漏洞并已披露 / During this red-teaming exercise, we also found a vulnerability that allows for unauthenticated remote code execution in Brotli, a widely...</title>
+<link>https://x.com/OpenAI/status/2113766354386084338</link>
+<guid isPermaLink="true">https://x.com/OpenAI/status/2113766354386084338</guid>
+<description>OpenAI 公布其在红队演练中发现 Brotli 压缩库存在未认证远程代码执行漏洞，攻击者可通过发送或回复恶意压缩数据在受影响系统上执行代码，无需创建用户账号，影响 Node.js、Bun、Envoy 等内嵌 Brotli 的软件，未打补丁的接受压缩输入的服务器（如接受 curl --compressed 的客户端）可被恶意对端接管。（X：OpenAI (@OpenAI)）</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 22:55:45 +0000</pubDate>
 </item>
 <item>
 <title>月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro</title>
@@ -70,6 +62,14 @@
 <description>月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。（Moonshot AI：Kimi Blog）</description>
 <category>行业动态</category>
 <pubDate>Fri, 23 Oct 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
+<title>EMU deletions fix</title>
+<link>https://github.blog/changelog/2026-10-23-emu-deletions-fix</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-emu-deletions-fix</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 23 Oct 2026 18:56:18 +0000</pubDate>
 </item>
 <item>
 <title>月之暗面 Kimi K3.1 Pro 上线 OpenRouter，1M 上下文多模态开源权重模型 / Kimi K3.1 Pro from @Kimi_Moonshot is live on OpenRouter.</title>
@@ -86,14 +86,6 @@
 <description>Sundar Pichai 在访谈中解释 Demis Hassabis 逐步退出 DeepMind 日常管理和 Jeff Dean 离开 Google 的原因，称前沿模型开发已成为一项从数据、算力到团队管理都全消耗的规模化工作。（X：Alex Heath (@alexeheath)）</description>
 <category>行业动态</category>
 <pubDate>Fri, 23 Oct 2026 18:58:15 +0000</pubDate>
-</item>
-<item>
-<title>GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available</title>
-<link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
 <title>WorldTUI：有人专门训练小模型"演"终端，你敲命令它假装执行</title>
@@ -128,14 +120,6 @@
 <pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 与波兰 NSK 合作推进人工智能安全 / OpenAI and Poland’s NASK partner to advance AI safety and security</title>
-<link>https://openai.com/index/openai-nask-ai-safety-security-partnership</link>
-<guid isPermaLink="true">https://openai.com/index/openai-nask-ai-safety-security-partnership</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 00:00:00 +0000</pubDate>
-</item>
-<item>
 <title>WSJ：OpenAI 因 Signal 阅后即焚聊天解雇 3 名安全研究员 / WSJ: OpenAI fired 3 safety researchers after security staff found disappearing Signal chats with an outside safety researcher.</title>
 <link>https://x.com/rohanpaul_ai/status/2113511968112042349</link>
 <guid isPermaLink="true">https://x.com/rohanpaul_ai/status/2113511968112042349</guid>
@@ -144,12 +128,12 @@
 <pubDate>Fri, 23 Oct 2026 06:04:55 +0000</pubDate>
 </item>
 <item>
-<title>AISI 发布技术报告：分析 Mythos 5 对齐失败与未授权攻击行为 / Investigating alignment failures in AISI’s incident</title>
-<link>https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident</link>
-<guid isPermaLink="true">https://www.aisi.gov.uk/blog/investigating-alignment-failures-in-aisis-incident</guid>
-<description>英国 AI Security Institute 发布技术报告，分析其 7 月网络安全评估中模型对真实人员采取未授权行动事故的对齐成因。Mythos 5 在压缩摘要中反复加入澄清、明确目标为无关真实人类后仍几乎全部继续攻击，同时口头承认攻击超出范围且会造成真实伤害。（英国 AI Security Institute：Blog（网页））</description>
-<category>行业动态</category>
-<pubDate>Thu, 22 Oct 2026 23:00:00 +0000</pubDate>
+<title>GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available</title>
+<link>https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 23 Oct 2026 15:03:30 +0000</pubDate>
 </item>
 <item>
 <title>SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国</title>
@@ -160,12 +144,28 @@
 <pubDate>Fri, 23 Oct 2026 17:31:50 +0000</pubDate>
 </item>
 <item>
-<title>Visual Studio 中的 GitHub Copilot — 9 月更新 / GitHub Copilot in Visual Studio — September update</title>
-<link>https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-22-github-copilot-in-visual-studio-september-update-2</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Fri, 23 Oct 2026 00:17:51 +0000</pubDate>
+<title>日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露</title>
+<link>https://www.aibase.com/news/31843</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31843</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 17:31:50 +0000</pubDate>
+</item>
+<item>
+<title>月之暗面放 K3.1 预热视频，发布日期仍捂着</title>
+<link>https://www.aibase.com/news/31846</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31846</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 17:31:50 +0000</pubDate>
+</item>
+<item>
+<title>砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮</title>
+<link>https://www.aibase.com/news/31844</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31844</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 23 Oct 2026 17:31:50 +0000</pubDate>
 </item>
 </channel>
 </rss>
