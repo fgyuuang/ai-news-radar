@@ -1,162 +1,8 @@
 {
-  "generated_at": "2026-10-24T08:31:46.486749Z",
+  "generated_at": "2026-10-24T10:31:45.846198Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_f1fd04d99c59",
-      "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T10:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-          "title": "保障我们的前沿模型训练环境安全",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": null,
-          "title_original": "保障我们的前沿模型训练环境安全",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T06:38:45.839000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / OpenAI: Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "OpenAI: Securing our frontier model training environment",
-          "title_original": "OpenAI: Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T19:50:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T10:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-          "title": "保障我们的前沿模型训练环境安全",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": null,
-          "title_original": "保障我们的前沿模型训练环境安全",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T06:38:45.839000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
-          "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / OpenAI: Securing our frontier model training environment",
-          "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-          "title_en": "OpenAI: Securing our frontier model training environment",
-          "title_original": "OpenAI: Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T19:50:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.852,
-      "importance": 0.852,
-      "importance_score": 0.852,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7223,
-        "story_heat": 0.5
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T10:00:00Z",
-      "latest_at": "2026-10-24T06:38:45.839000Z",
-      "primary_item": {
-        "id": "c454633931fc080d83f73a727cbc6af5769ae497",
-        "title": "OpenAI 详解前沿模型训练环境的安全加固与红队测试 / Securing our frontier model training environment",
-        "title_zh": "OpenAI 详解前沿模型训练环境的安全加固与红队测试",
-        "title_en": "Securing our frontier model training environment",
-        "title_original": "Securing our frontier model training environment",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
-      }
-    },
     {
       "story_id": "story_f72f49ac2b3d",
       "title": "使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams",
@@ -238,15 +84,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8505,
-      "importance": 0.8505,
-      "importance_score": 0.8505,
+      "score": 0.8461,
+      "importance": 0.8461,
+      "importance_score": 0.8461,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8528,
+        "recency": 0.8285,
         "story_heat": 0.25
       },
       "category": "official",
@@ -274,7 +120,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -326,15 +172,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8283,
-      "importance": 0.8283,
-      "importance_score": 0.8283,
+      "score": 0.8243,
+      "importance": 0.8243,
+      "importance_score": 0.8243,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7907,
+        "recency": 0.7682,
         "story_heat": 0.0
       },
       "category": "official",
@@ -361,7 +207,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -413,15 +259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7991,
+        "recency": 0.7764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -448,7 +294,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -500,15 +346,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8225,
-      "importance": 0.8225,
-      "importance_score": 0.8225,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8803,
+        "recency": 0.8552,
         "story_heat": 0.0
       },
       "category": "official",
@@ -535,7 +381,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -587,15 +433,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7833,
-      "importance": 0.7833,
-      "importance_score": 0.7833,
+      "score": 0.7788,
+      "importance": 0.7788,
+      "importance_score": 0.7788,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8705,
+        "recency": 0.8458,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -621,7 +467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -673,15 +519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7697,
-      "importance": 0.7697,
-      "importance_score": 0.7697,
+      "score": 0.7651,
+      "importance": 0.7651,
+      "importance_score": 0.7651,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9119,
+        "recency": 0.886,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -707,7 +553,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -759,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7564,
-      "importance": 0.7564,
-      "importance_score": 0.7564,
+      "score": 0.7523,
+      "importance": 0.7523,
+      "importance_score": 0.7523,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7877,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -793,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -845,15 +691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8218,
+        "recency": 0.7984,
         "story_heat": 0.0
       },
       "category": "official",
@@ -880,7 +726,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -932,15 +778,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.7936,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -965,7 +811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -1017,15 +863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7476,
-      "importance": 0.7476,
-      "importance_score": 0.7476,
+      "score": 0.7434,
+      "importance": 0.7434,
+      "importance_score": 0.7434,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8222,
+        "recency": 0.7988,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1050,7 +896,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -1102,15 +948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7335,
-      "importance": 0.7335,
-      "importance_score": 0.7335,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8107,
+        "recency": 0.7876,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1135,177 +981,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
-      }
-    },
-    {
-      "story_id": "story_c9d7dab87dc5",
-      "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
-      "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
-      "primary_url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
-          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
-          "title_zh": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
-          "title_en": "OpenAI lowers valuation target, raises up to $30 billion",
-          "title_original": "OpenAI lowers valuation target, raises up to $30 billion",
-          "summary": "OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T09:49:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
-          "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
-          "title_zh": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
-          "title_en": "OpenAI lowers valuation target, raises up to $30 billion",
-          "title_original": "OpenAI lowers valuation target, raises up to $30 billion",
-          "summary": "OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T09:49:38Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7323,
-      "importance": 0.7323,
-      "importance_score": 0.7323,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.77,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7205,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T09:49:38Z",
-      "latest_at": "2026-10-23T09:49:38Z",
-      "primary_item": {
-        "id": "633f7016df6d90dd895ba1dfd4b6b1a890fb1869",
-        "title": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元 / OpenAI lowers valuation target, raises up to $30 billion",
-        "title_zh": "OpenAI 下调估值目标至 1.25 万亿美元，拟融资至多 300 亿美元",
-        "title_en": "OpenAI lowers valuation target, raises up to $30 billion",
-        "title_original": "OpenAI lowers valuation target, raises up to $30 billion",
-        "summary": "OpenAI 接近完成至多 300 亿美元的新一轮融资，但将估值目标从最初的 1.4 万亿美元下调至 1.25 万亿美元。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-lowers-valuation-target-raises-up-to-30-billion",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
-      }
-    },
-    {
-      "story_id": "story_787af4a9c384",
-      "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-      "url": "https://www.ithome.com/1/017/113.htm",
-      "primary_url": "https://www.ithome.com/1/017/113.htm",
-      "source": "IT之家·人工智能",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
-          "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "title_zh": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "title_en": null,
-          "title_original": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/017/113.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T09:17:16.350000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "IT之家·人工智能"
-      ],
-      "items": [
-        {
-          "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
-          "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "title_zh": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "title_en": null,
-          "title_original": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-          "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
-          "recommend_reason_zh": null,
-          "url": "https://www.ithome.com/1/017/113.htm",
-          "source": "IT之家·人工智能",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T09:17:16.350000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7283,
-      "importance": 0.7283,
-      "importance_score": 0.7283,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.76,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7149,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T09:17:16.350000Z",
-      "latest_at": "2026-10-23T09:17:16.350000Z",
-      "primary_item": {
-        "id": "14e26448ab1ee6c4b24452fc703e43c6beb6fb42",
-        "title": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-        "title_zh": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-        "title_en": null,
-        "title_original": "国务院办公厅印发意见：增强 AI 创造就业正面效应，减缓就业替代影响",
-        "summary": "国务院办公厅 10 月 23 日印发《关于适应人工智能技术发展助力构建就业友好型发展方式的意见》，提出增强 AI 创造就业机会、赋能传统岗位的正面效应，有效减缓 AI 应用的就业替代影响。",
-        "recommend_reason_zh": null,
-        "url": "https://www.ithome.com/1/017/113.htm",
-        "source": "IT之家·人工智能",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -1357,15 +1033,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7244,
-      "importance": 0.7244,
-      "importance_score": 0.7244,
+      "score": 0.7204,
+      "importance": 0.7204,
+      "importance_score": 0.7204,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7765,
+        "recency": 0.7544,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1390,7 +1066,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -1442,15 +1118,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8044,
+      "importance": 0.8044,
+      "importance_score": 0.8044,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8026,
+        "recency": 0.7797,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1477,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -1529,15 +1205,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8053,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1562,7 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -1614,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.7999,
+      "importance": 0.7999,
+      "importance_score": 0.7999,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.777,
+        "recency": 0.7549,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1649,7 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -1701,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8053,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1734,7 +1410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     },
     {
@@ -1786,15 +1462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7325,
-      "importance": 0.7325,
-      "importance_score": 0.7325,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8053,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1819,7 +1495,394 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T08:47:28.712958Z"
+        "scored_at": "2026-10-24T10:49:07.554519Z"
+      }
+    },
+    {
+      "story_id": "story_8e35d2e824ae",
+      "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+      "url": "https://www.aibase.com/news/31844",
+      "primary_url": "https://www.aibase.com/news/31844",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
+          "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+          "title_zh": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+          "title_en": null,
+          "title_original": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T17:31:50.692482Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
+          "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+          "title_zh": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+          "title_en": null,
+          "title_original": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31844",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-23T17:31:50.692482Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.7823,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-10-23T17:31:50.692482Z",
+      "latest_at": "2026-10-23T17:31:50.692482Z",
+      "primary_item": {
+        "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
+        "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+        "title_zh": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+        "title_en": null,
+        "title_original": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31844",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T10:49:07.554519Z"
+      }
+    },
+    {
+      "story_id": "story_2d6a804257f9",
+      "title": "MOVO AI — 全球首个移动长视频代理 / MOVO AI — The world's first long-form video agent for mobile",
+      "url": "https://www.producthunt.com/products/movo-ai",
+      "primary_url": "https://www.producthunt.com/products/movo-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "ca7bebad234d561f902097e6ca05fe4a39b8d0cf",
+          "title": "MOVO AI — 全球首个移动长视频代理 / MOVO AI — The world's first long-form video agent for mobile",
+          "title_zh": "MOVO AI — 全球首个移动长视频代理",
+          "title_en": "MOVO AI — The world's first long-form video agent for mobile",
+          "title_original": "MOVO AI — The world's first long-form video agent for mobile",
+          "summary": "The world's first long-form video agent for mobile",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/movo-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-09-19T05:45:58Z",
+          "updated_at": "2026-10-24T10:26:16Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "b3a6201ecc9d1f2cb97f484272ee4cb5ca4f7526",
+          "title": "MOVO AI",
+          "title_zh": null,
+          "title_en": "MOVO AI",
+          "title_original": "MOVO AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/movo-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T18:33:30.852000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "ca7bebad234d561f902097e6ca05fe4a39b8d0cf",
+          "title": "MOVO AI — 全球首个移动长视频代理 / MOVO AI — The world's first long-form video agent for mobile",
+          "title_zh": "MOVO AI — 全球首个移动长视频代理",
+          "title_en": "MOVO AI — The world's first long-form video agent for mobile",
+          "title_original": "MOVO AI — The world's first long-form video agent for mobile",
+          "summary": "The world's first long-form video agent for mobile",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/movo-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-09-19T05:45:58Z",
+          "updated_at": "2026-10-24T10:26:16Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "b3a6201ecc9d1f2cb97f484272ee4cb5ca4f7526",
+          "title": "MOVO AI",
+          "title_zh": null,
+          "title_en": "MOVO AI",
+          "title_original": "MOVO AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/movo-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T18:33:30.852000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9987,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-23T18:33:30.852000Z",
+      "latest_at": "2026-10-24T10:26:16Z",
+      "primary_item": {
+        "id": "ca7bebad234d561f902097e6ca05fe4a39b8d0cf",
+        "title": "MOVO AI — 全球首个移动长视频代理 / MOVO AI — The world's first long-form video agent for mobile",
+        "title_zh": "MOVO AI — 全球首个移动长视频代理",
+        "title_en": "MOVO AI — The world's first long-form video agent for mobile",
+        "title_original": "MOVO AI — The world's first long-form video agent for mobile",
+        "summary": "The world's first long-form video agent for mobile",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/movo-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T10:49:07.554519Z"
+      }
+    },
+    {
+      "story_id": "story_f0a38c05d3f1",
+      "title": "保障我们的前沿模型训练环境安全",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": null,
+          "title_original": "保障我们的前沿模型训练环境安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
+          "title": "保障我们的前沿模型训练环境安全 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "a7086ee562b0800075d22b8de9de8b3f54d559ac",
+          "title": "OpenAI：保护我们的前沿模型训练环境 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "OpenAI：保护我们的前沿模型训练环境",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50214416",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
+          "title": "保障我们的前沿模型训练环境安全 / Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": null,
+          "title_original": "保障我们的前沿模型训练环境安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
+          "title": "保障我们的前沿模型训练环境安全 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "a7086ee562b0800075d22b8de9de8b3f54d559ac",
+          "title": "OpenAI：保护我们的前沿模型训练环境 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "OpenAI：保护我们的前沿模型训练环境",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50214416",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
+          "title": "保障我们的前沿模型训练环境安全 / Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.586,
+      "importance": 0.586,
+      "importance_score": 0.586,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9455,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-23T19:50:56Z",
+      "latest_at": "2026-10-24T06:38:45.839000Z",
+      "primary_item": {
+        "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+        "title": "保障我们的前沿模型训练环境安全",
+        "title_zh": "保障我们的前沿模型训练环境安全",
+        "title_en": null,
+        "title_original": "保障我们的前沿模型训练环境安全",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T10:49:07.554519Z"
       }
     }
   ]
