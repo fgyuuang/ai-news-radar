@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Sat, 24 Oct 2026 10:31:45 +0000</lastBuildDate>
+<lastBuildDate>Sat, 24 Oct 2026 12:31:45 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>使用 Teams 中的 GitHub Copilot 将通知转换为代码 / Turn notifications into code with GitHub Copilot in Teams</title>
@@ -30,6 +30,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Fri, 23 Oct 2026 17:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache</title>
+<link>https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</link>
+<guid isPermaLink="true">https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache</guid>
+<description>OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Sat, 24 Oct 2026 11:12:36 +0000</pubDate>
 </item>
 <item>
 <title>使用指标 API 添加了 OpenCode 等工具的使用情况 / Usage metrics API adds usage from tools like OpenCode</title>
@@ -96,14 +104,6 @@
 <pubDate>Fri, 23 Oct 2026 17:59:50 +0000</pubDate>
 </item>
 <item>
-<title>Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.</title>
-<link>https://x.com/fal/status/2113646807997620396</link>
-<guid isPermaLink="true">https://x.com/fal/status/2113646807997620396</guid>
-<description>fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。（X：fal (@fal)）</description>
-<category>行业动态</category>
-<pubDate>Fri, 23 Oct 2026 15:00:43 +0000</pubDate>
-</item>
-<item>
 <title>公共监控增加了分类、有效性、API 和 webhooks / Public monitoring adds triage, validity, API, and webhooks</title>
 <link>https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-10-23-public-monitoring-adds-triage-validity-api-and-webhooks</guid>
@@ -144,6 +144,14 @@
 <pubDate>Fri, 23 Oct 2026 17:31:50 +0000</pubDate>
 </item>
 <item>
+<title>Nutlope/hallmark — Claude Code、Cursor 和 Codex 的反 AI 设计技巧。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.</title>
+<link>https://github.com/Nutlope/hallmark</link>
+<guid isPermaLink="true">https://github.com/Nutlope/hallmark</guid>
+<description>Anti-AI-slop design skill for Claude Code, Cursor, and Codex.（GitHub Trending）</description>
+<category>值得关注</category>
+<pubDate>Sat, 24 Oct 2026 12:31:45 +0000</pubDate>
+</item>
+<item>
 <title>砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮</title>
 <link>https://www.aibase.com/news/31844</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31844</guid>
@@ -152,20 +160,12 @@
 <pubDate>Fri, 23 Oct 2026 17:31:50 +0000</pubDate>
 </item>
 <item>
-<title>MOVO AI — 全球首个移动长视频代理 / MOVO AI — The world's first long-form video agent for mobile</title>
-<link>https://www.producthunt.com/products/movo-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/movo-ai</guid>
-<description>The world's first long-form video agent for mobile（Product Hunt）</description>
+<title>1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords</title>
+<link>https://www.producthunt.com/products/1password</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/1password</guid>
+<description>Let AI agents sign in for you without seeing your passwords（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Sat, 24 Oct 2026 10:26:16 +0000</pubDate>
-</item>
-<item>
-<title>保障我们的前沿模型训练环境安全</title>
-<link>https://openai.com/index/securing-our-frontier-model-training-environment</link>
-<guid isPermaLink="true">https://openai.com/index/securing-our-frontier-model-training-environment</guid>
-<description>openai.com</description>
-<category>多源热议</category>
-<pubDate>Sat, 24 Oct 2026 06:38:45 +0000</pubDate>
+<pubDate>Sat, 24 Oct 2026 12:31:14 +0000</pubDate>
 </item>
 </channel>
 </rss>

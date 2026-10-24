@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:31:45.846198Z",
+  "generated_at": "2026-10-24T12:31:45.502611Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -84,15 +84,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8461,
-      "importance": 0.8461,
-      "importance_score": 0.8461,
+      "score": 0.8419,
+      "importance": 0.8419,
+      "importance_score": 0.8419,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8285,
+        "recency": 0.8049,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,7 +120,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -172,15 +172,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8243,
-      "importance": 0.8243,
-      "importance_score": 0.8243,
+      "score": 0.8203,
+      "importance": 0.8203,
+      "importance_score": 0.8203,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7682,
+        "recency": 0.7463,
         "story_heat": 0.0
       },
       "category": "official",
@@ -207,7 +207,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -259,15 +259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7764,
+        "recency": 0.7543,
         "story_heat": 0.0
       },
       "category": "official",
@@ -294,7 +294,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
+      }
+    },
+    {
+      "story_id": "story_57b57c29f36c",
+      "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+      "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+      "primary_url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+      "source": "The Decoder：AI News（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
+          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-24T11:12:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Decoder：AI News（RSS）"
+      ],
+      "items": [
+        {
+          "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
+          "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+          "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+          "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+          "source": "The Decoder：AI News（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-24T11:12:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.82,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9811,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-24T11:12:36Z",
+      "latest_at": "2026-10-24T11:12:36Z",
+      "primary_item": {
+        "id": "b89f63b4fd497217f8aab5d9f7dd940f3bf706d2",
+        "title": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信 / OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+        "title_zh": "OpenAI 智能体在隔离测试中借 CPU 缓存隐蔽通信",
+        "title_en": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+        "title_original": "OpenAI's isolated AI agents found ways to talk to each other through CPU cache",
+        "summary": "OpenAI 介绍其前沿模型训练已完全断网，并用 AI 智能体红队测试自家基础设施。隔离测试中，智能体在无网络、无共享文件的条件下通过 CPU 缓存时序差异、共享内存写入模式等侧信道通信，甚至独立建立编码方案交换信息。",
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/openais-isolated-ai-agents-found-ways-to-talk-to-each-other-through-cpu-cache",
+        "source": "The Decoder：AI News（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -346,15 +432,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.8136,
+      "importance": 0.8136,
+      "importance_score": 0.8136,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8552,
+        "recency": 0.8309,
         "story_heat": 0.0
       },
       "category": "official",
@@ -381,7 +467,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -433,15 +519,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7788,
-      "importance": 0.7788,
-      "importance_score": 0.7788,
+      "score": 0.7745,
+      "importance": 0.7745,
+      "importance_score": 0.7745,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8458,
+        "recency": 0.8217,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -467,7 +553,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -519,15 +605,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7651,
-      "importance": 0.7651,
-      "importance_score": 0.7651,
+      "score": 0.7605,
+      "importance": 0.7605,
+      "importance_score": 0.7605,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.886,
+        "recency": 0.8607,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -553,7 +639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -605,21 +691,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7523,
-      "importance": 0.7523,
-      "importance_score": 0.7523,
+      "score": 0.7484,
+      "importance": 0.7484,
+      "importance_score": 0.7484,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7652,
+        "recency": 0.7434,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-23T16:00:00Z",
       "latest_at": "2026-10-23T16:00:00Z",
@@ -639,7 +724,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -691,15 +776,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8077,
-      "importance": 0.8077,
-      "importance_score": 0.8077,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7984,
+        "recency": 0.7757,
         "story_heat": 0.0
       },
       "category": "official",
@@ -726,7 +811,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -778,15 +863,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7455,
-      "importance": 0.7455,
-      "importance_score": 0.7455,
+      "score": 0.7414,
+      "importance": 0.7414,
+      "importance_score": 0.7414,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7936,
+        "recency": 0.771,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -811,7 +896,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -863,15 +948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7988,
+        "recency": 0.776,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -896,7 +981,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -948,15 +1033,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7294,
-      "importance": 0.7294,
-      "importance_score": 0.7294,
+      "score": 0.7253,
+      "importance": 0.7253,
+      "importance_score": 0.7253,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7876,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -981,92 +1066,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
-      }
-    },
-    {
-      "story_id": "story_797f8648bce2",
-      "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-      "url": "https://x.com/fal/status/2113646807997620396",
-      "primary_url": "https://x.com/fal/status/2113646807997620396",
-      "source": "X：fal (@fal)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
-          "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "title_zh": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
-          "title_en": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "title_original": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/fal/status/2113646807997620396",
-          "source": "X：fal (@fal)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T15:00:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：fal (@fal)"
-      ],
-      "items": [
-        {
-          "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
-          "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "title_zh": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
-          "title_en": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "title_original": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-          "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/fal/status/2113646807997620396",
-          "source": "X：fal (@fal)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T15:00:43Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7204,
-      "importance": 0.7204,
-      "importance_score": 0.7204,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7544,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T15:00:43Z",
-      "latest_at": "2026-10-23T15:00:43Z",
-      "primary_item": {
-        "id": "609513e2208e8c438d625d4ee2414d57e9ef1bbd",
-        "title": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问 / Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-        "title_zh": "Kling 4.0 在 fal 上线并向所有客户开放 API 访问",
-        "title_en": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-        "title_original": "Kling 4.0 is now publicly available on fal, with API access open to all customers.",
-        "summary": "fal 宣布 Kling 4.0 正式向公众开放，所有客户均可通过 API 访问。该模型支持最长 30 秒带音频的原生视频生成、最多 15 个图像/视频/元素参考、最多 10 个关键帧的精确控制，并提升了运动、角色一致性和电影感叙事表现。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/fal/status/2113646807997620396",
-        "source": "X：fal (@fal)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -1118,15 +1118,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8044,
-      "importance": 0.8044,
-      "importance_score": 0.8044,
+      "score": 0.8004,
+      "importance": 0.8004,
+      "importance_score": 0.8004,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7797,
+        "recency": 0.7575,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1153,7 +1153,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -1205,15 +1205,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1238,7 +1238,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -1290,15 +1290,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7999,
-      "importance": 0.7999,
-      "importance_score": 0.7999,
+      "score": 0.796,
+      "importance": 0.796,
+      "importance_score": 0.796,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7549,
+        "recency": 0.7334,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1325,7 +1325,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -1377,15 +1377,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1410,7 +1410,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -1462,15 +1462,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1495,7 +1495,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
+      }
+    },
+    {
+      "story_id": "story_7a4322ec5389",
+      "title": "Nutlope/hallmark — Claude Code、Cursor 和 Codex 的反 AI 设计技巧。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+      "url": "https://github.com/Nutlope/hallmark",
+      "primary_url": "https://github.com/Nutlope/hallmark",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "80ec33d5c12546974efa1fb7fd168bd4d0eee75b",
+          "title": "Nutlope/hallmark — Claude Code、Cursor 和 Codex 的反 AI 设计技巧。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "title_zh": "Nutlope/hallmark — Claude Code、Cursor 和 Codex 的反 AI 设计技巧。",
+          "title_en": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "title_original": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
+          "title": "Nutlope /      hallmark",
+          "title_zh": null,
+          "title_en": "Nutlope /      hallmark",
+          "title_original": "Nutlope /      hallmark",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:08:26.217000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "80ec33d5c12546974efa1fb7fd168bd4d0eee75b",
+          "title": "Nutlope/hallmark — Claude Code、Cursor 和 Codex 的反 AI 设计技巧。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "title_zh": "Nutlope/hallmark — Claude Code、Cursor 和 Codex 的反 AI 设计技巧。",
+          "title_en": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "title_original": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "c184ec6af08c879301b34b3fa32262ce94b7724f",
+          "title": "Nutlope /      hallmark",
+          "title_zh": null,
+          "title_en": "Nutlope /      hallmark",
+          "title_original": "Nutlope /      hallmark",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/Nutlope/hallmark",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:08:26.217000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6067,
+      "importance": 0.6067,
+      "importance_score": 0.6067,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.54,
+        "ai_relevance": 0.68,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T12:08:26.217000Z",
+      "latest_at": "2026-10-24T12:31:45.502611Z",
+      "primary_item": {
+        "id": "80ec33d5c12546974efa1fb7fd168bd4d0eee75b",
+        "title": "Nutlope/hallmark — Claude Code、Cursor 和 Codex 的反 AI 设计技巧。 / Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "title_zh": "Nutlope/hallmark — Claude Code、Cursor 和 Codex 的反 AI 设计技巧。",
+        "title_en": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "title_original": "Nutlope/hallmark — Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "summary": "Anti-AI-slop design skill for Claude Code, Cursor, and Codex.",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/Nutlope/hallmark",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
@@ -1547,15 +1665,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7244,
+      "importance": 0.7244,
+      "importance_score": 0.7244,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1580,46 +1698,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     },
     {
-      "story_id": "story_2d6a804257f9",
-      "title": "MOVO AI — 全球首个移动长视频代理 / MOVO AI — The world's first long-form video agent for mobile",
-      "url": "https://www.producthunt.com/products/movo-ai",
-      "primary_url": "https://www.producthunt.com/products/movo-ai",
+      "story_id": "story_a2b6dffb1943",
+      "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+      "url": "https://www.producthunt.com/products/1password",
+      "primary_url": "https://www.producthunt.com/products/1password",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "ca7bebad234d561f902097e6ca05fe4a39b8d0cf",
-          "title": "MOVO AI — 全球首个移动长视频代理 / MOVO AI — The world's first long-form video agent for mobile",
-          "title_zh": "MOVO AI — 全球首个移动长视频代理",
-          "title_en": "MOVO AI — The world's first long-form video agent for mobile",
-          "title_original": "MOVO AI — The world's first long-form video agent for mobile",
-          "summary": "The world's first long-form video agent for mobile",
+          "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
+          "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "title_zh": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码",
+          "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "summary": "Let AI agents sign in for you without seeing your passwords",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/movo-ai",
+          "url": "https://www.producthunt.com/products/1password",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-09-19T05:45:58Z",
-          "updated_at": "2026-10-24T10:26:16Z",
+          "published_at": "2026-10-22T18:14:06Z",
+          "updated_at": "2026-10-24T12:31:14Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "b3a6201ecc9d1f2cb97f484272ee4cb5ca4f7526",
-          "title": "MOVO AI",
+          "id": "887581b7c296654b5c203befe0d92d1f6bb80ba2",
+          "title": "1Password for Agents",
           "title_zh": null,
-          "title_en": "MOVO AI",
-          "title_original": "MOVO AI",
+          "title_en": "1Password for Agents",
+          "title_original": "1Password for Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/movo-ai",
+          "url": "https://www.producthunt.com/products/1password",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-23T18:33:30.852000Z",
+          "published_at": "2026-10-24T12:06:34.781000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1631,66 +1749,66 @@
       ],
       "items": [
         {
-          "id": "ca7bebad234d561f902097e6ca05fe4a39b8d0cf",
-          "title": "MOVO AI — 全球首个移动长视频代理 / MOVO AI — The world's first long-form video agent for mobile",
-          "title_zh": "MOVO AI — 全球首个移动长视频代理",
-          "title_en": "MOVO AI — The world's first long-form video agent for mobile",
-          "title_original": "MOVO AI — The world's first long-form video agent for mobile",
-          "summary": "The world's first long-form video agent for mobile",
+          "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
+          "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "title_zh": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码",
+          "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+          "summary": "Let AI agents sign in for you without seeing your passwords",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/movo-ai",
+          "url": "https://www.producthunt.com/products/1password",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-09-19T05:45:58Z",
-          "updated_at": "2026-10-24T10:26:16Z",
+          "published_at": "2026-10-22T18:14:06Z",
+          "updated_at": "2026-10-24T12:31:14Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "b3a6201ecc9d1f2cb97f484272ee4cb5ca4f7526",
-          "title": "MOVO AI",
+          "id": "887581b7c296654b5c203befe0d92d1f6bb80ba2",
+          "title": "1Password for Agents",
           "title_zh": null,
-          "title_en": "MOVO AI",
-          "title_original": "MOVO AI",
+          "title_en": "1Password for Agents",
+          "title_original": "1Password for Agents",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/movo-ai",
+          "url": "https://www.producthunt.com/products/1password",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-10-23T18:33:30.852000Z",
+          "published_at": "2026-10-24T12:06:34.781000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9987,
+        "recency": 0.9999,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-10-23T18:33:30.852000Z",
-      "latest_at": "2026-10-24T10:26:16Z",
+      "earliest_at": "2026-10-24T12:06:34.781000Z",
+      "latest_at": "2026-10-24T12:31:14Z",
       "primary_item": {
-        "id": "ca7bebad234d561f902097e6ca05fe4a39b8d0cf",
-        "title": "MOVO AI — 全球首个移动长视频代理 / MOVO AI — The world's first long-form video agent for mobile",
-        "title_zh": "MOVO AI — 全球首个移动长视频代理",
-        "title_en": "MOVO AI — The world's first long-form video agent for mobile",
-        "title_original": "MOVO AI — The world's first long-form video agent for mobile",
-        "summary": "The world's first long-form video agent for mobile",
+        "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
+        "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+        "title_zh": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码",
+        "title_en": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+        "title_original": "1Password for Agents — Let AI agents sign in for you without seeing your passwords",
+        "summary": "Let AI agents sign in for you without seeing your passwords",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/movo-ai",
+        "url": "https://www.producthunt.com/products/1password",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1698,191 +1816,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
-      }
-    },
-    {
-      "story_id": "story_f0a38c05d3f1",
-      "title": "保障我们的前沿模型训练环境安全",
-      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-      "source": "openai.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-          "title": "保障我们的前沿模型训练环境安全",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": null,
-          "title_original": "保障我们的前沿模型训练环境安全",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T06:38:45.839000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
-          "title": "保障我们的前沿模型训练环境安全 / OpenAI: Securing our frontier model training environment",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": "OpenAI: Securing our frontier model training environment",
-          "title_original": "OpenAI: Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T19:50:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a7086ee562b0800075d22b8de9de8b3f54d559ac",
-          "title": "OpenAI：保护我们的前沿模型训练环境 / OpenAI: Securing our frontier model training environment",
-          "title_zh": "OpenAI：保护我们的前沿模型训练环境",
-          "title_en": "OpenAI: Securing our frontier model training environment",
-          "title_original": "OpenAI: Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50214416",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-23T19:50:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
-          "title": "保障我们的前沿模型训练环境安全 / Securing our frontier model training environment",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:50:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 4,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "hackernews",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-          "title": "保障我们的前沿模型训练环境安全",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": null,
-          "title_original": "保障我们的前沿模型训练环境安全",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-10-24T06:38:45.839000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
-          "title": "保障我们的前沿模型训练环境安全 / OpenAI: Securing our frontier model training environment",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": "OpenAI: Securing our frontier model training environment",
-          "title_original": "OpenAI: Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-10-23T19:50:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a7086ee562b0800075d22b8de9de8b3f54d559ac",
-          "title": "OpenAI：保护我们的前沿模型训练环境 / OpenAI: Securing our frontier model training environment",
-          "title_zh": "OpenAI：保护我们的前沿模型训练环境",
-          "title_en": "OpenAI: Securing our frontier model training environment",
-          "title_original": "OpenAI: Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50214416",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-10-23T19:50:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
-          "title": "保障我们的前沿模型训练环境安全 / Securing our frontier model training environment",
-          "title_zh": "保障我们的前沿模型训练环境安全",
-          "title_en": "Securing our frontier model training environment",
-          "title_original": "Securing our frontier model training environment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-10-23T19:50:56Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 4,
-      "duplicate_count": 4,
-      "score": 0.586,
-      "importance": 0.586,
-      "importance_score": 0.586,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9455,
-        "story_heat": 0.75
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-10-23T19:50:56Z",
-      "latest_at": "2026-10-24T06:38:45.839000Z",
-      "primary_item": {
-        "id": "1918442280c89123af768e8d5ef1c994a2bace17",
-        "title": "保障我们的前沿模型训练环境安全",
-        "title_zh": "保障我们的前沿模型训练环境安全",
-        "title_en": null,
-        "title_original": "保障我们的前沿模型训练环境安全",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
-        "source": "openai.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T10:49:07.554519Z"
+        "scored_at": "2026-10-24T12:35:30.522416Z"
       }
     }
   ]

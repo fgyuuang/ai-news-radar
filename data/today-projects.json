@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T10:33:25.631056Z",
+  "generated_at": "2026-10-24T12:33:45.815756Z",
   "date": "2026-10-24",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-24T10:31:45.846198Z"
+      "observed_at": "2026-10-24T12:31:45.502611Z"
     },
     {
       "id": "project_ccd119e9800a",
@@ -27,37 +27,37 @@
       "recommend_reason_zh": "体验它主打的「Vibe code, publish, and monetize games with AI」，看看是否解决你当前的问题。",
       "recommend_reason_en": "Try what it promises (\"Vibe code, publish, and monetize games with AI\") and see whether it solves a problem you have right now.",
       "published_at": "2026-10-15T17:34:35Z",
-      "updated_at": "2026-10-24T10:30:49Z",
+      "updated_at": "2026-10-24T12:31:13Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-24T10:33:09.062220Z"
+      "observed_at": "2026-10-24T12:33:22.089853Z"
     },
     {
-      "id": "project_618e8fb74c6c",
-      "project_name": "anthropics/knowledge-work-plugins",
-      "url": "https://github.com/anthropics/knowledge-work-plugins",
-      "summary": "Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork",
+      "id": "project_4dcdb9557827",
+      "project_name": "NVIDIA/OpenShell",
+      "url": "https://github.com/NVIDIA/OpenShell",
+      "summary": "OpenShell is the safe, private runtime for autonomous AI agents.",
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"Open source repository of plugins primarily intended for knowledge workers to use in Claude Cowork\") and judge whether it fits a task you have on hand.",
+      "recommend_reason_zh": "看看这个开源项目的「OpenShell is the safe, private runtime for autonomous AI agents」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"OpenShell is the safe, private runtime for autonomous AI agents\") and judge whether it fits a task you have on hand.",
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-24T10:31:45.846198Z"
+      "observed_at": "2026-10-24T12:31:45.502611Z"
     },
     {
-      "id": "project_648b2a3795e6",
-      "project_name": "Canva Craft",
-      "url": "https://www.producthunt.com/products/canva",
-      "summary": "Turn prompts into design-ready images you can edit",
+      "id": "project_fc8d0a4209c2",
+      "project_name": "LinkIntel",
+      "url": "https://www.producthunt.com/products/linkintel",
+      "summary": "Post insights delivered direct to your AI",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Turn prompts into design-ready images you can edit」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Turn prompts into design-ready images you can edit\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-23T08:41:59Z",
-      "updated_at": "2026-10-24T10:32:15Z",
+      "recommend_reason_zh": "体验它主打的「Post insights delivered direct to your AI」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Post insights delivered direct to your AI\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-14T21:47:26Z",
+      "updated_at": "2026-10-24T12:32:57Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-24T10:33:09.062220Z"
+      "observed_at": "2026-10-24T12:33:22.089853Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 8,
-      "duration_ms": 2285,
+      "item_count": 10,
+      "duration_ms": 3032,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1130,
+      "duration_ms": 1164,
       "error": null
     }
   ]
