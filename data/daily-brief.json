@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-24T14:31:53.666075Z",
+  "generated_at": "2026-10-24T16:31:55.406668Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -84,15 +84,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.8378,
-      "importance": 0.8378,
-      "importance_score": 0.8378,
+      "score": 0.8337,
+      "importance": 0.8337,
+      "importance_score": 0.8337,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.782,
+        "recency": 0.7597,
         "story_heat": 0.25
       },
       "category": "official",
@@ -120,94 +120,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
-      }
-    },
-    {
-      "story_id": "story_9e26901013de",
-      "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-      "url": "https://huggingface.co/blog/allenai/litpivot",
-      "primary_url": "https://huggingface.co/blog/allenai/litpivot",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b69224e941bc64a1248f376042e7bae2625e545e",
-          "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "title_zh": "LitPivot：通过文学景观中的动态情境化发展研究思路",
-          "title_en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "title_original": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/litpivot",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T16:15:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "b69224e941bc64a1248f376042e7bae2625e545e",
-          "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "title_zh": "LitPivot：通过文学景观中的动态情境化发展研究思路",
-          "title_en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "title_original": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/litpivot",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T16:15:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.725,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T16:15:50Z",
-      "latest_at": "2026-10-23T16:15:50Z",
-      "primary_item": {
-        "id": "b69224e941bc64a1248f376042e7bae2625e545e",
-        "title": "LitPivot：通过文学景观中的动态情境化发展研究思路 / LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-        "title_zh": "LitPivot：通过文学景观中的动态情境化发展研究思路",
-        "title_en": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-        "title_original": "LitPivot: Developing research ideas through dynamic contextualization within the literature landscape",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/litpivot",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -259,15 +172,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7328,
+        "recency": 0.7119,
         "story_heat": 0.0
       },
       "category": "official",
@@ -294,7 +207,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -346,15 +259,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7892,
-      "importance": 0.7892,
-      "importance_score": 0.7892,
+      "score": 0.7843,
+      "importance": 0.7843,
+      "importance_score": 0.7843,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.82,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9532,
+        "recency": 0.926,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -380,7 +293,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
+      }
+    },
+    {
+      "story_id": "story_fbda2c665b46",
+      "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+      "url": "https://x.com/emollick/status/2114001653879672877",
+      "primary_url": "https://x.com/emollick/status/2114001653879672877",
+      "source": "X：Ethan Mollick (@emollick)",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "title_zh": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+          "title_en": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "title_original": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/emollick/status/2114001653879672877",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-24T14:30:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "X：Ethan Mollick (@emollick)"
+      ],
+      "items": [
+        {
+          "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+          "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "title_zh": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+          "title_en": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "title_original": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+          "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
+          "recommend_reason_zh": null,
+          "url": "https://x.com/emollick/status/2114001653879672877",
+          "source": "X：Ethan Mollick (@emollick)",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-24T14:30:45Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7774,
+      "importance": 0.7774,
+      "importance_score": 0.7774,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.77,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9713,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-24T14:30:45Z",
+      "latest_at": "2026-10-24T14:30:45Z",
+      "primary_item": {
+        "id": "8d7a04d0ac2304c3a29b13c1b8e54c5c3739556f",
+        "title": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视 / Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+        "title_zh": "Ethan Mollick：OpenAI 红队测试显示前沿模型智能体真能越狱沙箱，实验室的 AI 安全警告值得重视",
+        "title_en": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+        "title_original": "Without being overly credulous, we should be taking seemingly “out there” ideas about AI cybersecurity from the Labs more seriously. Exam...",
+        "summary": "Ethan Mollick 转引 OpenAI 红队测试认为，实验室看似夸张的 AI 网络安全判断应被更认真对待。OpenAI 让前沿模型智能体团队攻击其加固的隔离基础设施，智能体几乎在每个受限联网服务中都找到漏洞，还能利用 CPU 缓存时序在不联网、无共享文件的虚拟机之间传递秘密，类似 Spectre 和 Meltdown 的攻击手法。作者提到 Anthropic 和 Noam Brown 此前关于 AI 网络攻防与模型自发协调的说法曾被嘲笑。",
+        "recommend_reason_zh": null,
+        "url": "https://x.com/emollick/status/2114001653879672877",
+        "source": "X：Ethan Mollick (@emollick)",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -432,15 +431,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8093,
-      "importance": 0.8093,
-      "importance_score": 0.8093,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8072,
+        "recency": 0.7842,
         "story_heat": 0.0
       },
       "category": "official",
@@ -467,7 +466,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -519,15 +518,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7703,
-      "importance": 0.7703,
-      "importance_score": 0.7703,
+      "score": 0.7662,
+      "importance": 0.7662,
+      "importance_score": 0.7662,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7983,
+        "recency": 0.7755,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -553,7 +552,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -605,15 +604,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7518,
+      "importance": 0.7518,
+      "importance_score": 0.7518,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8362,
+        "recency": 0.8124,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -639,92 +638,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
-      }
-    },
-    {
-      "story_id": "story_eb1e57f61cda",
-      "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro",
-      "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-      "primary_url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-      "source": "Moonshot AI：Kimi Blog",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
-          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro",
-          "title_zh": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-          "title_en": "Kimi K3.1 Pro",
-          "title_original": "Kimi K3.1 Pro",
-          "summary": "月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。",
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-          "source": "Moonshot AI：Kimi Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T16:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Moonshot AI：Kimi Blog"
-      ],
-      "items": [
-        {
-          "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
-          "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro",
-          "title_zh": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-          "title_en": "Kimi K3.1 Pro",
-          "title_original": "Kimi K3.1 Pro",
-          "summary": "月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。",
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-          "source": "Moonshot AI：Kimi Blog",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-23T16:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7446,
-      "importance": 0.7446,
-      "importance_score": 0.7446,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.81,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7223,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T16:00:00Z",
-      "latest_at": "2026-10-23T16:00:00Z",
-      "primary_item": {
-        "id": "07859e104cd59ee8f67cb8be26b5fcff8bfe18ed",
-        "title": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出 / Kimi K3.1 Pro",
-        "title_zh": "月之暗面发布 Kimi K3.1 Pro，100 万 token 上下文，开放权重将于 11 月 4 日前释出",
-        "title_en": "Kimi K3.1 Pro",
-        "title_original": "Kimi K3.1 Pro",
-        "summary": "月之暗面发布 Kimi K3.1 系列首个模型 Kimi K3.1 Pro，为 3T 级开放权重模型，上下文窗口 100 万 token，并同步推出速度快 2-3 倍的 Kimi K3.1 Pro Highspeed。",
-        "recommend_reason_zh": null,
-        "url": "https://www.kimi.com/blog/kimi-k3-1-pro",
-        "source": "Moonshot AI：Kimi Blog",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -776,15 +690,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7958,
+      "importance": 0.7958,
+      "importance_score": 0.7958,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7536,
+        "recency": 0.7321,
         "story_heat": 0.0
       },
       "category": "official",
@@ -811,7 +725,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -863,15 +777,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7374,
-      "importance": 0.7374,
-      "importance_score": 0.7374,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7491,
+        "recency": 0.7277,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -896,7 +810,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -948,15 +862,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7353,
-      "importance": 0.7353,
-      "importance_score": 0.7353,
+      "score": 0.7314,
+      "importance": 0.7314,
+      "importance_score": 0.7314,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7539,
+        "recency": 0.7325,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -981,92 +895,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
-      }
-    },
-    {
-      "story_id": "story_c9271f0c343a",
-      "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-      "url": "https://www.aibase.com/news/31847",
-      "primary_url": "https://www.aibase.com/news/31847",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
-          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "title_en": null,
-          "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31847",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:59:50.692482Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
-          "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "title_en": null,
-          "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31847",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:59:50.692482Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7434,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T17:59:50.692482Z",
-      "latest_at": "2026-10-23T17:59:50.692482Z",
-      "primary_item": {
-        "id": "7cdd8673ecab53c7248cf51e4f0add7f2531b2e3",
-        "title": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-        "title_zh": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-        "title_en": null,
-        "title_original": "WorldTUI：有人专门训练小模型\"演\"终端，你敲命令它假装执行",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31847",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -1118,15 +947,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7965,
-      "importance": 0.7965,
-      "importance_score": 0.7965,
+      "score": 0.7927,
+      "importance": 0.7927,
+      "importance_score": 0.7927,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7359,
+        "recency": 0.715,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1153,349 +982,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
-      }
-    },
-    {
-      "story_id": "story_39751b138c53",
-      "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-      "url": "https://www.aibase.com/news/31842",
-      "primary_url": "https://www.aibase.com/news/31842",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_zh": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_en": null,
-          "title_original": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31842",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:31:50.692482Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-          "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_zh": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "title_en": null,
-          "title_original": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31842",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:31:50.692482Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7384,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T17:31:50.692482Z",
-      "latest_at": "2026-10-23T17:31:50.692482Z",
-      "primary_item": {
-        "id": "ebfedcceb529e32951b7c51754cf19e12ead8e6b",
-        "title": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-        "title_zh": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-        "title_en": null,
-        "title_original": "SpaceX 与特斯拉拟合并：马斯克想用一桩交易，把汽车、火箭和 AI 捏成同一个帝国",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31842",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
-      }
-    },
-    {
-      "story_id": "story_3844d9781f45",
-      "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-      "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "primary_url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-          "title_en": "Enterprise installations for GitHub Apps generally available",
-          "title_original": "Enterprise installations for GitHub Apps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-          "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-          "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-          "title_en": "Enterprise installations for GitHub Apps generally available",
-          "title_original": "Enterprise installations for GitHub Apps generally available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-23T15:03:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7923,
-      "importance": 0.7923,
-      "importance_score": 0.7923,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7125,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-23T15:03:30Z",
-      "latest_at": "2026-10-23T15:03:30Z",
-      "primary_item": {
-        "id": "d831c5d2e4928724c912ce58fc38d01b18b53922",
-        "title": "GitHub 应用程序的企业安装现已普遍可用 / Enterprise installations for GitHub Apps generally available",
-        "title_zh": "GitHub 应用程序的企业安装现已普遍可用",
-        "title_en": "Enterprise installations for GitHub Apps generally available",
-        "title_original": "Enterprise installations for GitHub Apps generally available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-23-enterprise-installations-for-github-apps-generally-available",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
-      }
-    },
-    {
-      "story_id": "story_de3d2917b3df",
-      "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-      "url": "https://www.aibase.com/news/31843",
-      "primary_url": "https://www.aibase.com/news/31843",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
-          "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "title_zh": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "title_en": null,
-          "title_original": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:31:50.692482Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
-          "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "title_zh": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "title_en": null,
-          "title_original": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31843",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:31:50.692482Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7384,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T17:31:50.692482Z",
-      "latest_at": "2026-10-23T17:31:50.692482Z",
-      "primary_item": {
-        "id": "9bc02eda3c539167c85952a4268e372fbf03b07a",
-        "title": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-        "title_zh": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-        "title_en": null,
-        "title_original": "日本数字厅 AI 建站翻车：超 1.3 万条隐私遭泄露",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31843",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
-      }
-    },
-    {
-      "story_id": "story_4a790cae95d0",
-      "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-      "url": "https://www.aibase.com/news/31846",
-      "primary_url": "https://www.aibase.com/news/31846",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
-          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-          "title_zh": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-          "title_en": null,
-          "title_original": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31846",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:31:50.692482Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
-          "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-          "title_zh": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-          "title_en": null,
-          "title_original": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31846",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:31:50.692482Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7384,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-23T17:31:50.692482Z",
-      "latest_at": "2026-10-23T17:31:50.692482Z",
-      "primary_item": {
-        "id": "ea196c1aa936584be68e3c83ca12a8fdb9de7c7a",
-        "title": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-        "title_zh": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-        "title_en": null,
-        "title_original": "月之暗面放 K3.1 预热视频，发布日期仍捂着",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31846",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -1580,15 +1067,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6016,
-      "importance": 0.6016,
-      "importance_score": 0.6016,
+      "score": 0.5966,
+      "importance": 0.5966,
+      "importance_score": 0.5966,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.54,
         "ai_relevance": 0.68,
-        "recency": 0.9715,
+        "recency": 0.9438,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1613,92 +1100,309 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
-      "story_id": "story_8e35d2e824ae",
-      "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-      "url": "https://www.aibase.com/news/31844",
-      "primary_url": "https://www.aibase.com/news/31844",
-      "source": "AIbase",
-      "source_name": "AIbase",
+      "story_id": "story_439f765a556d",
+      "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
+      "url": "https://www.producthunt.com/products/zcad-ai",
+      "primary_url": "https://www.producthunt.com/products/zcad-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
-          "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "title_zh": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "title_en": null,
-          "title_original": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+          "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
+          "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
+          "title_zh": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状",
+          "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
+          "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
+          "summary": "AI 3D that creates real parts, not just shapes",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/zcad-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-15T15:16:27Z",
+          "updated_at": "2026-10-24T16:32:56Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "ba1147945fac020d6a9afb5d384b5547a780a2ba",
+          "title": "zCAD AI",
+          "title_zh": null,
+          "title_en": "zCAD AI",
+          "title_original": "zCAD AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:31:50.692482Z",
+          "url": "https://www.producthunt.com/products/zcad-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:06:34.781000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "AIbase"
+        "Product Hunt",
+        "producthunt"
       ],
       "items": [
         {
-          "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
-          "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "title_zh": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-          "title_en": null,
-          "title_original": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
+          "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
+          "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
+          "title_zh": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状",
+          "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
+          "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
+          "summary": "AI 3D that creates real parts, not just shapes",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/zcad-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-15T15:16:27Z",
+          "updated_at": "2026-10-24T16:32:56Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "ba1147945fac020d6a9afb5d384b5547a780a2ba",
+          "title": "zCAD AI",
+          "title_zh": null,
+          "title_en": "zCAD AI",
+          "title_original": "zCAD AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31844",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-23T17:31:50.692482Z",
+          "url": "https://www.producthunt.com/products/zcad-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:06:34.781000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7205,
-      "importance": 0.7205,
-      "importance_score": 0.7205,
-      "importance_label": "行业动态",
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7384,
-        "story_heat": 0.0
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
       },
-      "category": "industry",
+      "category": "watch",
       "reasons": [
-        "high_ai_relevance"
+        "multi_source"
       ],
-      "earliest_at": "2026-10-23T17:31:50.692482Z",
-      "latest_at": "2026-10-23T17:31:50.692482Z",
+      "earliest_at": "2026-10-24T12:06:34.781000Z",
+      "latest_at": "2026-10-24T16:32:56Z",
       "primary_item": {
-        "id": "576db78930973a42eaa09a939eb35b2079d0e07e",
-        "title": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-        "title_zh": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-        "title_en": null,
-        "title_original": "砸下 150 亿美元！DeepSeek 携手宁德时代转战内蒙古，1GW 国产智算中心掀起基建狂潮",
-        "summary": null,
+        "id": "211ff2527eda398f00f33edecc2b25aec08629f5",
+        "title": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状 / zCAD AI — AI 3D that creates real parts, not just shapes",
+        "title_zh": "zCAD AI — AI 3D 可创建真实零件，而不仅仅是形状",
+        "title_en": "zCAD AI — AI 3D that creates real parts, not just shapes",
+        "title_original": "zCAD AI — AI 3D that creates real parts, not just shapes",
+        "summary": "AI 3D that creates real parts, not just shapes",
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31844",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://www.producthunt.com/products/zcad-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
+      }
+    },
+    {
+      "story_id": "story_f0a38c05d3f1",
+      "title": "保障我们的前沿模型训练环境安全",
+      "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "primary_url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": null,
+          "title_original": "保障我们的前沿模型训练环境安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
+          "title": "保障我们的前沿模型训练环境安全 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "a7086ee562b0800075d22b8de9de8b3f54d559ac",
+          "title": "OpenAI：保护我们的前沿模型训练环境 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "OpenAI：保护我们的前沿模型训练环境",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50214416",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
+          "title": "保障我们的前沿模型训练环境安全 / Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+          "title": "保障我们的前沿模型训练环境安全",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": null,
+          "title_original": "保障我们的前沿模型训练环境安全",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T06:38:45.839000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "d5c2cd61e45e633201d8be8b98e5f1350d15c717",
+          "title": "保障我们的前沿模型训练环境安全 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "a7086ee562b0800075d22b8de9de8b3f54d559ac",
+          "title": "OpenAI：保护我们的前沿模型训练环境 / OpenAI: Securing our frontier model training environment",
+          "title_zh": "OpenAI：保护我们的前沿模型训练环境",
+          "title_en": "OpenAI: Securing our frontier model training environment",
+          "title_original": "OpenAI: Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50214416",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e2d6fec9e4f7ace18483a2bc779d841a37e634a6",
+          "title": "保障我们的前沿模型训练环境安全 / Securing our frontier model training environment",
+          "title_zh": "保障我们的前沿模型训练环境安全",
+          "title_en": "Securing our frontier model training environment",
+          "title_original": "Securing our frontier model training environment",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-10-23T19:50:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5719,
+      "importance": 0.5719,
+      "importance_score": 0.5719,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.867,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-23T19:50:56Z",
+      "latest_at": "2026-10-24T06:38:45.839000Z",
+      "primary_item": {
+        "id": "1918442280c89123af768e8d5ef1c994a2bace17",
+        "title": "保障我们的前沿模型训练环境安全",
+        "title_zh": "保障我们的前沿模型训练环境安全",
+        "title_en": null,
+        "title_original": "保障我们的前沿模型训练环境安全",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/securing-our-frontier-model-training-environment",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     },
     {
@@ -1722,7 +1426,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-22T18:14:06Z",
-          "updated_at": "2026-10-24T14:32:42Z",
+          "updated_at": "2026-10-24T16:29:22Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1761,7 +1465,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-10-22T18:14:06Z",
-          "updated_at": "2026-10-24T14:32:42Z",
+          "updated_at": "2026-10-24T16:29:22Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1783,15 +1487,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9994,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1799,7 +1503,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-10-24T12:06:34.781000Z",
-      "latest_at": "2026-10-24T14:32:42Z",
+      "latest_at": "2026-10-24T16:29:22Z",
       "primary_item": {
         "id": "77c8e2bc7e105930bc571e81ef4ad26775eb47b5",
         "title": "1Password for Agents — 让 AI 代理为您登录而无需查看您的密码 / 1Password for Agents — Let AI agents sign in for you without seeing your passwords",
@@ -1816,7 +1520,630 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-24T14:36:18.978116Z"
+        "scored_at": "2026-10-24T16:35:41.594797Z"
+      }
+    },
+    {
+      "story_id": "story_2f3ba85cae57",
+      "title": "google-gemini/gemini-cli — 一个开源 AI 代理，可将 Gemini 的强大功能直接带入您的终端。 / google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+      "url": "https://github.com/google-gemini/gemini-cli",
+      "primary_url": "https://github.com/google-gemini/gemini-cli",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "27aaef7df1a9905876b55cac6d5f1f6b134840ae",
+          "title": "google-gemini/gemini-cli — 一个开源 AI 代理，可将 Gemini 的强大功能直接带入您的终端。 / google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "title_zh": "google-gemini/gemini-cli — 一个开源 AI 代理，可将 Gemini 的强大功能直接带入您的终端。",
+          "title_en": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "title_original": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "summary": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
+          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+          "title_zh": "谷歌双子座/双子座-cli",
+          "title_en": "google-gemini /      gemini-cli",
+          "title_original": "google-gemini /      gemini-cli",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:08:26.217000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "27aaef7df1a9905876b55cac6d5f1f6b134840ae",
+          "title": "google-gemini/gemini-cli — 一个开源 AI 代理，可将 Gemini 的强大功能直接带入您的终端。 / google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "title_zh": "google-gemini/gemini-cli — 一个开源 AI 代理，可将 Gemini 的强大功能直接带入您的终端。",
+          "title_en": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "title_original": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "summary": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "eaad25c7270da9bc549af47b27212b6462f3049a",
+          "title": "谷歌双子座/双子座-cli / google-gemini /      gemini-cli",
+          "title_zh": "谷歌双子座/双子座-cli",
+          "title_en": "google-gemini /      gemini-cli",
+          "title_original": "google-gemini /      gemini-cli",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/google-gemini/gemini-cli",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:08:26.217000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5841,
+      "importance": 0.5841,
+      "importance_score": 0.5841,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9438,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T12:08:26.217000Z",
+      "latest_at": "2026-10-24T12:31:45.502611Z",
+      "primary_item": {
+        "id": "27aaef7df1a9905876b55cac6d5f1f6b134840ae",
+        "title": "google-gemini/gemini-cli — 一个开源 AI 代理，可将 Gemini 的强大功能直接带入您的终端。 / google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "title_zh": "google-gemini/gemini-cli — 一个开源 AI 代理，可将 Gemini 的强大功能直接带入您的终端。",
+        "title_en": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "title_original": "google-gemini/gemini-cli — An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "summary": "An open-source AI agent that brings the power of Gemini directly into your terminal.",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/google-gemini/gemini-cli",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T16:35:41.594797Z"
+      }
+    },
+    {
+      "story_id": "story_205702091b68",
+      "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+      "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+      "primary_url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+      "source": "www.reddit.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": null,
+          "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "www.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T09:16:58.436000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "94f1232fdc4bed71d0aa6eae2623e3ab10caf67a",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T05:49:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e3150acf3a2312757b06a1d7125139699407ae03",
+          "title": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停",
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50218633",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T05:49:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.reddit.com"
+      ],
+      "items": [
+        {
+          "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": null,
+          "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "www.reddit.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-10-24T09:16:58.436000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "94f1232fdc4bed71d0aa6eae2623e3ab10caf67a",
+          "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T05:49:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e3150acf3a2312757b06a1d7125139699407ae03",
+          "title": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停 / Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_zh": "黑客逆转三星电视，发现机载AI监听OpenAI账户被暂停",
+          "title_en": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "title_original": "Hacker reverses Samsung TV, finds on-board AI listening OpenAI account suspended",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50218633",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T05:49:57Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5529,
+      "importance": 0.5529,
+      "importance_score": 0.5529,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9006,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T05:49:57Z",
+      "latest_at": "2026-10-24T09:16:58.436000Z",
+      "primary_item": {
+        "id": "c039a0b0ba53aed22d56935934bcaafa1324b549",
+        "title": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+        "title_zh": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+        "title_en": null,
+        "title_original": "黑客对三星电视进行逆向工程，发现内置AI正在监听，OpenAI账号被暂停",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.reddit.com/r/antiai/comments/1xdv3e5/hacker_reverse_engineers_his_samsung_tv_and_finds",
+        "source": "www.reddit.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T16:35:41.594797Z"
+      }
+    },
+    {
+      "story_id": "story_0114c8f2f512",
+      "title": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+      "url": "https://www.producthunt.com/products/sideos-ai",
+      "primary_url": "https://www.producthunt.com/products/sideos-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
+          "title": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "title_zh": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能",
+          "title_en": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "title_original": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "summary": "Local AI for dictation, meetings, background tasks and more",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/sideos-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-23T13:28:40Z",
+          "updated_at": "2026-10-24T16:29:56Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "2f9b5cf069bf973abf39513f89ef677439fc5a72",
+          "title": "sideOS.ai",
+          "title_zh": null,
+          "title_en": "sideOS.ai",
+          "title_original": "sideOS.ai",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/sideos-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:06:34.781000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
+          "title": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "title_zh": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能",
+          "title_en": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "title_original": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+          "summary": "Local AI for dictation, meetings, background tasks and more",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/sideos-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-23T13:28:40Z",
+          "updated_at": "2026-10-24T16:29:56Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "2f9b5cf069bf973abf39513f89ef677439fc5a72",
+          "title": "sideOS.ai",
+          "title_zh": null,
+          "title_en": "sideOS.ai",
+          "title_original": "sideOS.ai",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/sideos-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:06:34.781000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9995,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T12:06:34.781000Z",
+      "latest_at": "2026-10-24T16:29:56Z",
+      "primary_item": {
+        "id": "8baf0231a57c7d81b1fb55d3c95dfd82925c1703",
+        "title": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能 / sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+        "title_zh": "sideOS.ai — 用于听写、会议、后台任务等的本地人工智能",
+        "title_en": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+        "title_original": "sideOS.ai — Local AI for dictation, meetings, background tasks and more",
+        "summary": "Local AI for dictation, meetings, background tasks and more",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/sideos-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T16:35:41.594797Z"
+      }
+    },
+    {
+      "story_id": "story_7f015f6d31aa",
+      "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+      "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "primary_url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a2ca6091598801d55d47594c765a7b402e3bada",
+          "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+          "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50220204",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T11:18:54Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5327,
+      "importance": 0.5327,
+      "importance_score": 0.5327,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9274,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T11:18:54Z",
+      "latest_at": "2026-10-24T11:18:54Z",
+      "primary_item": {
+        "id": "ede72eaf0ac957799414f185073e6684ef3bf876",
+        "title": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章 / AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "title_zh": "Z-Library 上的人工智能辅助论文引用了一篇不存在的 TorrentFreak 文章",
+        "title_en": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "title_original": "AI-Assisted Paper on Z-Library Cites a TorrentFreak Article That Doesn't Exist",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://torrentfreak.com/ai-assisted-paper-on-z-library-cites-a-torrentfreak-article-that-doesnt-exist",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T16:35:41.594797Z"
+      }
+    },
+    {
+      "story_id": "story_6da50631fec2",
+      "title": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
+      "url": "https://github.com/pollen-robotics/microduck",
+      "primary_url": "https://github.com/pollen-robotics/microduck",
+      "source": "GitHub Trending",
+      "source_name": "GitHub Trending",
+      "sources": [
+        {
+          "id": "aff36d501c52b729336d120c00d850c12aa8cd67",
+          "title": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
+          "title_zh": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆",
+          "title_en": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
+          "title_original": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
+          "summary": "A Tiny biped duck robot 🦆",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/pollen-robotics/microduck",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "42817cfeb8b62232464742063153ce777637fa70",
+          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
+          "title_zh": "花粉机器人/微型鸭",
+          "title_en": "pollen-robotics /      microduck",
+          "title_original": "pollen-robotics /      microduck",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/pollen-robotics/microduck",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:08:26.217000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "GitHub Trending",
+        "github"
+      ],
+      "items": [
+        {
+          "id": "aff36d501c52b729336d120c00d850c12aa8cd67",
+          "title": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
+          "title_zh": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆",
+          "title_en": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
+          "title_original": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
+          "summary": "A Tiny biped duck robot 🦆",
+          "recommend_reason_zh": null,
+          "url": "https://github.com/pollen-robotics/microduck",
+          "source": "GitHub Trending",
+          "source_name": "GitHub Trending",
+          "site_id": "github_trending",
+          "published_at": null,
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "42817cfeb8b62232464742063153ce777637fa70",
+          "title": "花粉机器人/微型鸭 / pollen-robotics /      microduck",
+          "title_zh": "花粉机器人/微型鸭",
+          "title_en": "pollen-robotics /      microduck",
+          "title_original": "pollen-robotics /      microduck",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.com/pollen-robotics/microduck",
+          "source": "github",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-10-24T12:08:26.217000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5841,
+      "importance": 0.5841,
+      "importance_score": 0.5841,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9438,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-10-24T12:08:26.217000Z",
+      "latest_at": "2026-10-24T12:31:45.502611Z",
+      "primary_item": {
+        "id": "aff36d501c52b729336d120c00d850c12aa8cd67",
+        "title": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆 / pollen-robotics/microduck — A Tiny biped duck robot 🦆",
+        "title_zh": "pollen-robotics/microduck — 一个小型双足鸭机器人 🦆",
+        "title_en": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
+        "title_original": "pollen-robotics/microduck — A Tiny biped duck robot 🦆",
+        "summary": "A Tiny biped duck robot 🦆",
+        "recommend_reason_zh": null,
+        "url": "https://github.com/pollen-robotics/microduck",
+        "source": "GitHub Trending",
+        "source_name": "GitHub Trending"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-24T16:35:41.594797Z"
       }
     }
   ]
