@@ -2,7 +2,7 @@
   "schema_version": 1,
   "provider": "codex-cli",
   "model": "gpt-6-luna",
-  "generated_at": "2026-10-27T04:30:26.743981+00:00",
+  "generated_at": "2026-10-27T04:44:25.499003+00:00",
   "selected_keys": [
     "c12aeedc22b0f782022ae8f1",
     "4b9aeab7a14255104f52f5f4",
@@ -21,7 +21,9 @@
     "ea36ad6d0680ec461aacea18",
     "17c071553563dc5efc5bac4c",
     "3cefdf878ca889e8bb3e34ac",
-    "04c4ea7689a5383e3a30c72a"
+    "04c4ea7689a5383e3a30c72a",
+    "31d7705cc339b8871a885d0d",
+    "07e4419a3657fba3702b2a25"
   ],
   "entries": [
     {
@@ -3168,6 +3170,48 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-24T02:52:48.976678+00:00"
+    },
+    {
+      "url": "https://huggingface.co/datasets/nvidia/simready-assets",
+      "domain": "project",
+      "source": "Hugging Face Datasets",
+      "source_title": "nvidia/simready-assets",
+      "source_excerpt": "size_categories:n<1K · modality:image · region:us",
+      "published_at": null,
+      "observed_at": "2026-10-25T14:37:22.099517Z",
+      "recency_basis": null,
+      "platform": "hf_datasets",
+      "topics": [
+        "research"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "31d7705cc339b8871a885d0d",
+      "context_kind": "source_excerpt",
+      "title_zh": "nvidia/simready-assets 数据集",
+      "summary_zh": "来源仅提供 Hugging Face 数据集页面的概要标签：该数据集规模类别为 n<1K，模态为图像，区域标记为 us。材料未说明数据集内容、用途、采集方式或结论。",
+      "recommend_reason_zh": "可作为 NVIDIA 发布的图像数据集线索，供关注仿真相关资产的个人进一步核查；当前摘录不足以判断其对数学或科研工作的具体价值。",
+      "pragmatic_score": 18,
+      "pragmatic_review": "只有平台标签和数据规模信息，尚无法据此规划具体使用方式。",
+      "cynic_score": 72,
+      "cynic_review": "名称暗示与仿真资产有关，但摘录没有提供内容说明，不能据此确认数据集的实际用途或质量。",
+      "paper_score": 15,
+      "paper_review": "材料未包含论文、代码、数据样例、证明或可复现性信息，无法评估其研究证据。",
+      "project_insight": {
+        "translation_zh": "规模类别：n<1K；模态：图像；区域：us。",
+        "one_liner_zh": "这是一个在 Hugging Face 上标注为小规模图像数据集的项目，具体资产内容和用途未在摘录中说明。",
+        "getting_started_zh": "从 Hugging Face 数据集页面阅读数据集卡片，检查样例、字段、下载访问条件和许可；在确认内容适配且许可允许后，再考虑小规模试用。",
+        "limitations_zh": "当前材料仅提供规模、图像模态和区域标签；未说明数据内容、用途、许可或数据集卡片细节，因此无法判断质量、研究适用性和实际访问条件。",
+        "use_cases_zh": [
+          "先查看数据集页面和样例，判断图像是否与个人的仿真或视觉研究任务相关。",
+          "核对数据集说明与许可后，再评估是否适合用于个人实验或数据探索。"
+        ],
+        "recommendation_score": 24,
+        "recommendation_tier": "watch"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-10-27T04:44:25.499003+00:00"
     },
     {
       "url": "https://arxiv.org/abs/2610.23680",
