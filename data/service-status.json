@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T03:31:44.507867Z",
+  "generated_at": "2026-10-28T04:01:45.458274Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M609FPNJF29J5GDH979ZDYYK",
+      "provider": "OpenAI",
+      "title": "Degraded Performace on ChatGPT Work",
+      "title_zh": "Degraded Performace on ChatGPT Work",
+      "status": "investigating",
+      "impact": "minor",
+      "started_at": "2026-10-28T03:39:58Z",
+      "updated_at": "2026-10-28T03:39:58Z",
+      "message": "We’re investigating a potential issue for the listed services and checking how it affects users. We’ll share an update when we know more.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M609FPNJF29J5GDH979ZDYYK"
+    }
+  ]
 }
