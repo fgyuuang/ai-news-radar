@@ -1,17 +1,16 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-10-28T17:17:50.166892Z",
-  "ok": false,
+  "generated_at": "2026-10-28T17:31:00.007769Z",
+  "ok": true,
   "active_count": 0,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
-      "ok": false,
+      "ok": true,
       "active_count": 0
     }
   ],
-  "incidents": [],
-  "error": "OpenAI 服务状态暂时无法读取"
+  "incidents": []
 }

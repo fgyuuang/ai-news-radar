@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 17:17:50 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 17:31:00 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
@@ -16,7 +16,7 @@
 <pubDate>Wed, 28 Oct 2026 15:17:53 +0000</pubDate>
 </item>
 <item>
-<title>Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model</title>
+<title>Google DeepMind 发布 Gemini 4 Carbon 前沿模型 / Gemini 4 Carbon: Our next frontier model</title>
 <link>https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model</link>
 <guid isPermaLink="true">https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model</guid>
 <description>Google DeepMind</description>
@@ -120,6 +120,14 @@
 <pubDate>Wed, 28 Oct 2026 09:31:46 +0000</pubDate>
 </item>
 <item>
+<title>Microsoft 通过 Foundry 开放 Copilot harness，支持多模型 Agent 开发 / Introducing the Microsoft Copilot harness: Unlocking the potential of truly multi-model agentic work</title>
+<link>https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work</link>
+<guid isPermaLink="true">https://blogs.microsoft.com/blog/2026/10/28/introducing-the-microsoft-copilot-harness-unlocking-the-potential-of-truly-multi-model-agentic-work</guid>
+<description>Microsoft 宣布将 GitHub 团队打造的 Copilot harness 通过 Microsoft Foundry 向开发者和企业开放，该 harness 已驱动 Copilot Code、Copilot Studio、GitHub Copilot app 和 CLI 等产品。（Microsoft：Official Blog（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 16:51:35 +0000</pubDate>
+</item>
+<item>
 <title>Addy Osmani 讲解如何上手 Claude Code Mods / Getting started with Claude Code Mods</title>
 <link>https://x.com/addyosmani/status/2115326629488824753</link>
 <guid isPermaLink="true">https://x.com/addyosmani/status/2115326629488824753</guid>
@@ -158,14 +166,6 @@
 <description>a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。（a16z：News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 28 Oct 2026 16:00:31 +0000</pubDate>
-</item>
-<item>
-<title>使用 Copilot Automations 为您的团队构建共享工作流程 / Build shared workflows for your team with Copilot Automations</title>
-<link>https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Wed, 28 Oct 2026 15:35:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
