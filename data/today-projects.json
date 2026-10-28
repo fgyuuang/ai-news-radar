@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T02:33:10.044935Z",
+  "generated_at": "2026-10-28T03:02:54.363454Z",
   "date": "2026-10-28",
   "total_items": 4,
   "items": [
@@ -15,35 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-10-28T02:31:48.977114Z"
-    },
-    {
-      "id": "project_f6f0b21aa3e6",
-      "project_name": "GPT-6.1 Terra",
-      "url": "https://www.producthunt.com/products/openai",
-      "summary": "Fast, capable computer use at half the price",
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「Fast, capable computer use at half the price」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"Fast, capable computer use at half the price\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-26T23:33:48Z",
-      "updated_at": "2026-10-28T01:26:13Z",
-      "recency_basis": "updated_at",
-      "observed_at": "2026-10-28T02:32:57.847016Z"
-    },
-    {
-      "id": "project_4341922ec9bb",
-      "project_name": "nightly-labs/openbot",
-      "url": "https://github.com/nightly-labs/openbot",
-      "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "挑一个日常桌面任务试试它的 AI Agent，看看能否减少重复操作。",
-      "recommend_reason_en": "Pick an everyday desktop task and see whether its AI agent can cut the repetitive steps.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-10-28T02:31:48.977114Z"
+      "observed_at": "2026-10-28T03:01:45.452774Z"
     },
     {
       "id": "project_0e63f2b2f20c",
@@ -57,7 +29,35 @@
       "published_at": "2026-10-26T20:06:22Z",
       "updated_at": "2026-10-28T00:10:49Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-10-28T02:32:57.847016Z"
+      "observed_at": "2026-10-28T03:02:42.496180Z"
+    },
+    {
+      "id": "project_4341922ec9bb",
+      "project_name": "nightly-labs/openbot",
+      "url": "https://github.com/nightly-labs/openbot",
+      "summary": "A local-first desktop workspace for persistent AI teammates. Run Codex, Claude, and Grok with dedicated workspaces, task queues, file sharing, browser control, and agent-to-agent collaboration.",
+      "site_id": "github_trending",
+      "site_name": "GitHub Trending",
+      "recommend_reason_zh": "挑一个日常桌面任务试试它的 AI Agent，看看能否减少重复操作。",
+      "recommend_reason_en": "Pick an everyday desktop task and see whether its AI agent can cut the repetitive steps.",
+      "published_at": null,
+      "updated_at": null,
+      "recency_basis": null,
+      "observed_at": "2026-10-28T03:01:45.452774Z"
+    },
+    {
+      "id": "project_7459d1da5386",
+      "project_name": "Revix AI",
+      "url": "https://www.producthunt.com/products/revix-ai-2",
+      "summary": "AI code review that learns your repo's own rules",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "拿一段自己的代码试试它的 AI 审查，看看能否发现遗漏的问题。",
+      "recommend_reason_en": "Run its AI review on a piece of your own code and see whether it catches anything you missed.",
+      "published_at": "2026-10-26T21:29:10Z",
+      "updated_at": "2026-10-28T02:02:25Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-10-28T03:02:42.496180Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 11,
-      "duration_ms": 1014,
+      "duration_ms": 876,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1214,
+      "duration_ms": 501,
       "error": null
     }
   ]
