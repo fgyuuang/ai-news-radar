@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-28T16:31:44.313760Z",
+  "generated_at": "2026-10-28T17:01:43.938970Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -26,10 +26,27 @@
           "published_at": "2026-10-28T14:58:17Z",
           "updated_at": null,
           "recency_basis": null
+        },
+        {
+          "id": "d6c2b72c5dc25816690215347a71b705ba3fa451",
+          "title": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_zh": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR",
+          "title_en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_original": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-28T15:17:53Z",
+          "updated_at": null,
+          "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
+        "Hacker News (黑客新闻)",
         "Hugging Face Blog"
       ],
       "items": [
@@ -48,29 +65,46 @@
           "published_at": "2026-10-28T14:58:17Z",
           "updated_at": null,
           "recency_basis": null
+        },
+        {
+          "id": "d6c2b72c5dc25816690215347a71b705ba3fa451",
+          "title": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR / Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_zh": "Nvidia Nemotron 3.5 Transcribe：开放 40 种语言的 ASR",
+          "title_en": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "title_original": "Nvidia Nemotron 3.5 Transcribe: open ASR for 40 languages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-10-28T15:17:53Z",
+          "updated_at": null,
+          "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.864,
-      "importance": 0.864,
-      "importance_score": 0.864,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.8877,
+      "importance": 0.8877,
+      "importance_score": 0.8877,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.9778,
-        "story_heat": 0.0
+        "recency": 0.9707,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
       "earliest_at": "2026-10-28T14:58:17Z",
-      "latest_at": "2026-10-28T14:58:17Z",
+      "latest_at": "2026-10-28T15:17:53Z",
       "primary_item": {
         "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
         "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
@@ -87,7 +121,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
+      }
+    },
+    {
+      "story_id": "story_bd644657309a",
+      "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+      "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "primary_url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
+          "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+          "title_zh": "Gemini 4 Carbon：我们的下一个前沿型号",
+          "title_en": "Gemini 4 Carbon: Our next frontier model",
+          "title_original": "Gemini 4 Carbon: Our next frontier model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T17:00:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
+          "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+          "title_zh": "Gemini 4 Carbon：我们的下一个前沿型号",
+          "title_en": "Gemini 4 Carbon: Our next frontier model",
+          "title_original": "Gemini 4 Carbon: Our next frontier model",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T17:00:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9998,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T17:00:58Z",
+      "latest_at": "2026-10-28T17:00:58Z",
+      "primary_item": {
+        "id": "9bdc18e8234914b118f781552daa7e8656b9dca1",
+        "title": "Gemini 4 Carbon：我们的下一个前沿型号 / Gemini 4 Carbon: Our next frontier model",
+        "title_zh": "Gemini 4 Carbon：我们的下一个前沿型号",
+        "title_en": "Gemini 4 Carbon: Our next frontier model",
+        "title_original": "Gemini 4 Carbon: Our next frontier model",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/gemini-4-carbon-our-next-frontier-model",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -139,15 +260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8506,
-      "importance": 0.8506,
-      "importance_score": 0.8506,
+      "score": 0.8493,
+      "importance": 0.8493,
+      "importance_score": 0.8493,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9924,
+        "recency": 0.9853,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +295,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -226,15 +347,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9035,
+        "recency": 0.897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +382,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -313,15 +434,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8504,
-      "importance": 0.8504,
-      "importance_score": 0.8504,
+      "score": 0.8491,
+      "importance": 0.8491,
+      "importance_score": 0.8491,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9912,
+        "recency": 0.9841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -400,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8502,
-      "importance": 0.8502,
-      "importance_score": 0.8502,
+      "score": 0.8489,
+      "importance": 0.8489,
+      "importance_score": 0.8489,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.99,
+        "recency": 0.9829,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -487,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7846,
-      "importance": 0.7846,
-      "importance_score": 0.7846,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9942,
+        "recency": 0.9871,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,7 +642,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -573,15 +694,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8087,
-      "importance": 0.8087,
-      "importance_score": 0.8087,
+      "score": 0.8077,
+      "importance": 0.8077,
+      "importance_score": 0.8077,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7148,
+        "recency": 0.7097,
         "story_heat": 0.0
       },
       "category": "official",
@@ -608,7 +729,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -660,15 +781,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7686,
-      "importance": 0.7686,
-      "importance_score": 0.7686,
+      "score": 0.7674,
+      "importance": 0.7674,
+      "importance_score": 0.7674,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9225,
+        "recency": 0.9158,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -694,7 +815,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -746,15 +867,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7683,
-      "importance": 0.7683,
-      "importance_score": 0.7683,
+      "score": 0.7672,
+      "importance": 0.7672,
+      "importance_score": 0.7672,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9041,
+        "recency": 0.8976,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,7 +901,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -832,15 +953,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7645,
-      "importance": 0.7645,
-      "importance_score": 0.7645,
+      "score": 0.7635,
+      "importance": 0.7635,
+      "importance_score": 0.7635,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7828,
+        "recency": 0.7772,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -866,7 +987,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -918,15 +1039,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.85,
-      "importance": 0.85,
-      "importance_score": 0.85,
+      "score": 0.8487,
+      "importance": 0.8487,
+      "importance_score": 0.8487,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9888,
+        "recency": 0.9817,
         "story_heat": 0.0
       },
       "category": "official",
@@ -953,7 +1074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -1005,21 +1126,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7491,
+      "importance": 0.7491,
+      "importance_score": 0.7491,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.8974,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-28T09:31:46.312033Z",
       "latest_at": "2026-10-28T09:31:46.312033Z",
@@ -1039,7 +1159,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -1091,15 +1211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7428,
-      "importance": 0.7428,
-      "importance_score": 0.7428,
+      "score": 0.7417,
+      "importance": 0.7417,
+      "importance_score": 0.7417,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8622,
+        "recency": 0.856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1124,7 +1244,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -1176,15 +1296,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7404,
-      "importance": 0.7404,
-      "importance_score": 0.7404,
+      "score": 0.7394,
+      "importance": 0.7394,
+      "importance_score": 0.7394,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.7767,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1209,7 +1329,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -1261,15 +1381,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7373,
-      "importance": 0.7373,
-      "importance_score": 0.7373,
+      "score": 0.7361,
+      "importance": 0.7361,
+      "importance_score": 0.7361,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9318,
+        "recency": 0.9251,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1294,92 +1414,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
-      }
-    },
-    {
-      "story_id": "story_1208d46c9897",
-      "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-      "source": "The Verge：AI（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-          "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:51:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Verge：AI（RSS）"
-      ],
-      "items": [
-        {
-          "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-          "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-          "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-          "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-          "source": "The Verge：AI（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T16:51:22Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7365,
-      "importance": 0.7365,
-      "importance_score": 0.7365,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7105,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T16:51:22Z",
-      "latest_at": "2026-10-27T16:51:22Z",
-      "primary_item": {
-        "id": "dd073dd93ed4efbfc7e4d095c7d648605328495e",
-        "title": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay",
-        "title_zh": "Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压",
-        "title_en": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "title_original": "Anthropic’s elaborate plan to keep Wall Street at bay",
-        "summary": "Anthropic 计划通过长期受益信托和 Founder LLC 等独特治理结构上市，在公开市场融资的同时防止股东迫使公司削弱安全投入。信托的五名投票受托人可通过 Class T 股票任命七名董事中的四席，七位创始人则以 Founder LLC 掌握 50.1% 投票权。法学专家认为法律层面可隔绝逐利压力，但市场竞争、融资需求和创始人离开都可能侵蚀这些保障。",
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1019470/anthropic-ipo-resist-investor-pressure-cut-corners-safety",
-        "source": "The Verge：AI（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -1431,15 +1466,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7636,
-      "importance": 0.7636,
-      "importance_score": 0.7636,
+      "score": 0.7623,
+      "importance": 0.7623,
+      "importance_score": 0.7623,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.71,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9947,
+        "recency": 0.9875,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1465,7 +1500,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -1517,15 +1552,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7317,
-      "importance": 0.7317,
-      "importance_score": 0.7317,
+      "score": 0.7308,
+      "importance": 0.7308,
+      "importance_score": 0.7308,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7174,
+        "recency": 0.7123,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1550,7 +1585,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
@@ -1602,15 +1637,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7303,
-      "importance": 0.7303,
-      "importance_score": 0.7303,
+      "score": 0.729,
+      "importance": 0.729,
+      "importance_score": 0.729,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.6,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9925,
+        "recency": 0.9854,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1635,30 +1670,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     },
     {
-      "story_id": "story_6db82ec912f9",
-      "title": "GitHub 智能让您的代码、上下文和历史记录发挥作用 / GitHub intelligence puts your code, context, and history to work",
-      "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
-      "primary_url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+      "story_id": "story_2afe1633ba5b",
+      "title": "使用 Copilot Automations 为您的团队构建共享工作流程 / Build shared workflows for your team with Copilot Automations",
+      "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
+      "primary_url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "7b393afc28dfeababbe381a12a8006cd236cb85c",
-          "title": "GitHub 智能让您的代码、上下文和历史记录发挥作用 / GitHub intelligence puts your code, context, and history to work",
-          "title_zh": "GitHub 智能让您的代码、上下文和历史记录发挥作用",
-          "title_en": "GitHub intelligence puts your code, context, and history to work",
-          "title_original": "GitHub intelligence puts your code, context, and history to work",
+          "id": "41e9606d8cebb22bdbe75d7584d7714013470779",
+          "title": "使用 Copilot Automations 为您的团队构建共享工作流程 / Build shared workflows for your team with Copilot Automations",
+          "title_zh": "使用 Copilot Automations 为您的团队构建共享工作流程",
+          "title_en": "Build shared workflows for your team with Copilot Automations",
+          "title_original": "Build shared workflows for your team with Copilot Automations",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+          "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T15:40:00Z",
+          "published_at": "2026-10-28T15:35:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1669,33 +1704,33 @@
       ],
       "items": [
         {
-          "id": "7b393afc28dfeababbe381a12a8006cd236cb85c",
-          "title": "GitHub 智能让您的代码、上下文和历史记录发挥作用 / GitHub intelligence puts your code, context, and history to work",
-          "title_zh": "GitHub 智能让您的代码、上下文和历史记录发挥作用",
-          "title_en": "GitHub intelligence puts your code, context, and history to work",
-          "title_original": "GitHub intelligence puts your code, context, and history to work",
+          "id": "41e9606d8cebb22bdbe75d7584d7714013470779",
+          "title": "使用 Copilot Automations 为您的团队构建共享工作流程 / Build shared workflows for your team with Copilot Automations",
+          "title_zh": "使用 Copilot Automations 为您的团队构建共享工作流程",
+          "title_en": "Build shared workflows for your team with Copilot Automations",
+          "title_original": "Build shared workflows for your team with Copilot Automations",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+          "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T15:40:00Z",
+          "published_at": "2026-10-28T15:35:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8478,
-      "importance": 0.8478,
-      "importance_score": 0.8478,
+      "score": 0.8483,
+      "importance": 0.8483,
+      "importance_score": 0.8483,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.9,
-        "recency": 0.9876,
+        "ai_relevance": 0.91,
+        "recency": 0.9793,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1704,17 +1739,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T15:40:00Z",
-      "latest_at": "2026-10-28T15:40:00Z",
+      "earliest_at": "2026-10-28T15:35:00Z",
+      "latest_at": "2026-10-28T15:35:00Z",
       "primary_item": {
-        "id": "7b393afc28dfeababbe381a12a8006cd236cb85c",
-        "title": "GitHub 智能让您的代码、上下文和历史记录发挥作用 / GitHub intelligence puts your code, context, and history to work",
-        "title_zh": "GitHub 智能让您的代码、上下文和历史记录发挥作用",
-        "title_en": "GitHub intelligence puts your code, context, and history to work",
-        "title_original": "GitHub intelligence puts your code, context, and history to work",
+        "id": "41e9606d8cebb22bdbe75d7584d7714013470779",
+        "title": "使用 Copilot Automations 为您的团队构建共享工作流程 / Build shared workflows for your team with Copilot Automations",
+        "title_zh": "使用 Copilot Automations 为您的团队构建共享工作流程",
+        "title_en": "Build shared workflows for your team with Copilot Automations",
+        "title_original": "Build shared workflows for your team with Copilot Automations",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work",
+        "url": "https://github.blog/changelog/2026-10-28-build-shared-workflows-for-your-team-with-copilot-automations",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1722,7 +1757,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T16:38:19.262850Z"
+        "scored_at": "2026-10-28T17:07:33.379516Z"
       }
     }
   ]
