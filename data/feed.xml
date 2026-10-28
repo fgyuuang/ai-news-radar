@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 05:01:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 06:31:51 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?</title>
@@ -64,6 +64,22 @@
 <pubDate>Tue, 27 Oct 2026 07:00:00 +0000</pubDate>
 </item>
 <item>
+<title>AI编程能力改变招聘标准，Anthropic招聘负责人取消传统编程面试</title>
+<link>https://www.aibase.com/news/31923</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31923</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 06:31:51 +0000</pubDate>
+</item>
+<item>
+<title>Addy Osmani 讲解如何上手 Claude Code Mods / Getting started with Claude Code Mods</title>
+<link>https://x.com/addyosmani/status/2115326629488824753</link>
+<guid isPermaLink="true">https://x.com/addyosmani/status/2115326629488824753</guid>
+<description>Addy Osmani 发布 Claude Code Mods 上手指南，说明 mods 是运行在会话中的 JavaScript/TypeScript 文件，可通过 hooks 观察事件、改写行为或渲染自定义界面。（X：Addy Osmani (@addyosmani)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 06:15:43 +0000</pubDate>
+</item>
+<item>
 <title>Latent Space 解读 Anthropic 提交 S-1：拟以代码 AN 上市纳斯达克，H1 2026 营收 16.3B 美元 / [AINews] Anthropic files for $2T IPO in 2 weeks: 1400% growth rate, 48% of revenue through cloud partners, 85% margin, $1B op profit in Q2, $134B cash in bank and $10B lifetime burn</title>
 <link>https://latent.space/p/ainews-anthropic-s1</link>
 <guid isPermaLink="true">https://latent.space/p/ainews-anthropic-s1</guid>
@@ -78,14 +94,6 @@
 <description>作者称 Verified AI 迎来标志性月份，Axiom 的 AI 智能体集群用 24 天完成数学史上最长证明的验证，将跨越 500 多篇论文的 15,000 页有限单群分类定理（CFSG）转化为 3800 万行以上机器验证代码，并发现已发表记录中的 34 处严重出入。引用内容补充称该形式化证明可能是最大的开源项目之一，图中显示 Axiom CFSG 达 43.0M 行，约每 37 天翻倍。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Tue, 27 Oct 2026 23:31:32 +0000</pubDate>
-</item>
-<item>
-<title>​  谷歌 DeepMind 发布 Genie 4：能"走进去"的虚拟世界，首次同步发声</title>
-<link>https://www.aibase.com/news/31921</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31921</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 04:01:45 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 拟以特殊治理结构抵御 IPO 后股东的安全施压 / Anthropic’s elaborate plan to keep Wall Street at bay</title>
@@ -120,20 +128,20 @@
 <pubDate>Tue, 27 Oct 2026 12:37:24 +0000</pubDate>
 </item>
 <item>
+<title>DeepSeek V5 惊现官方代码库，外界猜 11 月见真章</title>
+<link>https://www.aibase.com/news/31922</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31922</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 06:31:51 +0000</pubDate>
+</item>
+<item>
 <title>LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent</title>
 <link>https://www.langchain.com/blog/design-agent</link>
 <guid isPermaLink="true">https://www.langchain.com/blog/design-agent</guid>
 <description>LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。（LangChain：Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
-</item>
-<item>
-<title>微软 MAI-Image-2.7 登场，自称"全球第二图像编辑模型"</title>
-<link>https://www.aibase.com/news/31920</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31920</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 04:01:45 +0000</pubDate>
 </item>
 <item>
 <title>Google 发布世界模型 Genie 4，支持实时操控与原生音频</title>
@@ -158,14 +166,6 @@
 <description>Replit 推出 Cloud Agents，面向 Pro 与 Enterprise 客户开放，让设计、客服等非工程人员用自然语言向公司核心代码库提交经测试的 pull request。（Replit：Blog（RSS））</description>
 <category>行业动态</category>
 <pubDate>Tue, 27 Oct 2026 15:30:00 +0000</pubDate>
-</item>
-<item>
-<title>前Meta AI总监推出Ndoc:对标微软Office与谷歌Workspace</title>
-<link>https://www.aibase.com/news/31919</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31919</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 03:31:44 +0000</pubDate>
 </item>
 </channel>
 </rss>
