@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 17:31:00 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 18:01:42 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
@@ -32,12 +32,12 @@
 <pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work</title>
-<link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
-<guid isPermaLink="true">https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+<title>The future of the firm</title>
+<link>https://openai.com/index/the-future-of-the-firm</link>
+<guid isPermaLink="true">https://openai.com/index/the-future-of-the-firm</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 10:00:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases</title>
@@ -54,6 +54,22 @@
 <description>Anthropic 的 IPO 文件显示其现金及短期投资达 $131.7B，超过 Amazon 和 Microsoft，在美国非银行公司中仅次于 Berkshire Hathaway 和 Alphabet。（X：Rohan Paul (@rohanpaul_ai)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 28 Oct 2026 17:11:27 +0000</pubDate>
+</item>
+<item>
+<title>Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work</title>
+<link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
+<guid isPermaLink="true">https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
+</item>
+<item>
+<title>Ed Zitron 长文解析 Anthropic S-1：称其把散户当作退出流动性 / Exit Liquidity</title>
+<link>https://www.wheresyoured.at/exit-liquidity</link>
+<guid isPermaLink="true">https://www.wheresyoured.at/exit-liquidity</guid>
+<description>Ed Zitron 撰文批评 Anthropic 的 S-1 招股书，指其仅披露 Q2 盈利数据、省略 Q3 现金状况和付款明细，是在公司基本面变化前误导投资者。（Ed Zitron 长文 / Where’s Your Ed At（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 17:51:00 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot</title>
@@ -112,6 +128,14 @@
 <pubDate>Wed, 28 Oct 2026 15:45:00 +0000</pubDate>
 </item>
 <item>
+<title>犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...</title>
+<link>https://x.com/bcherny/status/2115491259381072269</link>
+<guid isPermaLink="true">https://x.com/bcherny/status/2115491259381072269</guid>
+<description>Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。（X：Boris Cherny (@bcherny)）</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 17:09:54 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变</title>
 <link>https://www.aibase.com/news/31933</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31933</guid>
@@ -142,30 +166,6 @@
 <description>面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 的 MiniCPM-OCR 1.0 在 Real5-OmniDocBench（93.68）与 OCRBench v2（54.7）取得双 SOTA，经 DSpark 解码加速后端到端效率提升 55%，吞吐达 1.217 页/秒。（公众号：面壁智能（MiniCPM））</description>
 <category>行业动态</category>
 <pubDate>Wed, 28 Oct 2026 11:38:17 +0000</pubDate>
-</item>
-<item>
-<title>GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品 / GitHub Universe 2026: Evolving every layer of the stack</title>
-<link>https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack</link>
-<guid isPermaLink="true">https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack</guid>
-<description>GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。（GitHub Blog）</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 16:09:28 +0000</pubDate>
-</item>
-<item>
-<title>Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts</title>
-<link>https://www.exponentialview.co/p/anthropics-s-1-in-charts</link>
-<guid isPermaLink="true">https://www.exponentialview.co/p/anthropics-s-1-in-charts</guid>
-<description>Azeem Azhar 图解 Anthropic 的 S-1 文件，指出公司已从实验室变成有现金流和资金的业务，看起来能走向可靠盈利。增长仍高但放缓，超过 80% 的营收来自发布不到六个月的模型；Q3 因向基金会付款可能出现边际亏损，客户集中度问题不大。（Azeem Azhar：Exponential View（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 17:31:56 +0000</pubDate>
-</item>
-<item>
-<title>a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程 / The New Security Agenda</title>
-<link>https://www.a16z.news/p/the-new-security-agenda</link>
-<guid isPermaLink="true">https://www.a16z.news/p/the-new-security-agenda</guid>
-<description>a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。（a16z：News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 16:00:31 +0000</pubDate>
 </item>
 </channel>
 </rss>
