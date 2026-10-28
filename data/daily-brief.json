@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-10-28T11:54:41.292641Z",
+  "generated_at": "2026-10-28T15:01:44.539990Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_f713f4e4a699",
+      "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+      "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "primary_url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
+          "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "title_zh": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录",
+          "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "title_original": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T14:58:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
+          "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "title_zh": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录",
+          "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "title_original": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-28T14:58:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8679,
+      "importance": 0.8679,
+      "importance_score": 0.8679,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.99,
+        "recency": 0.9992,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T14:58:17Z",
+      "latest_at": "2026-10-28T14:58:17Z",
+      "primary_item": {
+        "id": "f69a7dd028eea1e4f16b19d1d0651c431ca46b33",
+        "title": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "title_zh": "NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录",
+        "title_en": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "title_original": "NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/nemotron-transcribe-granary",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T15:14:18.524419Z"
+      }
+    },
     {
       "story_id": "story_3e2da8c9fde0",
       "title": "Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8458,
-      "importance": 0.8458,
-      "importance_score": 0.8458,
+      "score": 0.8382,
+      "importance": 0.8382,
+      "importance_score": 0.8382,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9658,
+        "recency": 0.9233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,94 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
-      }
-    },
-    {
-      "story_id": "story_74c7e03322b7",
-      "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
-      "url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "primary_url": "https://huggingface.co/blog/allenai/novelty-bench",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
-          "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
-          "title_zh": "我们可以信任LLM来判断一个研究想法是否新颖吗？",
-          "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
-          "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/novelty-bench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T16:12:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
-          "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
-          "title_zh": "我们可以信任LLM来判断一个研究想法是否新颖吗？",
-          "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
-          "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/novelty-bench",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T16:12:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8234,
-      "importance": 0.8234,
-      "importance_score": 0.8234,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.99,
-        "recency": 0.7524,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T16:12:42Z",
-      "latest_at": "2026-10-27T16:12:42Z",
-      "primary_item": {
-        "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
-        "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
-        "title_zh": "我们可以信任LLM来判断一个研究想法是否新颖吗？",
-        "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
-        "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/novelty-bench",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.812,
+      "importance": 0.812,
+      "importance_score": 0.812,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8135,
+        "recency": 0.7777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7931,
+      "importance": 0.7931,
+      "importance_score": 0.7931,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7504,
+        "recency": 0.7174,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,30 +348,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
-      "story_id": "story_dcfc8da3dcc9",
-      "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
-      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "story_id": "story_74c7e03322b7",
+      "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
+      "url": "https://huggingface.co/blog/allenai/novelty-bench",
+      "primary_url": "https://huggingface.co/blog/allenai/novelty-bench",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-          "title_zh": "使用 LFM3 构建专门的多模式模型",
-          "title_en": "Build specialized multimodal models with LFM3",
-          "title_original": "Build specialized multimodal models with LFM3",
+          "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
+          "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
+          "title_zh": "我们可以信任LLM来判断一个研究想法是否新颖吗？",
+          "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
+          "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-27T17:16:52Z",
+          "published_at": "2026-10-27T16:12:42Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -382,18 +382,18 @@
       ],
       "items": [
         {
-          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-          "title_zh": "使用 LFM3 构建专门的多模式模型",
-          "title_en": "Build specialized multimodal models with LFM3",
-          "title_original": "Build specialized multimodal models with LFM3",
+          "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
+          "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
+          "title_zh": "我们可以信任LLM来判断一个研究想法是否新颖吗？",
+          "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
+          "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "url": "https://huggingface.co/blog/allenai/novelty-bench",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-27T17:16:52Z",
+          "published_at": "2026-10-27T16:12:42Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -407,8 +407,8 @@
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7641,
+        "ai_relevance": 0.99,
+        "recency": 0.7193,
         "story_heat": 0.0
       },
       "category": "official",
@@ -417,17 +417,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-27T17:16:52Z",
-      "latest_at": "2026-10-27T17:16:52Z",
+      "earliest_at": "2026-10-27T16:12:42Z",
+      "latest_at": "2026-10-27T16:12:42Z",
       "primary_item": {
-        "id": "f575916052681d60fce595fbbd176bcab3c5af10",
-        "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
-        "title_zh": "使用 LFM3 构建专门的多模式模型",
-        "title_en": "Build specialized multimodal models with LFM3",
-        "title_original": "Build specialized multimodal models with LFM3",
+        "id": "063e213d0efe29b8ede82d8e72bb4feba8117d70",
+        "title": "我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?",
+        "title_zh": "我们可以信任LLM来判断一个研究想法是否新颖吗？",
+        "title_en": "Can we trust LLMs to judge whether a research idea is novel?",
+        "title_original": "Can we trust LLMs to judge whether a research idea is novel?",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "url": "https://huggingface.co/blog/allenai/novelty-bench",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7801,
-      "importance": 0.7801,
-      "importance_score": 0.7801,
+      "score": 0.7723,
+      "importance": 0.7723,
+      "importance_score": 0.7723,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9861,
+        "recency": 0.9427,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -521,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -573,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7796,
-      "importance": 0.7796,
-      "importance_score": 0.7796,
+      "score": 0.7719,
+      "importance": 0.7719,
+      "importance_score": 0.7719,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9665,
+        "recency": 0.9239,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,94 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
-      }
-    },
-    {
-      "story_id": "story_ec554f349e47",
-      "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
-      "url": "https://openai.com/index/retell-ai",
-      "primary_url": "https://openai.com/index/retell-ai",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
-          "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
-          "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
-          "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
-          "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/retell-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T15:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
-          "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
-          "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
-          "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
-          "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/retell-ai",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-10-27T15:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8051,
-      "importance": 0.8051,
-      "importance_score": 0.8051,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7394,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-27T15:00:00Z",
-      "latest_at": "2026-10-27T15:00:00Z",
-      "primary_item": {
-        "id": "fe0aa90d61820e01a17359367cfdcd55550f3a5e",
-        "title": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话 / Retell uses OpenAI models to help power 100M monthly calls",
-        "title_zh": "Retell 使用 OpenAI 模型帮助支持每月 1 亿次通话",
-        "title_en": "Retell uses OpenAI models to help power 100M monthly calls",
-        "title_original": "Retell uses OpenAI models to help power 100M monthly calls",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/retell-ai",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -746,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7742,
-      "importance": 0.7742,
-      "importance_score": 0.7742,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.84,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8368,
+        "recency": 0.8,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -780,7 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -832,15 +745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9662,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -866,7 +779,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
+      }
+    },
+    {
+      "story_id": "story_dcfc8da3dcc9",
+      "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+      "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "primary_url": "https://huggingface.co/blog/LiquidAI/lfm3",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
+          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+          "title_zh": "使用 LFM3 构建专门的多模式模型",
+          "title_en": "Build specialized multimodal models with LFM3",
+          "title_original": "Build specialized multimodal models with LFM3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T17:16:52Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "f575916052681d60fce595fbbd176bcab3c5af10",
+          "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+          "title_zh": "使用 LFM3 构建专门的多模式模型",
+          "title_en": "Build specialized multimodal models with LFM3",
+          "title_original": "Build specialized multimodal models with LFM3",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-10-27T17:16:52Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8115,
+      "importance": 0.8115,
+      "importance_score": 0.8115,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7305,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-27T17:16:52Z",
+      "latest_at": "2026-10-27T17:16:52Z",
+      "primary_item": {
+        "id": "f575916052681d60fce595fbbd176bcab3c5af10",
+        "title": "使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3",
+        "title_zh": "使用 LFM3 构建专门的多模式模型",
+        "title_en": "Build specialized multimodal models with LFM3",
+        "title_original": "Build specialized multimodal models with LFM3",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/LiquidAI/lfm3",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -918,21 +918,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7535,
-      "importance": 0.7535,
-      "importance_score": 0.7535,
+      "score": 0.7462,
+      "importance": 0.7462,
+      "importance_score": 0.7462,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9217,
+        "recency": 0.8811,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-28T06:15:43Z",
       "latest_at": "2026-10-28T06:15:43Z",
@@ -952,7 +951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -1004,21 +1003,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7501,
-      "importance": 0.7501,
-      "importance_score": 0.7501,
+      "score": 0.7435,
+      "importance": 0.7435,
+      "importance_score": 0.7435,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8362,
+        "recency": 0.7994,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-27T23:31:32Z",
       "latest_at": "2026-10-27T23:31:32Z",
@@ -1038,7 +1036,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -1090,15 +1088,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7489,
-      "importance": 0.7489,
-      "importance_score": 0.7489,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9961,
+        "recency": 0.9522,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1123,7 +1121,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -1175,15 +1173,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7453,
-      "importance": 0.7453,
-      "importance_score": 0.7453,
+      "score": 0.7393,
+      "importance": 0.7393,
+      "importance_score": 0.7393,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.79,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7594,
+        "recency": 0.726,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1208,7 +1206,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -1260,15 +1258,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.77,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7669,
+        "recency": 0.7331,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1293,7 +1291,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -1345,15 +1343,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7659,
-      "importance": 0.7659,
-      "importance_score": 0.7659,
+      "score": 0.7591,
+      "importance": 0.7591,
+      "importance_score": 0.7591,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8574,
+        "recency": 0.8197,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1379,7 +1377,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -1431,15 +1429,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7615,
-      "importance": 0.7615,
-      "importance_score": 0.7615,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9662,
+        "recency": 0.9237,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1465,177 +1463,92 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
-      "story_id": "story_9a537d6a9ade",
-      "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-      "url": "https://www.langchain.com/blog/design-agent",
-      "primary_url": "https://www.langchain.com/blog/design-agent",
-      "source": "LangChain：Blog（RSS）",
+      "story_id": "story_96589410c307",
+      "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+      "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+      "primary_url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+      "source": "公众号：面壁智能（MiniCPM）",
       "source_name": "AI HOT",
       "sources": [
         {
-          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-          "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-          "title_en": "How We Built Our Design Agent",
-          "title_original": "How We Built Our Design Agent",
-          "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
+          "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
+          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "title_en": null,
+          "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
           "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/design-agent",
-          "source": "LangChain：Blog（RSS）",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+          "source": "公众号：面壁智能（MiniCPM）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T16:45:00Z",
+          "published_at": "2026-10-28T11:38:17Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "LangChain：Blog（RSS）"
+        "公众号：面壁智能（MiniCPM）"
       ],
       "items": [
         {
-          "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-          "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-          "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-          "title_en": "How We Built Our Design Agent",
-          "title_original": "How We Built Our Design Agent",
-          "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
+          "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
+          "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "title_en": null,
+          "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+          "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
           "recommend_reason_zh": null,
-          "url": "https://www.langchain.com/blog/design-agent",
-          "source": "LangChain：Blog（RSS）",
+          "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+          "source": "公众号：面壁智能（MiniCPM）",
           "source_name": "AI HOT",
           "site_id": "aihot",
-          "published_at": "2026-10-27T16:45:00Z",
+          "published_at": "2026-10-28T11:38:17Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7211,
-      "importance": 0.7211,
-      "importance_score": 0.7211,
+      "score": 0.741,
+      "importance": 0.741,
+      "importance_score": 0.741,
       "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.71,
+        "editorial": 0.66,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7583,
+        "recency": 0.9522,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
         "high_ai_relevance"
       ],
-      "earliest_at": "2026-10-27T16:45:00Z",
-      "latest_at": "2026-10-27T16:45:00Z",
+      "earliest_at": "2026-10-28T11:38:17Z",
+      "latest_at": "2026-10-28T11:38:17Z",
       "primary_item": {
-        "id": "7ad5eecd33224c4cb9bf0f88e2e49f946e3c8d3b",
-        "title": "LangChain 解析自研设计 agent Content Studio 并开源其 harness / How We Built Our Design Agent",
-        "title_zh": "LangChain 解析自研设计 agent Content Studio 并开源其 harness",
-        "title_en": "How We Built Our Design Agent",
-        "title_original": "How We Built Our Design Agent",
-        "summary": "LangChain 详解自家设计 agent Content Studio 如何在 Slack 中根据一条提示生成视频、幻灯片和社媒图等代码化资产，已累计产出超 3000 件资产、80 多套幻灯片，单次请求模型成本从约 $8 降至约 50 美分。",
+        "id": "a60a346fe76490a3702395da6ecf4903e4c23fbb",
+        "title": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+        "title_zh": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+        "title_en": null,
+        "title_original": "面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型",
+        "summary": "面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。",
         "recommend_reason_zh": null,
-        "url": "https://www.langchain.com/blog/design-agent",
-        "source": "LangChain：Blog（RSS）",
+        "url": "https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&mid=2247499654&idx=1&sn=9bcbf9492c492a5d5e611af41670425f",
+        "source": "公众号：面壁智能（MiniCPM）",
         "source_name": "AI HOT"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
-      }
-    },
-    {
-      "story_id": "story_53c724770993",
-      "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-      "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-      "primary_url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-      "source": "The Decoder：AI News（RSS）",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "91548c701a172875c89736972d3fa8e928903801",
-          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T12:37:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "The Decoder：AI News（RSS）"
-      ],
-      "items": [
-        {
-          "id": "91548c701a172875c89736972d3fa8e928903801",
-          "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-          "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-          "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
-          "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-          "source": "The Decoder：AI News（RSS）",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-27T12:37:24Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7372,
-      "importance": 0.7372,
-      "importance_score": 0.7372,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.79,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7144,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-27T12:37:24Z",
-      "latest_at": "2026-10-27T12:37:24Z",
-      "primary_item": {
-        "id": "91548c701a172875c89736972d3fa8e928903801",
-        "title": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "title_zh": "OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明",
-        "title_en": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "title_original": "OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics",
-        "summary": "The Decoder 报道 OpenAI 请外部专家担任\"shepherds\"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。",
-        "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics",
-        "source": "The Decoder：AI News（RSS）",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     },
     {
@@ -1687,15 +1600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7603,
-      "importance": 0.7603,
-      "importance_score": 0.7603,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9592,
+        "recency": 0.917,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1721,7 +1634,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-28T12:01:37.059056Z"
+        "scored_at": "2026-10-28T15:14:18.524419Z"
+      }
+    },
+    {
+      "story_id": "story_158b349a9bd9",
+      "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+      "url": "https://www.aibase.com/news/31929",
+      "primary_url": "https://www.aibase.com/news/31929",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
+          "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+          "title_zh": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+          "title_en": null,
+          "title_original": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31929",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T08:31:50.459088Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
+          "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+          "title_zh": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+          "title_en": null,
+          "title_original": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31929",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-28T08:31:50.459088Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9104,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-28T08:31:50.459088Z",
+      "latest_at": "2026-10-28T08:31:50.459088Z",
+      "primary_item": {
+        "id": "1dbdf174d6adf86ef9f30a7262a10e1dfc7438d5",
+        "title": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+        "title_zh": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+        "title_en": null,
+        "title_original": "CVE 漏洞数近乎垂直拉升，AI 成安全研究\"放大器\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31929",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-28T15:14:18.524419Z"
       }
     }
   ]
