@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 16:01:47 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 16:31:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>NVIDIA Nemotron 3.5 Transcribe 和 Granary v2：您可以提示和调整的智能多语言转录 / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
@@ -16,6 +16,14 @@
 <pubDate>Wed, 28 Oct 2026 14:58:17 +0000</pubDate>
 </item>
 <item>
+<title>使用 GitHub Copilot Fusion 路由和编排模型 / Route and orchestrate models with GitHub Copilot Fusion</title>
+<link>https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-route-and-orchestrate-models-with-github-copilot-fusion</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
+</item>
+<item>
 <title>Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work</title>
 <link>https://openai.com/index/legora-agentic-operating-system-for-legal-work</link>
 <guid isPermaLink="true">https://openai.com/index/legora-agentic-operating-system-for-legal-work</guid>
@@ -24,20 +32,36 @@
 <pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot 支持服务器到服务器身份验证 / GitHub Copilot supports server-to-server authentication</title>
-<link>https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-10-27-github-copilot-supports-server-to-server-authentication</guid>
+<title>GitHub Copilot 应用程序、Universe 发布 / GitHub Copilot app, Universe releases</title>
+<link>https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-github-copilot-app-universe-releases</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 27 Oct 2026 21:36:55 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 15:55:00 +0000</pubDate>
 </item>
 <item>
-<title>我们可以信任LLM来判断一个研究想法是否新颖吗？ / Can we trust LLMs to judge whether a research idea is novel?</title>
-<link>https://huggingface.co/blog/allenai/novelty-bench</link>
-<guid isPermaLink="true">https://huggingface.co/blog/allenai/novelty-bench</guid>
+<title>GitHub Enterprise 现在包含对 GitHub Copilot 的访问 / GitHub Enterprise now includes access to GitHub Copilot</title>
+<link>https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-github-enterprise-now-includes-access-to-github-copilot</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 28 Oct 2026 15:50:00 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Octoverse 2026：开发活动创新高，超 40% 的 PR 由智能体起草 / Octoverse: Commits, pushes, reach new highs in 2026 as developers build with agents</title>
+<link>https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents</link>
+<guid isPermaLink="true">https://github.blog/news-insights/octoverse/octoverse-commits-pushes-reach-new-highs-in-2026-as-developers-build-with-agents</guid>
+<description>GitHub 发布 2026 年度 Octoverse 报告：过去 12 个月开发者推送代码 179 亿次，超过 2024 和 2025 年之和，合并 PR 达 13 亿次。（GitHub Blog）</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 16:07:40 +0000</pubDate>
+</item>
+<item>
+<title>使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3</title>
+<link>https://huggingface.co/blog/LiquidAI/lfm3</link>
+<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Tue, 27 Oct 2026 16:12:42 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
 </item>
 <item>
 <title>Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense</title>
@@ -64,20 +88,20 @@
 <pubDate>Tue, 27 Oct 2026 23:34:27 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app</title>
+<link>https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-security-extension-for-the-github-copilot-app</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 28 Oct 2026 15:45:00 +0000</pubDate>
+</item>
+<item>
 <title>OpenAI被曝将向谷歌采购TPU芯片，算力供应链格局再变</title>
 <link>https://www.aibase.com/news/31933</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31933</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Wed, 28 Oct 2026 09:31:46 +0000</pubDate>
-</item>
-<item>
-<title>使用 LFM3 构建专门的多模式模型 / Build specialized multimodal models with LFM3</title>
-<link>https://huggingface.co/blog/LiquidAI/lfm3</link>
-<guid isPermaLink="true">https://huggingface.co/blog/LiquidAI/lfm3</guid>
-<description>Hugging Face Blog</description>
-<category>官方更新</category>
-<pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
 </item>
 <item>
 <title>Addy Osmani 讲解如何上手 Claude Code Mods / Getting started with Claude Code Mods</title>
@@ -112,6 +136,14 @@
 <pubDate>Tue, 27 Oct 2026 16:51:22 +0000</pubDate>
 </item>
 <item>
+<title>GitHub Universe 2026 发布 GitHub Copilot app、Copilot Fusion 等智能体产品 / GitHub Universe 2026: Evolving every layer of the stack</title>
+<link>https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack</link>
+<guid isPermaLink="true">https://github.blog/news-insights/company-news/github-universe-2026-evolving-every-layer-of-the-stack</guid>
+<description>GitHub 在 GitHub Universe 2026 上提出把 GitHub 打造为完整软件交付系统的愿景，并发布多项产品：GitHub Copilot app 面向智能体交付。（GitHub Blog）</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 16:09:28 +0000</pubDate>
+</item>
+<item>
 <title>Azeem Azhar 图解 Anthropic S-1 财务数据 / 🔮 Anthropic’s S-1 in charts</title>
 <link>https://www.exponentialview.co/p/anthropics-s-1-in-charts</link>
 <guid isPermaLink="true">https://www.exponentialview.co/p/anthropics-s-1-in-charts</guid>
@@ -120,52 +152,20 @@
 <pubDate>Tue, 27 Oct 2026 17:31:56 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
-<link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</link>
-<guid isPermaLink="true">https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</guid>
-<description>TechCrunch 根据 Anthropic 的 S-1 分析，VC 持股均不足 5%，而 Amazon 可能是 IPO 最大财务受益方。Amazon 持有 62 亿美元本金可转债、其自估持仓价值 979 亿美元，另投 100 亿美元无投票权优先股，累计投资约 180 亿美元；Anthropic 还承诺未来 10 年在 AWS 至少消费 1100 亿美元。（TechCrunch：AI（RSS））</description>
+<title>a16z 调研 100 位 CISO：AI 如何改写 2027 年安全议程 / The New Security Agenda</title>
+<link>https://www.a16z.news/p/the-new-security-agenda</link>
+<guid isPermaLink="true">https://www.a16z.news/p/the-new-security-agenda</guid>
+<description>a16z 发布对 100 名千人员以上企业 CISO 的调研，87% 预期 2027 年安全支出增长，主要受 AI 威胁和自身 AI 部署扩大攻击面驱动。2027 年最受关注的七项安全举措全部与 AI 相关，其中 SOC 自动化获最多首选票，内部 AI agent 安全、SOC 自动化和进攻性安全升幅最大，但 AI SOC 工具生产环境使用率仅 18%。（a16z：News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 01:15:28 +0000</pubDate>
+<pubDate>Wed, 28 Oct 2026 16:00:31 +0000</pubDate>
 </item>
 <item>
-<title>豆包公关回应"15 万群演被喂模型"：传言严重失实</title>
-<link>https://www.aibase.com/news/31932</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31932</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 09:31:46 +0000</pubDate>
-</item>
-<item>
-<title>面壁智能发布并开源 MiniCPM-OCR 系列：1.3B 解析模型与 2B 判别模型</title>
-<link>https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=Mzg3Mzg2MTg2NQ%3D%3D&amp;mid=2247499654&amp;idx=1&amp;sn=9bcbf9492c492a5d5e611af41670425f</guid>
-<description>面壁智能发布并开源 MiniCPM-OCR 系列。MiniCPM-OCR 1.0（1.3B）在 Real5-OmniDocBench 取得 93.68 分、OCRBench v2 取得 54.7 分的 SOTA，经 DSpark 加速后吞吐达 1.217 页/秒，端到端效率提升 55%。（公众号：面壁智能（MiniCPM））</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 11:38:17 +0000</pubDate>
-</item>
-<item>
-<title>外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”</title>
-<link>https://www.aibase.com/news/31931</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31931</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 09:01:48 +0000</pubDate>
-</item>
-<item>
-<title>CVE 漏洞数近乎垂直拉升，AI 成安全研究"放大器"</title>
-<link>https://www.aibase.com/news/31929</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31929</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 08:31:50 +0000</pubDate>
-</item>
-<item>
-<title>百度世界大会前夕重磅流出：消息称其将披露世界模型进展</title>
-<link>https://www.aibase.com/news/31928</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31928</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 08:31:50 +0000</pubDate>
+<title>GitHub 智能让您的代码、上下文和历史记录发挥作用 / GitHub intelligence puts your code, context, and history to work</title>
+<link>https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-10-28-github-intelligence-puts-your-code-context-and-history-to-work</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Wed, 28 Oct 2026 15:40:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
