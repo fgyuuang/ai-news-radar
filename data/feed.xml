@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 28 Oct 2026 11:01:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 28 Oct 2026 11:31:54 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work</title>
@@ -46,6 +46,14 @@
 <description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Tue, 27 Oct 2026 17:16:52 +0000</pubDate>
+</item>
+<item>
+<title>Cathedral 用 AI 智能体侵入 Anthropic 内部系统，双方对事件范围说法不一 / AI agents hacked Anthropic, maker of arguably the most capable AI models for cyberdefense</title>
+<link>https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense</link>
+<guid isPermaLink="true">https://the-decoder.com/ai-agents-hacked-anthropic-maker-of-arguably-the-most-capable-ai-models-for-cyberdefense</guid>
+<description>网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。（The Decoder：AI News（RSS））</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 10:56:24 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic S-1 显示 90% 增量毛利，SemiAnalysis 播客详解其中数字</title>
@@ -112,14 +120,6 @@
 <pubDate>Tue, 27 Oct 2026 17:31:56 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics</title>
-<link>https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics</link>
-<guid isPermaLink="true">https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics</guid>
-<description>The Decoder 报道 OpenAI 请外部专家担任"shepherds"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。（The Decoder：AI News（RSS））</description>
-<category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 12:37:24 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic IPO 最大赢家或为 Amazon 而非 VC / VCs will make billions on Anthropic’s IPO, but Amazon is set to make much (much) more</title>
 <link>https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</link>
 <guid isPermaLink="true">https://techcrunch.com/2026/10/27/vcs-will-make-billions-on-anthropics-ipo-but-amazon-is-set-to-make-much-much-more</guid>
@@ -144,20 +144,12 @@
 <pubDate>Tue, 27 Oct 2026 16:45:00 +0000</pubDate>
 </item>
 <item>
-<title>Google 发布世界模型 Genie 4，支持实时操控与原生音频</title>
-<link>https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</link>
-<guid isPermaLink="true">https://mp.weixin.qq.com/s?__biz=MzIyMzA5NjEyMA%3D%3D&amp;mid=2647687902&amp;idx=1&amp;sn=9a57b3d769582b12d8645af23431743d</guid>
-<description>Google 发布下一代世界模型 Genie 4，相比 Genie 3 在照片级真实感、物体碰撞等物理模拟上有明显进步。用户可用 WASD 和双摇杆实时控制角色或镜头，运行中可用自然语言修改天气和加入物体，模型还能同步生成环境音与人物实时对话。（公众号：数字生命卡兹克）</description>
+<title>OpenAI 请外部专家核查其 AI 在数学、计算机科学和物理学领域产出的证明 / OpenAI asks outside experts, including a Nobel laureate, to check proofs its AI produced in math, computer science, and physics</title>
+<link>https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics</link>
+<guid isPermaLink="true">https://the-decoder.com/openai-asks-outside-experts-including-a-nobel-laureate-to-check-proofs-its-ai-produced-in-math-computer-science-and-physics</guid>
+<description>The Decoder 报道 OpenAI 请外部专家担任"shepherds"核查其 AI 在计算机科学、数学和物理学领域的三项证明结果，并将部分证明翻译成 Lean 供计算机逐步验证。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 00:22:00 +0000</pubDate>
-</item>
-<item>
-<title>Gemini 集成 Google SynthID 检测，可识别图片、视频和音频是否为 Google AI 生成 / With Google SynthID detection in Gemini, anyone can easily check if an image, video, or audio file was made with AI from Google.</title>
-<link>https://x.com/GeminiApp/status/2115171788812669225</link>
-<guid isPermaLink="true">https://x.com/GeminiApp/status/2115171788812669225</guid>
-<description>Google Gemini 宣布集成 SynthID 检测功能，用户只需在 Gemini 中询问“Is this AI generated?”，即可检查图片、视频或音频文件是否由 Google AI 生成。官方称此举帮助用户更有信心地浏览网络内容。（X：Gemini (@GeminiApp)）</description>
-<category>行业动态</category>
-<pubDate>Tue, 27 Oct 2026 20:00:27 +0000</pubDate>
+<pubDate>Tue, 27 Oct 2026 12:37:24 +0000</pubDate>
 </item>
 <item>
 <title>外国博主用AI耳机当看诊翻译:“直接听、直接翻，整个交流会顺很多”</title>
@@ -166,6 +158,14 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Wed, 28 Oct 2026 09:01:48 +0000</pubDate>
+</item>
+<item>
+<title>CVE 漏洞数近乎垂直拉升，AI 成安全研究"放大器"</title>
+<link>https://www.aibase.com/news/31929</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31929</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 08:31:50 +0000</pubDate>
 </item>
 </channel>
 </rss>
