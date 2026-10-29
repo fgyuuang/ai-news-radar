@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-29T12:01:41.042636Z",
+  "generated_at": "2026-10-29T13:31:47.566219Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8708,
-      "importance": 0.8708,
-      "importance_score": 0.8708,
+      "score": 0.868,
+      "importance": 0.868,
+      "importance_score": 0.868,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7378,
+        "recency": 0.722,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.8059,
+      "importance": 0.8059,
+      "importance_score": 0.8059,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7599,
+        "recency": 0.7436,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8068,
-      "importance": 0.8068,
-      "importance_score": 0.8068,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7488,
+        "recency": 0.7328,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,67 +328,67 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
-      "story_id": "story_dc34b00fe1cc",
-      "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
-      "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "primary_url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-      "source": "OpenAI News",
+      "story_id": "story_dd4d49cee6e1",
+      "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+      "url": "https://huggingface.co/blog/anydecisionmodel",
+      "primary_url": "https://huggingface.co/blog/anydecisionmodel",
+      "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
-          "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "title_zh": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
-          "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
+          "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
+          "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "source": "OpenAI News",
+          "url": "https://huggingface.co/blog/anydecisionmodel",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T13:15:00Z",
+          "published_at": "2026-10-29T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "Hugging Face Blog"
       ],
       "items": [
         {
-          "id": "0fd968b40feb377d645c078f6daf22388be116cf",
-          "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "title_zh": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
-          "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-          "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+          "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
+          "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
+          "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+          "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-          "source": "OpenAI News",
+          "url": "https://huggingface.co/blog/anydecisionmodel",
+          "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-10-28T13:15:00Z",
+          "published_at": "2026-10-29T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8015,
-      "importance": 0.8015,
-      "importance_score": 0.8015,
+      "score": 0.8281,
+      "importance": 0.8281,
+      "importance_score": 0.8281,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7197,
+        "ai_relevance": 0.95,
+        "recency": 0.8225,
         "story_heat": 0.0
       },
       "category": "official",
@@ -397,25 +397,111 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-10-28T13:15:00Z",
-      "latest_at": "2026-10-28T13:15:00Z",
+      "earliest_at": "2026-10-29T00:00:00Z",
+      "latest_at": "2026-10-29T00:00:00Z",
       "primary_item": {
-        "id": "0fd968b40feb377d645c078f6daf22388be116cf",
-        "title": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "title_zh": "OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系",
-        "title_en": "OpenAI and ServiceNow expand partnership across enterprise workflows",
-        "title_original": "OpenAI and ServiceNow expand partnership across enterprise workflows",
+        "id": "c4ff26cdc8205e4d4b8b11363b6f037632847739",
+        "title": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "title_zh": "AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型",
+        "title_en": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
+        "title_original": "Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/openai-servicenow-partnership-expansion",
-        "source": "OpenAI News",
+        "url": "https://huggingface.co/blog/anydecisionmodel",
+        "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
+      }
+    },
+    {
+      "story_id": "story_57da17898958",
+      "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+      "source": "The Verge：AI（RSS）",
+      "source_name": "AI HOT",
+      "sources": [
+        {
+          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+          "title_en": "Anthropic’s business plan: Build God or die trying",
+          "title_original": "Anthropic’s business plan: Build God or die trying",
+          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T13:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "The Verge：AI（RSS）"
+      ],
+      "items": [
+        {
+          "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+          "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+          "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+          "title_en": "Anthropic’s business plan: Build God or die trying",
+          "title_original": "Anthropic’s business plan: Build God or die trying",
+          "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+          "source": "The Verge：AI（RSS）",
+          "source_name": "AI HOT",
+          "site_id": "aihot",
+          "published_at": "2026-10-29T13:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7915,
+      "importance": 0.7915,
+      "importance_score": 0.7915,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.8,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9996,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T13:30:00Z",
+      "latest_at": "2026-10-29T13:30:00Z",
+      "primary_item": {
+        "id": "69192c13ed587ff79c9188741cbc4178614eeaab",
+        "title": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying",
+        "title_zh": "The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进",
+        "title_en": "Anthropic’s business plan: Build God or die trying",
+        "title_original": "Anthropic’s business plan: Build God or die trying",
+        "summary": "The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。",
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive",
+        "source": "The Verge：AI（RSS）",
+        "source_name": "AI HOT"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -467,15 +553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7871,
-      "importance": 0.7871,
-      "importance_score": 0.7871,
+      "score": 0.7833,
+      "importance": 0.7833,
+      "importance_score": 0.7833,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.975,
+        "recency": 0.9541,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -501,7 +587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -553,15 +639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8066,
-      "importance": 0.8066,
-      "importance_score": 0.8066,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7479,
+        "recency": 0.7319,
         "story_heat": 0.0
       },
       "category": "official",
@@ -588,7 +674,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -640,15 +726,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -674,7 +760,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -726,15 +812,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7608,
+      "importance": 0.7608,
+      "importance_score": 0.7608,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.85,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7618,
+        "recency": 0.7455,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -760,7 +846,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -812,15 +898,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7629,
-      "importance": 0.7629,
-      "importance_score": 0.7629,
+      "score": 0.7597,
+      "importance": 0.7597,
+      "importance_score": 0.7597,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.81,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8236,
+        "recency": 0.8059,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -846,7 +932,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -898,15 +984,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7561,
-      "importance": 0.7561,
-      "importance_score": 0.7561,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.73,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9196,
+        "recency": 0.8999,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -932,7 +1018,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -984,21 +1070,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7509,
-      "importance": 0.7509,
-      "importance_score": 0.7509,
+      "score": 0.7477,
+      "importance": 0.7477,
+      "importance_score": 0.7477,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.76,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8406,
+        "recency": 0.8225,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-29T00:00:00Z",
       "latest_at": "2026-10-29T00:00:00Z",
@@ -1018,7 +1103,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -1070,21 +1155,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.75,
-      "importance": 0.75,
-      "importance_score": 0.75,
+      "score": 0.7471,
+      "importance": 0.7471,
+      "importance_score": 0.7471,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.8,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7691,
+        "recency": 0.7526,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-10-28T17:51:00Z",
       "latest_at": "2026-10-28T17:51:00Z",
@@ -1104,7 +1188,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -1156,15 +1240,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7486,
-      "importance": 0.7486,
-      "importance_score": 0.7486,
+      "score": 0.7455,
+      "importance": 0.7455,
+      "importance_score": 0.7455,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7944,
+        "recency": 0.7774,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1189,7 +1273,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -1241,15 +1325,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8065,
-      "importance": 0.8065,
-      "importance_score": 0.8065,
+      "score": 0.8036,
+      "importance": 0.8036,
+      "importance_score": 0.8036,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.747,
+        "recency": 0.731,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1276,7 +1360,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -1328,15 +1412,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7406,
-      "importance": 0.7406,
-      "importance_score": 0.7406,
+      "score": 0.7377,
+      "importance": 0.7377,
+      "importance_score": 0.7377,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.78,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7502,
+        "recency": 0.7341,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1361,93 +1445,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
-      }
-    },
-    {
-      "story_id": "story_4764818e56a3",
-      "title": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
-      "url": "https://www.aibase.com/news/31966",
-      "primary_url": "https://www.aibase.com/news/31966",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "3223c24fec02f4338af2ade8f306403fbf97b221",
-          "title": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
-          "title_zh": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
-          "title_en": null,
-          "title_original": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31966",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T11:01:42.785209Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "3223c24fec02f4338af2ade8f306403fbf97b221",
-          "title": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
-          "title_zh": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
-          "title_en": null,
-          "title_original": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/31966",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-10-29T11:01:42.785209Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-10-29T11:01:42.785209Z",
-      "latest_at": "2026-10-29T11:01:42.785209Z",
-      "primary_item": {
-        "id": "3223c24fec02f4338af2ade8f306403fbf97b221",
-        "title": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
-        "title_zh": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
-        "title_en": null,
-        "title_original": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/31966",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -1532,15 +1530,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.7347,
-      "importance": 0.7347,
-      "importance_score": 0.7347,
+      "score": 0.7317,
+      "importance": 0.7317,
+      "importance_score": 0.7317,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.67,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7616,
+        "recency": 0.7452,
         "story_heat": 0.25
       },
       "category": "industry",
@@ -1566,7 +1564,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
+      }
+    },
+    {
+      "story_id": "story_4764818e56a3",
+      "title": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
+      "url": "https://www.aibase.com/news/31966",
+      "primary_url": "https://www.aibase.com/news/31966",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3223c24fec02f4338af2ade8f306403fbf97b221",
+          "title": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
+          "title_zh": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
+          "title_en": null,
+          "title_original": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31966",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T11:01:42.785209Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3223c24fec02f4338af2ade8f306403fbf97b221",
+          "title": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
+          "title_zh": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
+          "title_en": null,
+          "title_original": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/31966",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-10-29T11:01:42.785209Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9645,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-10-29T11:01:42.785209Z",
+      "latest_at": "2026-10-29T11:01:42.785209Z",
+      "primary_item": {
+        "id": "3223c24fec02f4338af2ade8f306403fbf97b221",
+        "title": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
+        "title_zh": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
+        "title_en": null,
+        "title_original": "百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/31966",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -1618,15 +1702,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8063,
-      "importance": 0.8063,
-      "importance_score": 0.8063,
+      "score": 0.8034,
+      "importance": 0.8034,
+      "importance_score": 0.8034,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7462,
+        "recency": 0.7301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1653,7 +1737,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     },
     {
@@ -1705,15 +1789,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1739,92 +1823,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
-      }
-    },
-    {
-      "story_id": "story_3a5b4be1e667",
-      "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-      "url": "https://x.com/sundarpichai/status/2115489219804352921",
-      "primary_url": "https://x.com/sundarpichai/status/2115489219804352921",
-      "source": "X：Sundar Pichai (@sundarpichai)",
-      "source_name": "AI HOT",
-      "sources": [
-        {
-          "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
-          "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "title_zh": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-          "title_en": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "title_original": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sundarpichai/status/2115489219804352921",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:01:48Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "X：Sundar Pichai (@sundarpichai)"
-      ],
-      "items": [
-        {
-          "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
-          "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "title_zh": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-          "title_en": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "title_original": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-          "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
-          "recommend_reason_zh": null,
-          "url": "https://x.com/sundarpichai/status/2115489219804352921",
-          "source": "X：Sundar Pichai (@sundarpichai)",
-          "source_name": "AI HOT",
-          "site_id": "aihot",
-          "published_at": "2026-10-28T17:01:48Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7214,
-      "importance": 0.7214,
-      "importance_score": 0.7214,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.71,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.7601,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-10-28T17:01:48Z",
-      "latest_at": "2026-10-28T17:01:48Z",
-      "primary_item": {
-        "id": "b89eea1b6e19e6db216c09f225390ac65ad243c8",
-        "title": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-        "title_zh": "Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先",
-        "title_en": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-        "title_original": "I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.",
-        "summary": "Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。",
-        "recommend_reason_zh": null,
-        "url": "https://x.com/sundarpichai/status/2115489219804352921",
-        "source": "X：Sundar Pichai (@sundarpichai)",
-        "source_name": "AI HOT"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-10-29T12:08:01.187433Z"
+        "scored_at": "2026-10-29T13:40:28.549038Z"
       }
     }
   ]

@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 29 Oct 2026 12:01:41 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 13:31:47 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
@@ -32,12 +32,20 @@
 <pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 <item>
-<title>OpenAI 和 ServiceNow 扩大跨企业工作流程的合作伙伴关系 / OpenAI and ServiceNow expand partnership across enterprise workflows</title>
-<link>https://openai.com/index/openai-servicenow-partnership-expansion</link>
-<guid isPermaLink="true">https://openai.com/index/openai-servicenow-partnership-expansion</guid>
-<description>OpenAI News</description>
+<title>AnySpeechRecognizer 和 AnyDecisionModel 简介：Apple 平台上的语音和决策开放模型 / Introducing AnySpeechRecognizer and AnyDecisionModel: Open Models for Speech and Decisions on Apple Platforms</title>
+<link>https://huggingface.co/blog/anydecisionmodel</link>
+<guid isPermaLink="true">https://huggingface.co/blog/anydecisionmodel</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
-<pubDate>Wed, 28 Oct 2026 13:15:00 +0000</pubDate>
+<pubDate>Thu, 29 Oct 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>The Verge 解读 Anthropic S-1：约 8500 亿美元 compute 承诺押注递归自我改进 / Anthropic’s business plan: Build God or die trying</title>
+<link>https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</link>
+<guid isPermaLink="true">https://www.theverge.com/ai-artificial-intelligence/1021476/anthropic-s-1-compute-recursive</guid>
+<description>The Verge 作者分析 Anthropic S-1，认为其商业模式依赖高速增长：2026 上半年营收同比增长 14 倍至 $16.3 billion，净收入留存率 900%，但不可撤销采购承诺合计 $265.6 billion，加上未开始的租赁协议 $321.4 billion 及其他协议，未来 20 年承诺至少约 $850 billion。（The Verge：AI（RSS））</description>
+<category>行业动态</category>
+<pubDate>Thu, 29 Oct 2026 13:30:00 +0000</pubDate>
 </item>
 <item>
 <title>Google 三季度搜索增速不及预期，投资者担忧 AI 搜索变现拖累核心业务 / Google's AI search problem finally shows up in the earnings report, some investors believe</title>
@@ -128,20 +136,20 @@
 <pubDate>Wed, 28 Oct 2026 16:07:40 +0000</pubDate>
 </item>
 <item>
-<title>百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析</title>
-<link>https://www.aibase.com/news/31966</link>
-<guid isPermaLink="true">https://www.aibase.com/news/31966</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Thu, 29 Oct 2026 11:01:42 +0000</pubDate>
-</item>
-<item>
 <title>犹他州 10 个州政府部门 34 名开发者试点使用 Claude Code / Utah gave Claude Code to 34 developers across 10 state agencies. 80% had a working environment within 30 minutes, 71% reported saving 20+...</title>
 <link>https://x.com/bcherny/status/2115491259381072269</link>
 <guid isPermaLink="true">https://x.com/bcherny/status/2115491259381072269</guid>
 <description>Boris Cherny 介绍犹他州向 10 个州政府部门的 34 名开发者提供了 Claude Code。试点显示 80% 的开发者在 30 分钟内搭好可用环境，71% 的开发者在为期四周的试点结束前报告节省了 20 小时以上时间。该推文引用了 Anthropic 与 GSA 合作将 Claude 以 40% 折扣提供给联邦及各级政府的公告作为背景。（X：Boris Cherny (@bcherny)）</description>
 <category>行业动态</category>
 <pubDate>Wed, 28 Oct 2026 17:09:54 +0000</pubDate>
+</item>
+<item>
+<title>百度确认吴甜离职，文心Unlimited OCR2开源实现任意页数解析</title>
+<link>https://www.aibase.com/news/31966</link>
+<guid isPermaLink="true">https://www.aibase.com/news/31966</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Thu, 29 Oct 2026 11:01:42 +0000</pubDate>
 </item>
 <item>
 <title>GitHub Copilot 应用程序的安全扩展 / Security extension for the GitHub Copilot app</title>
@@ -158,14 +166,6 @@
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Thu, 29 Oct 2026 09:01:42 +0000</pubDate>
-</item>
-<item>
-<title>Google 发布 Gemini 4 Carbon：AA Index v5.0 登顶，网络安全基准领先 / I did say we'd be releasing our models periodically...introducing Gemini 4 Carbon, our next frontier model.</title>
-<link>https://x.com/sundarpichai/status/2115489219804352921</link>
-<guid isPermaLink="true">https://x.com/sundarpichai/status/2115489219804352921</guid>
-<description>Sundar Pichai 宣布 Google 推出 Gemini 4 Carbon，称其在更新后的 Artificial Analysis Intelligence Index v5.0 以 59 分排名第一。（X：Sundar Pichai (@sundarpichai)）</description>
-<category>行业动态</category>
-<pubDate>Wed, 28 Oct 2026 17:01:48 +0000</pubDate>
 </item>
 </channel>
 </rss>
