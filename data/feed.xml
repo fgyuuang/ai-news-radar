@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Thu, 29 Oct 2026 09:01:42 +0000</lastBuildDate>
+<lastBuildDate>Thu, 29 Oct 2026 09:31:44 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>Nvidia Nemotron 3.5 Transcribe：支持 40 种语言的开源语音识别（ASR） / NVIDIA Nemotron 3.5 Transcribe and Granary v2: Intelligent Multilingual Transcription You Can Prompt and Adapt</title>
@@ -136,14 +136,6 @@
 <pubDate>Wed, 28 Oct 2026 17:09:54 +0000</pubDate>
 </item>
 <item>
-<title>Legora正在构建法律工作代理操作系统 / Legora is building the agentic operating system for legal work</title>
-<link>https://openai.com/index/legora</link>
-<guid isPermaLink="true">https://openai.com/index/legora</guid>
-<description>OpenAI News</description>
-<category>官方更新</category>
-<pubDate>Wed, 28 Oct 2026 09:30:00 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 递给企业一把"监工钥匙"：Claude 能看清每个员工的 AI 开销</title>
 <link>https://www.aibase.com/news/31965</link>
 <guid isPermaLink="true">https://www.aibase.com/news/31965</guid>
@@ -166,6 +158,14 @@
 <description>网络安全初创公司 Cathedral 通过第三方业务软件渗入 Anthropic 内部系统，称其 AI 智能体在不到十二小时内接触到会议记录、薪资数据和 Slack 消息，并借漏洞赏金计划披露问题。（The Decoder：AI News（RSS））</description>
 <category>行业动态</category>
 <pubDate>Wed, 28 Oct 2026 10:56:24 +0000</pubDate>
+</item>
+<item>
+<title>OpenMOSS 发布开源图像生成模型 MOSS-Image，主打长文本渲染与可编辑布局</title>
+<link>https://openmoss.ai/blog/cn/moss-image</link>
+<guid isPermaLink="true">https://openmoss.ai/blog/cn/moss-image</guid>
+<description>OpenMOSS 发布开放权重图像生成模型 MOSS-Image，采用 5B 参数单流 DiT 从零预训练，支持最长 4K token 提示词、中英文长文本渲染和可编辑的 JSON Layout。（OpenMOSS / 复旦NLP / 上海创智 / MOSI（网页））</description>
+<category>行业动态</category>
+<pubDate>Wed, 28 Oct 2026 16:00:00 +0000</pubDate>
 </item>
 </channel>
 </rss>
