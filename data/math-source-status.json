@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-10-29T10:21:42.278623+00:00",
+  "generated_at": "2026-10-29T10:51:42.054448+00:00",
   "sources": [
     {
       "id": "terrytao",
       "name": "Terence Tao — What’s New",
       "url": "https://terrytao.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "frontier"
       ],
@@ -15,7 +15,7 @@
       "item_count": 10,
       "latest_published_at": "2026-10-29T04:05:18+00:00",
       "note": null,
-      "duration_ms": 1661,
+      "duration_ms": 5138,
       "recent_count": 8
     },
     {
@@ -23,7 +23,7 @@
       "name": "Proofs and Prompts",
       "url": "https://proofsandprompts.com/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "ai_math"
       ],
@@ -32,7 +32,7 @@
       "item_count": 10,
       "latest_published_at": "2026-10-29T10:00:00+00:00",
       "note": null,
-      "duration_ms": 2136,
+      "duration_ms": 3368,
       "recent_count": 21
     },
     {
@@ -40,7 +40,7 @@
       "name": "VibeMathed",
       "url": "https://vibemathed.com/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "ai_math"
       ],
@@ -49,7 +49,7 @@
       "item_count": 30,
       "latest_published_at": "2026-10-12T12:00:00+00:00",
       "note": null,
-      "duration_ms": 1075,
+      "duration_ms": 3036,
       "recent_count": 0
     },
     {
@@ -57,7 +57,7 @@
       "name": "Gowers’s Weblog",
       "url": "https://gowers.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "frontier"
       ],
@@ -66,7 +66,7 @@
       "item_count": 25,
       "latest_published_at": "2026-10-16T10:29:30+00:00",
       "note": null,
-      "duration_ms": 2031,
+      "duration_ms": 7533,
       "recent_count": 0
     },
     {
@@ -74,7 +74,7 @@
       "name": "Xena Project",
       "url": "https://xenaproject.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "formal"
       ],
@@ -83,7 +83,7 @@
       "item_count": 10,
       "latest_published_at": "2026-10-16T09:54:00+00:00",
       "note": null,
-      "duration_ms": 1354,
+      "duration_ms": 6843,
       "recent_count": 0
     },
     {
@@ -91,7 +91,7 @@
       "name": "MathArena",
       "url": "https://matharena.ai/blogs",
       "method": "matharena",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "ai_math"
       ],
@@ -100,7 +100,7 @@
       "item_count": 18,
       "latest_published_at": "2026-10-15T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1684,
+      "duration_ms": 7554,
       "recent_count": 0
     },
     {
@@ -108,16 +108,17 @@
       "name": "arXiv · 数论",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "frontier"
       ],
       "content_type": "paper",
+      "rss_error": "ReadTimeout",
       "ok": true,
       "item_count": 8,
       "latest_published_at": "2026-10-28T00:00:00+00:00",
       "note": null,
-      "duration_ms": 2797,
+      "duration_ms": 11178,
       "recent_count": 36
     },
     {
@@ -125,16 +126,17 @@
       "name": "arXiv · 组合数学",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "frontier"
       ],
       "content_type": "paper",
+      "rss_error": "ReadTimeout",
       "ok": true,
       "item_count": 8,
       "latest_published_at": "2026-10-28T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1273,
+      "duration_ms": 12063,
       "recent_count": 40
     },
     {
@@ -142,7 +144,7 @@
       "name": "arXiv · 代数几何",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "frontier"
       ],
@@ -151,7 +153,7 @@
       "item_count": 8,
       "latest_published_at": "2026-10-28T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1853,
+      "duration_ms": 10376,
       "recent_count": 40
     },
     {
@@ -159,7 +161,7 @@
       "name": "arXiv · 概率",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "frontier"
       ],
@@ -168,7 +170,7 @@
       "item_count": 8,
       "latest_published_at": "2026-10-28T00:00:00+00:00",
       "note": null,
-      "duration_ms": 2757,
+      "duration_ms": 8309,
       "recent_count": 40
     },
     {
@@ -176,7 +178,7 @@
       "name": "arXiv · 数值分析",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "frontier"
       ],
@@ -185,7 +187,7 @@
       "item_count": 8,
       "latest_published_at": "2026-10-28T00:00:00+00:00",
       "note": null,
-      "duration_ms": 2349,
+      "duration_ms": 7631,
       "recent_count": 38
     },
     {
@@ -193,7 +195,7 @@
       "name": "arXiv · 数理逻辑",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "frontier"
       ],
@@ -202,7 +204,7 @@
       "item_count": 6,
       "latest_published_at": "2026-10-28T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1973,
+      "duration_ms": 12911,
       "recent_count": 23
     },
     {
@@ -210,7 +212,7 @@
       "name": "arXiv · AI for Math · cs.AI",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "ai_math"
       ],
@@ -219,7 +221,7 @@
       "item_count": 8,
       "latest_published_at": "2026-10-29T04:00:00+00:00",
       "note": null,
-      "duration_ms": 2310,
+      "duration_ms": 6101,
       "recent_count": 33
     },
     {
@@ -227,7 +229,7 @@
       "name": "arXiv · AI for Math · cs.LG",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "ai_math"
       ],
@@ -236,7 +238,7 @@
       "item_count": 0,
       "latest_published_at": null,
       "note": "no_matching_updates",
-      "duration_ms": 2158,
+      "duration_ms": 6703,
       "recent_count": 31
     },
     {
@@ -244,7 +246,7 @@
       "name": "arXiv · AI for Math · cs.CL",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "ai_math"
       ],
@@ -253,7 +255,7 @@
       "item_count": 0,
       "latest_published_at": null,
       "note": "no_matching_updates",
-      "duration_ms": 1402,
+      "duration_ms": 5366,
       "recent_count": 20
     },
     {
@@ -261,7 +263,7 @@
       "name": "Quanta · Mathematics",
       "url": "https://www.quantamagazine.org/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "frontier"
       ],
@@ -270,7 +272,7 @@
       "item_count": 5,
       "latest_published_at": "2026-10-26T14:54:29+00:00",
       "note": null,
-      "duration_ms": 1102,
+      "duration_ms": 578,
       "recent_count": 1
     },
     {
@@ -278,7 +280,7 @@
       "name": "Gil Kalai · Combinatorics and more",
       "url": "https://gilkalai.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "frontier"
       ],
@@ -287,7 +289,7 @@
       "item_count": 10,
       "latest_published_at": "2026-10-27T16:31:04+00:00",
       "note": null,
-      "duration_ms": 1842,
+      "duration_ms": 1387,
       "recent_count": 2
     },
     {
@@ -295,7 +297,7 @@
       "name": "Google DeepMind · 数学研究",
       "url": "https://deepmind.google/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "ai_math"
       ],
@@ -304,7 +306,7 @@
       "item_count": 3,
       "latest_published_at": "2026-09-30T15:03:07+00:00",
       "note": null,
-      "duration_ms": 1656,
+      "duration_ms": 967,
       "recent_count": 0
     },
     {
@@ -312,7 +314,7 @@
       "name": "Google Research · 数学研究",
       "url": "https://research.google/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "ai_math"
       ],
@@ -321,7 +323,7 @@
       "item_count": 0,
       "latest_published_at": null,
       "note": "no_matching_updates",
-      "duration_ms": 2394,
+      "duration_ms": 1510,
       "recent_count": 0
     },
     {
@@ -329,7 +331,7 @@
       "name": "Microsoft Research · 数学与证明",
       "url": "https://www.microsoft.com/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "ai_math"
       ],
@@ -338,7 +340,7 @@
       "item_count": 3,
       "latest_published_at": "2026-10-21T16:00:00+00:00",
       "note": null,
-      "duration_ms": 4297,
+      "duration_ms": 2483,
       "recent_count": 0
     },
     {
@@ -346,7 +348,7 @@
       "name": "Lean 4 · Releases",
       "url": "https://github.com/leanprover/lean4/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "formal",
         "tools"
@@ -356,7 +358,7 @@
       "item_count": 10,
       "latest_published_at": "2026-10-27T18:48:38+00:00",
       "note": null,
-      "duration_ms": 1413,
+      "duration_ms": 6214,
       "recent_count": 1
     },
     {
@@ -364,7 +366,7 @@
       "name": "LeanDojo · Releases",
       "url": "https://github.com/lean-dojo/LeanDojo/",
       "method": "rss",
-      "checked_at": "2026-10-29T10:21:42.278623+00:00",
+      "checked_at": "2026-10-29T10:51:42.054448+00:00",
       "topics": [
         "formal",
         "tools",
@@ -375,7 +377,7 @@
       "item_count": 10,
       "latest_published_at": "2025-06-13T16:25:33+00:00",
       "note": null,
-      "duration_ms": 1403,
+      "duration_ms": 6308,
       "recent_count": 0
     }
   ]
