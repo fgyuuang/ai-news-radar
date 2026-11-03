@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-03T16:01:43.506642Z",
+  "generated_at": "2026-11-03T16:31:51.584607Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8598,
-      "importance": 0.8598,
-      "importance_score": 0.8598,
+      "score": 0.8585,
+      "importance": 0.8585,
+      "importance_score": 0.8585,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.999,
+        "recency": 0.9918,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,30 +87,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
-      "story_id": "story_6f142f0f742c",
-      "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "story_id": "story_46598a98a79d",
+      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
+      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-          "title_en": "Look up a resource’s cost center with the GitHub REST API",
-          "title_original": "Look up a resource’s cost center with the GitHub REST API",
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+          "title_en": "GitHub Copilot is now available in JetBrains Air",
+          "title_original": "GitHub Copilot is now available in JetBrains Air",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z",
+          "published_at": "2026-11-03T15:11:46Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -121,33 +121,33 @@
       ],
       "items": [
         {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-          "title_en": "Look up a resource’s cost center with the GitHub REST API",
-          "title_original": "Look up a resource’s cost center with the GitHub REST API",
+          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+          "title_en": "GitHub Copilot is now available in JetBrains Air",
+          "title_original": "GitHub Copilot is now available in JetBrains Air",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z",
+          "published_at": "2026-11-03T15:11:46Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8425,
-      "importance": 0.8425,
-      "importance_score": 0.8425,
+      "score": 0.8486,
+      "importance": 0.8486,
+      "importance_score": 0.8486,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9917,
+        "ai_relevance": 0.91,
+        "recency": 0.9809,
         "story_heat": 0.0
       },
       "category": "official",
@@ -156,17 +156,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T15:27:13Z",
-      "latest_at": "2026-11-03T15:27:13Z",
+      "earliest_at": "2026-11-03T15:11:46Z",
+      "latest_at": "2026-11-03T15:11:46Z",
       "primary_item": {
-        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-        "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-        "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-        "title_en": "Look up a resource’s cost center with the GitHub REST API",
-        "title_original": "Look up a resource’s cost center with the GitHub REST API",
+        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
+        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
+        "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
+        "title_en": "GitHub Copilot is now available in JetBrains Air",
+        "title_original": "GitHub Copilot is now available in JetBrains Air",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8905,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,30 +261,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
-      "story_id": "story_4f6706e957ed",
-      "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-      "primary_url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+      "story_id": "story_6f142f0f742c",
+      "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
+      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "d614d57971cd1df8ae60519986a771e876042c89",
-          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
+          "title_en": "Look up a resource’s cost center with the GitHub REST API",
+          "title_original": "Look up a resource’s cost center with the GitHub REST API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T14:56:03Z",
+          "published_at": "2026-11-03T15:27:13Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -295,18 +295,18 @@
       ],
       "items": [
         {
-          "id": "d614d57971cd1df8ae60519986a771e876042c89",
-          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
+          "title_en": "Look up a resource’s cost center with the GitHub REST API",
+          "title_original": "Look up a resource’s cost center with the GitHub REST API",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T14:56:03Z",
+          "published_at": "2026-11-03T15:27:13Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -321,7 +321,7 @@
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9843,
+        "recency": 0.9846,
         "story_heat": 0.0
       },
       "category": "official",
@@ -330,17 +330,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T14:56:03Z",
-      "latest_at": "2026-11-03T14:56:03Z",
+      "earliest_at": "2026-11-03T15:27:13Z",
+      "latest_at": "2026-11-03T15:27:13Z",
       "primary_item": {
-        "id": "d614d57971cd1df8ae60519986a771e876042c89",
-        "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-        "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
+        "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
+        "title_zh": "使用 GitHub REST API 查找资源的成本中心",
+        "title_en": "Look up a resource’s cost center with the GitHub REST API",
+        "title_original": "Look up a resource’s cost center with the GitHub REST API",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8308,
-      "importance": 0.8308,
-      "importance_score": 0.8308,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7934,
+        "recency": 0.7876,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -487,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7945,
-      "importance": 0.7945,
-      "importance_score": 0.7945,
+      "score": 0.7935,
+      "importance": 0.7935,
+      "importance_score": 0.7935,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7249,
+        "recency": 0.7197,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,30 +522,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
-      "story_id": "story_456b6b3229d2",
-      "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+      "story_id": "story_4f6706e957ed",
+      "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
+      "primary_url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "dd83561245e444032a512d5c31e40958b86264ef",
-          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-          "title_zh": "Dependabot 现在支持 Python 3.15",
-          "title_en": "Dependabot now supports Python 3.15",
-          "title_original": "Dependabot now supports Python 3.15",
+          "id": "d614d57971cd1df8ae60519986a771e876042c89",
+          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
+          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T13:49:32Z",
+          "published_at": "2026-11-03T14:56:03Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -556,33 +556,33 @@
       ],
       "items": [
         {
-          "id": "dd83561245e444032a512d5c31e40958b86264ef",
-          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-          "title_zh": "Dependabot 现在支持 Python 3.15",
-          "title_en": "Dependabot now supports Python 3.15",
-          "title_original": "Dependabot now supports Python 3.15",
+          "id": "d614d57971cd1df8ae60519986a771e876042c89",
+          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
+          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-03T13:49:32Z",
+          "published_at": "2026-11-03T14:56:03Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8384,
-      "importance": 0.8384,
-      "importance_score": 0.8384,
+      "score": 0.8399,
+      "importance": 0.8399,
+      "importance_score": 0.8399,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9687,
+        "recency": 0.9772,
         "story_heat": 0.0
       },
       "category": "official",
@@ -591,17 +591,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-03T13:49:32Z",
-      "latest_at": "2026-11-03T13:49:32Z",
+      "earliest_at": "2026-11-03T14:56:03Z",
+      "latest_at": "2026-11-03T14:56:03Z",
       "primary_item": {
-        "id": "dd83561245e444032a512d5c31e40958b86264ef",
-        "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-        "title_zh": "Dependabot 现在支持 Python 3.15",
-        "title_en": "Dependabot now supports Python 3.15",
-        "title_original": "Dependabot now supports Python 3.15",
+        "id": "d614d57971cd1df8ae60519986a771e876042c89",
+        "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+        "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
+        "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
+        "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+        "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -609,7 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -661,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7275,
+        "recency": 0.7223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -696,7 +696,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -748,15 +748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9104,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -782,7 +782,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
+      }
+    },
+    {
+      "story_id": "story_456b6b3229d2",
+      "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
+      "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "dd83561245e444032a512d5c31e40958b86264ef",
+          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
+          "title_zh": "Dependabot 现在支持 Python 3.15",
+          "title_en": "Dependabot now supports Python 3.15",
+          "title_original": "Dependabot now supports Python 3.15",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T13:49:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "dd83561245e444032a512d5c31e40958b86264ef",
+          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
+          "title_zh": "Dependabot 现在支持 Python 3.15",
+          "title_en": "Dependabot now supports Python 3.15",
+          "title_original": "Dependabot now supports Python 3.15",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T13:49:32Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9617,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T13:49:32Z",
+      "latest_at": "2026-11-03T13:49:32Z",
+      "primary_item": {
+        "id": "dd83561245e444032a512d5c31e40958b86264ef",
+        "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
+        "title_zh": "Dependabot 现在支持 Python 3.15",
+        "title_en": "Dependabot now supports Python 3.15",
+        "title_original": "Dependabot now supports Python 3.15",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -834,15 +921,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.803,
-      "importance": 0.803,
-      "importance_score": 0.803,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7275,
+        "recency": 0.7223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -869,94 +956,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
-      }
-    },
-    {
-      "story_id": "story_734406bf8820",
-      "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
-      "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
-      "primary_url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
-          "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
-          "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
-          "title_en": "GitHub Desktop adds short-lived authentication tokens",
-          "title_original": "GitHub Desktop adds short-lived authentication tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T07:55:58Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
-          "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
-          "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
-          "title_en": "GitHub Desktop adds short-lived authentication tokens",
-          "title_original": "GitHub Desktop adds short-lived authentication tokens",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T07:55:58Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8241,
-      "importance": 0.8241,
-      "importance_score": 0.8241,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8897,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T07:55:58Z",
-      "latest_at": "2026-11-03T07:55:58Z",
-      "primary_item": {
-        "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
-        "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
-        "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
-        "title_en": "GitHub Desktop adds short-lived authentication tokens",
-        "title_original": "GitHub Desktop adds short-lived authentication tokens",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -1008,15 +1008,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7527,
-      "importance": 0.7527,
-      "importance_score": 0.7527,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.917,
+        "recency": 0.9104,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1042,7 +1042,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
+      }
+    },
+    {
+      "story_id": "story_734406bf8820",
+      "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+      "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+      "primary_url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
+          "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+          "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
+          "title_en": "GitHub Desktop adds short-lived authentication tokens",
+          "title_original": "GitHub Desktop adds short-lived authentication tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T07:55:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
+          "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+          "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
+          "title_en": "GitHub Desktop adds short-lived authentication tokens",
+          "title_original": "GitHub Desktop adds short-lived authentication tokens",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-03T07:55:58Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8832,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-03T07:55:58Z",
+      "latest_at": "2026-11-03T07:55:58Z",
+      "primary_item": {
+        "id": "fe86bf4056c4dc46155839a949bea89707e3d2a2",
+        "title": "GitHub Desktop 添加了短期身份验证令牌 / GitHub Desktop adds short-lived authentication tokens",
+        "title_zh": "GitHub Desktop 添加了短期身份验证令牌",
+        "title_en": "GitHub Desktop adds short-lived authentication tokens",
+        "title_original": "GitHub Desktop adds short-lived authentication tokens",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-02-github-desktop-adds-short-lived-authentication-tokens",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -1094,15 +1181,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9002,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1127,7 +1214,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -1179,15 +1266,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9002,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1212,7 +1299,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -1264,15 +1351,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9002,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1297,7 +1384,124 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
+      }
+    },
+    {
+      "story_id": "story_06d93a221e13",
+      "title": "苹果全力投入人工智能——它自己的和其他人的 / Apple is all in on AI — its own and everyone else&#8217;s",
+      "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+      "source": "The Verge",
+      "source_name": "Curated Media",
+      "sources": [
+        {
+          "id": "4690eecbd460f3e1d8d5f504134e1dc4420cda7a",
+          "title": "苹果全力投入人工智能——它自己的和其他人的 / Apple is all in on AI — its own and everyone else&#8217;s",
+          "title_zh": "苹果全力投入人工智能——它自己的和其他人的",
+          "title_en": "Apple is all in on AI — its own and everyone else&#8217;s",
+          "title_original": "Apple is all in on AI — its own and everyone else&#8217;s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-03T15:24:51Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6070a7657c0ccad1dbeb3727a9635213c3e83de9",
+          "title": "苹果全力投入人工智能——它自己的和其他人的 / Apple is all in on AI — its own and everyone else’s",
+          "title_zh": "苹果全力投入人工智能——它自己的和其他人的",
+          "title_en": "Apple is all in on AI — its own and everyone else’s",
+          "title_original": "Apple is all in on AI — its own and everyone else’s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-03T15:24:51Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "The Verge"
+      ],
+      "items": [
+        {
+          "id": "4690eecbd460f3e1d8d5f504134e1dc4420cda7a",
+          "title": "苹果全力投入人工智能——它自己的和其他人的 / Apple is all in on AI — its own and everyone else&#8217;s",
+          "title_zh": "苹果全力投入人工智能——它自己的和其他人的",
+          "title_en": "Apple is all in on AI — its own and everyone else&#8217;s",
+          "title_original": "Apple is all in on AI — its own and everyone else&#8217;s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+          "source": "The Verge",
+          "source_name": "Curated Media",
+          "site_id": "curated_media",
+          "published_at": "2026-11-03T15:24:51Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6070a7657c0ccad1dbeb3727a9635213c3e83de9",
+          "title": "苹果全力投入人工智能——它自己的和其他人的 / Apple is all in on AI — its own and everyone else’s",
+          "title_zh": "苹果全力投入人工智能——它自己的和其他人的",
+          "title_en": "Apple is all in on AI — its own and everyone else’s",
+          "title_original": "Apple is all in on AI — its own and everyone else’s",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+          "source": "The Verge",
+          "source_name": "TechURLs",
+          "site_id": "techurls",
+          "published_at": "2026-11-03T15:24:51Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.6126,
+      "importance": 0.6126,
+      "importance_score": 0.6126,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.4896,
+        "source_tier": 0.58,
+        "ai_relevance": 0.68,
+        "recency": 0.984,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-03T15:24:51Z",
+      "latest_at": "2026-11-03T15:24:51Z",
+      "primary_item": {
+        "id": "4690eecbd460f3e1d8d5f504134e1dc4420cda7a",
+        "title": "苹果全力投入人工智能——它自己的和其他人的 / Apple is all in on AI — its own and everyone else&#8217;s",
+        "title_zh": "苹果全力投入人工智能——它自己的和其他人的",
+        "title_en": "Apple is all in on AI — its own and everyone else&#8217;s",
+        "title_original": "Apple is all in on AI — its own and everyone else&#8217;s",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.theverge.com/ai-artificial-intelligence/1025245/apple-earnings-q4-ai",
+        "source": "The Verge",
+        "source_name": "Curated Media"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -1349,15 +1553,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7496,
-      "importance": 0.7496,
-      "importance_score": 0.7496,
+      "score": 0.7485,
+      "importance": 0.7485,
+      "importance_score": 0.7485,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9002,
+        "recency": 0.8937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1382,7 +1586,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -1406,7 +1610,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-06-03T01:43:42Z",
-          "updated_at": "2026-11-03T16:01:30Z",
+          "updated_at": "2026-11-03T16:32:22Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1445,7 +1649,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-06-03T01:43:42Z",
-          "updated_at": "2026-11-03T16:01:30Z",
+          "updated_at": "2026-11-03T16:32:22Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1475,7 +1679,7 @@
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9999,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1483,7 +1687,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-03T12:03:47.791000Z",
-      "latest_at": "2026-11-03T16:01:30Z",
+      "latest_at": "2026-11-03T16:32:22Z",
       "primary_item": {
         "id": "a05d32a239ec0a49ab7b821cc45e9dd9d714b657",
         "title": "Teamily AI — 您的私人代理、代理团队和人员尽在一个信使中 / Teamily AI — Your personal agent, agent teams & people in one messenger",
@@ -1500,7 +1704,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     },
     {
@@ -1585,15 +1789,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5817,
-      "importance": 0.5817,
-      "importance_score": 0.5817,
+      "score": 0.5805,
+      "importance": 0.5805,
+      "importance_score": 0.5805,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9303,
+        "recency": 0.9236,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1618,275 +1822,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
-      }
-    },
-    {
-      "story_id": "story_74f47b73c63a",
-      "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-      "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-      "primary_url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-      "source": "The Verge",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "9fbfc355b0b327bfb189efb7b522da8870c338b7",
-          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-          "title_zh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年",
-          "title_en": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-          "title_original": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-02T17:06:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "0f4091dbe6b6c9c15f864d23ea4d50cb7805fb74",
-          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
-          "title_zh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年",
-          "title_en": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
-          "title_original": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-02T17:06:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "The Verge"
-      ],
-      "items": [
-        {
-          "id": "9fbfc355b0b327bfb189efb7b522da8870c338b7",
-          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-          "title_zh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年",
-          "title_en": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-          "title_original": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-          "source": "The Verge",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-02T17:06:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "0f4091dbe6b6c9c15f864d23ea4d50cb7805fb74",
-          "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
-          "title_zh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年",
-          "title_en": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
-          "title_original": "Apple’s ‘Ultra’ smart home robot might have to wait until 2028",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-          "source": "The Verge",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-02T17:06:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5731,
-      "importance": 0.5731,
-      "importance_score": 0.5731,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.504,
-        "source_tier": 0.58,
-        "ai_relevance": 0.7,
-        "recency": 0.7182,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-02T17:06:10Z",
-      "latest_at": "2026-11-02T17:06:10Z",
-      "primary_item": {
-        "id": "9fbfc355b0b327bfb189efb7b522da8870c338b7",
-        "title": "苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-        "title_zh": "苹果的“Ultra”智能家居机器人可能要等到 2028 年",
-        "title_en": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-        "title_original": "Apple&#8217;s ‘Ultra’ smart home robot might have to wait until 2028",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/tech/1024496/apple-homeview-ultra-robot-rumor-delay",
-        "source": "The Verge",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
-      }
-    },
-    {
-      "story_id": "story_26e16495ba57",
-      "title": "只是稍微抵制一下AI，当作一种乐趣",
-      "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat",
-      "primary_url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat",
-      "source": "shkspr.mobi",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3a028d8fcad39a8710c6ef3c1ed86f88300160f0",
-          "title": "只是稍微抵制一下AI，当作一种乐趣",
-          "title_zh": "只是稍微抵制一下AI，当作一种乐趣",
-          "title_en": null,
-          "title_original": "只是稍微抵制一下AI，当作一种乐趣",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat",
-          "source": "shkspr.mobi",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T15:37:43.926000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d794934f5b45205cdd4d0b4b3a32006f07e819a2",
-          "title": "只是稍微抵制一下AI，当作一种乐趣 / Just a little AI resistance, as a treat",
-          "title_zh": "只是稍微抵制一下AI，当作一种乐趣",
-          "title_en": "Just a little AI resistance, as a treat",
-          "title_original": "Just a little AI resistance, as a treat",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T14:14:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "f862a9690a0837799a10df07996992a0b8fd04fc",
-          "title": "只是一点人工智能抵抗，作为一种享受 / Just a little AI resistance, as a treat",
-          "title_zh": "只是一点人工智能抵抗，作为一种享受",
-          "title_en": "Just a little AI resistance, as a treat",
-          "title_original": "Just a little AI resistance, as a treat",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50352257",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T14:14:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "shkspr.mobi"
-      ],
-      "items": [
-        {
-          "id": "3a028d8fcad39a8710c6ef3c1ed86f88300160f0",
-          "title": "只是稍微抵制一下AI，当作一种乐趣",
-          "title_zh": "只是稍微抵制一下AI，当作一种乐趣",
-          "title_en": null,
-          "title_original": "只是稍微抵制一下AI，当作一种乐趣",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat",
-          "source": "shkspr.mobi",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T15:37:43.926000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d794934f5b45205cdd4d0b4b3a32006f07e819a2",
-          "title": "只是稍微抵制一下AI，当作一种乐趣 / Just a little AI resistance, as a treat",
-          "title_zh": "只是稍微抵制一下AI，当作一种乐趣",
-          "title_en": "Just a little AI resistance, as a treat",
-          "title_original": "Just a little AI resistance, as a treat",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T14:14:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "f862a9690a0837799a10df07996992a0b8fd04fc",
-          "title": "只是一点人工智能抵抗，作为一种享受 / Just a little AI resistance, as a treat",
-          "title_zh": "只是一点人工智能抵抗，作为一种享受",
-          "title_en": "Just a little AI resistance, as a treat",
-          "title_original": "Just a little AI resistance, as a treat",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50352257",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T14:14:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5698,
-      "importance": 0.5698,
-      "importance_score": 0.5698,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9942,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-03T14:14:12Z",
-      "latest_at": "2026-11-03T15:37:43.926000Z",
-      "primary_item": {
-        "id": "3a028d8fcad39a8710c6ef3c1ed86f88300160f0",
-        "title": "只是稍微抵制一下AI，当作一种乐趣",
-        "title_zh": "只是稍微抵制一下AI，当作一种乐趣",
-        "title_en": null,
-        "title_original": "只是稍微抵制一下AI，当作一种乐趣",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://shkspr.mobi/blog/2026/11/just-a-little-ai-resistance-as-a-treat",
-        "source": "shkspr.mobi",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-03T16:04:48.781421Z"
+        "scored_at": "2026-11-03T16:34:37.401282Z"
       }
     }
   ]
