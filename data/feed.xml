@@ -5,15 +5,23 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 03 Nov 2026 00:01:41 +0000</lastBuildDate>
+<lastBuildDate>Tue, 03 Nov 2026 08:45:06 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
-<title>Scaling Git at OpenAI</title>
+<title>Transformers Model Integration Contracts</title>
+<link>https://huggingface.co/blog/transformers-mic</link>
+<guid isPermaLink="true">https://huggingface.co/blog/transformers-mic</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Tue, 03 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>OpenAI 中的 Git 扩展 / Scaling Git at OpenAI</title>
 <link>https://openai.com/index/scaling-git-at-openai</link>
 <guid isPermaLink="true">https://openai.com/index/scaling-git-at-openai</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 02 Nov 2026 15:30:00 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 04:44:37 +0000</pubDate>
 </item>
 <item>
 <title>我们于 2026 年 10 月公布的最新 AI 新闻 / The latest AI news we announced in October 2026</title>
@@ -32,12 +40,12 @@
 <pubDate>Mon, 02 Nov 2026 15:47:21 +0000</pubDate>
 </item>
 <item>
-<title>电网保护者计划简介 / Introducing the Grid Protectors Program</title>
-<link>https://openai.com/index/grid-protectors-program</link>
-<guid isPermaLink="true">https://openai.com/index/grid-protectors-program</guid>
+<title>Preparing our next security sprint to harden OpenAI</title>
+<link>https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</link>
+<guid isPermaLink="true">https://openai.com/index/preparing-our-next-security-sprint-to-harden-openai</guid>
 <description>OpenAI News</description>
 <category>官方更新</category>
-<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
 </item>
 <item>
 <title>pull_request_target 默认被阻止 12 月 2 日 / pull_request_target blocked by default December 2</title>
@@ -48,6 +56,46 @@
 <pubDate>Mon, 02 Nov 2026 15:14:46 +0000</pubDate>
 </item>
 <item>
+<title>8GB显存也能玩转128K超长上下文！开源本地大模型工具Strata 0.2. 10 发布</title>
+<link>https://www.aibase.com/news/32047</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32047</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 03 Nov 2026 08:45:06 +0000</pubDate>
+</item>
+<item>
+<title>Rewarding defenders with bigger bug bounties</title>
+<link>https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</link>
+<guid isPermaLink="true">https://openai.com/index/rewarding-defenders-with-bigger-bug-bounties</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 02 Nov 2026 18:00:00 +0000</pubDate>
+</item>
+<item>
+<title>AI评测转向现实任务执行，OpenAI推出LifeVal衡量个人助理能力</title>
+<link>https://www.aibase.com/news/32053</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32053</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 03 Nov 2026 08:45:06 +0000</pubDate>
+</item>
+<item>
+<title>电网保护者计划简介 / Introducing the Grid Protectors Program</title>
+<link>https://openai.com/index/grid-protectors-program</link>
+<guid isPermaLink="true">https://openai.com/index/grid-protectors-program</guid>
+<description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Mon, 02 Nov 2026 15:00:00 +0000</pubDate>
+</item>
+<item>
+<title>App Store 分级新规下月生效，AI 虚拟恋人正式被苹果关进"成人区"</title>
+<link>https://www.aibase.com/news/32050</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32050</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Tue, 03 Nov 2026 08:45:06 +0000</pubDate>
+</item>
+<item>
 <title>LifeVal</title>
 <link>https://openai.com/index/lifeval</link>
 <guid isPermaLink="true">https://openai.com/index/lifeval</guid>
@@ -56,52 +104,44 @@
 <pubDate>Mon, 02 Nov 2026 09:00:00 +0000</pubDate>
 </item>
 <item>
-<title>ChatGPT 要能主动挂断危险对话，屡犯者直接封号</title>
-<link>https://www.aibase.com/news/32025</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32025</guid>
+<title>Kimi 不再只写方案：直接上手改 Unity、虚幻工程做游戏原型</title>
+<link>https://www.aibase.com/news/32051</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32051</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 02 Nov 2026 16:02:06 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 08:45:06 +0000</pubDate>
 </item>
 <item>
-<title>何夕2077 AI 深度信号周报 2026 W44：核验赤字与算力地租</title>
-<link>https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44</link>
-<guid isPermaLink="true">https://hex2077.dev/zh-CN/blog/weekly/2026-11-01-ai-deep-signals-weekly-2026-w44</guid>
-<description>Daily Digest</description>
-<category>行业动态</category>
-<pubDate>Mon, 02 Nov 2026 08:01:01 +0000</pubDate>
-</item>
-<item>
-<title>六步实现音视频联合生成！Pika基于MiniMax H3 重磅开源Pika H3 Flex</title>
-<link>https://www.aibase.com/news/32024</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32024</guid>
+<title>OpenAI宣布ChatGPT Classic将于2027年1月30日停用</title>
+<link>https://www.aibase.com/news/32039</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32039</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 02 Nov 2026 16:02:06 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 08:45:06 +0000</pubDate>
 </item>
 <item>
-<title>破解AI长期记忆瓶颈，阿里云赋能Personal Agent迈向深度个性化</title>
-<link>https://www.aibase.com/news/32023</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32023</guid>
+<title>QuestMobile:豆包、DeepSeek月人均使用次数超其他AI应用</title>
+<link>https://www.aibase.com/news/32048</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32048</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 02 Nov 2026 16:02:06 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 08:45:06 +0000</pubDate>
 </item>
 <item>
-<title>蚂蚁阿福获世界互联网大会领先科技奖  成为首个获得该奖的健康AI应用</title>
-<link>https://www.aibase.com/news/32026</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32026</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 02 Nov 2026 16:02:06 +0000</pubDate>
+<title>Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension</title>
+<link>https://www.producthunt.com/products/linkly-ai-clipper</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/linkly-ai-clipper</guid>
+<description>Save web as an Agent-friendly Markdown browser extension（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Tue, 03 Nov 2026 08:02:00 +0000</pubDate>
 </item>
 <item>
-<title>韩国史上最大预算案：820 万亿韩元，AI 与半导体成绝对主角</title>
-<link>https://www.aibase.com/news/32021</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32021</guid>
+<title>人只够盯 5 个对话窗口，DeepSeek 让 AI 自己当"大管家"</title>
+<link>https://www.aibase.com/news/32037</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32037</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 02 Nov 2026 15:53:06 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 08:45:06 +0000</pubDate>
 </item>
 <item>
 <title>苹果的“Ultra”智能家居机器人可能要等到 2028 年 / Apple&amp;#8217;s ‘Ultra’ smart home robot might have to wait until 2028</title>
@@ -112,14 +152,6 @@
 <pubDate>Mon, 02 Nov 2026 17:06:10 +0000</pubDate>
 </item>
 <item>
-<title>北京出台智能眼镜消费政策：购新补贴15%，单件最高500元</title>
-<link>https://www.aibase.com/news/32020</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32020</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Mon, 02 Nov 2026 15:46:06 +0000</pubDate>
-</item>
-<item>
 <title>Anthropic 的增长势头刚刚趋于平缓</title>
 <link>https://www.regenerator1.com/p/anthropics-growth-just-flattened</link>
 <guid isPermaLink="true">https://www.regenerator1.com/p/anthropics-growth-just-flattened</guid>
@@ -128,44 +160,12 @@
 <pubDate>Mon, 02 Nov 2026 23:57:43 +0000</pubDate>
 </item>
 <item>
-<title>Cedric AI for Meetings — 第一个为您演示幻灯片并参加会议的 AI 代理 / Cedric AI for Meetings — The first AI agent to present your slides and attend for you</title>
-<link>https://www.producthunt.com/products/cedric</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/cedric</guid>
-<description>The first AI agent to present your slides and attend for you（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Tue, 03 Nov 2026 00:03:30 +0000</pubDate>
-</item>
-<item>
-<title>《纽约时报》起诉 Brave 网络浏览器进行人工智能抓取和绕过付费墙 / The New York Times sues Brave web browser for AI scraping and bypassing paywalls</title>
-<link>https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</link>
-<guid isPermaLink="true">https://www.theverge.com/tech/1024588/brave-lawsuit-ai-scraping-new-york-times</guid>
-<description>The Verge</description>
-<category>值得关注</category>
-<pubDate>Mon, 02 Nov 2026 19:00:00 +0000</pubDate>
-</item>
-<item>
-<title>行业首个自进化金融大模型登场：度小满联手港科大发布轩辕4.5</title>
-<link>https://www.aibase.com/news/32019</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32019</guid>
+<title>从"禁军用"到拿下五角大楼，OpenAI 请来前陆军部长当顾问</title>
+<link>https://www.aibase.com/news/32043</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32043</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Mon, 02 Nov 2026 15:33:06 +0000</pubDate>
-</item>
-<item>
-<title>甲骨文提交申请，拟发行200亿美元新股和债券，为人工智能建设筹集资金</title>
-<link>https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</link>
-<guid isPermaLink="true">https://www.cnbc.com/2026/11/02/oracle-files-to-sell-20-billion-in-new-stock-bonds-to-finance-ai-buildout.html</guid>
-<description>www.cnbc.com</description>
-<category>多源热议</category>
-<pubDate>Mon, 02 Nov 2026 22:06:19 +0000</pubDate>
-</item>
-<item>
-<title>Linkly AI Clipper — 将网页另存为代理友好的 Markdown 浏览器扩展 / Linkly AI Clipper — Save web as an Agent-friendly Markdown browser extension</title>
-<link>https://www.producthunt.com/products/linkly-ai-clipper</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/linkly-ai-clipper</guid>
-<description>Save web as an Agent-friendly Markdown browser extension（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Mon, 02 Nov 2026 23:58:44 +0000</pubDate>
+<pubDate>Tue, 03 Nov 2026 08:45:06 +0000</pubDate>
 </item>
 </channel>
 </rss>
