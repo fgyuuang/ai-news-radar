@@ -1,16 +1,16 @@
 {
-  "generated_at": "2026-11-03T23:46:47.514825+00:00",
+  "generated_at": "2026-11-04T00:04:18.357841+00:00",
   "window_hours": 168,
   "archive_days": 90,
   "ranking_policy": "Source priority plus recency; curated view balances topics and caps each source. Not popularity or proof verification.",
-  "recent_count": 317,
+  "recent_count": 271,
   "sources": [
     {
       "id": "terrytao",
       "name": "Terence Tao — What’s New",
       "url": "https://terrytao.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "frontier"
       ],
@@ -19,7 +19,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-03T18:32:46+00:00",
       "note": null,
-      "duration_ms": 1186,
+      "duration_ms": 1140,
       "recent_count": 9
     },
     {
@@ -27,7 +27,7 @@
       "name": "Proofs and Prompts",
       "url": "https://proofsandprompts.com/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "ai_math"
       ],
@@ -36,7 +36,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-03T15:00:00+00:00",
       "note": null,
-      "duration_ms": 752,
+      "duration_ms": 725,
       "recent_count": 18
     },
     {
@@ -44,7 +44,7 @@
       "name": "VibeMathed",
       "url": "https://vibemathed.com/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "ai_math"
       ],
@@ -53,7 +53,7 @@
       "item_count": 30,
       "latest_published_at": "2026-10-25T12:00:00+00:00",
       "note": null,
-      "duration_ms": 818,
+      "duration_ms": 785,
       "recent_count": 0
     },
     {
@@ -61,7 +61,7 @@
       "name": "Gowers’s Weblog",
       "url": "https://gowers.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "frontier"
       ],
@@ -70,7 +70,7 @@
       "item_count": 25,
       "latest_published_at": "2026-10-16T10:29:30+00:00",
       "note": null,
-      "duration_ms": 1536,
+      "duration_ms": 1650,
       "recent_count": 0
     },
     {
@@ -78,7 +78,7 @@
       "name": "Xena Project",
       "url": "https://xenaproject.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "formal"
       ],
@@ -87,7 +87,7 @@
       "item_count": 10,
       "latest_published_at": "2026-10-16T09:54:00+00:00",
       "note": null,
-      "duration_ms": 905,
+      "duration_ms": 875,
       "recent_count": 0
     },
     {
@@ -95,7 +95,7 @@
       "name": "MathArena",
       "url": "https://matharena.ai/blogs",
       "method": "matharena",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "ai_math"
       ],
@@ -103,7 +103,7 @@
       "ok": false,
       "item_count": 0,
       "error": "ValueError",
-      "duration_ms": 1600,
+      "duration_ms": 1283,
       "recent_count": 0
     },
     {
@@ -111,7 +111,7 @@
       "name": "arXiv · 数论",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "frontier"
       ],
@@ -120,15 +120,15 @@
       "item_count": 8,
       "latest_published_at": "2026-11-03T05:00:00+00:00",
       "note": null,
-      "duration_ms": 960,
-      "recent_count": 39
+      "duration_ms": 1103,
+      "recent_count": 31
     },
     {
       "id": "arxiv-math-co",
       "name": "arXiv · 组合数学",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "frontier"
       ],
@@ -137,15 +137,15 @@
       "item_count": 8,
       "latest_published_at": "2026-11-03T05:00:00+00:00",
       "note": null,
-      "duration_ms": 1146,
-      "recent_count": 40
+      "duration_ms": 1229,
+      "recent_count": 32
     },
     {
       "id": "arxiv-math-ag",
       "name": "arXiv · 代数几何",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "frontier"
       ],
@@ -154,15 +154,15 @@
       "item_count": 8,
       "latest_published_at": "2026-11-03T05:00:00+00:00",
       "note": null,
-      "duration_ms": 881,
-      "recent_count": 40
+      "duration_ms": 844,
+      "recent_count": 32
     },
     {
       "id": "arxiv-math-pr",
       "name": "arXiv · 概率",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "frontier"
       ],
@@ -171,15 +171,15 @@
       "item_count": 8,
       "latest_published_at": "2026-11-03T05:00:00+00:00",
       "note": null,
-      "duration_ms": 921,
-      "recent_count": 40
+      "duration_ms": 1013,
+      "recent_count": 32
     },
     {
       "id": "arxiv-math-na",
       "name": "arXiv · 数值分析",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "frontier"
       ],
@@ -188,15 +188,15 @@
       "item_count": 8,
       "latest_published_at": "2026-11-03T05:00:00+00:00",
       "note": null,
-      "duration_ms": 845,
-      "recent_count": 37
+      "duration_ms": 949,
+      "recent_count": 29
     },
     {
       "id": "arxiv-math-lo",
       "name": "arXiv · 数理逻辑",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "frontier"
       ],
@@ -205,15 +205,15 @@
       "item_count": 8,
       "latest_published_at": "2026-11-03T05:00:00+00:00",
       "note": null,
-      "duration_ms": 695,
-      "recent_count": 24
+      "duration_ms": 710,
+      "recent_count": 18
     },
     {
       "id": "arxiv-cs-ai",
       "name": "arXiv · AI for Math · cs.AI",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "ai_math"
       ],
@@ -222,7 +222,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-03T05:00:00+00:00",
       "note": null,
-      "duration_ms": 2511,
+      "duration_ms": 2087,
       "recent_count": 24
     },
     {
@@ -230,7 +230,7 @@
       "name": "arXiv · AI for Math · cs.LG",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "ai_math"
       ],
@@ -239,7 +239,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-03T05:00:00+00:00",
       "note": null,
-      "duration_ms": 3164,
+      "duration_ms": 3194,
       "recent_count": 24
     },
     {
@@ -247,7 +247,7 @@
       "name": "arXiv · AI for Math · cs.CL",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "ai_math"
       ],
@@ -256,7 +256,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-03T05:00:00+00:00",
       "note": null,
-      "duration_ms": 1334,
+      "duration_ms": 2214,
       "recent_count": 21
     },
     {
@@ -264,7 +264,7 @@
       "name": "Quanta · Mathematics",
       "url": "https://www.quantamagazine.org/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "frontier"
       ],
@@ -273,7 +273,7 @@
       "item_count": 5,
       "latest_published_at": "2026-10-26T14:54:29+00:00",
       "note": null,
-      "duration_ms": 1207,
+      "duration_ms": 823,
       "recent_count": 0
     },
     {
@@ -281,7 +281,7 @@
       "name": "Gil Kalai · Combinatorics and more",
       "url": "https://gilkalai.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "frontier"
       ],
@@ -290,7 +290,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-02T20:48:15+00:00",
       "note": null,
-      "duration_ms": 1203,
+      "duration_ms": 728,
       "recent_count": 1
     },
     {
@@ -298,7 +298,7 @@
       "name": "Google DeepMind · 数学研究",
       "url": "https://deepmind.google/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "ai_math"
       ],
@@ -307,7 +307,7 @@
       "item_count": 3,
       "latest_published_at": "2026-09-30T15:03:07+00:00",
       "note": null,
-      "duration_ms": 1012,
+      "duration_ms": 1531,
       "recent_count": 0
     },
     {
@@ -315,7 +315,7 @@
       "name": "Google Research · 数学研究",
       "url": "https://research.google/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "ai_math"
       ],
@@ -324,7 +324,7 @@
       "item_count": 0,
       "latest_published_at": null,
       "note": "no_matching_updates",
-      "duration_ms": 1778,
+      "duration_ms": 1355,
       "recent_count": 0
     },
     {
@@ -332,7 +332,7 @@
       "name": "Microsoft Research · 数学与证明",
       "url": "https://www.microsoft.com/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "ai_math"
       ],
@@ -341,7 +341,7 @@
       "item_count": 3,
       "latest_published_at": "2026-10-21T16:00:00+00:00",
       "note": null,
-      "duration_ms": 2908,
+      "duration_ms": 3237,
       "recent_count": 0
     },
     {
@@ -349,7 +349,7 @@
       "name": "Lean 4 · Releases",
       "url": "https://github.com/leanprover/lean4/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "formal",
         "tools"
@@ -359,7 +359,7 @@
       "item_count": 10,
       "latest_published_at": "2026-10-27T18:48:38+00:00",
       "note": null,
-      "duration_ms": 1312,
+      "duration_ms": 1146,
       "recent_count": 0
     },
     {
@@ -367,7 +367,7 @@
       "name": "LeanDojo · Releases",
       "url": "https://github.com/lean-dojo/LeanDojo/",
       "method": "rss",
-      "checked_at": "2026-11-03T23:46:47.514825+00:00",
+      "checked_at": "2026-11-04T00:04:18.357841+00:00",
       "topics": [
         "formal",
         "tools",
@@ -378,7 +378,7 @@
       "item_count": 10,
       "latest_published_at": "2025-06-13T16:25:33+00:00",
       "note": null,
-      "duration_ms": 1488,
+      "duration_ms": 1354,
       "recent_count": 0
     }
   ],
@@ -408,7 +408,8 @@
       ],
       "first_seen_at": "2026-11-03T18:33:37.017335+00:00",
       "discovery_score": 109.4,
-      "title_zh": "AHM 的博士生咨询指南"
+      "title_zh": "AHM 的博士生咨询指南",
+      "excerpt_zh": "[这是 AHM 通讯小组的客座帖子。 — T.] 我们很高兴地宣布，人类数学协会的教学工作组针对院系、导师和学生撰写了一套关于博士生咨询的建议。该文件包含五项指导方针，重点是优先考虑人类撰写的写作，避免过度依赖[...]"
     },
     {
       "id": "e27c79768f73e2efa975",
@@ -2636,8 +2637,9 @@
         }
       ],
       "first_seen_at": "2026-11-02T19:09:38.007395+00:00",
-      "discovery_score": 107.1,
-      "title_zh": "AI时代的无我数学"
+      "discovery_score": 107.0,
+      "title_zh": "AI时代的无我数学",
+      "excerpt_zh": "[这是 Karthik C.S.、Amit Sahai 和 Jie Xu 的客座文章。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 — T.] 现在是数学家仔细思考他们工作目的的好时机。人工智能的发展带来了这个问题[…]"
     },
     {
       "id": "7fed058db1f60e273ac6",
@@ -5949,7 +5951,8 @@
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
       "discovery_score": 105.2,
-      "title_zh": "数学已经改变了。让我们像这样行动吧"
+      "title_zh": "数学已经改变了。让我们像这样行动吧",
+      "excerpt_zh": "[这是弗兰克·卡莱加里 (Frank Calegari) 的客座文章。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 — T.] 为什么我们不应该悲伤 OpenAI 于 10 月 6 日发布的 700 多篇研究论文是数学史上的一个分水岭。人工智能现在无可否认[...]"
     },
     {
       "id": "fa7ea1fb1a9a2d9d5e84",
@@ -6033,7 +6036,8 @@
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
       "discovery_score": 103.5,
-      "title_zh": "人工智能世界中的数学科学"
+      "title_zh": "人工智能世界中的数学科学",
+      "excerpt_zh": "总部位于英国的数学科学院发布了一份报告“人工智能世界中的数学科学”。引用新闻稿：该论文探讨了人工智能的最新进展如何改变数学研究及其应用，为数学的发现、验证和使用带来新的机会[…]"
     },
     {
       "id": "16445fd0255373d5ea0e",
@@ -6118,7 +6122,8 @@
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
       "discovery_score": 102.9,
-      "title_zh": "人工智能时代数学研究峰会报告"
+      "title_zh": "人工智能时代数学研究峰会报告",
+      "excerpt_zh": "[这是人工智能时代数学研究峰会组织者的客座帖子：Dan Freed（哈佛大学）、Larry Guth（麻省理工学院）、Bryna Kra（西北大学）、Emily Riehl（约翰霍普金斯大学）和 Mohammed Abouzaid（斯坦福大学）。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 - T.]上周[...]"
     },
     {
       "id": "f2d488cc955cf22d18c9",
@@ -6173,7 +6178,8 @@
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
       "discovery_score": 102.3,
-      "title_zh": "协作务虚会：zeta函数理论的新进展"
+      "title_zh": "协作务虚会：zeta函数理论的新进展",
+      "excerpt_zh": "Edgar Assing、Valentin Blomer 和 Farrell Brumley 将于 1 月 11 日至 15 日在波恩的 Hausdorff 中心组织一次活动，讨论黎曼 zeta 函数和联合函数的最新进展。公告中写道：“这尤其包括最近在有理数以及一般性问题上建立的准黎曼猜想的证明 [...]"
     },
     {
       "id": "9a77a1192a3d75a78901",
@@ -6256,8 +6262,9 @@
         }
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
-      "discovery_score": 101.7,
-      "title_zh": "人工智能、数学、教育和公共产品问题"
+      "discovery_score": 101.6,
+      "title_zh": "人工智能、数学、教育和公共产品问题",
+      "excerpt_zh": "[这是 Gireeja Ranade 的客座文章。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 — T.] 纳维-斯托克斯结果公布的第二天，一名学生来到我的办公时间。他们说：“我们能谈谈纳维-斯托克斯结果及其含义吗？我 [...]"
     },
     {
       "id": "31c948136f4c48063952",
@@ -6340,7 +6347,8 @@
       ],
       "first_seen_at": "2026-10-29T04:06:35.686012+00:00",
       "discovery_score": 100.9,
-      "title_zh": "关于西顿集的直径和分布"
+      "title_zh": "关于西顿集的直径和分布",
+      "excerpt_zh": "Daniel Carter、Kevin O’Bryant 和我已将我们关于 Sidon 集的直径和分布的论文上传到 arXiv。这是一篇源自我去年博客上的互动的论文，内容涉及使用 AlphaEvolve 来改进当时 Sidon 集大小的最新技术。我们获得了[…]"
     },
     {
       "id": "18559cb38b762050d854",
@@ -8224,8 +8232,9 @@
         }
       ],
       "first_seen_at": "2026-10-28T02:41:12.504983+00:00",
-      "discovery_score": 100.1,
-      "title_zh": "247A，注释 3：奇异积分运算符"
+      "discovery_score": 100.0,
+      "title_zh": "247A，注释 3：奇异积分运算符",
+      "excerpt_zh": "— 1. 希尔伯特变换 — 在这组笔记中，我们开始奇异积分算子的理论——这些算子几乎是积分算子，只不过它们的核在对角线附近几乎不能积分。 （这与分数积分运算符形成对比，例如 ，其内核为 [...]"
     },
     {
       "id": "9bdf6ed2af53f2650b57",
@@ -9587,7 +9596,7 @@
         }
       ],
       "first_seen_at": "2026-10-28T02:41:12.504983+00:00",
-      "discovery_score": 100.0,
+      "discovery_score": 99.9,
       "title_zh": "拟黎曼假设",
       "excerpt_zh": "简单说明一下，Maksym Radziwill 明天将在 Courant 上发表关于拟黎曼假设的混合演讲。"
     },
@@ -9616,7 +9625,7 @@
         }
       ],
       "first_seen_at": "2026-10-28T02:41:12.504983+00:00",
-      "discovery_score": 91.9,
+      "discovery_score": 91.8,
       "title_zh": "v4.36.0-rc2",
       "excerpt_zh": "这是 Lean v4.36.0 版本的候选版本 2。查看发行说明以获取更多信息。"
     },
@@ -12462,7 +12471,7 @@
         }
       ],
       "first_seen_at": "2026-10-27T04:38:01.596332+00:00",
-      "discovery_score": 98.6,
+      "discovery_score": 98.5,
       "excerpt_zh": "“我们数学家知道，发表的论文和书籍经常包含错误：有时很小，例如缺少假设或错误的常数，有时更严重，例如所陈述的定理是错误的。我们已经习惯了这一点。[...]”",
       "title_zh": "人工智能可以帮助纠正数学文献吗？"
     },
@@ -12688,7 +12697,7 @@
         }
       ],
       "first_seen_at": "2026-10-23T18:35:05.047908+00:00",
-      "discovery_score": 85.9,
+      "discovery_score": 85.8,
       "title_zh": "重新思考 SAE 评估：原子可解释单元框架揭示隐藏的多语义性和冗余",
       "excerpt_zh": "稀疏自动编码器 (SAE) 最初的动机是发现单语义特征，该特征表征各个特征，但不指定学习的特征集作为一个整体应该是什么样子。随着 SAE 越来越多地被用于归因、电路发现和干预，研究人员已经开始评估描述特征集全局属性的指标，例如稀疏性、死特征率、重建保真度和解缠结，这是一个远远超出单一语义的多样化集合。然而，这种超越单一语义的隐含转变尚未被正式化为出现在这些评估指标之前的清晰、明确的目标。如果没有这样的目标，现有的指标仍然是临时的，其必要性是不合理的。在这项工作中，我们通过引入 SAE 评估的新范式来形式化这一最终目标：要求 SAE 特征以及更一般的基于字典的模型表示分解形成原子可解释单元基础，即语义上有意义的解释的坐标系。在这个范式下，我们组织现有的和n"
     },
@@ -12717,7 +12726,7 @@
         }
       ],
       "first_seen_at": "2026-10-23T18:35:05.047908+00:00",
-      "discovery_score": 85.9,
+      "discovery_score": 85.8,
       "title_zh": "FusionEval：大型语言模型的基准模型融合",
       "excerpt_zh": "模型融合旨在将多专家模型的功能集成到单个模型中。现有的评估对长链思维和工具使用的推理覆盖范围有限，而强大的平均表现可能掩盖个人专家能力的重大损失。我们推出 FusionEval，这是一个提供受控专家池的基准测试，集成了有或没有额外训练的融合方法，并提供了统一的评估套件。这些人才库包含经过 Qwen3 和 Llama 基础模型独立培训的领域专家，涉及数学、代码、科学、指令遵循和工具使用。该套件在可比较的数据访问规则下评估八个公共基准的能力保留和计算成本，报告标准化的平均和最差性能、运行时间和峰值 GPU 内存使用情况。大量实验表明，免训练方法可以保留推理性能，但会大大降低两种模型规模的工具使用率。相比之下，MOPD 保留了工具的使用并实现了更平衡的能力概况，但需要额外的数据准备、推理和培训。共同保留理由"
     },
@@ -12747,7 +12756,7 @@
         }
       ],
       "first_seen_at": "2026-10-23T18:35:05.047908+00:00",
-      "discovery_score": 85.9,
+      "discovery_score": 85.8,
       "title_zh": "规范中未提及的内容：测试分级 Coding-Agent 基准中规范 Oracle 的差距",
       "excerpt_zh": "编码代理基准测试通常用自然语言描述任务，但根据上游项目的测试对其进行评分。通过这些测试可能需要描述中从未提及的信息：常量名称、模块路径、确切的消息。我们将其称为规范预言差距：如果存在这种差距，基准测试还会衡量代理是否重现上游实现细节。我们将差距正式化，包括依赖任务链增加的不一致，并为五种语言构建静态审计，对每个评分测试的每个名称、路径和文字级别依赖关系进行分类（保留精度 89.2%，召回率 92.9%）。在 SWE-Milestone（98 个分级里程碑，35 个已发布的运行）上，25 个里程碑包含一个依赖于未声明的、不可推断的名称或路径的测试。具有这种依赖关系的构建单元在 80.6% 的运行中失败，而没有这种依赖关系的类似单元的失败率为 48.4%，并且从引用中保留单个隐藏名称会阻止其单元的测试在 128 个案例中的 126 个案例中进行编译。排行榜的排名对于删除受影响的测试来说是稳健的，但它们会改变存储库内的分数并有利于代理"
     },
@@ -12776,7 +12785,7 @@
         }
       ],
       "first_seen_at": "2026-10-23T18:35:05.047908+00:00",
-      "discovery_score": 85.9,
+      "discovery_score": 85.8,
       "title_zh": "Delta N-gram：仅向前连续写入语言模型的本机 N-gram 内存",
       "excerpt_zh": "我们之前的分析发现，模型的本机哈希 N 元语法表是连续更新对基础干扰最少的地方，但其写入需要反向传播并更改了预训练表。我们提出了 Delta N-gram，这是该表的只进写入路径。预训练表 T^0 永远不会被修改。证据被写入它所寻址的行上的稀疏补丁 \\Delta 中：4.1M 参数编写器为每个（位置，散列头）事件发出一个目标和一个门，并且块平均增量规则使每行保持其旧值和门控目标的凸组合。作者根据预训练目标接受原始文本的离线训练；在使用时写入仅需要前向传递，并且清除 Delta 会恢复原始模型。经过训练来回答问题的 0.6B 原型在第二次写入后保留了 16/16 个事实；在线梯度写入保持2--4/16。我们研究了两个写入器：一个使用仅 T^0 模型对证据进行编码的普通写入器，以及一个在编码时读取其当前内存的增量写入器。在 Qwen3.8-Flash-Next 上，普通作者的记忆是特定于文档的：在 64 个保留的新闻事件中，它将连续 NLL 降低了 0.068 nats/tok"
     },
@@ -12805,7 +12814,7 @@
         }
       ],
       "first_seen_at": "2026-10-23T18:35:05.047908+00:00",
-      "discovery_score": 85.9,
+      "discovery_score": 85.8,
       "title_zh": "有限可验证分割：具有有限状态验证器的每个标记器的可判定性",
       "excerpt_zh": "分段策略为每个字节串分配至多一个分段标记。当标记字符串（与边界位配对的字节）上的有限自动机完全接受策略自己的分段时，将其称为有限可验证。自动机判断提议的分割并且不需要计算分割。这篇论文展示了这个假设的意义。实践通过民间传说解决的四个问题变得可判定：窗口是否证明令牌边界、边界间隙是否有界、掩模是否保持生成可完成以及两个策略是否等效。最后三个专门研究单值传感器的局限性、可访问性和等效性。第一个完善了代码理论的同步切割，另外两个询问是否经过认证的切割或库存的切割，让每个部分单独扫描。该类严格位于可在线扫描的策略和具有常规域的策略之间，其内部边界是 Choffrut 的并且可在多项式时间内判定。标记是保长的，所以类正是合理的分段策略，是一种范式而不是限制，"
     },
@@ -12834,7 +12843,7 @@
         }
       ],
       "first_seen_at": "2026-10-23T18:35:05.047908+00:00",
-      "discovery_score": 85.9,
+      "discovery_score": 85.8,
       "title_zh": "一位老师，多种观点：降低在策略自蒸馏中的参考敏感性",
       "excerpt_zh": "按策略自蒸馏 (OPSD) 通过根据参考解决方案的特权副本进行密集的代币级监督，按照自己的轨迹训练模型，从而改进推理。现有方法通常使用以完整参考为条件的单个教师分布。我们发现了这种表述的局限性：引用只是推理过程的一种实现。尽管它提供了有关答案的证据，但它还编码了顺序、措辞和解决方案路径。因此，全参考调节可以产生正确的目标，而这些目标过度依赖于学生在推理时无法获得的信息。我们证明，在保持问题和学生状态固定的情况下，用另一个有效参考替换一个有效参考可以显着改变教师分布，我们将这种现象称为参考引起的目标不稳定。为了解决这种不稳定性，我们引入了蒙特卡洛特权蒸馏（MCPD），它将特权上下文建模为部分参考视图的分布，并提取边际教师分布。 MCPD 在多个视图下对教师进行评估并平均"
     },
@@ -12863,7 +12872,7 @@
         }
       ],
       "first_seen_at": "2026-10-23T18:35:05.047908+00:00",
-      "discovery_score": 85.9,
+      "discovery_score": 85.8,
       "title_zh": "继承，而非发明：在推理模型中追踪等待的起源",
       "excerpt_zh": "强化学习 (RL) 被认为可以教导推理模型在重新考虑步骤之前写下 {wait}，但 RL 准确率的大幅提升并不需要这个词。这种观点可能会将强化学习的发现与模型从训练数据继承的内容混淆。我们通过开放模型的训练历史来追踪这个词，用频率、位置、形式和用法的无标签索引以及注入错误测试来读取它，所有这些都是根据采样输出计算出来的。我们发现零强化学习几乎从不创造标记：在缺少这个词的碱基上，强化学习大大提高了 MATH-500 的准确性，而 {wait} 几乎不存在。它附带训练数据：在 OLMo-3 中进行中期训练，并对推理轨迹进行微调，将其安装在大多数缺乏训练数据的模型中。在基地已经使用它的情况下，两个发布的 RL-Zero 配方（OLMo-3、MiMo）都会将其相乘，而来自同一基地的无 KL GRPO 则不会； OLMo-3 的配方会磨损它的形状，使其成为一个更敏感但更自由的警报器；经过监督微调后的 RL 几乎不会改变它，而我们的 GRPO 配方会擦除通过微调播种的标记。最后，我们表明标记频率本身并不能表明"
     },
@@ -13003,7 +13012,7 @@
         }
       ],
       "first_seen_at": "2026-10-23T18:35:05.047908+00:00",
-      "discovery_score": 97.6,
+      "discovery_score": 97.5,
       "title_zh": "厌恶人工智能？",
       "excerpt_zh": "我完全不同意人工智能公司劫持了我们的数学文化并将其变成新的、无法识别的东西的观点。他们刚刚将我们现有的文化发挥到了极致。"
     },
@@ -26578,7 +26587,7 @@
       "content_type": "blog",
       "priority": 90,
       "recency_basis": "published",
-      "discovery_score": 94.9
+      "discovery_score": 94.8
     },
     {
       "id": "3722d2bd5bf45d4319a8",
