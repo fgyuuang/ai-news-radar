@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T10:31:41.642910Z",
+  "generated_at": "2026-11-04T12:01:41.992031Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8278,
-      "importance": 0.8278,
-      "importance_score": 0.8278,
+      "score": 0.8245,
+      "importance": 0.8245,
+      "importance_score": 0.8245,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8657,
+        "recency": 0.8471,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8203,
-      "importance": 0.8203,
-      "importance_score": 0.8203,
+      "score": 0.8173,
+      "importance": 0.8173,
+      "importance_score": 0.8173,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7793,
+        "recency": 0.7626,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8038,
-      "importance": 0.8038,
-      "importance_score": 0.8038,
+      "score": 0.8008,
+      "importance": 0.8008,
+      "importance_score": 0.8008,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7767,
+        "recency": 0.7601,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,94 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
-      }
-    },
-    {
-      "story_id": "story_fbd820eb18a9",
-      "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
-      "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "primary_url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
-          "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
-          "title_zh": "加速物理世界的工程",
-          "title_en": "Accelerating engineering for the physical world",
-          "title_original": "Accelerating engineering for the physical world",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
-          "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
-          "title_zh": "加速物理世界的工程",
-          "title_en": "Accelerating engineering for the physical world",
-          "title_original": "Accelerating engineering for the physical world",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T12:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7223,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T12:00:00Z",
-      "latest_at": "2026-11-03T12:00:00Z",
-      "primary_item": {
-        "id": "d13f76c3352dcac8a644589fc339a10b57268a82",
-        "title": "加速物理世界的工程 / Accelerating engineering for the physical world",
-        "title_zh": "加速物理世界的工程",
-        "title_en": "Accelerating engineering for the physical world",
-        "title_original": "Accelerating engineering for the physical world",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/accelerating-engineering-for-the-physical-world",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -400,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8189,
-      "importance": 0.8189,
-      "importance_score": 0.8189,
+      "score": 0.816,
+      "importance": 0.816,
+      "importance_score": 0.816,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7718,
+        "recency": 0.7553,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -487,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8108,
-      "importance": 0.8108,
-      "importance_score": 0.8108,
+      "score": 0.8076,
+      "importance": 0.8076,
+      "importance_score": 0.8076,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8155,
+        "recency": 0.798,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +435,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -574,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -608,7 +521,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -660,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8177,
-      "importance": 0.8177,
-      "importance_score": 0.8177,
+      "score": 0.8147,
+      "importance": 0.8147,
+      "importance_score": 0.8147,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7648,
+        "recency": 0.7484,
         "story_heat": 0.0
       },
       "category": "official",
@@ -695,7 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -747,15 +660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8082,
-      "importance": 0.8082,
-      "importance_score": 0.8082,
+      "score": 0.8052,
+      "importance": 0.8052,
+      "importance_score": 0.8052,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7564,
+        "recency": 0.7402,
         "story_heat": 0.0
       },
       "category": "official",
@@ -782,7 +695,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -834,15 +747,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -868,7 +781,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -920,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8007,
-      "importance": 0.8007,
-      "importance_score": 0.8007,
+      "score": 0.7977,
+      "importance": 0.7977,
+      "importance_score": 0.7977,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7592,
+        "recency": 0.743,
         "story_heat": 0.0
       },
       "category": "official",
@@ -955,7 +868,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -1007,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1041,7 +954,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -1093,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7996,
-      "importance": 0.7996,
-      "importance_score": 0.7996,
+      "score": 0.7967,
+      "importance": 0.7967,
+      "importance_score": 0.7967,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7536,
+        "recency": 0.7374,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1128,7 +1041,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -1180,15 +1093,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1214,7 +1127,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -1266,15 +1179,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7975,
-      "importance": 0.7975,
-      "importance_score": 0.7975,
+      "score": 0.7946,
+      "importance": 0.7946,
+      "importance_score": 0.7946,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7416,
+        "recency": 0.7257,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1301,7 +1214,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -1353,15 +1266,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1387,7 +1300,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -1439,15 +1352,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1473,87 +1386,86 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
-      "story_id": "story_3cbdfce1bab4",
-      "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-      "url": "https://www.producthunt.com/products/livereacting",
-      "primary_url": "https://www.producthunt.com/products/livereacting",
+      "story_id": "story_b617b7637e95",
+      "title": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关 / AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
+      "url": "https://www.producthunt.com/products/scalekit",
+      "primary_url": "https://www.producthunt.com/products/scalekit",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "bb94602952308265fffac22b43a1f2841f163757",
-          "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "title_zh": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流",
-          "title_en": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "title_original": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
+          "id": "b768b11e82729a712cf8914b79e6a53e803abf02",
+          "title": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关 / AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
+          "title_zh": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关",
+          "title_en": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
+          "title_original": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
+          "summary": "MCP gateway for production agents that acts on your behalf",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/livereacting",
+          "url": "https://www.producthunt.com/products/scalekit",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-03T13:45:28Z",
-          "updated_at": "2026-11-04T10:32:12Z",
+          "published_at": "2026-10-13T14:16:55Z",
+          "updated_at": "2026-11-04T12:02:52Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "36b63127413a489e7d0cf829bba8668a735b9716",
-          "title": "LiveReacting for ChatGPT",
-          "title_zh": null,
-          "title_en": "LiveReacting for ChatGPT",
-          "title_original": "LiveReacting for ChatGPT",
-          "summary": null,
+          "id": "53d14d6ea2b777212ba3c6089b6e919f75928f62",
+          "title": "AgentKit（由 Scalekit 提供）— 代表您运行的生产代理的 MCP 网关 / AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
+          "title_zh": "AgentKit（由 Scalekit 提供）— 代表您运行的生产代理的 MCP 网关",
+          "title_en": "AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
+          "title_original": "AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
+          "summary": "MCP gateway for production agents that acts on your behalf",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/livereacting",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T10:32:49.227000Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/scalekit",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-13T14:16:55Z",
+          "updated_at": "2026-11-03T13:32:11Z",
+          "recency_basis": "updated_at"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Product Hunt"
       ],
       "items": [
         {
-          "id": "bb94602952308265fffac22b43a1f2841f163757",
-          "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "title_zh": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流",
-          "title_en": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "title_original": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-          "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
+          "id": "b768b11e82729a712cf8914b79e6a53e803abf02",
+          "title": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关 / AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
+          "title_zh": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关",
+          "title_en": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
+          "title_original": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
+          "summary": "MCP gateway for production agents that acts on your behalf",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/livereacting",
+          "url": "https://www.producthunt.com/products/scalekit",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-03T13:45:28Z",
-          "updated_at": "2026-11-04T10:32:12Z",
+          "published_at": "2026-10-13T14:16:55Z",
+          "updated_at": "2026-11-04T12:02:52Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "36b63127413a489e7d0cf829bba8668a735b9716",
-          "title": "LiveReacting for ChatGPT",
-          "title_zh": null,
-          "title_en": "LiveReacting for ChatGPT",
-          "title_original": "LiveReacting for ChatGPT",
-          "summary": null,
+          "id": "53d14d6ea2b777212ba3c6089b6e919f75928f62",
+          "title": "AgentKit（由 Scalekit 提供）— 代表您运行的生产代理的 MCP 网关 / AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
+          "title_zh": "AgentKit（由 Scalekit 提供）— 代表您运行的生产代理的 MCP 网关",
+          "title_en": "AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
+          "title_original": "AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
+          "summary": "MCP gateway for production agents that acts on your behalf",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/livereacting",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-04T10:32:49.227000Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/scalekit",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-10-13T14:16:55Z",
+          "updated_at": "2026-11-03T13:32:11Z",
+          "recency_basis": "updated_at"
         }
       ],
       "item_count": 2,
@@ -1573,17 +1485,17 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-04T10:32:12Z",
-      "latest_at": "2026-11-04T10:32:49.227000Z",
+      "earliest_at": "2026-11-03T13:32:11Z",
+      "latest_at": "2026-11-04T12:02:52Z",
       "primary_item": {
-        "id": "bb94602952308265fffac22b43a1f2841f163757",
-        "title": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流 / LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-        "title_zh": "LiveReacting for ChatGPT — 从 ChatGPT 运行 24/7 和预先录制的实时流",
-        "title_en": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-        "title_original": "LiveReacting for ChatGPT — Run 24/7 and pre-recorded live streams from ChatGPT",
-        "summary": "Run 24/7 and pre-recorded live streams from ChatGPT",
+        "id": "b768b11e82729a712cf8914b79e6a53e803abf02",
+        "title": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关 / AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
+        "title_zh": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关",
+        "title_en": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
+        "title_original": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
+        "summary": "MCP gateway for production agents that acts on your behalf",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/livereacting",
+        "url": "https://www.producthunt.com/products/scalekit",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1591,7 +1503,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -1643,15 +1555,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1677,7 +1589,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     },
     {
@@ -1893,15 +1805,15 @@
       ],
       "item_count": 6,
       "duplicate_count": 6,
-      "score": 0.581,
-      "importance": 0.581,
-      "importance_score": 0.581,
+      "score": 0.578,
+      "importance": 0.578,
+      "importance_score": 0.578,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.779,
+        "recency": 0.7623,
         "story_heat": 1.0
       },
       "category": "multi_source",
@@ -1926,7 +1838,191 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-04T10:52:02.334199Z"
+        "scored_at": "2026-11-04T12:05:56.362909Z"
+      }
+    },
+    {
+      "story_id": "story_89eba072c02e",
+      "title": "我如何使用人工智能（2026年10月）",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+      "primary_url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+      "source": "ben.stolovitz.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "29c347950e5d3fb443e2b1a2e3f5a2bb2d6465b6",
+          "title": "我如何使用人工智能（2026年10月）",
+          "title_zh": "我如何使用人工智能（2026年10月）",
+          "title_en": null,
+          "title_original": "我如何使用人工智能（2026年10月）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "source": "ben.stolovitz.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T03:32:08.407000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "111def1f65884c1dad417fa0e515ca1f0fa3cbd2",
+          "title": "我如何使用人工智能（2026年10月） / How I use AI (Oct 2026)",
+          "title_zh": "我如何使用人工智能（2026年10月）",
+          "title_en": "How I use AI (Oct 2026)",
+          "title_original": "How I use AI (Oct 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-03T18:11:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ea44594606d1f267a8ab754a0f6429ac6276aad8",
+          "title": "我如何使用人工智能（2026 年 10 月） / How I use AI (Oct 2026)",
+          "title_zh": "我如何使用人工智能（2026 年 10 月）",
+          "title_en": "How I use AI (Oct 2026)",
+          "title_original": "How I use AI (Oct 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50355767",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T18:11:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5454f6f77a25ef1fcd7ed69bc9682fcb59748888",
+          "title": "我如何使用人工智能（2026年10月） / I use AI (Oct 2026)",
+          "title_zh": "我如何使用人工智能（2026年10月）",
+          "title_en": "I use AI (Oct 2026)",
+          "title_original": "I use AI (Oct 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-03T18:11:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
+        "ben.stolovitz.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "29c347950e5d3fb443e2b1a2e3f5a2bb2d6465b6",
+          "title": "我如何使用人工智能（2026年10月）",
+          "title_zh": "我如何使用人工智能（2026年10月）",
+          "title_en": null,
+          "title_original": "我如何使用人工智能（2026年10月）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "source": "ben.stolovitz.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T03:32:08.407000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "111def1f65884c1dad417fa0e515ca1f0fa3cbd2",
+          "title": "我如何使用人工智能（2026年10月） / How I use AI (Oct 2026)",
+          "title_zh": "我如何使用人工智能（2026年10月）",
+          "title_en": "How I use AI (Oct 2026)",
+          "title_original": "How I use AI (Oct 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-03T18:11:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ea44594606d1f267a8ab754a0f6429ac6276aad8",
+          "title": "我如何使用人工智能（2026 年 10 月） / How I use AI (Oct 2026)",
+          "title_zh": "我如何使用人工智能（2026 年 10 月）",
+          "title_en": "How I use AI (Oct 2026)",
+          "title_original": "How I use AI (Oct 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50355767",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T18:11:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5454f6f77a25ef1fcd7ed69bc9682fcb59748888",
+          "title": "我如何使用人工智能（2026年10月） / I use AI (Oct 2026)",
+          "title_zh": "我如何使用人工智能（2026年10月）",
+          "title_en": "I use AI (Oct 2026)",
+          "title_original": "I use AI (Oct 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-03T18:11:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.575,
+      "importance": 0.575,
+      "importance_score": 0.575,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8846,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-03T18:11:11Z",
+      "latest_at": "2026-11-04T03:32:08.407000Z",
+      "primary_item": {
+        "id": "29c347950e5d3fb443e2b1a2e3f5a2bb2d6465b6",
+        "title": "我如何使用人工智能（2026年10月）",
+        "title_zh": "我如何使用人工智能（2026年10月）",
+        "title_en": null,
+        "title_original": "我如何使用人工智能（2026年10月）",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+        "source": "ben.stolovitz.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-04T12:05:56.362909Z"
       }
     }
   ]
