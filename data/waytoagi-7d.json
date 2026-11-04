@@ -1,17 +1,23 @@
 {
-  "generated_at": "2026-11-04T04:31:42.892915Z",
+  "generated_at": "2026-11-04T05:01:43.488189Z",
   "timezone": "Asia/Shanghai",
   "root_url": "https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e?fromScene=spaceOverview",
   "history_url": "https://waytoagi.feishu.cn/wiki/FjiOwWp2giA7hRk6jjfcPioCnAc",
   "window_days": 7,
   "latest_date": "2026-11-03",
-  "count_today": 3,
+  "count_today": 6,
   "updates_today": [
     {
       "date": "2026-11-03",
       "title": "豆包工作+Remotion：给娃做科普视频的保姆级教学",
-      "summary": "豆包工作+Remotion：给娃做科普视频的保姆级教学",
+      "summary": "作者这套豆包工作 + Remotion 组合依托代码来渲染生成动画，可以根据孩子年龄定制脚本、字幕与配音，讲解科学原理、历史典故，还能固化成专属技能反复调用。文中还有多套可直接复用的提示词，只需人工校验内容准确性，就能轻松做出专属启蒙动画。",
       "url": "https://waytoagi.feishu.cn/wiki/Xs2NwWl8vilAOYkjJqicSA69nhc?from=from_copylink"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "我把几十个 Skill 改造成一套能自动跑的内容创作系统",
+      "summary": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
+      "url": "https://waytoagi.feishu.cn/wiki/Mam5wDUX7iPjnfk4lQYce8zvnff?from=from_copylink"
     },
     {
       "date": "2026-11-03",
@@ -24,15 +30,33 @@
       "title": "从OpenClaw，怎么走到了Super Agent？",
       "summary": "最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。很多人说没看懂，也有很多人说，这就是自己工作的日常。作者这篇文章就是想跟大家聊一下，过去这一年观察到的Agent产品工具的演进逻辑。可能从这个过程回顾，有机会帮助我们更好理解，发生了什么？为什么走到了现在。",
       "url": "https://waytoagi.feishu.cn/wiki/Q5iwwfUsKiAlUsk3l7ZcPiTlnBf?from=from_copylink"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "今年听过最好的 AI Native 思考，真诚又足够接地气。",
+      "summary": "作者这篇笔记梳理了快手企业 AI 落地经验，给出了一个可落地的解法：先沉淀员工经验为共享能力，再重构分工；以小团队模式压缩交付链路，搭配需求风险分级的智能质检体系，同时搭建统一底座与积分机制管控成本。这套兼顾试点试错和企业治理的思路，可以帮大小团队避开 Agent 孤岛、空转、质量失控等问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/WdlHwXsSciLzKSk9swEcsUDnnuh?from=from_copylink"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "DeepSeek 的 Super-agent 设计，和我们的工程实践",
+      "summary": "DeepSeek 的 Super-agent 设计，和我们的工程实践",
+      "url": "https://waytoagi.feishu.cn/wiki/A39Aw8nL0i9Nntka5nPcwYQFnve?from=from_copylink"
     }
   ],
-  "count_7d": 30,
+  "count_7d": 33,
   "updates_7d": [
     {
       "date": "2026-11-03",
       "title": "豆包工作+Remotion：给娃做科普视频的保姆级教学",
-      "summary": "豆包工作+Remotion：给娃做科普视频的保姆级教学",
+      "summary": "作者这套豆包工作 + Remotion 组合依托代码来渲染生成动画，可以根据孩子年龄定制脚本、字幕与配音，讲解科学原理、历史典故，还能固化成专属技能反复调用。文中还有多套可直接复用的提示词，只需人工校验内容准确性，就能轻松做出专属启蒙动画。",
       "url": "https://waytoagi.feishu.cn/wiki/Xs2NwWl8vilAOYkjJqicSA69nhc?from=from_copylink"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "我把几十个 Skill 改造成一套能自动跑的内容创作系统",
+      "summary": "DeepSeek 刚提出的 SuperAgent 主要是在代码领域实现 Agent 的自动化。但是这套东西很难在内容创作领域运行，代码是有衡量标准的，内容没有，每个人有自己的内容风格，每天的想法灵感都在变。所以怎么样把内容也实现自动化运行，实现内容创作领域的 SuperAgent 呢？",
+      "url": "https://waytoagi.feishu.cn/wiki/Mam5wDUX7iPjnfk4lQYce8zvnff?from=from_copylink"
     },
     {
       "date": "2026-11-03",
@@ -45,6 +69,18 @@
       "title": "从OpenClaw，怎么走到了Super Agent？",
       "summary": "最近最火的应该是DeepSeek Harness产品团队发布的Super Agent了。很多人说没看懂，也有很多人说，这就是自己工作的日常。作者这篇文章就是想跟大家聊一下，过去这一年观察到的Agent产品工具的演进逻辑。可能从这个过程回顾，有机会帮助我们更好理解，发生了什么？为什么走到了现在。",
       "url": "https://waytoagi.feishu.cn/wiki/Q5iwwfUsKiAlUsk3l7ZcPiTlnBf?from=from_copylink"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "今年听过最好的 AI Native 思考，真诚又足够接地气。",
+      "summary": "作者这篇笔记梳理了快手企业 AI 落地经验，给出了一个可落地的解法：先沉淀员工经验为共享能力，再重构分工；以小团队模式压缩交付链路，搭配需求风险分级的智能质检体系，同时搭建统一底座与积分机制管控成本。这套兼顾试点试错和企业治理的思路，可以帮大小团队避开 Agent 孤岛、空转、质量失控等问题。",
+      "url": "https://waytoagi.feishu.cn/wiki/WdlHwXsSciLzKSk9swEcsUDnnuh?from=from_copylink"
+    },
+    {
+      "date": "2026-11-03",
+      "title": "DeepSeek 的 Super-agent 设计，和我们的工程实践",
+      "summary": "DeepSeek 的 Super-agent 设计，和我们的工程实践",
+      "url": "https://waytoagi.feishu.cn/wiki/A39Aw8nL0i9Nntka5nPcwYQFnve?from=from_copylink"
     },
     {
       "date": "2026-11-02",
