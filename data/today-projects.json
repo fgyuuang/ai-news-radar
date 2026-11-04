@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-04T06:04:15.262746Z",
+  "generated_at": "2026-11-04T06:33:27.059343Z",
   "date": "2026-11-04",
   "total_items": 4,
   "items": [
@@ -15,21 +15,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-04T06:01:41.420952Z"
+      "observed_at": "2026-11-04T06:31:41.554513Z"
     },
     {
-      "id": "project_0621bf52f00f",
-      "project_name": "AgentKit by Scalekit",
-      "url": "https://www.producthunt.com/products/scalekit",
-      "summary": "MCP gateway for production agents that acts on your behalf",
+      "id": "project_f37d2367e7b9",
+      "project_name": "Infino AI",
+      "url": "https://www.producthunt.com/products/infino-ai",
+      "summary": "Search, vectors and SQL over one Parquet copy, for agents",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「MCP gateway for production agents that acts on your behalf」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"MCP gateway for production agents that acts on your behalf\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-13T14:16:55Z",
-      "updated_at": "2026-11-04T06:03:05Z",
+      "recommend_reason_zh": "体验它主打的「Search, vectors and SQL over one Parquet copy, for agents」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Search, vectors and SQL over one Parquet copy, for agents\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-02T10:28:29Z",
+      "updated_at": "2026-11-04T06:27:49Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-04T06:04:02.329053Z"
+      "observed_at": "2026-11-04T06:33:14.739242Z"
     },
     {
       "id": "project_40b1bb8d3105",
@@ -43,21 +43,21 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-04T06:01:41.420952Z"
+      "observed_at": "2026-11-04T06:31:41.554513Z"
     },
     {
-      "id": "project_2e2efbf662c5",
-      "project_name": "Beamfy",
-      "url": "https://www.producthunt.com/products/beamfy",
-      "summary": "AI vision assistant for blind people, live in 74 languages",
+      "id": "project_9e9d1a563061",
+      "project_name": "kwant",
+      "url": "https://www.producthunt.com/products/kwant",
+      "summary": "AI bots that check each other's work before saying \"done\"",
       "site_id": "producthunt",
       "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI vision assistant for blind people, live in 74 languages」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI vision assistant for blind people, live in 74 languages\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-10-28T20:55:52Z",
-      "updated_at": "2026-11-04T05:57:26Z",
+      "recommend_reason_zh": "体验它主打的「AI bots that check each other's work before saying \"done\"」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI bots that check each other's work before saying \"done\"\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-10-30T22:10:47Z",
+      "updated_at": "2026-11-04T06:04:04Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-04T06:04:02.329053Z"
+      "observed_at": "2026-11-04T06:33:14.739242Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 13,
-      "duration_ms": 2241,
+      "duration_ms": 2323,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1020,
+      "duration_ms": 1042,
       "error": null
     }
   ]
