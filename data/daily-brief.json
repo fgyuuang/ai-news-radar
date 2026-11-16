@@ -1,8 +1,95 @@
 {
-  "generated_at": "2026-11-16T17:01:47.006775Z",
+  "generated_at": "2026-11-16T17:31:44.515335Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_720d3cffff4a",
+      "title": "Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "Broadening access to AI for scientists",
+          "title_zh": null,
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "Broadening access to AI for scientists",
+          "title_zh": null,
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9924,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
+      "primary_item": {
+        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+        "title": "Broadening access to AI for scientists",
+        "title_zh": null,
+        "title_en": "Broadening access to AI for scientists",
+        "title_original": "Broadening access to AI for scientists",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T17:52:30.192807Z"
+      }
+    },
     {
       "story_id": "story_43ec7f0d19a5",
       "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
@@ -52,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8409,
-      "importance": 0.8409,
-      "importance_score": 0.8409,
+      "score": 0.8397,
+      "importance": 0.8397,
+      "importance_score": 0.8397,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.983,
+        "recency": 0.9759,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,94 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
-      }
-    },
-    {
-      "story_id": "story_36b60329478e",
-      "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T09:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T09:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8383,
-      "importance": 0.8383,
-      "importance_score": 0.8383,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.8905,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T09:00:00Z",
-      "latest_at": "2026-11-16T09:00:00Z",
-      "primary_item": {
-        "id": "c857cb04056a67136a815d45c5da94457b53c014",
-        "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-        "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/lvmh-media-division-partnership",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8363,
-      "importance": 0.8363,
-      "importance_score": 0.8363,
+      "score": 0.8351,
+      "importance": 0.8351,
+      "importance_score": 0.8351,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9572,
+        "recency": 0.9503,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
+      }
+    },
+    {
+      "story_id": "story_d5f5193d70dc",
+      "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+      "url": "https://openai.com/index/strengthening-online-child-safety",
+      "primary_url": "https://openai.com/index/strengthening-online-child-safety",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "0a34b611792d4b12dd3204a4c0649a994c1cb6f3",
+          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "title_zh": null,
+          "title_en": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "title_original": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "0a34b611792d4b12dd3204a4c0649a994c1cb6f3",
+          "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "title_zh": null,
+          "title_en": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "title_original": "Strengthening the fight against online child sexual abuse with new tools and support",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-online-child-safety",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T17:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8506,
+      "importance": 0.8506,
+      "importance_score": 0.8506,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9924,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
+      "primary_item": {
+        "id": "0a34b611792d4b12dd3204a4c0649a994c1cb6f3",
+        "title": "Strengthening the fight against online child sexual abuse with new tools and support",
+        "title_zh": null,
+        "title_en": "Strengthening the fight against online child sexual abuse with new tools and support",
+        "title_original": "Strengthening the fight against online child sexual abuse with new tools and support",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/strengthening-online-child-safety",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T17:52:30.192807Z"
+      }
+    },
+    {
+      "story_id": "story_995c9b1004b9",
+      "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+      "url": "https://huggingface.co/blog/openrouter",
+      "primary_url": "https://huggingface.co/blog/openrouter",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9a1ff375664f3db16015f42b5303f4565df7aff5",
+          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "title_zh": null,
+          "title_en": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "title_original": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/openrouter",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "9a1ff375664f3db16015f42b5303f4565df7aff5",
+          "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "title_zh": null,
+          "title_en": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "title_original": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/openrouter",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7764,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T00:00:00Z",
+      "latest_at": "2026-11-16T00:00:00Z",
+      "primary_item": {
+        "id": "9a1ff375664f3db16015f42b5303f4565df7aff5",
+        "title": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+        "title_zh": null,
+        "title_en": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+        "title_original": "Hugging Face and OpenRouter join forces to make open-weight models easy to run",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/openrouter",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
@@ -313,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8375,
-      "importance": 0.8375,
-      "importance_score": 0.8375,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9642,
+        "recency": 0.9572,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,30 +522,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
-      "story_id": "story_b43d5653bc16",
-      "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
-      "primary_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "story_id": "story_83c01ad63559",
+      "title": "Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "primary_url": "https://openai.com/index/science-at-the-frontier",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
-          "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-          "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
-          "title_en": "More ways to move care forward with ChatGPT for Healthcare",
-          "title_original": "More ways to move care forward with ChatGPT for Healthcare",
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "Science at the Frontier: How scientists use ChatGPT",
+          "title_zh": null,
+          "title_en": "Science at the Frontier: How scientists use ChatGPT",
+          "title_original": "Science at the Frontier: How scientists use ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "url": "https://openai.com/index/science-at-the-frontier",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z",
+          "published_at": "2026-11-16T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -382,33 +556,33 @@
       ],
       "items": [
         {
-          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
-          "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-          "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
-          "title_en": "More ways to move care forward with ChatGPT for Healthcare",
-          "title_original": "More ways to move care forward with ChatGPT for Healthcare",
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "Science at the Frontier: How scientists use ChatGPT",
+          "title_zh": null,
+          "title_en": "Science at the Frontier: How scientists use ChatGPT",
+          "title_original": "Science at the Frontier: How scientists use ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+          "url": "https://openai.com/index/science-at-the-frontier",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z",
+          "published_at": "2026-11-16T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.8462,
+      "importance": 0.8462,
+      "importance_score": 0.8462,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8528,
+        "recency": 0.9233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -417,17 +591,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T06:00:00Z",
-      "latest_at": "2026-11-16T06:00:00Z",
+      "earliest_at": "2026-11-16T12:00:00Z",
+      "latest_at": "2026-11-16T12:00:00Z",
       "primary_item": {
-        "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
-        "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
-        "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
-        "title_en": "More ways to move care forward with ChatGPT for Healthcare",
-        "title_original": "More ways to move care forward with ChatGPT for Healthcare",
+        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+        "title": "Science at the Frontier: How scientists use ChatGPT",
+        "title_zh": null,
+        "title_en": "Science at the Frontier: How scientists use ChatGPT",
+        "title_original": "Science at the Frontier: How scientists use ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+        "url": "https://openai.com/index/science-at-the-frontier",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -435,94 +609,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
-      }
-    },
-    {
-      "story_id": "story_9398a1303400",
-      "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "primary_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
-          "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-          "title_zh": "为医疗团队推进计算机使用代理",
-          "title_en": "Advancing computer-use agents for healthcare teams",
-          "title_original": "Advancing computer-use agents for healthcare teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
-          "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-          "title_zh": "为医疗团队推进计算机使用代理",
-          "title_en": "Advancing computer-use agents for healthcare teams",
-          "title_original": "Advancing computer-use agents for healthcare teams",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T06:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8255,
-      "importance": 0.8255,
-      "importance_score": 0.8255,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8528,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T06:00:00Z",
-      "latest_at": "2026-11-16T06:00:00Z",
-      "primary_item": {
-        "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
-        "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
-        "title_zh": "为医疗团队推进计算机使用代理",
-        "title_en": "Advancing computer-use agents for healthcare teams",
-        "title_original": "Advancing computer-use agents for healthcare teams",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
@@ -574,15 +661,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8973,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,30 +694,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
-      "story_id": "story_cf7170a64f24",
-      "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "primary_url": "https://openai.com/index/the-kings-trust-and-openai",
+      "story_id": "story_36b60329478e",
+      "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
-          "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
-          "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
-          "title_en": "The King’s Trust and OpenAI launch £1m partnership",
-          "title_original": "The King’s Trust and OpenAI launch £1m partnership",
+          "id": "c857cb04056a67136a815d45c5da94457b53c014",
+          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
+          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-kings-trust-and-openai",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T00:00:00Z",
+          "published_at": "2026-11-16T09:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -641,33 +728,33 @@
       ],
       "items": [
         {
-          "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
-          "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
-          "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
-          "title_en": "The King’s Trust and OpenAI launch £1m partnership",
-          "title_original": "The King’s Trust and OpenAI launch £1m partnership",
+          "id": "c857cb04056a67136a815d45c5da94457b53c014",
+          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
+          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-kings-trust-and-openai",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T00:00:00Z",
+          "published_at": "2026-11-16T09:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8371,
+      "importance": 0.8371,
+      "importance_score": 0.8371,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.782,
+        "ai_relevance": 0.94,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -676,17 +763,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T00:00:00Z",
-      "latest_at": "2026-11-16T00:00:00Z",
+      "earliest_at": "2026-11-16T09:00:00Z",
+      "latest_at": "2026-11-16T09:00:00Z",
       "primary_item": {
-        "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
-        "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
-        "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
-        "title_en": "The King’s Trust and OpenAI launch £1m partnership",
-        "title_original": "The King’s Trust and OpenAI launch £1m partnership",
+        "id": "c857cb04056a67136a815d45c5da94457b53c014",
+        "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+        "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
+        "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/the-kings-trust-and-openai",
+        "url": "https://openai.com/index/lvmh-media-division-partnership",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -694,7 +781,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
@@ -746,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -779,30 +866,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
-      "story_id": "story_8072575c42c3",
-      "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "story_id": "story_b43d5653bc16",
+      "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "primary_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-          "title_zh": "在晶格上定义标准模型的一步",
-          "title_en": "A step toward defining the Standard Model on a lattice",
-          "title_original": "A step toward defining the Standard Model on a lattice",
+          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+          "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
+          "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
+          "title_en": "More ways to move care forward with ChatGPT for Healthcare",
+          "title_original": "More ways to move care forward with ChatGPT for Healthcare",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:01Z",
+          "published_at": "2026-11-16T06:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -813,33 +900,33 @@
       ],
       "items": [
         {
-          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-          "title_zh": "在晶格上定义标准模型的一步",
-          "title_en": "A step toward defining the Standard Model on a lattice",
-          "title_original": "A step toward defining the Standard Model on a lattice",
+          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+          "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
+          "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
+          "title_en": "More ways to move care forward with ChatGPT for Healthcare",
+          "title_original": "More ways to move care forward with ChatGPT for Healthcare",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:01Z",
+          "published_at": "2026-11-16T06:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.8324,
+      "importance": 0.8324,
+      "importance_score": 0.8324,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7597,
+        "ai_relevance": 0.95,
+        "recency": 0.8466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -848,17 +935,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-15T22:00:01Z",
-      "latest_at": "2026-11-15T22:00:01Z",
+      "earliest_at": "2026-11-16T06:00:00Z",
+      "latest_at": "2026-11-16T06:00:00Z",
       "primary_item": {
-        "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-        "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-        "title_zh": "在晶格上定义标准模型的一步",
-        "title_en": "A step toward defining the Standard Model on a lattice",
-        "title_original": "A step toward defining the Standard Model on a lattice",
+        "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+        "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
+        "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
+        "title_en": "More ways to move care forward with ChatGPT for Healthcare",
+        "title_original": "More ways to move care forward with ChatGPT for Healthcare",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -866,7 +953,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
@@ -918,15 +1005,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7457,
-      "importance": 0.7457,
-      "importance_score": 0.7457,
+      "score": 0.7445,
+      "importance": 0.7445,
+      "importance_score": 0.7445,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8781,
+        "recency": 0.8718,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -951,30 +1038,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
-      "story_id": "story_fe0b74d30c87",
-      "title": "我们的新科学博客 / Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "primary_url": "https://openai.com/index/our-new-blog-for-science",
+      "story_id": "story_9398a1303400",
+      "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "primary_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-          "title": "我们的新科学博客 / Our new blog for science",
-          "title_zh": "我们的新科学博客",
-          "title_en": "Our new blog for science",
-          "title_original": "Our new blog for science",
+          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
+          "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
+          "title_zh": "为医疗团队推进计算机使用代理",
+          "title_en": "Advancing computer-use agents for healthcare teams",
+          "title_original": "Advancing computer-use agents for healthcare teams",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/our-new-blog-for-science",
+          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:00Z",
+          "published_at": "2026-11-16T06:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -985,33 +1072,33 @@
       ],
       "items": [
         {
-          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-          "title": "我们的新科学博客 / Our new blog for science",
-          "title_zh": "我们的新科学博客",
-          "title_en": "Our new blog for science",
-          "title_original": "Our new blog for science",
+          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
+          "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
+          "title_zh": "为医疗团队推进计算机使用代理",
+          "title_en": "Advancing computer-use agents for healthcare teams",
+          "title_original": "Advancing computer-use agents for healthcare teams",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/our-new-blog-for-science",
+          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:00Z",
+          "published_at": "2026-11-16T06:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8088,
-      "importance": 0.8088,
-      "importance_score": 0.8088,
+      "score": 0.8244,
+      "importance": 0.8244,
+      "importance_score": 0.8244,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7597,
+        "recency": 0.8466,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1020,17 +1107,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-15T22:00:00Z",
-      "latest_at": "2026-11-15T22:00:00Z",
+      "earliest_at": "2026-11-16T06:00:00Z",
+      "latest_at": "2026-11-16T06:00:00Z",
       "primary_item": {
-        "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-        "title": "我们的新科学博客 / Our new blog for science",
-        "title_zh": "我们的新科学博客",
-        "title_en": "Our new blog for science",
-        "title_original": "Our new blog for science",
+        "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
+        "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
+        "title_zh": "为医疗团队推进计算机使用代理",
+        "title_en": "Advancing computer-use agents for healthcare teams",
+        "title_original": "Advancing computer-use agents for healthcare teams",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/our-new-blog-for-science",
+        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1038,7 +1125,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
@@ -1090,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7434,
-      "importance": 0.7434,
-      "importance_score": 0.7434,
+      "score": 0.7423,
+      "importance": 0.7423,
+      "importance_score": 0.7423,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8656,
+        "recency": 0.8593,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1123,7 +1210,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
+      }
+    },
+    {
+      "story_id": "story_cf7170a64f24",
+      "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "primary_url": "https://openai.com/index/the-kings-trust-and-openai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
+          "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
+          "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
+          "title_en": "The King’s Trust and OpenAI launch £1m partnership",
+          "title_original": "The King’s Trust and OpenAI launch £1m partnership",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-kings-trust-and-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
+          "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
+          "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
+          "title_en": "The King’s Trust and OpenAI launch £1m partnership",
+          "title_original": "The King’s Trust and OpenAI launch £1m partnership",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/the-kings-trust-and-openai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8117,
+      "importance": 0.8117,
+      "importance_score": 0.8117,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7764,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T00:00:00Z",
+      "latest_at": "2026-11-16T00:00:00Z",
+      "primary_item": {
+        "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
+        "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
+        "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
+        "title_en": "The King’s Trust and OpenAI launch £1m partnership",
+        "title_original": "The King’s Trust and OpenAI launch £1m partnership",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/the-kings-trust-and-openai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
@@ -1175,15 +1349,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8593,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1208,7 +1382,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
+      }
+    },
+    {
+      "story_id": "story_8072575c42c3",
+      "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+          "title_zh": "在晶格上定义标准模型的一步",
+          "title_en": "A step toward defining the Standard Model on a lattice",
+          "title_original": "A step toward defining the Standard Model on a lattice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+          "title_zh": "在晶格上定义标准模型的一步",
+          "title_en": "A step toward defining the Standard Model on a lattice",
+          "title_original": "A step toward defining the Standard Model on a lattice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7543,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T22:00:01Z",
+      "latest_at": "2026-11-15T22:00:01Z",
+      "primary_item": {
+        "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+        "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+        "title_zh": "在晶格上定义标准模型的一步",
+        "title_en": "A step toward defining the Standard Model on a lattice",
+        "title_original": "A step toward defining the Standard Model on a lattice",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
@@ -1232,7 +1493,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-13T18:06:13Z",
-          "updated_at": "2026-11-16T17:01:13Z",
+          "updated_at": "2026-11-16T17:23:05Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1271,7 +1532,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-13T18:06:13Z",
-          "updated_at": "2026-11-16T17:01:13Z",
+          "updated_at": "2026-11-16T17:23:05Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1293,15 +1554,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9999,
+        "recency": 0.9979,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1309,7 +1570,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-16T12:34:17.570000Z",
-      "latest_at": "2026-11-16T17:01:13Z",
+      "latest_at": "2026-11-16T17:23:05Z",
       "primary_item": {
         "id": "724c4ca85d100e0c57f0c3e5f9a9f78cfcf1530d",
         "title": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西 / ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
@@ -1326,7 +1587,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
@@ -1378,15 +1639,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7423,
-      "importance": 0.7423,
-      "importance_score": 0.7423,
+      "score": 0.7412,
+      "importance": 0.7412,
+      "importance_score": 0.7412,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8593,
+        "recency": 0.8532,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1411,412 +1672,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     },
     {
-      "story_id": "story_a079d048e705",
-      "title": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK by Vercel — Give AI agents the building blocks to create UI",
-      "url": "https://www.producthunt.com/products/ui-sdk",
-      "primary_url": "https://www.producthunt.com/products/ui-sdk",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_fe0b74d30c87",
+      "title": "我们的新科学博客 / Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "primary_url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "52f66885b97639006834e8033f06fe14b09246be",
-          "title": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK by Vercel — Give AI agents the building blocks to create UI",
-          "title_zh": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块",
-          "title_en": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
-          "title_original": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
-          "summary": "Give AI agents the building blocks to create UI",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/ui-sdk",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-15T12:01:57Z",
-          "updated_at": "2026-11-16T16:34:17Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "9d8e9a81fb1d6cafb25e259e9e56e111cc4587e7",
-          "title": "UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK — Give AI agents the building blocks to create UI",
-          "title_zh": "UI SDK — 为 AI 代理提供创建 UI 的构建块",
-          "title_en": "UI SDK — Give AI agents the building blocks to create UI",
-          "title_original": "UI SDK — Give AI agents the building blocks to create UI",
-          "summary": "Give AI agents the building blocks to create UI",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/ui-sdk",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-15T12:01:57Z",
-          "updated_at": "2026-11-16T09:02:42Z",
-          "recency_basis": "updated_at"
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt"
-      ],
-      "items": [
-        {
-          "id": "52f66885b97639006834e8033f06fe14b09246be",
-          "title": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK by Vercel — Give AI agents the building blocks to create UI",
-          "title_zh": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块",
-          "title_en": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
-          "title_original": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
-          "summary": "Give AI agents the building blocks to create UI",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/ui-sdk",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-15T12:01:57Z",
-          "updated_at": "2026-11-16T16:34:17Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "9d8e9a81fb1d6cafb25e259e9e56e111cc4587e7",
-          "title": "UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK — Give AI agents the building blocks to create UI",
-          "title_zh": "UI SDK — 为 AI 代理提供创建 UI 的构建块",
-          "title_en": "UI SDK — Give AI agents the building blocks to create UI",
-          "title_original": "UI SDK — Give AI agents the building blocks to create UI",
-          "summary": "Give AI agents the building blocks to create UI",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/ui-sdk",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-15T12:01:57Z",
-          "updated_at": "2026-11-16T09:02:42Z",
-          "recency_basis": "updated_at"
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9934,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T09:02:42Z",
-      "latest_at": "2026-11-16T16:34:17Z",
-      "primary_item": {
-        "id": "52f66885b97639006834e8033f06fe14b09246be",
-        "title": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK by Vercel — Give AI agents the building blocks to create UI",
-        "title_zh": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块",
-        "title_en": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
-        "title_original": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
-        "summary": "Give AI agents the building blocks to create UI",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/ui-sdk",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
-      }
-    },
-    {
-      "story_id": "story_a31c0ac5bb28",
-      "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-      "url": "https://www.aibase.com/news/32335",
-      "primary_url": "https://www.aibase.com/news/32335",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "780918d508dea7760bd8d3216b85d36af59e2444",
-          "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_zh": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
+          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+          "title": "我们的新科学博客 / Our new blog for science",
+          "title_zh": "我们的新科学博客",
+          "title_en": "Our new blog for science",
+          "title_original": "Our new blog for science",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32335",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T06:01:45.215780Z",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "AIbase"
+        "OpenAI News"
       ],
       "items": [
         {
-          "id": "780918d508dea7760bd8d3216b85d36af59e2444",
-          "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_zh": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-          "title_en": null,
-          "title_original": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
+          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+          "title": "我们的新科学博客 / Our new blog for science",
+          "title_zh": "我们的新科学博客",
+          "title_en": "Our new blog for science",
+          "title_original": "Our new blog for science",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32335",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T06:01:45.215780Z",
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
+      "score": 0.8078,
+      "importance": 0.8078,
+      "importance_score": 0.8078,
+      "importance_label": "官方更新",
       "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8531,
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7543,
         "story_heat": 0.0
       },
-      "category": "industry",
+      "category": "official",
       "reasons": [
-        "high_ai_relevance"
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-16T06:01:45.215780Z",
-      "latest_at": "2026-11-16T06:01:45.215780Z",
+      "earliest_at": "2026-11-15T22:00:00Z",
+      "latest_at": "2026-11-15T22:00:00Z",
       "primary_item": {
-        "id": "780918d508dea7760bd8d3216b85d36af59e2444",
-        "title": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-        "title_zh": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
-        "title_en": null,
-        "title_original": "腾讯混元发布 Hy4flash:224B 参数、1M 上下文，解码超150tps，单任务成本仅 Hy4preview 的1/13",
+        "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+        "title": "我们的新科学博客 / Our new blog for science",
+        "title_zh": "我们的新科学博客",
+        "title_en": "Our new blog for science",
+        "title_original": "Our new blog for science",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32335",
-        "source": "AIbase",
-        "source_name": "AIbase"
+        "url": "https://openai.com/index/our-new-blog-for-science",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
-      }
-    },
-    {
-      "story_id": "story_3d96b04a0c3a",
-      "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-      "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "primary_url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
-          "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
-          "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "summary": "Chrome DevTools for coding agents",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_zh": null,
-          "title_en": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_original": "ChromeDevTools /      chrome-devtools-mcp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:03:41.316000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
-          "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
-          "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-          "summary": "Chrome DevTools for coding agents",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a0cc37c6786d3c04c1cc629fcf894119d0d80913",
-          "title": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_zh": null,
-          "title_en": "ChromeDevTools /      chrome-devtools-mcp",
-          "title_original": "ChromeDevTools /      chrome-devtools-mcp",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:03:41.316000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5601,
-      "importance": 0.5601,
-      "importance_score": 0.5601,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8105,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T02:03:41.316000Z",
-      "latest_at": "2026-11-16T02:28:58.747031Z",
-      "primary_item": {
-        "id": "e47ef8f1b8e1efa246a46e16a4da6d865fd7e4d6",
-        "title": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools / ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-        "title_zh": "ChromeDevTools/chrome-devtools-mcp — 用于编码代理的 Chrome DevTools",
-        "title_en": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-        "title_original": "ChromeDevTools/chrome-devtools-mcp — Chrome DevTools for coding agents",
-        "summary": "Chrome DevTools for coding agents",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/ChromeDevTools/chrome-devtools-mcp",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
-      }
-    },
-    {
-      "story_id": "story_e221675cf870",
-      "title": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-      "url": "https://www.aibase.com/news/32336",
-      "primary_url": "https://www.aibase.com/news/32336",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "65a0ba5efbecffc65982ca703d33cd5a2c93cb6a",
-          "title": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-          "title_zh": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-          "title_en": null,
-          "title_original": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32336",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T06:01:45.215780Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "65a0ba5efbecffc65982ca703d33cd5a2c93cb6a",
-          "title": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-          "title_zh": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-          "title_en": null,
-          "title_original": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32336",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T06:01:45.215780Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7412,
-      "importance": 0.7412,
-      "importance_score": 0.7412,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8531,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-16T06:01:45.215780Z",
-      "latest_at": "2026-11-16T06:01:45.215780Z",
-      "primary_item": {
-        "id": "65a0ba5efbecffc65982ca703d33cd5a2c93cb6a",
-        "title": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-        "title_zh": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-        "title_en": null,
-        "title_original": "豆包工作上线「工作台」:首批21款覆盖金融、医疗、教育等场景",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32336",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T17:21:17.843531Z"
+        "scored_at": "2026-11-16T17:52:30.192807Z"
       }
     }
   ]
