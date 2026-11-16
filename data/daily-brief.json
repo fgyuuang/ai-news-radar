@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T06:01:45.215780Z",
+  "generated_at": "2026-11-16T06:31:51.279909Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8905,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8323,
-      "importance": 0.8323,
-      "importance_score": 0.8323,
+      "score": 0.8311,
+      "importance": 0.8311,
+      "importance_score": 0.8311,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8905,
+        "recency": 0.8841,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
+      }
+    },
+    {
+      "story_id": "story_0e831c449068",
+      "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+      "url": "https://www.aibase.com/news/32337",
+      "primary_url": "https://www.aibase.com/news/32337",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
+          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+          "title_zh": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+          "title_en": null,
+          "title_original": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32337",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T06:31:51.279909Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
+          "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+          "title_zh": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+          "title_en": null,
+          "title_original": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32337",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T06:31:51.279909Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T06:31:51.279909Z",
+      "latest_at": "2026-11-16T06:31:51.279909Z",
+      "primary_item": {
+        "id": "ed0a1b7a4541eff5f8cf4cb52b9c44c19bf3c6cf",
+        "title": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+        "title_zh": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+        "title_en": null,
+        "title_original": "DeepSeek收紧使用限制:7天历史对话、4万字输入及每日额度调整",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32337",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T06:38:37.459415Z"
+      }
+    },
+    {
+      "story_id": "story_fba4fba29609",
+      "title": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+      "url": "https://www.aibase.com/news/32338",
+      "primary_url": "https://www.aibase.com/news/32338",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "dfe79ee28e03b74fcce188687d17de048a90a59d",
+          "title": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+          "title_zh": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+          "title_en": null,
+          "title_original": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32338",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T06:31:51.279909Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "dfe79ee28e03b74fcce188687d17de048a90a59d",
+          "title": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+          "title_zh": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+          "title_en": null,
+          "title_original": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32338",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-16T06:31:51.279909Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T06:31:51.279909Z",
+      "latest_at": "2026-11-16T06:31:51.279909Z",
+      "primary_item": {
+        "id": "dfe79ee28e03b74fcce188687d17de048a90a59d",
+        "title": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+        "title_zh": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+        "title_en": null,
+        "title_original": "苹果联合OpenEvidence推出健康AI研究应用，计划招募20万名用户",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32338",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -226,15 +398,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,7 +432,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -312,15 +484,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -346,7 +518,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -398,15 +570,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -432,7 +604,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -484,15 +656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -518,179 +690,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
-      }
-    },
-    {
-      "story_id": "story_7bf98050313d",
-      "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
-      "url": "https://www.aibase.com/news/32331",
-      "primary_url": "https://www.aibase.com/news/32331",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "9715fd0e9a8b0a0b04cb2e385cbe3cddb258df25",
-          "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
-          "title_zh": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
-          "title_en": null,
-          "title_original": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32331",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T03:01:44.940933Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "9715fd0e9a8b0a0b04cb2e385cbe3cddb258df25",
-          "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
-          "title_zh": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
-          "title_en": null,
-          "title_original": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32331",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T03:01:44.940933Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T03:01:44.940933Z",
-      "latest_at": "2026-11-16T03:01:44.940933Z",
-      "primary_item": {
-        "id": "9715fd0e9a8b0a0b04cb2e385cbe3cddb258df25",
-        "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
-        "title_zh": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
-        "title_en": null,
-        "title_original": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32331",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
-      }
-    },
-    {
-      "story_id": "story_e53ab459a193",
-      "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
-      "url": "https://www.aibase.com/news/32332",
-      "primary_url": "https://www.aibase.com/news/32332",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5b498cfdf2f962431e6f754e5e88bc099bb76512",
-          "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
-          "title_zh": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
-          "title_en": null,
-          "title_original": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32332",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T03:01:44.940933Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5b498cfdf2f962431e6f754e5e88bc099bb76512",
-          "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
-          "title_zh": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
-          "title_en": null,
-          "title_original": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32332",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-16T03:01:44.940933Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T03:01:44.940933Z",
-      "latest_at": "2026-11-16T03:01:44.940933Z",
-      "primary_item": {
-        "id": "5b498cfdf2f962431e6f754e5e88bc099bb76512",
-        "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
-        "title_zh": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
-        "title_en": null,
-        "title_original": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32332",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -714,7 +714,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-14T06:54:44Z",
-          "updated_at": "2026-11-16T05:41:43Z",
+          "updated_at": "2026-11-16T06:32:49Z",
           "recency_basis": "updated_at"
         },
         {
@@ -753,7 +753,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-14T06:54:44Z",
-          "updated_at": "2026-11-16T05:41:43Z",
+          "updated_at": "2026-11-16T06:32:49Z",
           "recency_basis": "updated_at"
         },
         {
@@ -775,15 +775,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5933,
-      "importance": 0.5933,
-      "importance_score": 0.5933,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9952,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -791,7 +791,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-16T02:00:28.293000Z",
-      "latest_at": "2026-11-16T05:41:43Z",
+      "latest_at": "2026-11-16T06:32:49Z",
       "primary_item": {
         "id": "8117573eb955e9f1221fb55c3782e3b05507afd3",
         "title": "ByteAsk Cloud Agents — 在大型代码库中查找修复程序。从 Slack 发送。 / ByteAsk Cloud Agents — Find the fix in big codebases. Ship it from Slack.",
@@ -808,7 +808,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -893,15 +893,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5852,
-      "importance": 0.5852,
-      "importance_score": 0.5852,
+      "score": 0.584,
+      "importance": 0.584,
+      "importance_score": 0.584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9501,
+        "recency": 0.9432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -926,30 +926,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
-      "story_id": "story_71168e1027a5",
-      "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-      "url": "https://www.aibase.com/news/32330",
-      "primary_url": "https://www.aibase.com/news/32330",
+      "story_id": "story_7bf98050313d",
+      "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
+      "url": "https://www.aibase.com/news/32331",
+      "primary_url": "https://www.aibase.com/news/32331",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e4517aba9184a3f309f34a681337f83303dec23e",
-          "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-          "title_zh": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+          "id": "9715fd0e9a8b0a0b04cb2e385cbe3cddb258df25",
+          "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
+          "title_zh": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
           "title_en": null,
-          "title_original": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+          "title_original": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32330",
+          "url": "https://www.aibase.com/news/32331",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:28:58.747031Z",
+          "published_at": "2026-11-16T03:01:44.940933Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -960,33 +960,33 @@
       ],
       "items": [
         {
-          "id": "e4517aba9184a3f309f34a681337f83303dec23e",
-          "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-          "title_zh": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+          "id": "9715fd0e9a8b0a0b04cb2e385cbe3cddb258df25",
+          "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
+          "title_zh": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
           "title_en": null,
-          "title_original": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+          "title_original": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32330",
+          "url": "https://www.aibase.com/news/32331",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:28:58.747031Z",
+          "published_at": "2026-11-16T03:01:44.940933Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9501,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -994,17 +994,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:28:58.747031Z",
-      "latest_at": "2026-11-16T02:28:58.747031Z",
+      "earliest_at": "2026-11-16T03:01:44.940933Z",
+      "latest_at": "2026-11-16T03:01:44.940933Z",
       "primary_item": {
-        "id": "e4517aba9184a3f309f34a681337f83303dec23e",
-        "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
-        "title_zh": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+        "id": "9715fd0e9a8b0a0b04cb2e385cbe3cddb258df25",
+        "title": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
+        "title_zh": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
         "title_en": null,
-        "title_original": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+        "title_original": "不调用图像模型，Claude Fable5.2用70万次笔触画出一辆购物车",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32330",
+        "url": "https://www.aibase.com/news/32331",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1012,7 +1012,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -1097,15 +1097,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5852,
-      "importance": 0.5852,
-      "importance_score": 0.5852,
+      "score": 0.584,
+      "importance": 0.584,
+      "importance_score": 0.584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9501,
+        "recency": 0.9432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1130,30 +1130,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
-      "story_id": "story_ef6fd453e755",
-      "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-      "url": "https://www.aibase.com/news/32326",
-      "primary_url": "https://www.aibase.com/news/32326",
+      "story_id": "story_e53ab459a193",
+      "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
+      "url": "https://www.aibase.com/news/32332",
+      "primary_url": "https://www.aibase.com/news/32332",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
-          "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-          "title_zh": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+          "id": "5b498cfdf2f962431e6f754e5e88bc099bb76512",
+          "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
+          "title_zh": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
           "title_en": null,
-          "title_original": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+          "title_original": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32326",
+          "url": "https://www.aibase.com/news/32332",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:28:58.747031Z",
+          "published_at": "2026-11-16T03:01:44.940933Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1164,33 +1164,33 @@
       ],
       "items": [
         {
-          "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
-          "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-          "title_zh": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+          "id": "5b498cfdf2f962431e6f754e5e88bc099bb76512",
+          "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
+          "title_zh": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
           "title_en": null,
-          "title_original": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+          "title_original": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32326",
+          "url": "https://www.aibase.com/news/32332",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-16T02:28:58.747031Z",
+          "published_at": "2026-11-16T03:01:44.940933Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9501,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1198,17 +1198,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T02:28:58.747031Z",
-      "latest_at": "2026-11-16T02:28:58.747031Z",
+      "earliest_at": "2026-11-16T03:01:44.940933Z",
+      "latest_at": "2026-11-16T03:01:44.940933Z",
       "primary_item": {
-        "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
-        "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
-        "title_zh": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+        "id": "5b498cfdf2f962431e6f754e5e88bc099bb76512",
+        "title": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
+        "title_zh": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
         "title_en": null,
-        "title_original": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+        "title_original": "阿里千问发布 Qwen4-Max: 以架构升级压低 token 消耗，单任务费用降58%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32326",
+        "url": "https://www.aibase.com/news/32332",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1216,7 +1216,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -1334,15 +1334,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5396,
-      "importance": 0.5396,
-      "importance_score": 0.5396,
+      "score": 0.5386,
+      "importance": 0.5386,
+      "importance_score": 0.5386,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8268,
+        "recency": 0.8209,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1367,7 +1367,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -1452,15 +1452,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5345,
-      "importance": 0.5345,
-      "importance_score": 0.5345,
+      "score": 0.5332,
+      "importance": 0.5332,
+      "importance_score": 0.5332,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.937,
+        "recency": 0.9303,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1485,7 +1485,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -1570,15 +1570,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5331,
+      "importance": 0.5331,
+      "importance_score": 0.5331,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9363,
+        "recency": 0.9295,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1603,7 +1603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -1688,15 +1688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5852,
-      "importance": 0.5852,
-      "importance_score": 0.5852,
+      "score": 0.584,
+      "importance": 0.584,
+      "importance_score": 0.584,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9501,
+        "recency": 0.9432,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1721,26 +1721,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
-      "story_id": "story_0342d8efa5ed",
-      "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
-      "url": "https://www.aibase.com/news/32328",
-      "primary_url": "https://www.aibase.com/news/32328",
+      "story_id": "story_71168e1027a5",
+      "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+      "url": "https://www.aibase.com/news/32330",
+      "primary_url": "https://www.aibase.com/news/32330",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "13c3198e98564b3d203d7ef0c3d70ff4dd5b0150",
-          "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
-          "title_zh": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
+          "id": "e4517aba9184a3f309f34a681337f83303dec23e",
+          "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+          "title_zh": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
           "title_en": null,
-          "title_original": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
+          "title_original": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32328",
+          "url": "https://www.aibase.com/news/32330",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1755,14 +1755,14 @@
       ],
       "items": [
         {
-          "id": "13c3198e98564b3d203d7ef0c3d70ff4dd5b0150",
-          "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
-          "title_zh": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
+          "id": "e4517aba9184a3f309f34a681337f83303dec23e",
+          "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+          "title_zh": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
           "title_en": null,
-          "title_original": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
+          "title_original": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32328",
+          "url": "https://www.aibase.com/news/32330",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1773,15 +1773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9501,
+        "recency": 0.9432,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1792,14 +1792,14 @@
       "earliest_at": "2026-11-16T02:28:58.747031Z",
       "latest_at": "2026-11-16T02:28:58.747031Z",
       "primary_item": {
-        "id": "13c3198e98564b3d203d7ef0c3d70ff4dd5b0150",
-        "title": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
-        "title_zh": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
+        "id": "e4517aba9184a3f309f34a681337f83303dec23e",
+        "title": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
+        "title_zh": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
         "title_en": null,
-        "title_original": "苹果首款AI眼镜计划2027年WWDC亮相，年底前上市",
+        "title_original": "8个月成为中国提供最多 token 的单一 AI 产品，腾讯总办却称 AI 应用开发才刚起步",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32328",
+        "url": "https://www.aibase.com/news/32330",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1807,7 +1807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
@@ -1892,15 +1892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5129,
-      "importance": 0.5129,
-      "importance_score": 0.5129,
+      "score": 0.5119,
+      "importance": 0.5119,
+      "importance_score": 0.5119,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8174,
+        "recency": 0.8115,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1925,26 +1925,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     },
     {
-      "story_id": "story_7ea6c57f4129",
-      "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-      "url": "https://www.aibase.com/news/32327",
-      "primary_url": "https://www.aibase.com/news/32327",
+      "story_id": "story_ef6fd453e755",
+      "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+      "url": "https://www.aibase.com/news/32326",
+      "primary_url": "https://www.aibase.com/news/32326",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
-          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-          "title_zh": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
+          "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+          "title_zh": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
           "title_en": null,
-          "title_original": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "title_original": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32327",
+          "url": "https://www.aibase.com/news/32326",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1959,14 +1959,14 @@
       ],
       "items": [
         {
-          "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
-          "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-          "title_zh": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
+          "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+          "title_zh": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
           "title_en": null,
-          "title_original": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+          "title_original": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32327",
+          "url": "https://www.aibase.com/news/32326",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1977,15 +1977,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7586,
-      "importance": 0.7586,
-      "importance_score": 0.7586,
+      "score": 0.7574,
+      "importance": 0.7574,
+      "importance_score": 0.7574,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9501,
+        "recency": 0.9432,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1996,14 +1996,14 @@
       "earliest_at": "2026-11-16T02:28:58.747031Z",
       "latest_at": "2026-11-16T02:28:58.747031Z",
       "primary_item": {
-        "id": "c4c891b7c2a8f205e5882ac10b39959e97312210",
-        "title": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
-        "title_zh": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+        "id": "f3f2a1e98ba6f28e39bb06a742d6a7e2964a1cfa",
+        "title": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
+        "title_zh": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
         "title_en": null,
-        "title_original": "谷歌 Gemini4Carbon 入驻 WorkBuddy，百万 Token 上下文向 Pro 用户开放",
+        "title_original": "华为云将发布首款昇腾原生具身世界模型 CloudRoboWM1.2",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32327",
+        "url": "https://www.aibase.com/news/32326",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -2011,7 +2011,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T06:10:19.750161Z"
+        "scored_at": "2026-11-16T06:38:37.459415Z"
       }
     }
   ]
