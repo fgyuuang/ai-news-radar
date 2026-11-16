@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T14:32:13.726771Z",
+  "generated_at": "2026-11-16T15:01:55.516024Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8442,
-      "importance": 0.8442,
-      "importance_score": 0.8442,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9232,
+        "recency": 0.9166,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
+      }
+    },
+    {
+      "story_id": "story_97bf5a0b15de",
+      "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "primary_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+          "title_en": "Take GitHub Mobile with you on iPhone Duo",
+          "title_original": "Take GitHub Mobile with you on iPhone Duo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T14:30:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+          "title_en": "Take GitHub Mobile with you on iPhone Duo",
+          "title_original": "Take GitHub Mobile with you on iPhone Duo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T14:30:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9924,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T14:30:07Z",
+      "latest_at": "2026-11-16T14:30:07Z",
+      "primary_item": {
+        "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+        "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+        "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+        "title_en": "Take GitHub Mobile with you on iPhone Duo",
+        "title_original": "Take GitHub Mobile with you on iPhone Duo",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -139,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8426,
-      "importance": 0.8426,
-      "importance_score": 0.8426,
+      "score": 0.8413,
+      "importance": 0.8413,
+      "importance_score": 0.8413,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9923,
+        "recency": 0.9852,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,30 +261,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
-      "story_id": "story_cf7170a64f24",
-      "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
-      "url": "https://openai.com/index/the-kings-trust-and-openai",
-      "primary_url": "https://openai.com/index/the-kings-trust-and-openai",
+      "story_id": "story_b43d5653bc16",
+      "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
+      "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
+      "primary_url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
-          "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
-          "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
-          "title_en": "The King’s Trust and OpenAI launch £1m partnership",
-          "title_original": "The King’s Trust and OpenAI launch £1m partnership",
+          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+          "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
+          "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
+          "title_en": "More ways to move care forward with ChatGPT for Healthcare",
+          "title_original": "More ways to move care forward with ChatGPT for Healthcare",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-kings-trust-and-openai",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T00:00:00Z",
+          "published_at": "2026-11-16T06:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -208,33 +295,33 @@
       ],
       "items": [
         {
-          "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
-          "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
-          "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
-          "title_en": "The King’s Trust and OpenAI launch £1m partnership",
-          "title_original": "The King’s Trust and OpenAI launch £1m partnership",
+          "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+          "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
+          "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
+          "title_en": "More ways to move care forward with ChatGPT for Healthcare",
+          "title_original": "More ways to move care forward with ChatGPT for Healthcare",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/the-kings-trust-and-openai",
+          "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T00:00:00Z",
+          "published_at": "2026-11-16T06:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.838,
+      "importance": 0.838,
+      "importance_score": 0.838,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8106,
+        "ai_relevance": 0.95,
+        "recency": 0.8777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -243,17 +330,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T00:00:00Z",
-      "latest_at": "2026-11-16T00:00:00Z",
+      "earliest_at": "2026-11-16T06:00:00Z",
+      "latest_at": "2026-11-16T06:00:00Z",
       "primary_item": {
-        "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
-        "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
-        "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
-        "title_en": "The King’s Trust and OpenAI launch £1m partnership",
-        "title_original": "The King’s Trust and OpenAI launch £1m partnership",
+        "id": "aab4bdc3b4e1eab4014008d443cd6b1925102936",
+        "title": "通过 ChatGPT for Healthcare 推动护理发展的更多方式 / More ways to move care forward with ChatGPT for Healthcare",
+        "title_zh": "通过 ChatGPT for Healthcare 推动护理发展的更多方式",
+        "title_en": "More ways to move care forward with ChatGPT for Healthcare",
+        "title_original": "More ways to move care forward with ChatGPT for Healthcare",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/the-kings-trust-and-openai",
+        "url": "https://openai.com/index/more-ways-to-move-care-forward-with-chatgpt-for-healthcare",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -261,7 +348,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
+      }
+    },
+    {
+      "story_id": "story_9398a1303400",
+      "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
+      "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "primary_url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
+          "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
+          "title_zh": "为医疗团队推进计算机使用代理",
+          "title_en": "Advancing computer-use agents for healthcare teams",
+          "title_original": "Advancing computer-use agents for healthcare teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T06:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
+          "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
+          "title_zh": "为医疗团队推进计算机使用代理",
+          "title_en": "Advancing computer-use agents for healthcare teams",
+          "title_original": "Advancing computer-use agents for healthcare teams",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T06:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.83,
+      "importance": 0.83,
+      "importance_score": 0.83,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8777,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T06:00:00Z",
+      "latest_at": "2026-11-16T06:00:00Z",
+      "primary_item": {
+        "id": "39c642b223dadb462cf8c0b4e1a44e7687128321",
+        "title": "为医疗团队推进计算机使用代理 / Advancing computer-use agents for healthcare teams",
+        "title_zh": "为医疗团队推进计算机使用代理",
+        "title_en": "Advancing computer-use agents for healthcare teams",
+        "title_original": "Advancing computer-use agents for healthcare teams",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/advancing-computer-use-for-healthcare-teams",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -313,15 +487,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.755,
-      "importance": 0.755,
-      "importance_score": 0.755,
+      "score": 0.7538,
+      "importance": 0.7538,
+      "importance_score": 0.7538,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9302,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -347,30 +521,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
-      "story_id": "story_8072575c42c3",
-      "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
-      "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "story_id": "story_cf7170a64f24",
+      "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
+      "url": "https://openai.com/index/the-kings-trust-and-openai",
+      "primary_url": "https://openai.com/index/the-kings-trust-and-openai",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-          "title_zh": "在晶格上定义标准模型的一步",
-          "title_en": "A step toward defining the Standard Model on a lattice",
-          "title_original": "A step toward defining the Standard Model on a lattice",
+          "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
+          "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
+          "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
+          "title_en": "The King’s Trust and OpenAI launch £1m partnership",
+          "title_original": "The King’s Trust and OpenAI launch £1m partnership",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "url": "https://openai.com/index/the-kings-trust-and-openai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:01Z",
+          "published_at": "2026-11-16T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -381,33 +555,33 @@
       ],
       "items": [
         {
-          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-          "title_zh": "在晶格上定义标准模型的一步",
-          "title_en": "A step toward defining the Standard Model on a lattice",
-          "title_original": "A step toward defining the Standard Model on a lattice",
+          "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
+          "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
+          "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
+          "title_en": "The King’s Trust and OpenAI launch £1m partnership",
+          "title_original": "The King’s Trust and OpenAI launch £1m partnership",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "url": "https://openai.com/index/the-kings-trust-and-openai",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:01Z",
+          "published_at": "2026-11-16T00:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7876,
+        "recency": 0.8049,
         "story_heat": 0.0
       },
       "category": "official",
@@ -416,17 +590,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-15T22:00:01Z",
-      "latest_at": "2026-11-15T22:00:01Z",
+      "earliest_at": "2026-11-16T00:00:00Z",
+      "latest_at": "2026-11-16T00:00:00Z",
       "primary_item": {
-        "id": "b30827aade7fb5ded891f222827dfceba5b94136",
-        "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
-        "title_zh": "在晶格上定义标准模型的一步",
-        "title_en": "A step toward defining the Standard Model on a lattice",
-        "title_original": "A step toward defining the Standard Model on a lattice",
+        "id": "94f6a100fcf733b7a0c8d2f5634994f4978f2eb8",
+        "title": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系 / The King’s Trust and OpenAI launch £1m partnership",
+        "title_zh": "国王信托基金与 OpenAI 启动价值 100 万英镑的合作伙伴关系",
+        "title_en": "The King’s Trust and OpenAI launch £1m partnership",
+        "title_original": "The King’s Trust and OpenAI launch £1m partnership",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "url": "https://openai.com/index/the-kings-trust-and-openai",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -434,94 +608,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
-      }
-    },
-    {
-      "story_id": "story_fe0b74d30c87",
-      "title": "我们的新科学博客 / Our new blog for science",
-      "url": "https://openai.com/index/our-new-blog-for-science",
-      "primary_url": "https://openai.com/index/our-new-blog-for-science",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-          "title": "我们的新科学博客 / Our new blog for science",
-          "title_zh": "我们的新科学博客",
-          "title_en": "Our new blog for science",
-          "title_original": "Our new blog for science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/our-new-blog-for-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-          "title": "我们的新科学博客 / Our new blog for science",
-          "title_zh": "我们的新科学博客",
-          "title_en": "Our new blog for science",
-          "title_original": "Our new blog for science",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/our-new-blog-for-science",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-15T22:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8138,
-      "importance": 0.8138,
-      "importance_score": 0.8138,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7876,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-15T22:00:00Z",
-      "latest_at": "2026-11-15T22:00:00Z",
-      "primary_item": {
-        "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
-        "title": "我们的新科学博客 / Our new blog for science",
-        "title_zh": "我们的新科学博客",
-        "title_en": "Our new blog for science",
-        "title_original": "Our new blog for science",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/our-new-blog-for-science",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -573,15 +660,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7526,
-      "importance": 0.7526,
-      "importance_score": 0.7526,
+      "score": 0.7515,
+      "importance": 0.7515,
+      "importance_score": 0.7515,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9169,
+        "recency": 0.9104,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,7 +694,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
+      }
+    },
+    {
+      "story_id": "story_8072575c42c3",
+      "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+      "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "primary_url": "https://openai.com/index/step-toward-defining-the-standard-model",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+          "title_zh": "在晶格上定义标准模型的一步",
+          "title_en": "A step toward defining the Standard Model on a lattice",
+          "title_original": "A step toward defining the Standard Model on a lattice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+          "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+          "title_zh": "在晶格上定义标准模型的一步",
+          "title_en": "A step toward defining the Standard Model on a lattice",
+          "title_original": "A step toward defining the Standard Model on a lattice",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:01Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.782,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T22:00:01Z",
+      "latest_at": "2026-11-15T22:00:01Z",
+      "primary_item": {
+        "id": "b30827aade7fb5ded891f222827dfceba5b94136",
+        "title": "在晶格上定义标准模型的一步 / A step toward defining the Standard Model on a lattice",
+        "title_zh": "在晶格上定义标准模型的一步",
+        "title_en": "A step toward defining the Standard Model on a lattice",
+        "title_original": "A step toward defining the Standard Model on a lattice",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/step-toward-defining-the-standard-model",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -659,15 +833,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7515,
-      "importance": 0.7515,
-      "importance_score": 0.7515,
+      "score": 0.7503,
+      "importance": 0.7503,
+      "importance_score": 0.7503,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9103,
+        "recency": 0.9038,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -693,7 +867,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
+      }
+    },
+    {
+      "story_id": "story_fe0b74d30c87",
+      "title": "我们的新科学博客 / Our new blog for science",
+      "url": "https://openai.com/index/our-new-blog-for-science",
+      "primary_url": "https://openai.com/index/our-new-blog-for-science",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+          "title": "我们的新科学博客 / Our new blog for science",
+          "title_zh": "我们的新科学博客",
+          "title_en": "Our new blog for science",
+          "title_original": "Our new blog for science",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+          "title": "我们的新科学博客 / Our new blog for science",
+          "title_zh": "我们的新科学博客",
+          "title_en": "Our new blog for science",
+          "title_original": "Our new blog for science",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/our-new-blog-for-science",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-15T22:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8128,
+      "importance": 0.8128,
+      "importance_score": 0.8128,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.782,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-15T22:00:00Z",
+      "latest_at": "2026-11-15T22:00:00Z",
+      "primary_item": {
+        "id": "1aefb6f3bed3492c82bda2d27aa548c35b99f946",
+        "title": "我们的新科学博客 / Our new blog for science",
+        "title_zh": "我们的新科学博客",
+        "title_en": "Our new blog for science",
+        "title_original": "Our new blog for science",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/our-new-blog-for-science",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -745,15 +1006,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7491,
-      "importance": 0.7491,
-      "importance_score": 0.7491,
+      "score": 0.748,
+      "importance": 0.748,
+      "importance_score": 0.748,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8973,
+        "recency": 0.8909,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -778,7 +1039,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -830,15 +1091,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8908,
+        "recency": 0.8845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -863,7 +1124,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -915,15 +1176,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7479,
-      "importance": 0.7479,
-      "importance_score": 0.7479,
+      "score": 0.7468,
+      "importance": 0.7468,
+      "importance_score": 0.7468,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8908,
+        "recency": 0.8845,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -948,7 +1209,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -972,7 +1233,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-13T18:06:13Z",
-          "updated_at": "2026-11-16T14:32:28Z",
+          "updated_at": "2026-11-16T15:03:48Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1011,7 +1272,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-13T18:06:13Z",
-          "updated_at": "2026-11-16T14:32:28Z",
+          "updated_at": "2026-11-16T15:03:48Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1049,7 +1310,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-16T12:34:17.570000Z",
-      "latest_at": "2026-11-16T14:32:28Z",
+      "latest_at": "2026-11-16T15:03:48Z",
       "primary_item": {
         "id": "724c4ca85d100e0c57f0c3e5f9a9f78cfcf1530d",
         "title": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西 / ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
@@ -1066,7 +1327,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -1118,15 +1379,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8844,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1151,7 +1412,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -1236,15 +1497,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5654,
-      "importance": 0.5654,
-      "importance_score": 0.5654,
+      "score": 0.5644,
+      "importance": 0.5644,
+      "importance_score": 0.5644,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8402,
+        "recency": 0.8343,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1269,7 +1530,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -1354,15 +1615,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5881,
-      "importance": 0.5881,
-      "importance_score": 0.5881,
+      "score": 0.5869,
+      "importance": 0.5869,
+      "importance_score": 0.5869,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9662,
+        "recency": 0.9593,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1387,7 +1648,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -1439,15 +1700,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7457,
+      "importance": 0.7457,
+      "importance_score": 0.7457,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8844,
+        "recency": 0.8781,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1472,7 +1733,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     },
     {
@@ -1557,15 +1818,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5654,
-      "importance": 0.5654,
-      "importance_score": 0.5654,
+      "score": 0.5644,
+      "importance": 0.5644,
+      "importance_score": 0.5644,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8402,
+        "recency": 0.8343,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1590,361 +1851,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
-      }
-    },
-    {
-      "story_id": "story_ec86dcbd601c",
-      "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-      "url": "https://www.hntrends.com/2026/november.html",
-      "primary_url": "https://www.hntrends.com/2026/november.html",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "80c260ea9c2a1f62b7d21df8d145f230aae23ee3",
-          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "title_zh": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点",
-          "title_en": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "title_original": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hntrends.com/2026/november.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-16T01:31:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "88c53bd364d82c4ad2abeb5f5c184aba86945762",
-          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "title_zh": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点",
-          "title_en": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "title_original": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50512950",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T01:31:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "80c260ea9c2a1f62b7d21df8d145f230aae23ee3",
-          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "title_zh": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点",
-          "title_en": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "title_original": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.hntrends.com/2026/november.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-16T01:31:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "88c53bd364d82c4ad2abeb5f5c184aba86945762",
-          "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "title_zh": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点",
-          "title_en": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "title_original": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50512950",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T01:31:30Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.515,
-      "importance": 0.515,
-      "importance_score": 0.515,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8287,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T01:31:30Z",
-      "latest_at": "2026-11-16T01:31:30Z",
-      "primary_item": {
-        "id": "80c260ea9c2a1f62b7d21df8d145f230aae23ee3",
-        "title": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点 / \"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-        "title_zh": "“谁在招聘？”随着人工智能占据所有工作岗位的一半，职位空缺接近 12 年低点",
-        "title_en": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-        "title_original": "\"Who is Hiring?\" postings stuck near 12-year lows as AI reaches half of all jobs",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.hntrends.com/2026/november.html",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
-      }
-    },
-    {
-      "story_id": "story_35e522076ed4",
-      "title": "Agentic AI 设计模拟合成器 / Agentic AI Designs an Analog Synthesizer",
-      "url": "https://cpldcpu.github.io/2026/11/14/touchsynth",
-      "primary_url": "https://cpldcpu.github.io/2026/11/14/touchsynth",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "444bcdc399dee313052dc1330312031ca03e001e",
-          "title": "Agentic AI 设计模拟合成器 / Agentic AI Designs an Analog Synthesizer",
-          "title_zh": "Agentic AI 设计模拟合成器",
-          "title_en": "Agentic AI Designs an Analog Synthesizer",
-          "title_original": "Agentic AI Designs an Analog Synthesizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cpldcpu.github.io/2026/11/14/touchsynth",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-16T01:28:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "b67b02fd3c766d45d6adba22aa694d106b1dece0",
-          "title": "Agentic AI 设计模拟合成器 / Agentic AI Designs an Analog Synthesizer",
-          "title_zh": "Agentic AI 设计模拟合成器",
-          "title_en": "Agentic AI Designs an Analog Synthesizer",
-          "title_original": "Agentic AI Designs an Analog Synthesizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50512933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T01:28:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "444bcdc399dee313052dc1330312031ca03e001e",
-          "title": "Agentic AI 设计模拟合成器 / Agentic AI Designs an Analog Synthesizer",
-          "title_zh": "Agentic AI 设计模拟合成器",
-          "title_en": "Agentic AI Designs an Analog Synthesizer",
-          "title_original": "Agentic AI Designs an Analog Synthesizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://cpldcpu.github.io/2026/11/14/touchsynth",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-16T01:28:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "b67b02fd3c766d45d6adba22aa694d106b1dece0",
-          "title": "Agentic AI 设计模拟合成器 / Agentic AI Designs an Analog Synthesizer",
-          "title_zh": "Agentic AI 设计模拟合成器",
-          "title_en": "Agentic AI Designs an Analog Synthesizer",
-          "title_original": "Agentic AI Designs an Analog Synthesizer",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50512933",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T01:28:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5148,
-      "importance": 0.5148,
-      "importance_score": 0.5148,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.828,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T01:28:10Z",
-      "latest_at": "2026-11-16T01:28:10Z",
-      "primary_item": {
-        "id": "444bcdc399dee313052dc1330312031ca03e001e",
-        "title": "Agentic AI 设计模拟合成器 / Agentic AI Designs an Analog Synthesizer",
-        "title_zh": "Agentic AI 设计模拟合成器",
-        "title_en": "Agentic AI Designs an Analog Synthesizer",
-        "title_original": "Agentic AI Designs an Analog Synthesizer",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://cpldcpu.github.io/2026/11/14/touchsynth",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
-      }
-    },
-    {
-      "story_id": "story_8f7bd6802d56",
-      "title": "tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "primary_url": "https://github.com/tradermonty/claude-trading-skills",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "68d3eb01eb27db2124c5a15deb51dc1060ee305d",
-          "title": "tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "title_zh": null,
-          "title_en": "tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "title_original": "tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/tradermonty/claude-trading-skills",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "114418532dea96b96f62b9fee2e676fbccebf0ca",
-          "title": "tradermonty / Claude交易技能 / tradermonty /      claude-trading-skills",
-          "title_zh": "tradermonty / Claude交易技能",
-          "title_en": "tradermonty /      claude-trading-skills",
-          "title_original": "tradermonty /      claude-trading-skills",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/tradermonty/claude-trading-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:03:41.316000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "68d3eb01eb27db2124c5a15deb51dc1060ee305d",
-          "title": "tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "title_zh": null,
-          "title_en": "tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "title_original": "tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/tradermonty/claude-trading-skills",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "114418532dea96b96f62b9fee2e676fbccebf0ca",
-          "title": "tradermonty / Claude交易技能 / tradermonty /      claude-trading-skills",
-          "title_zh": "tradermonty / Claude交易技能",
-          "title_en": "tradermonty /      claude-trading-skills",
-          "title_original": "tradermonty /      claude-trading-skills",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/tradermonty/claude-trading-skills",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T02:03:41.316000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5654,
-      "importance": 0.5654,
-      "importance_score": 0.5654,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.8402,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T02:03:41.316000Z",
-      "latest_at": "2026-11-16T02:28:58.747031Z",
-      "primary_item": {
-        "id": "68d3eb01eb27db2124c5a15deb51dc1060ee305d",
-        "title": "tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-        "title_zh": null,
-        "title_en": "tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-        "title_original": "tradermonty/claude-trading-skills — Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-        "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/tradermonty/claude-trading-skills",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-16T14:37:38.692509Z"
+        "scored_at": "2026-11-16T15:06:11.232301Z"
       }
     }
   ]
