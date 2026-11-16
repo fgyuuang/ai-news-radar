@@ -1,8 +1,89 @@
 {
-  "generated_at": "2026-11-04T13:01:48.668972Z",
+  "generated_at": "2026-11-04T15:27:38.726736Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_a5ecfede95e9",
+      "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+      "url": "https://openai.com/index/openai-to-acquire-pierre",
+      "primary_url": "https://openai.com/index/openai-to-acquire-pierre",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T14:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+          "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_zh": null,
+          "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/openai-to-acquire-pierre",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T14:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8495,
+      "importance": 0.8495,
+      "importance_score": 0.8495,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9862,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T14:30:00Z",
+      "latest_at": "2026-11-04T14:30:00Z",
+      "primary_item": {
+        "id": "68dc1bad006f6bca35a9c00f7682af9c533fc262",
+        "title": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_zh": null,
+        "title_en": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "title_original": "OpenAI to acquire Pierre Computer Company, Inc.",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/openai-to-acquire-pierre",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      }
+    },
     {
       "story_id": "story_e2a9defc33ad",
       "title": "Copilot 使用 API 中的 BYOK 和企业自定义模型 / BYOK and enterprise custom models in the Copilot usage API",
@@ -52,15 +133,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8223,
-      "importance": 0.8223,
-      "importance_score": 0.8223,
+      "score": 0.8171,
+      "importance": 0.8171,
+      "importance_score": 0.8171,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8349,
+        "recency": 0.8062,
         "story_heat": 0.0
       },
       "category": "official",
@@ -82,12 +163,6 @@
         "url": "https://github.blog/changelog/2026-11-03-byok-and-enterprise-custom-models-in-the-copilot-usage-api",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -139,15 +214,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8153,
-      "importance": 0.8153,
-      "importance_score": 0.8153,
+      "score": 0.8106,
+      "importance": 0.8106,
+      "importance_score": 0.8106,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7516,
+        "recency": 0.7257,
         "story_heat": 0.0
       },
       "category": "official",
@@ -169,12 +244,87 @@
         "url": "https://huggingface.co/blog/allenai/statebench",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
+      }
+    },
+    {
+      "story_id": "story_909e1b342a31",
+      "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+      "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "primary_url": "https://openai.com/index/daybreak-red-aws-govcloud",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T07:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+          "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+          "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-04T07:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8373,
+      "importance": 0.8373,
+      "importance_score": 0.8373,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.885,
+        "story_heat": 0.0
       },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-04T07:00:00Z",
+      "latest_at": "2026-11-04T07:00:00Z",
+      "primary_item": {
+        "id": "9ae15b42a761f5271593ea78bb607bee577e4a74",
+        "title": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出 / Daybreak Red is now available in AWS GovCloud (US-East)",
+        "title_zh": "Daybreak Red 现已在 AWS GovCloud（美国东部）推出",
+        "title_en": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "title_original": "Daybreak Red is now available in AWS GovCloud (US-East)",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/daybreak-red-aws-govcloud",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
       }
     },
     {
@@ -226,15 +376,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7988,
-      "importance": 0.7988,
-      "importance_score": 0.7988,
+      "score": 0.7942,
+      "importance": 0.7942,
+      "importance_score": 0.7942,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7492,
+        "recency": 0.7233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -256,12 +406,6 @@
         "url": "https://deepmind.google/blog/agentic-cheminformatics-with-google-antigravity",
         "source": "Google DeepMind",
         "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -313,15 +457,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.814,
-      "importance": 0.814,
-      "importance_score": 0.814,
+      "score": 0.8094,
+      "importance": 0.8094,
+      "importance_score": 0.8094,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7444,
+        "recency": 0.7188,
         "story_heat": 0.0
       },
       "category": "official",
@@ -343,12 +487,6 @@
         "url": "https://huggingface.co/blog/ibm-research/palette-deck-building",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -400,15 +538,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8056,
-      "importance": 0.8056,
-      "importance_score": 0.8056,
+      "score": 0.8007,
+      "importance": 0.8007,
+      "importance_score": 0.8007,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7865,
+        "recency": 0.7594,
         "story_heat": 0.0
       },
       "category": "official",
@@ -430,12 +568,6 @@
         "url": "https://github.blog/changelog/2026-11-03-dependabot-version-updates-support-agent-package-manager",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -487,15 +619,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.754,
+      "importance": 0.754,
+      "importance_score": 0.754,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9246,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -516,12 +648,6 @@
         "url": "https://www.aibase.com/news/32091",
         "source": "AIbase",
         "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -573,15 +699,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8128,
-      "importance": 0.8128,
-      "importance_score": 0.8128,
+      "score": 0.8082,
+      "importance": 0.8082,
+      "importance_score": 0.8082,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7377,
+        "recency": 0.7122,
         "story_heat": 0.0
       },
       "category": "official",
@@ -603,99 +729,6 @@
         "url": "https://huggingface.co/blog/ibm-research/cuga-harness",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
-      }
-    },
-    {
-      "story_id": "story_46598a98a79d",
-      "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-      "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "primary_url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-          "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-          "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-          "title_en": "GitHub Copilot is now available in JetBrains Air",
-          "title_original": "GitHub Copilot is now available in JetBrains Air",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T15:11:46Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8033,
-      "importance": 0.8033,
-      "importance_score": 0.8033,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7296,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T15:11:46Z",
-      "latest_at": "2026-11-03T15:11:46Z",
-      "primary_item": {
-        "id": "1085634cdff8720b46af752eefa5379b9834a40a",
-        "title": "GitHub Copilot 现已在 JetBrains Air 中可用 / GitHub Copilot is now available in JetBrains Air",
-        "title_zh": "GitHub Copilot 现已在 JetBrains Air 中可用",
-        "title_en": "GitHub Copilot is now available in JetBrains Air",
-        "title_original": "GitHub Copilot is now available in JetBrains Air",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-github-copilot-is-now-available-in-jetbrains-air",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -747,15 +780,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7528,
+      "importance": 0.7528,
+      "importance_score": 0.7528,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 0.9179,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -776,99 +809,6 @@
         "url": "https://www.aibase.com/news/32089",
         "source": "AIbase",
         "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
-      }
-    },
-    {
-      "story_id": "story_6f142f0f742c",
-      "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-      "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-      "primary_url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-          "title_en": "Look up a resource’s cost center with the GitHub REST API",
-          "title_original": "Look up a resource’s cost center with the GitHub REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-          "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-          "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-          "title_en": "Look up a resource’s cost center with the GitHub REST API",
-          "title_original": "Look up a resource’s cost center with the GitHub REST API",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T15:27:13Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7958,
-      "importance": 0.7958,
-      "importance_score": 0.7958,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7323,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T15:27:13Z",
-      "latest_at": "2026-11-03T15:27:13Z",
-      "primary_item": {
-        "id": "084cee1c34de956c65e4dc4d50a451c898018355",
-        "title": "使用 GitHub REST API 查找资源的成本中心 / Look up a resource’s cost center with the GitHub REST API",
-        "title_zh": "使用 GitHub REST API 查找资源的成本中心",
-        "title_en": "Look up a resource’s cost center with the GitHub REST API",
-        "title_original": "Look up a resource’s cost center with the GitHub REST API",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-look-up-a-resources-cost-center-with-the-github-rest-api",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -920,15 +860,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9438,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -949,99 +889,6 @@
         "url": "https://www.aibase.com/news/32088",
         "source": "AIbase",
         "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
-      }
-    },
-    {
-      "story_id": "story_4f6706e957ed",
-      "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-      "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-      "primary_url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d614d57971cd1df8ae60519986a771e876042c89",
-          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T14:56:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d614d57971cd1df8ae60519986a771e876042c89",
-          "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-          "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T14:56:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7948,
-      "importance": 0.7948,
-      "importance_score": 0.7948,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7268,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T14:56:03Z",
-      "latest_at": "2026-11-03T14:56:03Z",
-      "primary_item": {
-        "id": "d614d57971cd1df8ae60519986a771e876042c89",
-        "title": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展 / CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "title_zh": "CodeQL 2.27.3 添加了 Python 3.15 功能和 JSON 数据扩展",
-        "title_en": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "title_original": "CodeQL 2.27.3 adds Python 3.15 features and JSON data extensions",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-codeql-2-27-3-adds-python-3-15-features-and-json-data-extensions",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -1093,15 +940,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9438,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1122,99 +969,6 @@
         "url": "https://www.aibase.com/news/32084",
         "source": "AIbase",
         "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
-      }
-    },
-    {
-      "story_id": "story_456b6b3229d2",
-      "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-      "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-      "primary_url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "dd83561245e444032a512d5c31e40958b86264ef",
-          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-          "title_zh": "Dependabot 现在支持 Python 3.15",
-          "title_en": "Dependabot now supports Python 3.15",
-          "title_original": "Dependabot now supports Python 3.15",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T13:49:32Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "dd83561245e444032a512d5c31e40958b86264ef",
-          "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-          "title_zh": "Dependabot 现在支持 Python 3.15",
-          "title_en": "Dependabot now supports Python 3.15",
-          "title_original": "Dependabot now supports Python 3.15",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-03T13:49:32Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7927,
-      "importance": 0.7927,
-      "importance_score": 0.7927,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.7153,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-03T13:49:32Z",
-      "latest_at": "2026-11-03T13:49:32Z",
-      "primary_item": {
-        "id": "dd83561245e444032a512d5c31e40958b86264ef",
-        "title": "Dependabot 现在支持 Python 3.15 / Dependabot now supports Python 3.15",
-        "title_zh": "Dependabot 现在支持 Python 3.15",
-        "title_en": "Dependabot now supports Python 3.15",
-        "title_original": "Dependabot now supports Python 3.15",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-03-dependabot-now-supports-python-3-15",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -1266,15 +1020,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9438,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1295,12 +1049,6 @@
         "url": "https://www.aibase.com/news/32085",
         "source": "AIbase",
         "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -1384,15 +1132,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6128,
-      "importance": 0.6128,
-      "importance_score": 0.6128,
+      "score": 0.6067,
+      "importance": 0.6067,
+      "importance_score": 0.6067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.9852,
+        "recency": 0.9513,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1412,12 +1160,6 @@
         "url": "https://www.theverge.com/ai-artificial-intelligence/1024862/google-search-ai-overviews-alphabet-earnings-q3",
         "source": "The Verge",
         "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -1469,15 +1211,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9438,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1498,91 +1240,86 @@
         "url": "https://www.aibase.com/news/32087",
         "source": "AIbase",
         "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
-      "story_id": "story_b617b7637e95",
-      "title": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关 / AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
-      "url": "https://www.producthunt.com/products/scalekit",
-      "primary_url": "https://www.producthunt.com/products/scalekit",
+      "story_id": "story_27e064849594",
+      "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+      "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+      "primary_url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "b768b11e82729a712cf8914b79e6a53e803abf02",
-          "title": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关 / AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
-          "title_zh": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关",
-          "title_en": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
-          "title_original": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
-          "summary": "MCP gateway for production agents that acts on your behalf",
+          "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
+          "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
+          "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "summary": "Run your entire digital marketing stack via one unified MCP",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/scalekit",
+          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-13T14:16:55Z",
-          "updated_at": "2026-11-04T13:01:38Z",
+          "published_at": "2026-10-07T09:59:12Z",
+          "updated_at": "2026-11-04T15:28:34Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "53d14d6ea2b777212ba3c6089b6e919f75928f62",
-          "title": "AgentKit（由 Scalekit 提供）— 代表您运行的生产代理的 MCP 网关 / AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
-          "title_zh": "AgentKit（由 Scalekit 提供）— 代表您运行的生产代理的 MCP 网关",
-          "title_en": "AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
-          "title_original": "AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
-          "summary": "MCP gateway for production agents that acts on your behalf",
+          "id": "46e5d155d948c308c32050a5cca31792ff9e0e82",
+          "title": "Orphex MCP",
+          "title_zh": null,
+          "title_en": "Orphex MCP",
+          "title_original": "Orphex MCP",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/scalekit",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-13T14:16:55Z",
-          "updated_at": "2026-11-03T13:32:11Z",
-          "recency_basis": "updated_at"
+          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T09:33:21.840000Z",
+          "updated_at": null,
+          "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt"
+        "Product Hunt",
+        "producthunt"
       ],
       "items": [
         {
-          "id": "b768b11e82729a712cf8914b79e6a53e803abf02",
-          "title": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关 / AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
-          "title_zh": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关",
-          "title_en": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
-          "title_original": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
-          "summary": "MCP gateway for production agents that acts on your behalf",
+          "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
+          "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
+          "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+          "summary": "Run your entire digital marketing stack via one unified MCP",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/scalekit",
+          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-10-13T14:16:55Z",
-          "updated_at": "2026-11-04T13:01:38Z",
+          "published_at": "2026-10-07T09:59:12Z",
+          "updated_at": "2026-11-04T15:28:34Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "53d14d6ea2b777212ba3c6089b6e919f75928f62",
-          "title": "AgentKit（由 Scalekit 提供）— 代表您运行的生产代理的 MCP 网关 / AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
-          "title_zh": "AgentKit（由 Scalekit 提供）— 代表您运行的生产代理的 MCP 网关",
-          "title_en": "AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
-          "title_original": "AgentKit (by Scalekit) — MCP gateway for production agents that acts on your behalf",
-          "summary": "MCP gateway for production agents that acts on your behalf",
+          "id": "46e5d155d948c308c32050a5cca31792ff9e0e82",
+          "title": "Orphex MCP",
+          "title_zh": null,
+          "title_en": "Orphex MCP",
+          "title_original": "Orphex MCP",
+          "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/scalekit",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-13T14:16:55Z",
-          "updated_at": "2026-11-03T13:32:11Z",
-          "recency_basis": "updated_at"
+          "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T09:33:21.840000Z",
+          "updated_at": null,
+          "recency_basis": null
         }
       ],
       "item_count": 2,
@@ -1602,25 +1339,19 @@
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-03T13:32:11Z",
-      "latest_at": "2026-11-04T13:01:38Z",
+      "earliest_at": "2026-11-04T09:33:21.840000Z",
+      "latest_at": "2026-11-04T15:28:34Z",
       "primary_item": {
-        "id": "b768b11e82729a712cf8914b79e6a53e803abf02",
-        "title": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关 / AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
-        "title_zh": "AgentKit by Scalekit — 用于代表您行事的生产代理的 MCP 网关",
-        "title_en": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
-        "title_original": "AgentKit by Scalekit — MCP gateway for production agents that acts on your behalf",
-        "summary": "MCP gateway for production agents that acts on your behalf",
+        "id": "70f9bdbc09c2d3ed3930da47cbfe1c7be39731ba",
+        "title": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈 / Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+        "title_zh": "Orphex MCP — 通过一个统一的 MCP 运行整个数字营销堆栈",
+        "title_en": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+        "title_original": "Orphex MCP — Run your entire digital marketing stack via one unified MCP",
+        "summary": "Run your entire digital marketing stack via one unified MCP",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/scalekit",
+        "url": "https://www.producthunt.com/products/orphex-mcp-let-s-do-agentic-marketing",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
@@ -1672,15 +1403,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7516,
+      "importance": 0.7516,
+      "importance_score": 0.7516,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9438,
+        "recency": 0.9113,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1701,261 +1432,375 @@
         "url": "https://www.aibase.com/news/32086",
         "source": "AIbase",
         "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     },
     {
-      "story_id": "story_a8b082ecc7e6",
-      "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-      "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "primary_url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-      "source": "www.nytimes.com",
-      "source_name": "Buzzing",
+      "story_id": "story_18d9cd84d7f4",
+      "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
+      "url": "https://www.producthunt.com/products/krev",
+      "primary_url": "https://www.producthunt.com/products/krev",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": null,
-          "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "summary": null,
+          "id": "41c03947975f9d9fb16364db3371099868c34ae3",
+          "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
+          "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
+          "title_en": "KREV AI — An AI team that runs your ecommerce brand",
+          "title_original": "KREV AI — An AI team that runs your ecommerce brand",
+          "summary": "An AI team that runs your ecommerce brand",
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T17:14:02.313000Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/krev",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-01T22:23:58Z",
+          "updated_at": "2026-11-04T15:22:40Z",
+          "recency_basis": "updated_at"
         },
         {
-          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_original": "Google Will Turn Off Search for Schools That Reject A.I.",
+          "id": "d5542ae831bcd3e614464894c3bbb93890fbcc1a",
+          "title": "KREV AI",
+          "title_zh": null,
+          "title_en": "KREV AI",
+          "title_original": "KREV AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-03T17:13:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6a0100663a47d31e40afc5770af45b0599ce760b",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
-          "title": "谷歌将关闭对拒绝人工智能的学校的搜索 / Google will turn off search for schools that reject AI",
-          "title_zh": "谷歌将关闭对拒绝人工智能的学校的搜索",
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50353192",
-          "source": "hackernews",
+          "url": "https://www.producthunt.com/products/krev",
+          "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "712b306e28bb57231bf0edeb57b03431390f617e",
-          "title": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限 / Schools that block Google A.I. will lose student access to its search engine",
-          "title_zh": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限",
-          "title_en": "Schools that block Google A.I. will lose student access to its search engine",
-          "title_original": "Schools that block Google A.I. will lose student access to its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50353192",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "78ebd50275b95e79d3074b00e1e58ae347a3aa7d",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Schools that block Google’s A.I. will lose student access to its search engine",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Schools that block Google’s A.I. will lose student access to its search engine",
-          "title_original": "Schools that block Google’s A.I. will lose student access to its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T15:25:47Z",
+          "published_at": "2026-11-04T12:17:57.043000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 6,
+      "source_count": 2,
       "source_names": [
-        "Hacker News (黑客新闻)",
-        "Hacker News · 24h最热",
-        "New York Times",
-        "hackernews",
-        "www.nytimes.com"
+        "Product Hunt",
+        "producthunt"
       ],
       "items": [
         {
-          "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": null,
-          "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "summary": null,
+          "id": "41c03947975f9d9fb16364db3371099868c34ae3",
+          "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
+          "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
+          "title_en": "KREV AI — An AI team that runs your ecommerce brand",
+          "title_original": "KREV AI — An AI team that runs your ecommerce brand",
+          "summary": "An AI team that runs your ecommerce brand",
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "www.nytimes.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-03T17:14:02.313000Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/krev",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-01T22:23:58Z",
+          "updated_at": "2026-11-04T15:22:40Z",
+          "recency_basis": "updated_at"
         },
         {
-          "id": "7f7c792a615f6894c2ed7cc120b18d34beac47c6",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google Will Turn Off Search for Schools That Reject A.I.",
-          "title_original": "Google Will Turn Off Search for Schools That Reject A.I.",
+          "id": "d5542ae831bcd3e614464894c3bbb93890fbcc1a",
+          "title": "KREV AI",
+          "title_zh": null,
+          "title_en": "KREV AI",
+          "title_original": "KREV AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "New York Times",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-03T17:13:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "6a0100663a47d31e40afc5770af45b0599ce760b",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Google will turn off search for schools that reject AI",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "65f22fd40d251d834b746a6bdcead604327fec02",
-          "title": "谷歌将关闭对拒绝人工智能的学校的搜索 / Google will turn off search for schools that reject AI",
-          "title_zh": "谷歌将关闭对拒绝人工智能的学校的搜索",
-          "title_en": "Google will turn off search for schools that reject AI",
-          "title_original": "Google will turn off search for schools that reject AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50353192",
-          "source": "hackernews",
+          "url": "https://www.producthunt.com/products/krev",
+          "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "712b306e28bb57231bf0edeb57b03431390f617e",
-          "title": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限 / Schools that block Google A.I. will lose student access to its search engine",
-          "title_zh": "阻止 Google A.I. 的学校将失去学生对其搜索引擎的访问权限",
-          "title_en": "Schools that block Google A.I. will lose student access to its search engine",
-          "title_original": "Schools that block Google A.I. will lose student access to its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50353192",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-03T15:25:47Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "78ebd50275b95e79d3074b00e1e58ae347a3aa7d",
-          "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎 / Schools that block Google’s A.I. will lose student access to its search engine",
-          "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-          "title_en": "Schools that block Google’s A.I. will lose student access to its search engine",
-          "title_original": "Schools that block Google’s A.I. will lose student access to its search engine",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-03T15:25:47Z",
+          "published_at": "2026-11-04T12:17:57.043000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 6,
-      "duplicate_count": 6,
-      "score": 0.576,
-      "importance": 0.576,
-      "importance_score": 0.576,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9988,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T12:17:57.043000Z",
+      "latest_at": "2026-11-04T15:22:40Z",
+      "primary_item": {
+        "id": "41c03947975f9d9fb16364db3371099868c34ae3",
+        "title": "KREV AI — 运营您的电子商务品牌的人工智能团队 / KREV AI — An AI team that runs your ecommerce brand",
+        "title_zh": "KREV AI — 运营您的电子商务品牌的人工智能团队",
+        "title_en": "KREV AI — An AI team that runs your ecommerce brand",
+        "title_original": "KREV AI — An AI team that runs your ecommerce brand",
+        "summary": "An AI team that runs your ecommerce brand",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/krev",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      }
+    },
+    {
+      "story_id": "story_6d3fb3ec56b2",
+      "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+      "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+      "primary_url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "e3540c1d59e31dc3a66a432dd08632b1a427400d",
+          "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+          "title_zh": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处",
+          "title_en": "Jaron Lanier on parallels between AI and social media",
+          "title_original": "Jaron Lanier on parallels between AI and social media",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T14:10:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2042920561505bda360a1d749b9c1a863b7d8950",
+          "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+          "title_zh": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处",
+          "title_en": "Jaron Lanier on parallels between AI and social media",
+          "title_original": "Jaron Lanier on parallels between AI and social media",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50365760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T14:10:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "e3540c1d59e31dc3a66a432dd08632b1a427400d",
+          "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+          "title_zh": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处",
+          "title_en": "Jaron Lanier on parallels between AI and social media",
+          "title_original": "Jaron Lanier on parallels between AI and social media",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-04T14:10:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "2042920561505bda360a1d749b9c1a863b7d8950",
+          "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+          "title_zh": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处",
+          "title_en": "Jaron Lanier on parallels between AI and social media",
+          "title_original": "Jaron Lanier on parallels between AI and social media",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50365760",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-04T14:10:14Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9815,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-04T14:10:14Z",
+      "latest_at": "2026-11-04T14:10:14Z",
+      "primary_item": {
+        "id": "e3540c1d59e31dc3a66a432dd08632b1a427400d",
+        "title": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处 / Jaron Lanier on parallels between AI and social media",
+        "title_zh": "Jaron Lanier 谈人工智能和社交媒体之间的相似之处",
+        "title_en": "Jaron Lanier on parallels between AI and social media",
+        "title_original": "Jaron Lanier on parallels between AI and social media",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.youtube.com/watch?v=WxaRn8kX2eI",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      }
+    },
+    {
+      "story_id": "story_89eba072c02e",
+      "title": "我如何使用人工智能（2026年10月）",
+      "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+      "primary_url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+      "source": "ben.stolovitz.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "29c347950e5d3fb443e2b1a2e3f5a2bb2d6465b6",
+          "title": "我如何使用人工智能（2026年10月）",
+          "title_zh": "我如何使用人工智能（2026年10月）",
+          "title_en": null,
+          "title_original": "我如何使用人工智能（2026年10月）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "source": "ben.stolovitz.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T03:32:08.407000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b102f4317bd456c9b51eab826018cf405a8073cc",
+          "title": "我如何使用人工智能（2026年10月） / How I use AI (Oct 2026)",
+          "title_zh": "我如何使用人工智能（2026年10月）",
+          "title_en": "How I use AI (Oct 2026)",
+          "title_original": "How I use AI (Oct 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-03T18:11:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ea44594606d1f267a8ab754a0f6429ac6276aad8",
+          "title": "我如何使用人工智能（2026 年 10 月） / How I use AI (Oct 2026)",
+          "title_zh": "我如何使用人工智能（2026 年 10 月）",
+          "title_en": "How I use AI (Oct 2026)",
+          "title_original": "How I use AI (Oct 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50355767",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T18:11:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "ben.stolovitz.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "29c347950e5d3fb443e2b1a2e3f5a2bb2d6465b6",
+          "title": "我如何使用人工智能（2026年10月）",
+          "title_zh": "我如何使用人工智能（2026年10月）",
+          "title_en": null,
+          "title_original": "我如何使用人工智能（2026年10月）",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "source": "ben.stolovitz.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-04T03:32:08.407000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b102f4317bd456c9b51eab826018cf405a8073cc",
+          "title": "我如何使用人工智能（2026年10月） / How I use AI (Oct 2026)",
+          "title_zh": "我如何使用人工智能（2026年10月）",
+          "title_en": "How I use AI (Oct 2026)",
+          "title_original": "How I use AI (Oct 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-03T18:11:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "ea44594606d1f267a8ab754a0f6429ac6276aad8",
+          "title": "我如何使用人工智能（2026 年 10 月） / How I use AI (Oct 2026)",
+          "title_zh": "我如何使用人工智能（2026 年 10 月）",
+          "title_en": "How I use AI (Oct 2026)",
+          "title_original": "How I use AI (Oct 2026)",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50355767",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-03T18:11:11Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5423,
+      "importance": 0.5423,
+      "importance_score": 0.5423,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7514,
-        "story_heat": 1.0
+        "recency": 0.8418,
+        "story_heat": 0.5
       },
       "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-03T15:25:47Z",
-      "latest_at": "2026-11-03T17:14:02.313000Z",
+      "earliest_at": "2026-11-03T18:11:11Z",
+      "latest_at": "2026-11-04T03:32:08.407000Z",
       "primary_item": {
-        "id": "54f3809efad9f83b5601c20b5c2750327a51afb9",
-        "title": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
-        "title_zh": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+        "id": "29c347950e5d3fb443e2b1a2e3f5a2bb2d6465b6",
+        "title": "我如何使用人工智能（2026年10月）",
+        "title_zh": "我如何使用人工智能（2026年10月）",
         "title_en": null,
-        "title_original": "封锁谷歌人工智能的学校将导致学生无法使用其搜索引擎",
+        "title_original": "我如何使用人工智能（2026年10月）",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.nytimes.com/2026/11/03/us/google-search-schools-restrict-ai.html",
-        "source": "www.nytimes.com",
+        "url": "https://ben.stolovitz.com/posts/how-use-ai-oct-2026",
+        "source": "ben.stolovitz.com",
         "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-04T13:05:52.064235Z"
       }
     }
   ]
