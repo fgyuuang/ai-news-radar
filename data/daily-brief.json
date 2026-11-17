@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T22:31:52.839181Z",
+  "generated_at": "2026-11-17T23:01:50.565936Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.898,
-      "importance": 0.898,
-      "importance_score": 0.898,
+      "score": 0.8968,
+      "importance": 0.8968,
+      "importance_score": 0.8968,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9333,
+        "recency": 0.9266,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8544,
-      "importance": 0.8544,
-      "importance_score": 0.8544,
+      "score": 0.8531,
+      "importance": 0.8531,
+      "importance_score": 0.8531,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9689,
+        "recency": 0.9619,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9232,
+        "recency": 0.9166,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.82,
-      "importance": 0.82,
-      "importance_score": 0.82,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7223,
+        "recency": 0.7171,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8468,
-      "importance": 0.8468,
-      "importance_score": 0.8468,
+      "score": 0.8456,
+      "importance": 0.8456,
+      "importance_score": 0.8456,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9377,
+        "recency": 0.931,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +502,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
+      }
+    },
+    {
+      "story_id": "story_e6d6b9315c6a",
+      "title": "推出用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "primary_url": "https://openai.com/index/introducing-chatgpt-for-sales",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
+          "title": "推出用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+          "title_zh": "推出用于销售的 ChatGPT",
+          "title_en": "Introducing ChatGPT for Sales",
+          "title_original": "Introducing ChatGPT for Sales",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
+          "title": "推出用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+          "title_zh": "推出用于销售的 ChatGPT",
+          "title_en": "Introducing ChatGPT for Sales",
+          "title_original": "Introducing ChatGPT for Sales",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8249,
+      "importance": 0.8249,
+      "importance_score": 0.8249,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.8049,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T08:00:00Z",
+      "latest_at": "2026-11-17T08:00:00Z",
+      "primary_item": {
+        "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
+        "title": "推出用于销售的 ChatGPT / Introducing ChatGPT for Sales",
+        "title_zh": "推出用于销售的 ChatGPT",
+        "title_en": "Introducing ChatGPT for Sales",
+        "title_original": "Introducing ChatGPT for Sales",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -554,15 +641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8466,
-      "importance": 0.8466,
-      "importance_score": 0.8466,
+      "score": 0.8454,
+      "importance": 0.8454,
+      "importance_score": 0.8454,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9368,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -589,94 +676,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
-      }
-    },
-    {
-      "story_id": "story_8cd56831ef3a",
-      "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
-      "url": "https://openai.com/index/astra-law-6-2",
-      "primary_url": "https://openai.com/index/astra-law-6-2",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-          "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
-          "title_zh": "Astra for Law 在法律情报方面处于领先地位",
-          "title_en": "Astra for Law leads in legal intelligence",
-          "title_original": "Astra for Law leads in legal intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/astra-law-6-2",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-          "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
-          "title_zh": "Astra for Law 在法律情报方面处于领先地位",
-          "title_en": "Astra for Law leads in legal intelligence",
-          "title_original": "Astra for Law leads in legal intelligence",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/astra-law-6-2",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7223,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T00:00:00Z",
-      "latest_at": "2026-11-17T00:00:00Z",
-      "primary_item": {
-        "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
-        "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
-        "title_zh": "Astra for Law 在法律情报方面处于领先地位",
-        "title_en": "Astra for Law leads in legal intelligence",
-        "title_original": "Astra for Law leads in legal intelligence",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/astra-law-6-2",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -728,15 +728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9371,
+        "recency": 0.9304,
         "story_heat": 0.0
       },
       "category": "official",
@@ -763,26 +763,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
-      "story_id": "story_e05c122d19a4",
-      "title": "Introducing OpenAI for Chile",
-      "url": "https://openai.com/index/introducing-openai-for-chile",
-      "primary_url": "https://openai.com/index/introducing-openai-for-chile",
+      "story_id": "story_8cd56831ef3a",
+      "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
+      "url": "https://openai.com/index/astra-law-6-2",
+      "primary_url": "https://openai.com/index/astra-law-6-2",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-          "title": "Introducing OpenAI for Chile",
-          "title_zh": null,
-          "title_en": "Introducing OpenAI for Chile",
-          "title_original": "Introducing OpenAI for Chile",
+          "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
+          "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
+          "title_zh": "Astra for Law 在法律情报方面处于领先地位",
+          "title_en": "Astra for Law leads in legal intelligence",
+          "title_original": "Astra for Law leads in legal intelligence",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-openai-for-chile",
+          "url": "https://openai.com/index/astra-law-6-2",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -797,14 +797,14 @@
       ],
       "items": [
         {
-          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-          "title": "Introducing OpenAI for Chile",
-          "title_zh": null,
-          "title_en": "Introducing OpenAI for Chile",
-          "title_original": "Introducing OpenAI for Chile",
+          "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
+          "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
+          "title_zh": "Astra for Law 在法律情报方面处于领先地位",
+          "title_en": "Astra for Law leads in legal intelligence",
+          "title_original": "Astra for Law leads in legal intelligence",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-openai-for-chile",
+          "url": "https://openai.com/index/astra-law-6-2",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -815,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7223,
+        "recency": 0.7171,
         "story_heat": 0.0
       },
       "category": "official",
@@ -835,14 +835,14 @@
       "earliest_at": "2026-11-17T00:00:00Z",
       "latest_at": "2026-11-17T00:00:00Z",
       "primary_item": {
-        "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
-        "title": "Introducing OpenAI for Chile",
-        "title_zh": null,
-        "title_en": "Introducing OpenAI for Chile",
-        "title_original": "Introducing OpenAI for Chile",
+        "id": "f2a1eadcc911775f79c34d8de1d82fa6a7990abe",
+        "title": "Astra for Law 在法律情报方面处于领先地位 / Astra for Law leads in legal intelligence",
+        "title_zh": "Astra for Law 在法律情报方面处于领先地位",
+        "title_en": "Astra for Law leads in legal intelligence",
+        "title_original": "Astra for Law leads in legal intelligence",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-openai-for-chile",
+        "url": "https://openai.com/index/astra-law-6-2",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -850,7 +850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -902,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7347,
+      "importance": 0.7347,
+      "importance_score": 0.7347,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8229,
+        "recency": 0.8169,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,7 +935,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -987,15 +987,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9375,
+        "recency": 0.9308,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1022,26 +1022,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
-      "story_id": "story_49384d4c148d",
-      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
-      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "story_id": "story_e05c122d19a4",
+      "title": "Introducing OpenAI for Chile",
+      "url": "https://openai.com/index/introducing-openai-for-chile",
+      "primary_url": "https://openai.com/index/introducing-openai-for-chile",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-          "title_zh": "利用人工智能加强北约和盟国的网络防御",
-          "title_en": "Strengthening NATO and allied cyber defenses with AI",
-          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+          "title": "Introducing OpenAI for Chile",
+          "title_zh": null,
+          "title_en": "Introducing OpenAI for Chile",
+          "title_original": "Introducing OpenAI for Chile",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1056,14 +1056,14 @@
       ],
       "items": [
         {
-          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-          "title_zh": "利用人工智能加强北约和盟国的网络防御",
-          "title_en": "Strengthening NATO and allied cyber defenses with AI",
-          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+          "title": "Introducing OpenAI for Chile",
+          "title_zh": null,
+          "title_en": "Introducing OpenAI for Chile",
+          "title_original": "Introducing OpenAI for Chile",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "url": "https://openai.com/index/introducing-openai-for-chile",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1074,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.802,
-      "importance": 0.802,
-      "importance_score": 0.802,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7223,
+        "recency": 0.7171,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1094,14 +1094,14 @@
       "earliest_at": "2026-11-17T00:00:00Z",
       "latest_at": "2026-11-17T00:00:00Z",
       "primary_item": {
-        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
-        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
-        "title_zh": "利用人工智能加强北约和盟国的网络防御",
-        "title_en": "Strengthening NATO and allied cyber defenses with AI",
-        "title_original": "Strengthening NATO and allied cyber defenses with AI",
+        "id": "22b4e795ef1b8abef0c2495ff45f750608cef692",
+        "title": "Introducing OpenAI for Chile",
+        "title_zh": null,
+        "title_en": "Introducing OpenAI for Chile",
+        "title_original": "Introducing OpenAI for Chile",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "url": "https://openai.com/index/introducing-openai-for-chile",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1109,7 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -1161,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8111,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,7 +1194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -1246,15 +1246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8407,
-      "importance": 0.8407,
-      "importance_score": 0.8407,
+      "score": 0.8395,
+      "importance": 0.8395,
+      "importance_score": 0.8395,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9371,
+        "recency": 0.9303,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1281,7 +1281,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
+      }
+    },
+    {
+      "story_id": "story_49384d4c148d",
+      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8011,
+      "importance": 0.8011,
+      "importance_score": 0.8011,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7171,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T00:00:00Z",
+      "latest_at": "2026-11-17T00:00:00Z",
+      "primary_item": {
+        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+        "title_zh": "利用人工智能加强北约和盟国的网络防御",
+        "title_en": "Strengthening NATO and allied cyber defenses with AI",
+        "title_original": "Strengthening NATO and allied cyber defenses with AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -1333,15 +1420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8111,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1366,7 +1453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -1418,15 +1505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9368,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1453,7 +1540,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -1505,15 +1592,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8111,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,7 +1625,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -1590,15 +1677,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9369,
+        "recency": 0.9301,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1625,7 +1712,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     },
     {
@@ -1677,15 +1764,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7937,
+        "recency": 0.788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1710,94 +1797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
-      }
-    },
-    {
-      "story_id": "story_238adc092859",
-      "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-      "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-      "primary_url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-          "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
-          "title_en": "Track Copilot code review outcomes in Repository insights",
-          "title_original": "Track Copilot code review outcomes in Repository insights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-          "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
-          "title_en": "Track Copilot code review outcomes in Repository insights",
-          "title_original": "Track Copilot code review outcomes in Repository insights",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9368,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:00:35Z",
-      "latest_at": "2026-11-17T18:00:35Z",
-      "primary_item": {
-        "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-        "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-        "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
-        "title_en": "Track Copilot code review outcomes in Repository insights",
-        "title_original": "Track Copilot code review outcomes in Repository insights",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T22:34:47.936274Z"
+        "scored_at": "2026-11-17T23:05:08.986374Z"
       }
     }
   ]
