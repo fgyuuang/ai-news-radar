@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-16T23:33:10.609214Z",
+  "generated_at": "2026-11-17T00:05:08.141061Z",
   "date": "2026-11-17",
   "total_items": 4,
   "items": [
@@ -15,35 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-16T23:31:44.287123Z"
-    },
-    {
-      "id": "project_bb1ed0d41cdc",
-      "project_name": "OpenFrame",
-      "url": "https://www.producthunt.com/products/openframe-3",
-      "summary": "AI agents that run your IT. You approve every fix.",
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「AI agents that run your IT. You approve every fix」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"AI agents that run your IT. You approve every fix\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-04T18:56:32Z",
-      "updated_at": "2026-11-16T20:49:17Z",
-      "recency_basis": "updated_at",
-      "observed_at": "2026-11-16T23:32:58.298452Z"
-    },
-    {
-      "id": "project_ec453d1217c2",
-      "project_name": "tradermonty/claude-trading-skills",
-      "url": "https://github.com/tradermonty/claude-trading-skills",
-      "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading str…」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": "Take a look at what this open-source project offers (\"Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading str...\") and judge whether it fits a task you have on hand.",
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-11-16T23:31:44.287123Z"
+      "observed_at": "2026-11-17T00:01:43.459789Z"
     },
     {
       "id": "project_daf5047d64a7",
@@ -57,7 +29,35 @@
       "published_at": "2026-11-15T20:32:35Z",
       "updated_at": "2026-11-16T21:04:30Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-16T23:32:58.298452Z"
+      "observed_at": "2026-11-17T00:04:56.757955Z"
+    },
+    {
+      "id": "project_ec453d1217c2",
+      "project_name": "tradermonty/claude-trading-skills",
+      "url": "https://github.com/tradermonty/claude-trading-skills",
+      "summary": "Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading strategy development.",
+      "site_id": "github_trending",
+      "site_name": "GitHub Trending",
+      "recommend_reason_zh": "看看这个开源项目的「Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading str…」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": "Take a look at what this open-source project offers (\"Claude Code skills for equity investors and traders — market analysis, technical charting, economic calendars, screeners, and trading str...\") and judge whether it fits a task you have on hand.",
+      "published_at": null,
+      "updated_at": null,
+      "recency_basis": null,
+      "observed_at": "2026-11-17T00:01:43.459789Z"
+    },
+    {
+      "id": "project_bb1ed0d41cdc",
+      "project_name": "OpenFrame",
+      "url": "https://www.producthunt.com/products/openframe-3",
+      "summary": "AI agents that run your IT. You approve every fix.",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "体验它主打的「AI agents that run your IT. You approve every fix」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"AI agents that run your IT. You approve every fix\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-04T18:56:32Z",
+      "updated_at": "2026-11-17T00:03:24Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-11-17T00:04:56.757955Z"
     }
   ],
   "sources": [
@@ -65,8 +65,8 @@
       "site_id": "github_trending",
       "site_name": "GitHub Trending",
       "ok": true,
-      "item_count": 15,
-      "duration_ms": 1269,
+      "item_count": 14,
+      "duration_ms": 2535,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 826,
+      "duration_ms": 1045,
       "error": null
     }
   ]
