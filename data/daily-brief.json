@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T20:31:50.666401Z",
+  "generated_at": "2026-11-17T21:01:51.016360Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.9029,
-      "importance": 0.9029,
-      "importance_score": 0.9029,
+      "score": 0.9017,
+      "importance": 0.9017,
+      "importance_score": 0.9017,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9606,
+        "recency": 0.9537,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,30 +154,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
-      "story_id": "story_75a77c2dd358",
-      "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+      "story_id": "story_cfb0a416a80c",
+      "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+      "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
+      "primary_url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
-          "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "title_zh": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型",
-          "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "id": "0ad6af5604b93c525219fd000498dfefa38664da",
+          "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+          "title_zh": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市",
+          "title_en": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+          "title_original": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+          "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:04:48Z",
+          "published_at": "2026-11-17T20:20:29Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -188,33 +188,33 @@
       ],
       "items": [
         {
-          "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
-          "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "title_zh": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型",
-          "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-          "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "id": "0ad6af5604b93c525219fd000498dfefa38664da",
+          "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+          "title_zh": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市",
+          "title_en": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+          "title_original": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+          "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:04:48Z",
+          "published_at": "2026-11-17T20:20:29Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8517,
-      "importance": 0.8517,
-      "importance_score": 0.8517,
+      "score": 0.8582,
+      "importance": 0.8582,
+      "importance_score": 0.8582,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.9652,
+        "ai_relevance": 0.95,
+        "recency": 0.9901,
         "story_heat": 0.0
       },
       "category": "official",
@@ -223,17 +223,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:04:48Z",
-      "latest_at": "2026-11-17T18:04:48Z",
+      "earliest_at": "2026-11-17T20:20:29Z",
+      "latest_at": "2026-11-17T20:20:29Z",
       "primary_item": {
-        "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
-        "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-        "title_zh": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型",
-        "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
-        "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+        "id": "0ad6af5604b93c525219fd000498dfefa38664da",
+        "title": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市 / OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+        "title_zh": "OpenAI 的 GPT-6.2 Astra 和 GPT-6.2 Sol 现已上市",
+        "title_en": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
+        "title_original": "OpenAI’s GPT-6.2 Astra and GPT-6.2 Sol now available",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+        "url": "https://github.blog/changelog/2026-11-17-openais-gpt-6-2-astra-and-gpt-6-2-sol-now-available",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8431,
-      "importance": 0.8431,
-      "importance_score": 0.8431,
+      "score": 0.8418,
+      "importance": 0.8418,
+      "importance_score": 0.8418,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9503,
+        "recency": 0.9435,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8238,
-      "importance": 0.8238,
-      "importance_score": 0.8238,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 1.0,
-        "recency": 0.7434,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
+      }
+    },
+    {
+      "story_id": "story_75a77c2dd358",
+      "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
+          "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "title_zh": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型",
+          "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:04:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
+          "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "title_zh": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型",
+          "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:04:48Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8505,
+      "importance": 0.8505,
+      "importance_score": 0.8505,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.94,
+        "recency": 0.9583,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:04:48Z",
+      "latest_at": "2026-11-17T18:04:48Z",
+      "primary_item": {
+        "id": "01ccc05b66d68a23d4e4e3a73e3bb947e358ed30",
+        "title": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型 / GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+        "title_zh": "GitHub Copilot Fusion 更新：更多可用性、基准测试和模型",
+        "title_en": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+        "title_original": "GitHub Copilot Fusion updates: more availability, benchmarks, and models",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-fusion-updates-more-availability-benchmarks-and-models",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -467,15 +554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8516,
-      "importance": 0.8516,
-      "importance_score": 0.8516,
+      "score": 0.8503,
+      "importance": 0.8503,
+      "importance_score": 0.8503,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.9642,
+        "recency": 0.9573,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,94 +589,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
-      }
-    },
-    {
-      "story_id": "story_19ad988d9abd",
-      "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-          "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
-          "title_en": "GitHub Copilot app, Microsoft Ignite releases",
-          "title_original": "GitHub Copilot app, Microsoft Ignite releases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:03:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-          "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
-          "title_en": "GitHub Copilot app, Microsoft Ignite releases",
-          "title_original": "GitHub Copilot app, Microsoft Ignite releases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:03:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.965,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:03:42Z",
-      "latest_at": "2026-11-17T18:03:42Z",
-      "primary_item": {
-        "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-        "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-        "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
-        "title_en": "GitHub Copilot app, Microsoft Ignite releases",
-        "title_original": "GitHub Copilot app, Microsoft Ignite releases",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -641,15 +641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7434,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -676,7 +676,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -728,15 +728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9646,
+        "recency": 0.9577,
         "story_heat": 0.0
       },
       "category": "official",
@@ -763,7 +763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -815,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7434,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -850,7 +850,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -902,15 +902,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.847,
+        "recency": 0.8409,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,30 +935,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
-      "story_id": "story_656e809f1ddf",
-      "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "story_id": "story_19ad988d9abd",
+      "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
-          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+          "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
+          "title_en": "GitHub Copilot app, Microsoft Ignite releases",
+          "title_original": "GitHub Copilot app, Microsoft Ignite releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z",
+          "published_at": "2026-11-17T18:03:42Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -969,33 +969,33 @@
       ],
       "items": [
         {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
-          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+          "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
+          "title_en": "GitHub Copilot app, Microsoft Ignite releases",
+          "title_original": "GitHub Copilot app, Microsoft Ignite releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z",
+          "published_at": "2026-11-17T18:03:42Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9642,
+        "recency": 0.958,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,17 +1004,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:00:35Z",
-      "latest_at": "2026-11-17T18:00:35Z",
+      "earliest_at": "2026-11-17T18:03:42Z",
+      "latest_at": "2026-11-17T18:03:42Z",
       "primary_item": {
-        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-        "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
-        "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+        "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+        "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
+        "title_en": "GitHub Copilot app, Microsoft Ignite releases",
+        "title_original": "GitHub Copilot app, Microsoft Ignite releases",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1022,7 +1022,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -1074,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7434,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1109,7 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -1161,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8349,
+        "recency": 0.8289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,179 +1194,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
-      }
-    },
-    {
-      "story_id": "story_2d4e74257161",
-      "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
-          "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
-          "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
-          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
-          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
-          "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
-          "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
-          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
-          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9643,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:00:59Z",
-      "latest_at": "2026-11-17T18:00:59Z",
-      "primary_item": {
-        "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
-        "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
-        "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
-        "title_en": "GitHub Copilot in JetBrains, Ignite releases",
-        "title_original": "GitHub Copilot in JetBrains, Ignite releases",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
-      }
-    },
-    {
-      "story_id": "story_ca154c8f1e7b",
-      "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-      "url": "https://www.aibase.com/news/32358",
-      "primary_url": "https://www.aibase.com/news/32358",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f33f188727b99f12e4529a2f06047b979f217587",
-          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-          "title_en": null,
-          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32358",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T08:01:55.231951Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f33f188727b99f12e4529a2f06047b979f217587",
-          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-          "title_en": null,
-          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32358",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T08:01:55.231951Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8349,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-17T08:01:55.231951Z",
-      "latest_at": "2026-11-17T08:01:55.231951Z",
-      "primary_item": {
-        "id": "f33f188727b99f12e4529a2f06047b979f217587",
-        "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-        "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-        "title_en": null,
-        "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32358",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -1418,15 +1246,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8444,
+      "importance": 0.8444,
+      "importance_score": 0.8444,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9645,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1453,7 +1281,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
+      }
+    },
+    {
+      "story_id": "story_ca154c8f1e7b",
+      "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+      "url": "https://www.aibase.com/news/32358",
+      "primary_url": "https://www.aibase.com/news/32358",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f33f188727b99f12e4529a2f06047b979f217587",
+          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_en": null,
+          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T08:01:55.231951Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f33f188727b99f12e4529a2f06047b979f217587",
+          "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "title_en": null,
+          "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32358",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-17T08:01:55.231951Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.8289,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance"
+      ],
+      "earliest_at": "2026-11-17T08:01:55.231951Z",
+      "latest_at": "2026-11-17T08:01:55.231951Z",
+      "primary_item": {
+        "id": "f33f188727b99f12e4529a2f06047b979f217587",
+        "title": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+        "title_zh": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+        "title_en": null,
+        "title_original": "测试显示 Google Gemini4Argon 面对不可能任务时采取越权访问策略",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32358",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T21:05:57.121559Z"
+      }
+    },
+    {
+      "story_id": "story_656e809f1ddf",
+      "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
+          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
+          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9573,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:00:35Z",
+      "latest_at": "2026-11-17T18:00:35Z",
+      "primary_item": {
+        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+        "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
+        "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -1505,15 +1505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8349,
+        "recency": 0.8289,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1538,30 +1538,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
-      "story_id": "story_238adc092859",
-      "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-      "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
-      "primary_url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+      "story_id": "story_2d4e74257161",
+      "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-          "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
-          "title_en": "Track Copilot code review outcomes in Repository insights",
-          "title_original": "Track Copilot code review outcomes in Repository insights",
+          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
+          "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+          "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
+          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
+          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z",
+          "published_at": "2026-11-17T18:00:59Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1572,33 +1572,33 @@
       ],
       "items": [
         {
-          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-          "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
-          "title_en": "Track Copilot code review outcomes in Repository insights",
-          "title_original": "Track Copilot code review outcomes in Repository insights",
+          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
+          "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+          "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
+          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
+          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:35Z",
+          "published_at": "2026-11-17T18:00:59Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9642,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1607,17 +1607,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:00:35Z",
-      "latest_at": "2026-11-17T18:00:35Z",
+      "earliest_at": "2026-11-17T18:00:59Z",
+      "latest_at": "2026-11-17T18:00:59Z",
       "primary_item": {
-        "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
-        "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
-        "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
-        "title_en": "Track Copilot code review outcomes in Repository insights",
-        "title_original": "Track Copilot code review outcomes in Repository insights",
+        "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
+        "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+        "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
+        "title_en": "GitHub Copilot in JetBrains, Ignite releases",
+        "title_original": "GitHub Copilot in JetBrains, Ignite releases",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1625,7 +1625,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
@@ -1677,15 +1677,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7346,
-      "importance": 0.7346,
-      "importance_score": 0.7346,
+      "score": 0.7336,
+      "importance": 0.7336,
+      "importance_score": 0.7336,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8169,
+        "recency": 0.8111,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1710,30 +1710,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     },
     {
-      "story_id": "story_3b115a9684d2",
-      "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-      "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-      "primary_url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+      "story_id": "story_238adc092859",
+      "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+      "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+      "primary_url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ca54700843ef108233ec9969a0891238ab62892a",
-          "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
-          "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
+          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
+          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+          "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
+          "title_en": "Track Copilot code review outcomes in Repository insights",
+          "title_original": "Track Copilot code review outcomes in Repository insights",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
+          "published_at": "2026-11-17T18:00:35Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1744,33 +1744,33 @@
       ],
       "items": [
         {
-          "id": "ca54700843ef108233ec9969a0891238ab62892a",
-          "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
-          "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
+          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
+          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+          "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
+          "title_en": "Track Copilot code review outcomes in Repository insights",
+          "title_original": "Track Copilot code review outcomes in Repository insights",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
+          "published_at": "2026-11-17T18:00:35Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8456,
-      "importance": 0.8456,
-      "importance_score": 0.8456,
+      "score": 0.8443,
+      "importance": 0.8443,
+      "importance_score": 0.8443,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9643,
+        "recency": 0.9573,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1779,17 +1779,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:00:59Z",
-      "latest_at": "2026-11-17T18:00:59Z",
+      "earliest_at": "2026-11-17T18:00:35Z",
+      "latest_at": "2026-11-17T18:00:35Z",
       "primary_item": {
-        "id": "ca54700843ef108233ec9969a0891238ab62892a",
-        "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-        "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
-        "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-        "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
+        "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
+        "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+        "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
+        "title_en": "Track Copilot code review outcomes in Repository insights",
+        "title_original": "Track Copilot code review outcomes in Repository insights",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
+        "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1797,7 +1797,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T20:34:57.426958Z"
+        "scored_at": "2026-11-17T21:05:57.121559Z"
       }
     }
   ]
