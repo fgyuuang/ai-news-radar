@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T04:37:02.204385+00:00",
+  "generated_at": "2026-11-17T05:06:54.868824+00:00",
   "window_hours": 168,
   "archive_days": 90,
   "ranking_policy": "Source priority plus recency; curated view balances topics and caps each source. Not popularity or proof verification.",
@@ -10,7 +10,7 @@
       "name": "Terence Tao — What’s New",
       "url": "https://terrytao.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "frontier"
       ],
@@ -19,7 +19,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-14T03:19:00+00:00",
       "note": null,
-      "duration_ms": 1820,
+      "duration_ms": 2376,
       "recent_count": 4
     },
     {
@@ -27,15 +27,16 @@
       "name": "Proofs and Prompts",
       "url": "https://proofsandprompts.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "ai_math"
       ],
       "content_type": "blog",
-      "ok": false,
-      "item_count": 0,
-      "error": "ReadTimeout",
-      "duration_ms": 10025,
+      "ok": true,
+      "item_count": 10,
+      "latest_published_at": "2026-11-16T15:00:00+00:00",
+      "note": null,
+      "duration_ms": 6184,
       "recent_count": 12
     },
     {
@@ -43,7 +44,7 @@
       "name": "VibeMathed",
       "url": "https://vibemathed.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "ai_math"
       ],
@@ -52,7 +53,7 @@
       "item_count": 30,
       "latest_published_at": "2026-11-11T12:00:00+00:00",
       "note": null,
-      "duration_ms": 1150,
+      "duration_ms": 1008,
       "recent_count": 3
     },
     {
@@ -60,7 +61,7 @@
       "name": "Gowers’s Weblog",
       "url": "https://gowers.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "frontier"
       ],
@@ -69,7 +70,7 @@
       "item_count": 25,
       "latest_published_at": "2026-10-16T10:29:30+00:00",
       "note": null,
-      "duration_ms": 2838,
+      "duration_ms": 3011,
       "recent_count": 0
     },
     {
@@ -77,7 +78,7 @@
       "name": "Xena Project",
       "url": "https://xenaproject.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "formal"
       ],
@@ -86,7 +87,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-12T00:50:07+00:00",
       "note": null,
-      "duration_ms": 3047,
+      "duration_ms": 1722,
       "recent_count": 2
     },
     {
@@ -94,7 +95,7 @@
       "name": "MathArena",
       "url": "https://matharena.ai/blogs",
       "method": "matharena",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "ai_math"
       ],
@@ -102,109 +103,109 @@
       "ok": false,
       "item_count": 0,
       "error": "ValueError",
-      "duration_ms": 2065,
+      "duration_ms": 8647,
       "recent_count": 0
     },
     {
       "id": "arxiv-math-nt",
       "name": "arXiv · 数论",
       "url": "https://arxiv.org/",
-      "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "frontier"
       ],
       "content_type": "paper",
       "ok": true,
       "item_count": 8,
-      "latest_published_at": "2026-11-16T05:00:00+00:00",
+      "latest_published_at": "2026-11-16T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1747,
+      "duration_ms": 7352,
       "recent_count": 22
     },
     {
       "id": "arxiv-math-co",
       "name": "arXiv · 组合数学",
       "url": "https://arxiv.org/",
-      "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "frontier"
       ],
       "content_type": "paper",
       "ok": true,
       "item_count": 8,
-      "latest_published_at": "2026-11-16T05:00:00+00:00",
+      "latest_published_at": "2026-11-16T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1577,
+      "duration_ms": 6520,
       "recent_count": 24
     },
     {
       "id": "arxiv-math-ag",
       "name": "arXiv · 代数几何",
       "url": "https://arxiv.org/",
-      "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "frontier"
       ],
       "content_type": "paper",
       "ok": true,
       "item_count": 8,
-      "latest_published_at": "2026-11-16T05:00:00+00:00",
+      "latest_published_at": "2026-11-16T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1396,
+      "duration_ms": 6937,
       "recent_count": 24
     },
     {
       "id": "arxiv-math-pr",
       "name": "arXiv · 概率",
       "url": "https://arxiv.org/",
-      "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "frontier"
       ],
       "content_type": "paper",
       "ok": true,
       "item_count": 8,
-      "latest_published_at": "2026-11-16T05:00:00+00:00",
+      "latest_published_at": "2026-11-16T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1828,
+      "duration_ms": 5655,
       "recent_count": 21
     },
     {
       "id": "arxiv-math-na",
       "name": "arXiv · 数值分析",
       "url": "https://arxiv.org/",
-      "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "frontier"
       ],
       "content_type": "paper",
       "ok": true,
       "item_count": 8,
-      "latest_published_at": "2026-11-16T05:00:00+00:00",
+      "latest_published_at": "2026-11-16T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1684,
+      "duration_ms": 12008,
       "recent_count": 20
     },
     {
       "id": "arxiv-math-lo",
       "name": "arXiv · 数理逻辑",
       "url": "https://arxiv.org/",
-      "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "frontier"
       ],
       "content_type": "paper",
       "ok": true,
       "item_count": 8,
-      "latest_published_at": "2026-11-16T05:00:00+00:00",
+      "latest_published_at": "2026-11-16T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1197,
+      "duration_ms": 9564,
       "recent_count": 18
     },
     {
@@ -212,50 +213,50 @@
       "name": "arXiv · AI for Math · cs.AI",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "ai_math"
       ],
       "content_type": "paper",
       "ok": true,
       "item_count": 5,
-      "latest_published_at": "2026-11-16T05:00:00+00:00",
+      "latest_published_at": "2026-11-17T05:00:00+00:00",
       "note": null,
-      "duration_ms": 5552,
+      "duration_ms": 7412,
       "recent_count": 6
     },
     {
       "id": "arxiv-cs-lg",
       "name": "arXiv · AI for Math · cs.LG",
       "url": "https://arxiv.org/",
-      "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "ai_math"
       ],
       "content_type": "paper",
       "ok": true,
-      "item_count": 8,
-      "latest_published_at": "2026-11-16T05:00:00+00:00",
-      "note": null,
-      "duration_ms": 2356,
+      "item_count": 0,
+      "latest_published_at": null,
+      "note": "no_matching_updates",
+      "duration_ms": 4315,
       "recent_count": 9
     },
     {
       "id": "arxiv-cs-cl",
       "name": "arXiv · AI for Math · cs.CL",
       "url": "https://arxiv.org/",
-      "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "ai_math"
       ],
       "content_type": "paper",
       "ok": true,
-      "item_count": 8,
-      "latest_published_at": "2026-11-16T05:00:00+00:00",
-      "note": null,
-      "duration_ms": 2278,
+      "item_count": 0,
+      "latest_published_at": null,
+      "note": "no_matching_updates",
+      "duration_ms": 9047,
       "recent_count": 10
     },
     {
@@ -263,7 +264,7 @@
       "name": "Quanta · Mathematics",
       "url": "https://www.quantamagazine.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "frontier"
       ],
@@ -272,7 +273,7 @@
       "item_count": 5,
       "latest_published_at": "2026-10-26T14:54:29+00:00",
       "note": null,
-      "duration_ms": 1254,
+      "duration_ms": 5985,
       "recent_count": 0
     },
     {
@@ -280,7 +281,7 @@
       "name": "Gil Kalai · Combinatorics and more",
       "url": "https://gilkalai.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "frontier"
       ],
@@ -289,7 +290,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-07T15:33:06+00:00",
       "note": null,
-      "duration_ms": 1346,
+      "duration_ms": 6220,
       "recent_count": 0
     },
     {
@@ -297,7 +298,7 @@
       "name": "Google DeepMind · 数学研究",
       "url": "https://deepmind.google/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "ai_math"
       ],
@@ -306,7 +307,7 @@
       "item_count": 4,
       "latest_published_at": "2026-11-10T12:02:28+00:00",
       "note": null,
-      "duration_ms": 1272,
+      "duration_ms": 3029,
       "recent_count": 1
     },
     {
@@ -314,7 +315,7 @@
       "name": "Google Research · 数学研究",
       "url": "https://research.google/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "ai_math"
       ],
@@ -323,7 +324,7 @@
       "item_count": 0,
       "latest_published_at": null,
       "note": "no_matching_updates",
-      "duration_ms": 1592,
+      "duration_ms": 2188,
       "recent_count": 0
     },
     {
@@ -331,7 +332,7 @@
       "name": "Microsoft Research · 数学与证明",
       "url": "https://www.microsoft.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "ai_math"
       ],
@@ -340,7 +341,7 @@
       "item_count": 3,
       "latest_published_at": "2026-11-12T21:31:57+00:00",
       "note": null,
-      "duration_ms": 4505,
+      "duration_ms": 5239,
       "recent_count": 1
     },
     {
@@ -348,7 +349,7 @@
       "name": "Lean 4 · Releases",
       "url": "https://github.com/leanprover/lean4/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "formal",
         "tools"
@@ -358,7 +359,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-16T16:38:45+00:00",
       "note": null,
-      "duration_ms": 1400,
+      "duration_ms": 1872,
       "recent_count": 1
     },
     {
@@ -366,7 +367,7 @@
       "name": "LeanDojo · Releases",
       "url": "https://github.com/lean-dojo/LeanDojo/",
       "method": "rss",
-      "checked_at": "2026-11-17T04:37:02.204385+00:00",
+      "checked_at": "2026-11-17T05:06:54.868824+00:00",
       "topics": [
         "formal",
         "tools",
@@ -377,11 +378,158 @@
       "item_count": 10,
       "latest_published_at": "2025-06-13T16:25:33+00:00",
       "note": null,
-      "duration_ms": 1837,
+      "duration_ms": 2283,
       "recent_count": 0
     }
   ],
   "items": [
+    {
+      "id": "8a5c1a78f21f4e4953ba",
+      "source_id": "arxiv-cs-ai",
+      "source": "arXiv · AI for Math · cs.AI",
+      "title": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
+      "url": "https://arxiv.org/abs/2611.17662",
+      "published_at": "2026-11-17T05:00:00+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Autonomous agents now run for hundreds of steps with little or no human supervision. In practice, practitioners use runtime monitors such as turn limits and keyword filters to decide when a run should be stopped, upgraded, or assisted. However, these heuristics may stop runs that would otherwise succeed or allow failing runs to continue. To address this limitation, we introduce LeBet (Learn then Bet), a statistical learning framework that derives its learning objective from sufficient conditions for valid and powerful intervention. In particular, LeBet learns an interpretable OR-of-AND monitor and accumulates evidence through a fixed betting statistic, intervening when the evidence reaches a prescribed threshold. Under finite within-class exchangeability and leave-one-out stability, we derive finite-sample guarantees for false-positive control (validity) and detection power conditional on the training data, using the same trajectories for learning and calibration without assuming independent and identically distributed trajectories. To address the intractable combinatorial optimization problem in our learning formulation, we use stoch",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "paper",
+      "priority": 78,
+      "recency_basis": "announced",
+      "authors": "You-Lin Chen, Xinyi Lisa Chen, Pedro Herrero-Vidal, Xiaojing Yu, Bingqing Song, Bin Xu",
+      "source_refs": [
+        {
+          "id": "arxiv-cs-ai",
+          "name": "arXiv · AI for Math · cs.AI"
+        }
+      ],
+      "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
+      "discovery_score": 98.0,
+      "title_zh": "学习然后投注：学习可解释的规则以进行可靠的代理干预",
+      "excerpt_zh": "自主代理现在可以在很少或没有人工监督的情况下运行数百步。在实践中，从业者使用运行时监视器（例如转弯限制和关键字过滤器）来决定何时应停止、升级或辅助运行。然而，这些启发式方法可能会停止本来会成功的运行，或者允许失败的运行继续。为了解决这一限制，我们引入了 LeBet（Learn then Bet），这是一种统计学习框架，它从有效且强有力的干预的充分条件中得出其学习目标。特别是，LeBet 学习可解释的 OR-of-AND 监控器，并通过固定的投注统计数据积累证据，当证据达到规定的阈值时进行干预。在有限的类内可交换性和留一稳定性下，我们以训练数据为条件得出假阳性控制（有效性）和检测能力的有限样本保证，使用相同的轨迹进行学习和校准，而不假设独立且同分布的轨迹。为了解决我们的学习公式中棘手的组合优化问题，我们使用 stoch"
+    },
+    {
+      "id": "cefa0baf06950ec3a252",
+      "source_id": "arxiv-cs-ai",
+      "source": "arXiv · AI for Math · cs.AI",
+      "title": "When Cooperation Must Change: Semantic Strategy Unlearning in Multi-Agent Reinforcement Learning",
+      "url": "https://arxiv.org/abs/2611.17917",
+      "published_at": "2026-11-17T05:00:00+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Cooperative multi-agent reinforcement learning (MARL) supports coordinated decision-making in distributed Web services, multi-robot control, and collaborative games through learned coordination conventions. When deployment requirements change, a previously useful convention may become obsolete or unsafe. For example, revised cache-sharing permissions in Web content delivery may require caches to abandon a learned division of storage and serving roles while maintaining efficient delivery. Teams must therefore remove the specified convention while preserving useful cooperation. This is challenging because the same relational pattern can be reproduced by different agents across different histories. Runtime shielding leaves the underlying coordination preference intact and can impair task progress, while existing reinforcement unlearning and trajectory-deletion methods do not directly target role-invariant conventions. This paper formalizes this problem as semantic coordination-strategy unlearning and proposes CARVE.CARVE uses causal coordination attribution to identify influential interactions and retain-aware subspace updates to limit i",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math",
+        "formal"
+      ],
+      "content_type": "paper",
+      "priority": 78,
+      "recency_basis": "announced",
+      "authors": "Wenhan Wu, Linghan Chen, Yudong Gao, Fan Yang, Honglong Chen, Kai Yin, Jiawei Jiang, Chuang Hu",
+      "source_refs": [
+        {
+          "id": "arxiv-cs-ai",
+          "name": "arXiv · AI for Math · cs.AI"
+        }
+      ],
+      "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
+      "discovery_score": 98.0,
+      "title_zh": "当合作必须改变时：多智能体强化学习中的语义策略遗忘",
+      "excerpt_zh": "协作多智能体强化学习 (MARL) 通过学习的协调约定支持分布式 Web 服务、多机器人控制和协作游戏中的协调决策。当部署要求发生变化时，以前有用的约定可能会变得过时或不安全。例如，Web 内容交付中修改后的缓存共享权限可能要求缓存放弃已知的存储和服务角色划分，同时保持高效交付。因此，团队必须取消指定的约定，同时保留有用的合作。这是具有挑战性的，因为相同的关系模式可以由不同的代理在不同的历史中复制。运行时屏蔽使底层协调偏好完好无损，并可能损害任务进度，而现有的强化遗忘和轨迹删除方法并不直接针对角色不变约定。本文将这个问题形式化为语义协调策略遗忘，并提出了 CARVE。CARVE 使用因果协调归因来识别有影响力的交互，并使用保留感知子空间更新来限制 i"
+    },
+    {
+      "id": "f421d5f91a559ceb4e9e",
+      "source_id": "arxiv-cs-ai",
+      "source": "arXiv · AI for Math · cs.AI",
+      "title": "Large Language Model-Empowered Intelligent Agent for Adaptive Fast-Charging Control of Lithium-Ion Batteries",
+      "url": "https://arxiv.org/abs/2611.18140",
+      "published_at": "2026-11-17T05:00:00+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Fast charging of lithium-ion batteries is a multi-objective control problem that requires reducing charging time and sustaining high energy throughput while suppressing accelerated degradation and safety-critical electrochemical reactions. Conventional protocols are easy to implement but have limited ability to adapt to variations in battery chemistry, operating conditions, and aging state. Model-based optimization and conventional data-driven control often require accurate models, costly iterative search, or task-specific policies. We develop a large language model (LLM)-empowered intelligent agent for adaptive battery fast-charging control. In this closed-loop framework, the agent interprets structured battery states, generates executable charging actions, observes the resulting battery response, and continuously adjusts subsequent decisions. We construct a large-scale simulation corpus with PyBaMM across five battery chemistries and 11 parameter sets and convert the resulting state-action-response trajectories into structured process data for agent training. Our two-stage strategy combines supervised fine-tuning (SFT) and Group Rel",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "paper",
+      "priority": 78,
+      "recency_basis": "announced",
+      "authors": "Joey Chan, Haoyu Pan, Zhen Chen, ErShun Pan",
+      "source_refs": [
+        {
+          "id": "arxiv-cs-ai",
+          "name": "arXiv · AI for Math · cs.AI"
+        }
+      ],
+      "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
+      "discovery_score": 98.0,
+      "title_zh": "基于大语言模型的智能代理，用于锂离子电池的自适应快速充电控制",
+      "excerpt_zh": "锂离子电池的快速充电是一个多目标控制问题，需要减少充电时间并维持高能量吞吐量，同时抑制加速降解和安全关键的电化学反应。传统协议易于实施，但适应电池化学、操作条件和老化状态变化的能力有限。基于模型的优化和传统的数据驱动控制通常需要准确的模型、昂贵的迭代搜索或特定于任务的策略。我们开发了一种基于大语言模型（LLM）的智能代理，用于自适应电池快速充电控制。在这个闭环框架中，代理解释结构化的电池状态，生成可执行的充电操作，观察由此产生的电池响应，并不断调整后续决策。我们使用 PyBaMM 构建了一个涵盖 5 种电池化学成分和 11 个参数集的大规模模拟语料库，并将所得的状态-动作-响应轨迹转换为用于代理训练的结构化过程数据。我们的两阶段策略结合了监督微调（SFT）和 Group Rel"
+    },
+    {
+      "id": "0df2b0f7e58abf6aa9d8",
+      "source_id": "arxiv-cs-ai",
+      "source": "arXiv · AI for Math · cs.AI",
+      "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
+      "url": "https://arxiv.org/abs/2611.18494",
+      "published_at": "2026-11-17T05:00:00+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computation, tool use, and verification. We introduce \\textbf{ARCHER}: \\textbf{A}ction-trace \\textbf{R}einforcement for \\textbf{C}alculator-grounded \\textbf{H}ierarchical \\textbf{E}xecutable \\textbf{R}easoning, a two-stage framework for training small language models (SLMs) to produce executable and auditable reasoning trajectories. In the first stage, ARCHER compiles free-form chain-of-thought rationales into typed action traces containing reasoning steps, calculator calls, deterministic runtime observations, verification actions, and final answers. This shifts the supervision target from imitating explanatory text to learning a tool-grounded reasoning policy. In the second stage, ARCHER refines this policy through asymmetric hierarchical reinforcement learning, using grouped and conditionally gated trajectory rewards for answer correctness, tool grounding, process discipline, and trace alignment. Across five standard sub-10B backbones, ARCHER improves",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math"
+      ],
+      "content_type": "paper",
+      "priority": 78,
+      "recency_basis": "announced",
+      "authors": "Dhruv Dixit, Khushi Patel, Congcong Xu, Min Song",
+      "source_refs": [
+        {
+          "id": "arxiv-cs-ai",
+          "name": "arXiv · AI for Math · cs.AI"
+        }
+      ],
+      "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
+      "discovery_score": 98.0,
+      "excerpt_zh": "小语言模型对于本地、低成本和隐私敏感的部署很有吸引力，但它们在需要分解、精确计算、工具使用和验证的数学推理任务上仍然不可靠。我们引入 \\textbf{ARCHER}：\\textbf{A}action-trace \\textbf{R} 增强 \\textbf{C} 计算器为基础的 \\textbf{H}ierarchical \\textbf{E}xecutable \\textbf{R}easoning，一个两阶段框架，用于训练小语言模型（SLM）以产生可执行和可审计的推理轨迹。 In the first stage, ARCHER compiles free-form chain-of-thought rationales into typed action traces containing reasoning steps, calculator calls, deterministic runtime observations, verification actions, and final answers.这将监督目标从模仿解释性文本转变为学习基于工具的推理策略。 In the second stage, ARCHER refines this policy through asymmetric hierarchical reinforcement learning, using grouped and conditionally gated trajectory rewards for answer correctness, tool grounding, process discipline, and trace alignment. ARCHER 在五个标准 sub-10B 主干网中进行了改进",
+      "title_zh": "ARCHER：从基本原理模仿到小语言模型中的可执行推理"
+    },
+    {
+      "id": "782d1b049c40245c833a",
+      "source_id": "arxiv-cs-ai",
+      "source": "arXiv · AI for Math · cs.AI",
+      "title": "Binarization as an Attack Surface in Weightless Neural Networks",
+      "url": "https://arxiv.org/abs/2611.17646",
+      "published_at": "2026-11-17T05:00:00+00:00",
+      "date_precision": "datetime",
+      "excerpt": "Weightless Neural Networks (WNNs) are lightweight classifiers that binarize their inputs and learn by storing binary patterns in lookup memories, which makes them attractive for resource-constrained tasks such as intrusion detection. Because a small perturbation that crosses no binarization threshold leaves the binary input unchanged, WNNs may appear naturally robust to adversarial examples; a perturbation that does cross a threshold, however, can still change the prediction. We study this tension in WiSARD, the canonical RAM-based WNN, and in two variants that replace its memories with Bloom filters, Bloom WiSARD and BTHOWeN. A continuous perturbation reaches these classifiers only by crossing an encoding threshold, changing at least one binary tuple, and redirecting a memory query; we formalize this mechanism with a threshold-crossing bound and a response-margin certificate for standard Boolean WiSARD. Controlled MNIST experiments compare linear and data-driven thermometer encodings under model-agnostic sensitivity probes, a score-based Simulated Annealing attack, and surrogate-transfer attacks. Changing only the encoding while ke",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "ai_math",
+        "formal"
+      ],
+      "content_type": "paper",
+      "priority": 78,
+      "recency_basis": "announced",
+      "authors": "Lucas Senos Coutinho, Matheus Vargas, Pedro Teixeira, Heudson Tosta Mirandola, Ori Rottenstreich, Priscila Machado Vieira Lima, Leandro Santiago, Daniel Sadoc Menasche",
+      "source_refs": [
+        {
+          "id": "arxiv-cs-ai",
+          "name": "arXiv · AI for Math · cs.AI"
+        }
+      ],
+      "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
+      "discovery_score": 98.0,
+      "title_zh": "二值化作为失重神经网络中的攻击面",
+      "excerpt_zh": "失重神经网络 (WNN) 是轻量级分类器，可对输入进行二值化，并通过在查找存储器中存储二进制模式来进行学习，这使得它们对于入侵检测等资源受限的任务很有吸引力。由于不跨越任何二值化阈值的小扰动会使二进制输入保持不变，因此 WNN 可能对对抗性示例表现出天然的鲁棒性； a perturbation that does cross a threshold, however, can still change the prediction.我们在 WiSARD（基于 RAM 的规范 WNN）以及用 Bloom 过滤器替换其内存的两个变体（Bloom WiSARD 和 BTHOWeN）中研究了这种张力。连续扰动仅通过跨越编码阈值、更改至少一个二进制元组以及重定向内存查询来到达这些分类器； we formalize this mechanism with a threshold-crossing bound and a response-margin certificate for standard Boolean WiSARD.受控 MNIST 实验比较了模型不可知敏感性探针、基于分数的模拟退火攻击和代理转移攻击下的线性和数据驱动的温度计编码。 ke 时仅更改编码"
+    },
     {
       "id": "2ecf1d627ed9979d8cbc",
       "source_id": "lean4-releases",
@@ -407,7 +555,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T14:05:38.191601+00:00",
-      "discovery_score": 100.7,
+      "discovery_score": 100.6,
       "title_zh": "v4.36.0",
       "excerpt_zh": "这是 Lean 的 v4.36.0 版本。查看发行说明以获取更多信息。"
     },
@@ -435,7 +583,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T15:05:21.096612+00:00",
-      "discovery_score": 108.5,
+      "discovery_score": 108.4,
       "title_zh": "我们还需要数学期刊吗？",
       "excerpt_zh": "“人工智能正在改变数学的产生方式。难道它不应该改变我们的出版方式吗？我们还需要数学期刊吗？剧透警报：我个人的答案是我们不需要。我们很长时间以来都知道我们当前的出版系统存在严重缺陷。[...]”"
     },
@@ -466,384 +614,6 @@
       "discovery_score": 108.2,
       "title_zh": "新型造纸厂的更新",
       "excerpt_zh": "关于国际数学联盟防止数学欺诈的建议。"
-    },
-    {
-      "id": "ec570dec895e66852ad9",
-      "source_id": "arxiv-math-pr",
-      "source": "arXiv · 概率",
-      "title": "Cover times of random recursive trees and linear preferential attachment trees",
-      "url": "https://arxiv.org/abs/2611.18353",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "We study the cover times of uniform random recursive trees and linear preferential attachment trees, including the negative-parameter models corresponding to random $d$-ary increasing trees. We prove explicit limits in probability and expectation when the cover times are rescaled by $n (\\log n)^2$. In particular, for the uniform random recursive tree the cover time is close to $e n (\\log n)^2$ with high probability.",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Omer Angel, Christina Goldschmidt, Peleg Michaeli",
-      "source_refs": [
-        {
-          "id": "arxiv-math-pr",
-          "name": "arXiv · 概率"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "随机递归树和线性优先附着树的覆盖次数",
-      "excerpt_zh": "我们研究均匀随机递归树和线性优先附着树的覆盖时间，包括与随机$d$元递增树相对应的负参数模型。当覆盖时间按 $n (\\log n)^2$ 重新调整时，我们证明了概率和期望的明确限制。特别是，对于均匀随机递归树，覆盖时间很有可能接近 $e n (\\log n)^2$。"
-    },
-    {
-      "id": "2a8b4ad9434d99ddbfb1",
-      "source_id": "arxiv-math-pr",
-      "source": "arXiv · 概率",
-      "title": "The speed of convergence for propagation of chaos in the mean-field Ising model",
-      "url": "https://arxiv.org/abs/2611.17911",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "We derive sharp relative-entropy asymptotics for increasing propagation of chaos in the Curie--Weiss model at zero external field. For every fixed inverse temperature $0<\\beta<1$, the relative entropy of a $k$-spin marginal with respect to the symmetric product measure is $$ \\frac{\\beta^2}{4(1-\\beta)^2}\\frac{k(k-1)}{N^2}+o\\left(\\frac{k^2}{N^2}\\right),\\qquad k=o(N). $$ At the critical inverse temperature $\\beta=1$, the rate changes to $\\alpha_{\\mathrm c}^2 k(k-1)/(4N)+o(k^2/N)$ in the regime $k=o(\\sqrt N)$, where $\\alpha_{\\mathrm c}$ is the second moment of the limiting quartic law of the rescaled magnetization. We also obtain asymptotics for sequences $\\beta_N\\uparrow1$ that interpolate between these two regimes. Crucially, the proof reveals that the pair correlations determine the leading correction to the likelihood ratio, providing precise control of both the chi-square divergence and relative entropy.",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Jonas Jalowy, Matthias L\\\"owe, Sara Terveer",
-      "source_refs": [
-        {
-          "id": "arxiv-math-pr",
-          "name": "arXiv · 概率"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "平均场伊辛模型中混沌传播的收敛速度",
-      "excerpt_zh": "我们推导了尖锐的相对熵渐近论，以增加零外场下居里-韦斯模型中混沌的传播。对于每个固定逆温度 $0<\\beta<1$，$k$-自旋边际相对于对称乘积测度的相对熵为 $$ \\frac{\\beta^2}{4(1-\\beta)^2}\\frac{k(k-1)}{N^2}+o\\left(\\frac{k^2}{N^2}\\right),\\qquad k=o(N)。 $$在临界逆温度$\\beta=1$处，在$k=o(\\sqrt N)$范围内，速率变化为$\\alpha_{\\mathrm c}^2 k(k-1)/(4N)+o(k^2/N)$，其中$\\alpha_{\\mathrm c}$是重新调整磁化强度的极限四次定律的二阶矩。我们还获得了在这两种状态之间插值的序列 $\\beta_N\\uparrow1$ 的渐近。至关重要的是，证明表明配对相关性决定了似然比的主要修正，从而提供了对卡方散度和相对熵的精确控制。"
-    },
-    {
-      "id": "115405cf209a376603df",
-      "source_id": "arxiv-math-pr",
-      "source": "arXiv · 概率",
-      "title": "Ergodicity without monotonicity: patch-positive spin systems",
-      "url": "https://arxiv.org/abs/2611.17861",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "Monotonicity is the standard tool for proving that an interacting particle system is ergodic. What can replace it when the system is not monotone and its invariant measure is unknown? The simplest such systems are kinetically constrained models such as FA-1f and East exposed to noise. In these models vacancies enable updates, so adding vacancies should help the system forget its initial state. We prove this for a broad class of spin systems, which we call patch-positive. If vacancies are created spontaneously at a uniformly positive rate, the system converges to the same equilibrium from a large class of initial states, and from every initial state if the threshold density is at most $\\tfrac12$ or the interactions are oriented. In particular, the East model with noise is ergodic at every density, and we obtain new cases of the positive-rates conjecture. The key idea is to compare the dual processes of the system with and without the added deaths.",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Maciej G{\\l}uchowski, Georg Menz",
-      "source_refs": [
-        {
-          "id": "arxiv-math-pr",
-          "name": "arXiv · 概率"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "没有单调性的遍历性：补丁正自旋系统",
-      "excerpt_zh": "单调性是证明相互作用的粒子系统遍历的标准工具。当系统不是单调且其不变测度未知时，什么可以替代它？最简单的此类系统是动力学约束模型，例如暴露于噪声的 FA-1f 和 East。在这些模型中，空缺可以进行更新，因此添加空缺应该有助于系统忘记其初始状态。我们在一大类自旋系统中证明了这一点，我们称之为补丁正向的。如果空位以一致的正速率自发产生，则系统从一大类初始状态收敛到相同的平衡，并且如果阈值密度最多为 $\\tfrac12$ 或相互作用是定向的，则从每个初始状态收敛到相同的平衡。特别是，带有噪声的 East 模型在每个密度下都是遍历的，并且我们获得了正率猜想的新案例。关键思想是比较系统的双进程有和没有增加死亡的情况。"
-    },
-    {
-      "id": "9d56c84ff4ede4163c60",
-      "source_id": "arxiv-math-na",
-      "source": "arXiv · 数值分析",
-      "title": "High-order IMEX local discontinuous Galerkin methods with sparse grids for high-dimensional nonlinear parabolic PDEs",
-      "url": "https://arxiv.org/abs/2611.18079",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "In this work, we develop a high-order IMEX-LDG scheme on sparse grids for solving nonlinear parabolic PDEs in moderate to high dimensions. The method combines the advantages of LDG methods for convection--diffusion problems, IMEX-RK time integrators for stiff systems, and sparse-grid techniques to mitigate the curse of dimensionality. The resulting scheme is fully parallelized in MPI, is robust, efficient, and scalable, making it suitable for a wide range of applications involving high-dimensional nonlinear parabolic PDEs.",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Joel P. Villarino, Manuel J. Castro, J. A. Garc\\'ia-Rodr\\'iguez, J. G. L\\'opez-Salas",
-      "source_refs": [
-        {
-          "id": "arxiv-math-na",
-          "name": "arXiv · 数值分析"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "高维非线性抛物线偏微分方程的稀疏网格高阶 IMEX 局部不连续 Galerkin 方法",
-      "excerpt_zh": "在这项工作中，我们在稀疏网格上开发了一种高阶 IMEX-LDG 方案，用于求解中高维的非线性抛物线偏微分方程。该方法结合了用于对流扩散问题的 LDG 方法、用于刚性系统的 IMEX-RK 时间积分器以及用于减轻维数灾难的稀疏网格技术的优点。所得方案在 MPI 中完全并行化，具有鲁棒性、高效性和可扩展性，使其适用于涉及高维非线性抛物线偏微分方程的广泛应用。"
-    },
-    {
-      "id": "904362ab253b530bbadf",
-      "source_id": "arxiv-math-na",
-      "source": "arXiv · 数值分析",
-      "title": "A Realizability-Based Kinetic-Fluid Domain Decomposition Method for Single-Temperature Gas Mixtures",
-      "url": "https://arxiv.org/abs/2611.18068",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "This paper introduces a domain-adaptive numerical method for multi-species kinetic models that relax toward a single-temperature and single-velocity hydrodynamic limit. To this end, we derive moment realizability matrices for this regime. In this way the ideas of Levermore, Morokoff, and Nadiga are extended to non-equilibrium mixtures in which inter-species and intra-species collisions occur at comparable rates, so that all species relax to a common velocity and a common temperature. The realizability conditions are used as an indicator to divide the computational domain, at each time step, into macroscopic and kinetic regions. In the kinetic regions, where the continuum description fails (e.g., across strong shocks, non-equilibrium interfaces, or kinetic boundary layers), the method solves the multi-species kinetic equations. Close to local thermodynamic equilibrium, the Euler equations of the mixture are solved instead. Confining the kinetic computations to the non-equilibrium regions reduces the simulation time, while the results remain close to those of the full kinetic solver. The method is discretized on Cartesian grids with hig",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Domenico Caparello, Lorenzo Pareschi, Thomas Rey",
-      "source_refs": [
-        {
-          "id": "arxiv-math-na",
-          "name": "arXiv · 数值分析"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "基于可实现性的单温气体混合物动流体域分解方法",
-      "excerpt_zh": "本文介绍了一种适用于多物种动力学模型的域自适应数值方法，该方法可以放松到单温度和单速度流体动力学极限。为此，我们推导出该机制的矩可实现矩阵。通过这种方式，Levermore、Morokoff 和 Nadiga 的想法被扩展到非平衡混合物，其中物种间和物种内碰撞以相当的速率发生，以便所有物种松弛到共同的速度和共同的温度。可实现性条件用作将每个时间步的计算域划分为宏观区域和动力学区域的指标。在连续统描述失败的动力学区域（例如，跨越强冲击、非平衡界面或动力学边界层），该方法求解多物种动力学方程。在接近局部热力学平衡时，求解混合物的欧拉方程。将动力学计算限制在非平衡区域可以减少模拟时间，同时结果仍然接近完整动力学求解器的结果。该方法在笛卡尔网格上进行离散化"
-    },
-    {
-      "id": "e8838b4758e8ded9f23d",
-      "source_id": "arxiv-math-na",
-      "source": "arXiv · 数值分析",
-      "title": "A narrow band method for non-causal discretizations of anisotropic eikonal equations, with adaptive width, sub-and super-solution construction, and quasi-linear complexity",
-      "url": "https://arxiv.org/abs/2611.17947",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "We describe a narrow band method for numerically solving anisotropic eikonal equations, and more generally static first order Hamilton-Jacobi equations with possibly non-convex Hamiltonians, discretized using standard schemes (semi-Lagrangian, upwind-differences, Lax-Friedrichs). The causality property is not needed, in contrast with the fast marching method. The proposed approach simultaneously builds a numerical sub-solution u and super-solution u to the problem, and adapts the width of the narrow band based on their comparison. We prove that (1 + $\\epsilon$)u $\\ge$ u at termination, where $\\epsilon$ > 0 is any given tolerance parameter, and that the worst case complexity is O(N | ln $\\epsilon$| ln(N/$\\epsilon$)), where N denotes the number of discretization points, and the underlying constant is explicit in terms of those associated with the scheme properties. Numerical experiments illustrate our results.",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Jean-Marie Mirebeau (CNRS, CB), Yanis Mouheb (CB, CEA/DAM)",
-      "source_refs": [
-        {
-          "id": "arxiv-math-na",
-          "name": "arXiv · 数值分析"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "一种用于各向异性征函方程非因果离散化的窄带方法，具有自适应宽度、子解和超解构造以及拟线性复杂度",
-      "excerpt_zh": "我们描述了一种窄带方法，用于数值求解各向异性随函方程，以及更一般的静态一阶 Hamilton-Jacobi 方程，可能具有非凸哈密顿量，使用标准方案（半拉格朗日、迎风差分、Lax-Friedrichs）进行离散化。与快速推进方法相比，不需要因果关系属性。所提出的方法同时构建问题的数值子解 u 和超级解 u，并根据它们的比较来调整窄带的宽度。我们证明终止时 (1 + $\\epsilon$)u $\\ge$ u ，其中 $\\epsilon$ > 0 是任何给定的容差参数，并且最坏情况复杂度为 O(N | ln $\\epsilon$| ln(N/$\\epsilon$))，其中 N 表示离散化点的数量，并且基础常数在与方案属性相关的方面是显式的。数值实验说明了我们的结果。"
-    },
-    {
-      "id": "e5b6c083a1b7f8891edd",
-      "source_id": "arxiv-math-na",
-      "source": "arXiv · 数值分析",
-      "title": "Compatible by Construction: Bottom-Up Nonlinear Model Reduction without Interface Bases",
-      "url": "https://arxiv.org/abs/2611.17773",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "Nonlinear manifolds can provide compact representations of solutions to partial differential equations (PDEs), but generating training data and learning these representations on large domains remain costly. We present a bottom-up framework that reuses local nonlinear representations learned on a small training domain to solve larger PDE systems. A shared nonlinear decoder represents the full set of degrees of freedom owned by each subdomain, without separate interior and interface models. Each global degree of freedom has a unique owner, and local residuals directly use decoded state values from the corresponding neighboring subdomains. The resulting discrete state is single-valued by construction, eliminating the need for independent interface copies and additional interface compatibility constraints. Physical coupling is retained through the original time-discrete PDE residual. With the decoder held fixed, the subdomain-specific reduced coordinates are determined jointly by minimizing this residual, and the Gauss--Newton system is assembled from local contributions. Experiments on parameterized viscous Burgers and incompressible Nav",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Youngkyu Kim, Youngsoo Choi",
-      "source_refs": [
-        {
-          "id": "arxiv-math-na",
-          "name": "arXiv · 数值分析"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "结构兼容：自下而上的非线性模型简化，无需接口基础",
-      "excerpt_zh": "非线性流形可以提供偏微分方程 (PDE) 解的紧凑表示，但生成训练数据并在大域上学习这些表示仍然成本高昂。我们提出了一个自下而上的框架，该框架重用在小型训练域上学习的局部非线性表示来求解更大的偏微分方程系统。共享非线性解码器代表每个子域拥有的全套自由度，没有单独的内部和界面模型。每个全局自由度都有一个唯一的所有者，局部残差直接使用来自相应相邻子域的解码状态值。由此产生的离散状态在构造上是单值的，从而消除了对独立接口副本和额外接口兼容性约束的需要。通过原始时间离散 PDE 残差保留物理耦合。在解码器保持固定的情况下，通过最小化该残差来联合确定子域特定的简化坐标，并且高斯-牛顿系统由局部贡献组装而成。参数化粘性 Burgers 和不可压缩 Nav 的实验"
-    },
-    {
-      "id": "ac77abaff87ad1b39975",
-      "source_id": "arxiv-math-lo",
-      "source": "arXiv · 数理逻辑",
-      "title": "Self-Interpretations and Kraj\\'{\\i}{\\v{c}}ek-Theories",
-      "url": "https://arxiv.org/abs/2611.18383",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "We study self-interpretations of theories and their connection to Kraj\\'{\\i}\\v{c}ek-theories. Our two main results are the following. Firstly, if the self-interpretations of a theory form a group in the category ${\\sf INT}_3$ of theories and interpretations, then the theory is a Kraj\\'{\\i}\\v{c}ek-theory. Secondly, a sequential theory is a Kraj\\'{\\i}\\v{c}ek-theory iff all its self-interpretations are initial. Here initiality of the interpretation $K$ means roughly that its internal interpretations of the weak theory ${\\sf S}^1_2$ are initial in all interpretations of ${\\sf S}^1_2$.",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Albert Visser",
-      "source_refs": [
-        {
-          "id": "arxiv-math-lo",
-          "name": "arXiv · 数理逻辑"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "自我解释和 Kraj\\'{\\i}{\\v{c}}ek 理论",
-      "excerpt_zh": "我们研究理论的自我解释及其与 Kraj\\'{\\i}\\v{c}ek 理论的联系。我们的两个主要结果如下。首先，如果一个理论的自我解释形成理论和解释类别${\\sf INT}_3$中的一个组，那么该理论是一个Kraj\\'{\\i}\\v{c}ek理论。其次，序贯理论是一个 Kraj\\'{\\i}\\v{c}ek 理论，当且仅当它所有的自我解释都是初始的。这里解释$K$的初始性大致意味着它对弱理论${\\sf S}^1_2$的内部解释在${\\sf S}^1_2$的所有解释中都是初始的。"
-    },
-    {
-      "id": "7d8dcdf9de10bf92e7e8",
-      "source_id": "arxiv-math-lo",
-      "source": "arXiv · 数理逻辑",
-      "title": "Arithmetical and set-theoretic semantics of the logic of problems and propositions",
-      "url": "https://arxiv.org/abs/2611.18300",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "Kolmogorov interpreted intuitionistic logic as a calculus of problems and later remarked that a complete treatment should deal with problems and propositions together. Melikhov's logic HC is such a joint two-sorted system: it combines classical propositions with intuitionistic problems by means of two modalities, the problem !A (``find a proof of the proposition A'') and the proposition phi (``the problem phi has a solution''). We give the language of HC a formal semantics in which the modalities are read literally: solutions of !A are proofs of A in a fixed formal theory, ?phi states that phi has a solution, and the connectives on problems are interpreted as in Kleene realizability. Three variants are studied: the arithmetical semantics I (provability in PA), its external version E (truth in the standard model), and the set-theoretic semantics B over ZF, where problem variables are ``black boxes'' and a quantifier Pi over them is available. Validity is defined as the existence of a computable uniform solution. We determine which schemes are valid, build calculi HCI, HCE, HCB sound with respect to the three semantics, and derive Lob's",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Anastasia Onoprienko, Nikolay Vereshchagin",
-      "source_refs": [
-        {
-          "id": "arxiv-math-lo",
-          "name": "arXiv · 数理逻辑"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "问题和命题逻辑的算术和集合论语义",
-      "excerpt_zh": "柯尔莫哥洛夫将直觉逻辑解释为问题的演算，后来指出，完整的治疗应该同时处理问题和命题。梅利霍夫的逻辑 HC 就是这样一个联合二分类系统：它通过两种模态将经典命题与直觉问题结合起来，即问题 !A（“找到命题 A 的证明”）和命题 phi（“问题 phi 有解”）。我们赋予 HC 语言一种形式语义，其中的模态按字面意思解读：!A 的解是 A 在固定形式理论中的证明，?phi 表明 phi 有一个解，问题上的连接词被解释为 Kleene 可实现性。研究了三种变体：算术语义 I（PA 中的可证明性）、其外部版本 E（标准模型中的真理）以及 ZF 上的集合论语义 B，其中问题变量是“黑匣子”，并且可以使用它们上的量词 Pi。有效性被定义为存在可计算的统一解。我们确定哪些方案是有效的，根据三种语义构建 HCI、HCE、HCB 声音演算，并导出 Lob"
-    },
-    {
-      "id": "aabdabf646f4a5636c32",
-      "source_id": "arxiv-math-lo",
-      "source": "arXiv · 数理逻辑",
-      "title": "Higher derived limits, Kurepa families and Chang's Conjecture",
-      "url": "https://arxiv.org/abs/2611.18011",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "We investigate the interplay between homological algebra and combinatorial set theory, specifically focusing on the (non)vanishing of higher derived limits of certain inverse systems of abelian groups, denoted $\\mathbf C_{[\\kappa]^\\lambda}$, indexed by the ordered sets $([\\kappa]^{\\lambda},\\subseteq)$, where $\\lambda < \\kappa$ are infinite cardinals. Our first main result is a general structural theorem which provides a generalisation of Goblot's theorem to the setting of locally small directed sets. We then present the first systematic study of generalised cofinal Kurepa families. We establish their existence in the constructible universe $L$ and under specific cardinal arithmetic hypotheses. Then, we apply our structural result to show that $\\mathrm{lim}^{n+2} \\mathbf{C}_{[\\kappa]^{\\aleph_n}} = 0$ in environments where the appropriate cofinal Kurepa families exist. In contrast, we explore conditions that force these derived limits to be nonzero. In particular, we prove that certain instances of Chang's conjecture (CC), together with the existence of suitable $\\diamondsuit$ sequences, imply that $\\mathrm{lim}^{n+2} \\mathbf{C}_{[\\kapp",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Dianthe Basak, Matteo Casarosa, Chris Lambie-Hanson, Pedro Marun, Boban Velickovic, Alessandro Vignati",
-      "source_refs": [
-        {
-          "id": "arxiv-math-lo",
-          "name": "arXiv · 数理逻辑"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "更高的导出极限、Kurepa 族和张猜想",
-      "excerpt_zh": "我们研究同调代数和组合集合论之间的相互作用，特别关注某些阿贝尔群逆系统的更高导出极限的（不）消失，表示为 $\\mathbf C_{[\\kappa]^\\lambda}$，由有序集 $([\\kappa]^{\\lambda},\\subseteq)$ 索引，其中 $\\lambda < \\kappa$ 是无限基数。我们的第一个主要结果是一个一般结构定理，它将 Goblot 定理推广到局部小有向集的设置。然后，我们提出了对广义共尾库雷帕家族的第一个系统研究。我们在可构造宇宙 $L$ 和特定的基数算术假设下确定它们的存在。然后，我们应用我们的结构结果来表明，在存在适当的共尾 Kurepa 族的环境中，$\\mathrm{lim}^{n+2} \\mathbf{C}_{[\\kappa]^{\\aleph_n}} = 0$。相反，我们探索迫使这些导出的限制非零的条件。特别是，我们证明了 Chang 猜想 (CC) 的某些实例，以及合适的 $\\diamondsuit$ 序列的存在，意味着 $\\mathrm{lim}^{n+2} \\mathbf{C}_{[\\kapp"
-    },
-    {
-      "id": "060d702be8fcf8e5ef45",
-      "source_id": "arxiv-math-lo",
-      "source": "arXiv · 数理逻辑",
-      "title": "HOL in HOL: mechanized soundness, completeness and consistency, with and without infinity",
-      "url": "https://arxiv.org/abs/2611.17884",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "What can a logic certify about a copy of itself? For Church's simple theory of types, formalized as a deep embedding in Isabelle/HOL with Henkin semantics and a natural-deduction calculus, the answer has two tiers. On the first tier, plain Isabelle/HOL certifies the logic without an axiom of infinity, by a standard model with one individual. On the second tier, the logic with a Dedekind-style axiom of infinity is certified only in Isabelle/HOL extended by a large enough set-theoretic universe. Both tiers appear in Harrison's self-verification of HOL Light. What the present formalization adds is Henkin completeness, and with it a semantics that matches the calculus exactly, compactness and model existence on the first tier, and the boundary between the tiers. Comparing two ways of adding infinity to the object logic shows where the boundary lies. One is an infinite domain of individuals, expressed by the first-order sentences \"there are at least $n$ individuals\", each of which has a finite model; the other is the Dedekind axiom, a single sentence with no finite model, and there the first tier ends. In the calculus the axiom is strictly",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "formal",
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Christoph Benzm\\\"uller (Otto-Friedrich-Universit\\\"at Bamberg,Freie Universit\\\"at Berlin), Daniel Kirchner (Otto-Friedrich-Universit\\\"at Bamberg)",
-      "source_refs": [
-        {
-          "id": "arxiv-math-lo",
-          "name": "arXiv · 数理逻辑"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "HOL in HOL：机械化的健全性、完整性和一致性，有或没有无穷大",
-      "excerpt_zh": "逻辑可以证明其自身的副本是什么？对于 Church 的简单类型理论，形式化为具有 Henkin 语义和自然演绎演算的 Isabelle/HOL 的深度嵌入，答案有两层。在第一层，简单的 Isabelle/HOL 通过一个个体的标准模型来证明没有无穷大公理的逻辑。在第二层，具有戴德金式无穷大公理的逻辑仅在由足够大的集合论宇宙扩展的 Isabelle/HOL 中得到证明。这两层都出现在哈里森对 HOL Light 的自我验证中。目前的形式化增加的是亨金完备性，以及与微积分精确匹配的语义、第一层的紧凑性和模型存在性以及各层之间的边界。比较向对象逻辑添加无穷大的两种方法可以显示边界所在。一个是个体的无限域，用一阶句子“至少有$n$个个体”来表示，每个个体都有一个有限模型；另一个是戴德金公理，没有有限模型的单个句子，第一层到此结束。在微积分中，公理严格是"
-    },
-    {
-      "id": "0b4ff010ec61c3966a78",
-      "source_id": "arxiv-math-lo",
-      "source": "arXiv · 数理逻辑",
-      "title": "A large ultrafilter number at $\\aleph_\\omega$",
-      "url": "https://arxiv.org/abs/2611.17643",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "Gitik constructed a model where $\\aleph_\\omega$ is strong limit, $2^{\\aleph_\\omega}=\\aleph_{\\omega+2}$ and every strongly uniform ultrafilter on $\\aleph_\\omega$ has character $\\aleph_{\\omega+2}$. We show that in fact every uniform ultrafilter on $\\aleph_\\omega$ has character $\\aleph_{\\omega+2}$ in that model.",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Fanxin Wu",
-      "source_refs": [
-        {
-          "id": "arxiv-math-lo",
-          "name": "arXiv · 数理逻辑"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "$\\aleph_\\omega$ 处有大量超滤器",
-      "excerpt_zh": "Gitik 构建了一个模型，其中 $\\aleph_\\omega$ 为强极限，$2^{\\aleph_\\omega}=\\aleph_{\\omega+2}$ 并且 $\\aleph_\\omega$ 上的每个强均匀超滤器都有字符 $\\aleph_{\\omega+2}$。我们证明，实际上 $\\aleph_\\omega$ 上的每个均匀超滤器在该模型中都具有字符 $\\aleph_{\\omega+2}$。"
-    },
-    {
-      "id": "f0d32166a86d60011a05",
-      "source_id": "arxiv-math-lo",
-      "source": "arXiv · 数理逻辑",
-      "title": "Forcing global $\\Pi^2_n$ uniformization with or without projective determinacy",
-      "url": "https://arxiv.org/abs/2611.17475",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "We construct a set-forcing extension of $L$ which has the same reals as $L$ and satisfies the $\\Pi^2_n$-uniformization property for every $n\\geq1$. Assuming $\\omega$ Woodin cardinals and a measurable cardinal above them, we also obtain a forcing extension of $L(\\mathbb R)^{M_\\omega}$ which has the same reals and satisfies projective determinacy together with the $\\Pi^2_n$-uniformization property for every $n\\geq1$.",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Stefan Hoffelner",
-      "source_refs": [
-        {
-          "id": "arxiv-math-lo",
-          "name": "arXiv · 数理逻辑"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
-      "title_zh": "在有或没有投影确定性的情况下强制全局 $\\Pi^2_n$ 统一",
-      "excerpt_zh": "我们构造 $L$ 的集合强制扩展，它与 $L$ 具有相同的实数，并且满足每个 $n\\geq1$ 的 $\\Pi^2_n$ 统一属性。假设 $\\omega$ Woodin 基数和其上方的可测基数，我们还获得 $L(\\mathbb R)^{M_\\omega}$ 的强制扩展，它具有相同的实数，并满足每个 $n\\geq1$ 的投影确定性以及 $\\Pi^2_n$ 均匀化属性。"
     },
     {
       "id": "bb492d20a28d9c0fa443",
@@ -1804,153 +1574,6 @@
       "excerpt_zh": "本文的目的是表明，环的稳定模类别中弱生成元的存在，或者等效地，用 Holston 等人的术语来说，$p$-indigent 模的存在，取决于集合论的基础模型。"
     },
     {
-      "id": "8a5c1a78f21f4e4953ba",
-      "source_id": "arxiv-cs-ai",
-      "source": "arXiv · AI for Math · cs.AI",
-      "title": "Learn then Bet: Learning Interpretable Rules for Reliable Agent Intervention",
-      "url": "https://arxiv.org/abs/2611.17662",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "Autonomous agents now run for hundreds of steps with little or no human supervision. In practice, practitioners use runtime monitors such as turn limits and keyword filters to decide when a run should be stopped, upgraded, or assisted. However, these heuristics may stop runs that would otherwise succeed or allow failing runs to continue. To address this limitation, we introduce LeBet (Learn then Bet), a statistical learning framework that derives its learning objective from sufficient conditions for valid and powerful intervention. In particular, LeBet learns an interpretable OR-of-AND monitor and accumulates evidence through a fixed betting statistic, intervening when the evidence reaches a prescribed threshold. Under finite within-class exchangeability and leave-one-out stability, we derive finite-sample guarantees for false-positive control (validity) and detection power conditional on the training data, using the same trajectories for learning and calibration without assuming independent and identically distributed trajectories. To address the intractable combinatorial optimization problem in our learning formulation, we use stoch",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "ai_math"
-      ],
-      "content_type": "paper",
-      "priority": 78,
-      "recency_basis": "announced",
-      "authors": "You-Lin Chen, Xinyi Lisa Chen, Pedro Herrero-Vidal, Xiaojing Yu, Bingqing Song, Bin Xu",
-      "source_refs": [
-        {
-          "id": "arxiv-cs-ai",
-          "name": "arXiv · AI for Math · cs.AI"
-        }
-      ],
-      "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 95.5,
-      "title_zh": "学习然后投注：学习可解释的规则以进行可靠的代理干预",
-      "excerpt_zh": "自主代理现在可以在很少或没有人工监督的情况下运行数百步。在实践中，从业者使用运行时监视器（例如转弯限制和关键字过滤器）来决定何时应停止、升级或辅助运行。然而，这些启发式方法可能会停止本来会成功的运行，或者允许失败的运行继续。为了解决这一限制，我们引入了 LeBet（Learn then Bet），这是一种统计学习框架，它从有效且强有力的干预的充分条件中得出其学习目标。特别是，LeBet 学习可解释的 OR-of-AND 监控器，并通过固定的投注统计数据积累证据，当证据达到规定的阈值时进行干预。在有限的类内可交换性和留一稳定性下，我们以训练数据为条件得出假阳性控制（有效性）和检测能力的有限样本保证，使用相同的轨迹进行学习和校准，而不假设独立且同分布的轨迹。为了解决我们的学习公式中棘手的组合优化问题，我们使用 stoch"
-    },
-    {
-      "id": "cefa0baf06950ec3a252",
-      "source_id": "arxiv-cs-ai",
-      "source": "arXiv · AI for Math · cs.AI",
-      "title": "When Cooperation Must Change: Semantic Strategy Unlearning in Multi-Agent Reinforcement Learning",
-      "url": "https://arxiv.org/abs/2611.17917",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "Cooperative multi-agent reinforcement learning (MARL) supports coordinated decision-making in distributed Web services, multi-robot control, and collaborative games through learned coordination conventions. When deployment requirements change, a previously useful convention may become obsolete or unsafe. For example, revised cache-sharing permissions in Web content delivery may require caches to abandon a learned division of storage and serving roles while maintaining efficient delivery. Teams must therefore remove the specified convention while preserving useful cooperation. This is challenging because the same relational pattern can be reproduced by different agents across different histories. Runtime shielding leaves the underlying coordination preference intact and can impair task progress, while existing reinforcement unlearning and trajectory-deletion methods do not directly target role-invariant conventions. This paper formalizes this problem as semantic coordination-strategy unlearning and proposes CARVE.CARVE uses causal coordination attribution to identify influential interactions and retain-aware subspace updates to limit i",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "ai_math",
-        "formal"
-      ],
-      "content_type": "paper",
-      "priority": 78,
-      "recency_basis": "announced",
-      "authors": "Wenhan Wu, Linghan Chen, Yudong Gao, Fan Yang, Honglong Chen, Kai Yin, Jiawei Jiang, Chuang Hu",
-      "source_refs": [
-        {
-          "id": "arxiv-cs-ai",
-          "name": "arXiv · AI for Math · cs.AI"
-        }
-      ],
-      "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 95.5,
-      "title_zh": "当合作必须改变时：多智能体强化学习中的语义策略遗忘",
-      "excerpt_zh": "协作多智能体强化学习 (MARL) 通过学习的协调约定支持分布式 Web 服务、多机器人控制和协作游戏中的协调决策。当部署要求发生变化时，以前有用的约定可能会变得过时或不安全。例如，Web 内容交付中修改后的缓存共享权限可能要求缓存放弃已知的存储和服务角色划分，同时保持高效交付。因此，团队必须取消指定的约定，同时保留有用的合作。这是具有挑战性的，因为相同的关系模式可以由不同的代理在不同的历史中复制。运行时屏蔽使底层协调偏好完好无损，并可能损害任务进度，而现有的强化遗忘和轨迹删除方法并不直接针对角色不变约定。本文将这个问题形式化为语义协调策略遗忘，并提出了 CARVE。CARVE 使用因果协调归因来识别有影响力的交互，并使用保留感知子空间更新来限制 i"
-    },
-    {
-      "id": "f421d5f91a559ceb4e9e",
-      "source_id": "arxiv-cs-ai",
-      "source": "arXiv · AI for Math · cs.AI",
-      "title": "Large Language Model-Empowered Intelligent Agent for Adaptive Fast-Charging Control of Lithium-Ion Batteries",
-      "url": "https://arxiv.org/abs/2611.18140",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "Fast charging of lithium-ion batteries is a multi-objective control problem that requires reducing charging time and sustaining high energy throughput while suppressing accelerated degradation and safety-critical electrochemical reactions. Conventional protocols are easy to implement but have limited ability to adapt to variations in battery chemistry, operating conditions, and aging state. Model-based optimization and conventional data-driven control often require accurate models, costly iterative search, or task-specific policies. We develop a large language model (LLM)-empowered intelligent agent for adaptive battery fast-charging control. In this closed-loop framework, the agent interprets structured battery states, generates executable charging actions, observes the resulting battery response, and continuously adjusts subsequent decisions. We construct a large-scale simulation corpus with PyBaMM across five battery chemistries and 11 parameter sets and convert the resulting state-action-response trajectories into structured process data for agent training. Our two-stage strategy combines supervised fine-tuning (SFT) and Group Rel",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "ai_math"
-      ],
-      "content_type": "paper",
-      "priority": 78,
-      "recency_basis": "announced",
-      "authors": "Joey Chan, Haoyu Pan, Zhen Chen, ErShun Pan",
-      "source_refs": [
-        {
-          "id": "arxiv-cs-ai",
-          "name": "arXiv · AI for Math · cs.AI"
-        }
-      ],
-      "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 95.5,
-      "title_zh": "基于大语言模型的智能代理，用于锂离子电池的自适应快速充电控制",
-      "excerpt_zh": "锂离子电池的快速充电是一个多目标控制问题，需要减少充电时间并维持高能量吞吐量，同时抑制加速降解和安全关键的电化学反应。传统协议易于实施，但适应电池化学、操作条件和老化状态变化的能力有限。基于模型的优化和传统的数据驱动控制通常需要准确的模型、昂贵的迭代搜索或特定于任务的策略。我们开发了一种基于大语言模型（LLM）的智能代理，用于自适应电池快速充电控制。在这个闭环框架中，代理解释结构化的电池状态，生成可执行的充电操作，观察由此产生的电池响应，并不断调整后续决策。我们使用 PyBaMM 构建了一个涵盖 5 种电池化学成分和 11 个参数集的大规模模拟语料库，并将所得的状态-动作-响应轨迹转换为用于代理训练的结构化过程数据。我们的两阶段策略结合了监督微调（SFT）和 Group Rel"
-    },
-    {
-      "id": "0df2b0f7e58abf6aa9d8",
-      "source_id": "arxiv-cs-ai",
-      "source": "arXiv · AI for Math · cs.AI",
-      "title": "ARCHER: From Rationale Imitation to Executable Reasoning in Small Language Models",
-      "url": "https://arxiv.org/abs/2611.18494",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "Small language models are attractive for local, low-cost, and privacy-sensitive deployment, but they remain unreliable on mathematical reasoning tasks that require decomposition, exact computation, tool use, and verification. We introduce \\textbf{ARCHER}: \\textbf{A}ction-trace \\textbf{R}einforcement for \\textbf{C}alculator-grounded \\textbf{H}ierarchical \\textbf{E}xecutable \\textbf{R}easoning, a two-stage framework for training small language models (SLMs) to produce executable and auditable reasoning trajectories. In the first stage, ARCHER compiles free-form chain-of-thought rationales into typed action traces containing reasoning steps, calculator calls, deterministic runtime observations, verification actions, and final answers. This shifts the supervision target from imitating explanatory text to learning a tool-grounded reasoning policy. In the second stage, ARCHER refines this policy through asymmetric hierarchical reinforcement learning, using grouped and conditionally gated trajectory rewards for answer correctness, tool grounding, process discipline, and trace alignment. Across five standard sub-10B backbones, ARCHER improves",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "ai_math"
-      ],
-      "content_type": "paper",
-      "priority": 78,
-      "recency_basis": "announced",
-      "authors": "Dhruv Dixit, Khushi Patel, Congcong Xu, Min Song",
-      "source_refs": [
-        {
-          "id": "arxiv-cs-ai",
-          "name": "arXiv · AI for Math · cs.AI"
-        }
-      ],
-      "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 95.5,
-      "excerpt_zh": "小语言模型对于本地、低成本和隐私敏感的部署很有吸引力，但它们在需要分解、精确计算、工具使用和验证的数学推理任务上仍然不可靠。我们引入 \\textbf{ARCHER}：\\textbf{A}action-trace \\textbf{R} 增强 \\textbf{C} 计算器为基础的 \\textbf{H}ierarchical \\textbf{E}xecutable \\textbf{R}easoning，一个两阶段框架，用于训练小语言模型（SLM）以产生可执行和可审计的推理轨迹。 In the first stage, ARCHER compiles free-form chain-of-thought rationales into typed action traces containing reasoning steps, calculator calls, deterministic runtime observations, verification actions, and final answers.这将监督目标从模仿解释性文本转变为学习基于工具的推理策略。 In the second stage, ARCHER refines this policy through asymmetric hierarchical reinforcement learning, using grouped and conditionally gated trajectory rewards for answer correctness, tool grounding, process discipline, and trace alignment. ARCHER 在五个标准 sub-10B 主干网中进行了改进",
-      "title_zh": "ARCHER：从基本原理模仿到小语言模型中的可执行推理"
-    },
-    {
-      "id": "782d1b049c40245c833a",
-      "source_id": "arxiv-cs-ai",
-      "source": "arXiv · AI for Math · cs.AI",
-      "title": "Binarization as an Attack Surface in Weightless Neural Networks",
-      "url": "https://arxiv.org/abs/2611.17646",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "Weightless Neural Networks (WNNs) are lightweight classifiers that binarize their inputs and learn by storing binary patterns in lookup memories, which makes them attractive for resource-constrained tasks such as intrusion detection. Because a small perturbation that crosses no binarization threshold leaves the binary input unchanged, WNNs may appear naturally robust to adversarial examples; a perturbation that does cross a threshold, however, can still change the prediction. We study this tension in WiSARD, the canonical RAM-based WNN, and in two variants that replace its memories with Bloom filters, Bloom WiSARD and BTHOWeN. A continuous perturbation reaches these classifiers only by crossing an encoding threshold, changing at least one binary tuple, and redirecting a memory query; we formalize this mechanism with a threshold-crossing bound and a response-margin certificate for standard Boolean WiSARD. Controlled MNIST experiments compare linear and data-driven thermometer encodings under model-agnostic sensitivity probes, a score-based Simulated Annealing attack, and surrogate-transfer attacks. Changing only the encoding while ke",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "ai_math",
-        "formal"
-      ],
-      "content_type": "paper",
-      "priority": 78,
-      "recency_basis": "announced",
-      "authors": "Lucas Senos Coutinho, Matheus Vargas, Pedro Teixeira, Heudson Tosta Mirandola, Ori Rottenstreich, Priscila Machado Vieira Lima, Leandro Santiago, Daniel Sadoc Menasche",
-      "source_refs": [
-        {
-          "id": "arxiv-cs-ai",
-          "name": "arXiv · AI for Math · cs.AI"
-        }
-      ],
-      "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 95.5,
-      "title_zh": "二值化作为失重神经网络中的攻击面",
-      "excerpt_zh": "失重神经网络 (WNN) 是轻量级分类器，可对输入进行二值化，并通过在查找存储器中存储二进制模式来进行学习，这使得它们对于入侵检测等资源受限的任务很有吸引力。由于不跨越任何二值化阈值的小扰动会使二进制输入保持不变，因此 WNN 可能对对抗性示例表现出天然的鲁棒性； a perturbation that does cross a threshold, however, can still change the prediction.我们在 WiSARD（基于 RAM 的规范 WNN）以及用 Bloom 过滤器替换其内存的两个变体（Bloom WiSARD 和 BTHOWeN）中研究了这种张力。连续扰动仅通过跨越编码阈值、更改至少一个二进制元组以及重定向内存查询来到达这些分类器； we formalize this mechanism with a threshold-crossing bound and a response-margin certificate for standard Boolean WiSARD.受控 MNIST 实验比较了模型不可知敏感性探针、基于分数的模拟退火攻击和代理转移攻击下的线性和数据驱动的温度计编码。 ke 时仅更改编码"
-    },
-    {
       "id": "61e4d48ca81060479d57",
       "source_id": "arxiv-cs-lg",
       "source": "arXiv · AI for Math · cs.LG",
@@ -2418,13 +2041,391 @@
       "excerpt_zh": "Partial-prompt completion, where a model receives the first part of a benchmark problem and is checked for whether it reproduces the rest, is a widely used test for benchmark contamination.我们使用 MATH-500 和最近的 AIME 2025/2026 问题对七个开放权重模型进行了测试，这些模型作为真负数。 Memorization flags depend strongly on how much text remains: for every model, problems with at most 8 leftover words are flagged several times more often than problems with at least 25 (31.5% vs. 5.5% for Qwen2.5-7B-Instruct), and half to three-quarters of all ROUGE-based flags come from short leftovers. On true negatives, a ROUGE-L >= 0.75 threshold flags up to 6.7% of problems at a 60% prefix, and at an 80% prefix even exact match flags 8.6% (pooled over models; 6.2% on AIME 2026, which postdates every model), against 0% at 40-60%. The test also misses contamination upstream: models distilled from Qwen2.5-Math, whose base is heavily flagged in prior work, show almost no model-specific recall.根据其他系列的模型校准每个模型会删除大多数标志，同时隔离一致的 Qwen2.5 规范"
     },
     {
+      "id": "ec570dec895e66852ad9",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "Cover times of random recursive trees and linear preferential attachment trees",
+      "url": "https://arxiv.org/abs/2611.18353",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "We study the cover times of uniform random recursive trees and linear preferential attachment trees, including the negative-parameter models corresponding to random $d$-ary increasing trees. We prove explicit limits in probability and expectation when the cover times are rescaled by $n (\\log n)^2$. In particular, for the uniform random recursive tree the cover time is close to $e n (\\log n)^2$ with high probability.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Omer Angel , Christina Goldschmidt , Peleg Michaeli",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "title_zh": "随机递归树和线性优先附着树的覆盖次数",
+      "excerpt_zh": "我们研究均匀随机递归树和线性优先附着树的覆盖时间，包括与随机$d$元递增树相对应的负参数模型。当覆盖时间按 $n (\\log n)^2$ 重新调整时，我们证明了概率和期望的明确限制。特别是，对于均匀随机递归树，覆盖时间很有可能接近 $e n (\\log n)^2$。"
+    },
+    {
+      "id": "2a8b4ad9434d99ddbfb1",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "The speed of convergence for propagation of chaos in the mean-field Ising model",
+      "url": "https://arxiv.org/abs/2611.17911",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "We derive sharp relative-entropy asymptotics for increasing propagation of chaos in the Curie--Weiss model at zero external field. For every fixed inverse temperature $0<\\beta<1$, the relative entropy of a $k$-spin marginal with respect to the symmetric product measure is $$ \\frac{\\beta^2}{4(1-\\beta)^2}\\frac{k(k-1)}{N^2}+o\\left(\\frac{k^2}{N^2}\\right),\\qquad k=o(N). $$ At the critical inverse temperature $\\beta=1$, the rate changes to $\\alpha_{\\mathrm c}^2 k(k-1)/(4N)+o(k^2/N)$ in the regime $k=o(\\sqrt N)$, where $\\alpha_{\\mathrm c}$ is the second moment of the limiting quartic law of the rescaled magnetization. We also obtain asymptotics for sequences $\\beta_N\\uparrow1$ that interpolate between these two regimes. Crucially, the proof reveals that the pair correlations determine the leading correction to the likelihood ratio, providing precise control of both the chi-square divergence and relative entropy.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Jonas Jalowy , Matthias Löwe , Sara Terveer",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "title_zh": "平均场伊辛模型中混沌传播的收敛速度",
+      "excerpt_zh": "我们推导了尖锐的相对熵渐近论，以增加零外场下居里-韦斯模型中混沌的传播。对于每个固定逆温度 $0<\\beta<1$，$k$-自旋边际相对于对称乘积测度的相对熵为 $$ \\frac{\\beta^2}{4(1-\\beta)^2}\\frac{k(k-1)}{N^2}+o\\left(\\frac{k^2}{N^2}\\right),\\qquad k=o(N)。 $$在临界逆温度$\\beta=1$处，在$k=o(\\sqrt N)$范围内，速率变化为$\\alpha_{\\mathrm c}^2 k(k-1)/(4N)+o(k^2/N)$，其中$\\alpha_{\\mathrm c}$是重新调整磁化强度的极限四次定律的二阶矩。我们还获得了在这两种状态之间插值的序列 $\\beta_N\\uparrow1$ 的渐近。至关重要的是，证明表明配对相关性决定了似然比的主要修正，从而提供了对卡方散度和相对熵的精确控制。"
+    },
+    {
+      "id": "115405cf209a376603df",
+      "source_id": "arxiv-math-pr",
+      "source": "arXiv · 概率",
+      "title": "Ergodicity without monotonicity: patch-positive spin systems",
+      "url": "https://arxiv.org/abs/2611.17861",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Monotonicity is the standard tool for proving that an interacting particle system is ergodic. What can replace it when the system is not monotone and its invariant measure is unknown? The simplest such systems are kinetically constrained models such as FA-1f and East exposed to noise. In these models vacancies enable updates, so adding vacancies should help the system forget its initial state. We prove this for a broad class of spin systems, which we call patch-positive. If vacancies are created spontaneously at a uniformly positive rate, the system converges to the same equilibrium from a large class of initial states, and from every initial state if the threshold density is at most $\\tfrac12$ or the interactions are oriented. In particular, the East model with noise is ergodic at every density, and we obtain new cases of the positive-rates conjecture. The key idea is to compare the dual processes of the system with and without the added deaths.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Maciej Głuchowski , Georg Menz",
+      "source_refs": [
+        {
+          "id": "arxiv-math-pr",
+          "name": "arXiv · 概率"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "title_zh": "没有单调性的遍历性：补丁正自旋系统",
+      "excerpt_zh": "单调性是证明相互作用的粒子系统遍历的标准工具。当系统不是单调且其不变测度未知时，什么可以替代它？最简单的此类系统是动力学约束模型，例如暴露于噪声的 FA-1f 和 East。在这些模型中，空缺可以进行更新，因此添加空缺应该有助于系统忘记其初始状态。我们在一大类自旋系统中证明了这一点，我们称之为补丁正向的。如果空位以一致的正速率自发产生，则系统从一大类初始状态收敛到相同的平衡，并且如果阈值密度最多为 $\\tfrac12$ 或相互作用是定向的，则从每个初始状态收敛到相同的平衡。特别是，带有噪声的 East 模型在每个密度下都是遍历的，并且我们获得了正率猜想的新案例。关键思想是比较系统的双进程有和没有增加死亡的情况。"
+    },
+    {
+      "id": "9d56c84ff4ede4163c60",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "High-order IMEX local discontinuous Galerkin methods with sparse grids for high-dimensional nonlinear parabolic PDEs",
+      "url": "https://arxiv.org/abs/2611.18079",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "In this work, we develop a high-order IMEX-LDG scheme on sparse grids for solving nonlinear parabolic PDEs in moderate to high dimensions. The method combines the advantages of LDG methods for convection--diffusion problems, IMEX-RK time integrators for stiff systems, and sparse-grid techniques to mitigate the curse of dimensionality. The resulting scheme is fully parallelized in MPI, is robust, efficient, and scalable, making it suitable for a wide range of applications involving high-dimensional nonlinear parabolic PDEs.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Joel P. Villarino , Manuel J. Castro , J. A. García-Rodríguez , J. G. López-Salas",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "title_zh": "高维非线性抛物线偏微分方程的稀疏网格高阶 IMEX 局部不连续 Galerkin 方法",
+      "excerpt_zh": "在这项工作中，我们在稀疏网格上开发了一种高阶 IMEX-LDG 方案，用于求解中高维的非线性抛物线偏微分方程。该方法结合了用于对流扩散问题的 LDG 方法、用于刚性系统的 IMEX-RK 时间积分器以及用于减轻维数灾难的稀疏网格技术的优点。所得方案在 MPI 中完全并行化，具有鲁棒性、高效性和可扩展性，使其适用于涉及高维非线性抛物线偏微分方程的广泛应用。"
+    },
+    {
+      "id": "904362ab253b530bbadf",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "A Realizability-Based Kinetic-Fluid Domain Decomposition Method for Single-Temperature Gas Mixtures",
+      "url": "https://arxiv.org/abs/2611.18068",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "This paper introduces a domain-adaptive numerical method for multi-species kinetic models that relax toward a single-temperature and single-velocity hydrodynamic limit. To this end, we derive moment realizability matrices for this regime. In this way the ideas of Levermore, Morokoff, and Nadiga are extended to non-equilibrium mixtures in which inter-species and intra-species collisions occur at comparable rates, so that all species relax to a common velocity and a common temperature. The realizability conditions are used as an indicator to divide the computational domain, at each time step, into macroscopic and kinetic regions. In the kinetic regions, where the continuum description fails (e.g., across strong shocks, non-equilibrium interfaces, or kinetic boundary layers), the method solves the multi-species kinetic equations. Close to local thermodynamic equilibrium, the Euler equations of the mixture are solved instead. Confining the kinetic computations to the non-equilibrium regions reduces the simulation time, while the results remain close to those of the full kinetic solver. The method is discretized on Cartesian grids with hig",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Domenico Caparello , Lorenzo Pareschi , Thomas Rey",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "title_zh": "基于可实现性的单温气体混合物动流体域分解方法",
+      "excerpt_zh": "本文介绍了一种适用于多物种动力学模型的域自适应数值方法，该方法可以放松到单温度和单速度流体动力学极限。为此，我们推导出该机制的矩可实现矩阵。通过这种方式，Levermore、Morokoff 和 Nadiga 的想法被扩展到非平衡混合物，其中物种间和物种内碰撞以相当的速率发生，以便所有物种松弛到共同的速度和共同的温度。可实现性条件用作将每个时间步的计算域划分为宏观区域和动力学区域的指标。在连续统描述失败的动力学区域（例如，跨越强冲击、非平衡界面或动力学边界层），该方法求解多物种动力学方程。在接近局部热力学平衡时，求解混合物的欧拉方程。将动力学计算限制在非平衡区域可以减少模拟时间，同时结果仍然接近完整动力学求解器的结果。该方法在笛卡尔网格上进行离散化"
+    },
+    {
+      "id": "e8838b4758e8ded9f23d",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "A narrow band method for non-causal discretizations of anisotropic eikonal equations, with adaptive width, sub-and super-solution construction, and quasi-linear complexity",
+      "url": "https://arxiv.org/abs/2611.17947",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "We describe a narrow band method for numerically solving anisotropic eikonal equations, and more generally static first order Hamilton-Jacobi equations with possibly non-convex Hamiltonians, discretized using standard schemes (semi-Lagrangian, upwind-differences, Lax-Friedrichs). The causality property is not needed, in contrast with the fast marching method. The proposed approach simultaneously builds a numerical sub-solution u and super-solution u to the problem, and adapts the width of the narrow band based on their comparison. We prove that (1 + $\\epsilon$)u $\\ge$ u at termination, where $\\epsilon$ > 0 is any given tolerance parameter, and that the worst case complexity is O(N | ln $\\epsilon$| ln(N/$\\epsilon$)), where N denotes the number of discretization points, and the underlying constant is explicit in terms of those associated with the scheme properties. Numerical experiments illustrate our results.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Jean-Marie Mirebeau (CNRS, CB), Yanis Mouheb (CB, CEA/DAM)",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "title_zh": "一种用于各向异性征函方程非因果离散化的窄带方法，具有自适应宽度、子解和超解构造以及拟线性复杂度",
+      "excerpt_zh": "我们描述了一种窄带方法，用于数值求解各向异性随函方程，以及更一般的静态一阶 Hamilton-Jacobi 方程，可能具有非凸哈密顿量，使用标准方案（半拉格朗日、迎风差分、Lax-Friedrichs）进行离散化。与快速推进方法相比，不需要因果关系属性。所提出的方法同时构建问题的数值子解 u 和超级解 u，并根据它们的比较来调整窄带的宽度。我们证明终止时 (1 + $\\epsilon$)u $\\ge$ u ，其中 $\\epsilon$ > 0 是任何给定的容差参数，并且最坏情况复杂度为 O(N | ln $\\epsilon$| ln(N/$\\epsilon$))，其中 N 表示离散化点的数量，并且基础常数在与方案属性相关的方面是显式的。数值实验说明了我们的结果。"
+    },
+    {
+      "id": "e5b6c083a1b7f8891edd",
+      "source_id": "arxiv-math-na",
+      "source": "arXiv · 数值分析",
+      "title": "Compatible by Construction: Bottom-Up Nonlinear Model Reduction without Interface Bases",
+      "url": "https://arxiv.org/abs/2611.17773",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Nonlinear manifolds can provide compact representations of solutions to partial differential equations (PDEs), but generating training data and learning these representations on large domains remain costly. We present a bottom-up framework that reuses local nonlinear representations learned on a small training domain to solve larger PDE systems. A shared nonlinear decoder represents the full set of degrees of freedom owned by each subdomain, without separate interior and interface models. Each global degree of freedom has a unique owner, and local residuals directly use decoded state values from the corresponding neighboring subdomains. The resulting discrete state is single-valued by construction, eliminating the need for independent interface copies and additional interface compatibility constraints. Physical coupling is retained through the original time-discrete PDE residual. With the decoder held fixed, the subdomain-specific reduced coordinates are determined jointly by minimizing this residual, and the Gauss--Newton system is assembled from local contributions. Experiments on parameterized viscous Burgers and incompressible Nav",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Youngkyu Kim , Youngsoo Choi",
+      "source_refs": [
+        {
+          "id": "arxiv-math-na",
+          "name": "arXiv · 数值分析"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "title_zh": "结构兼容：自下而上的非线性模型简化，无需接口基础",
+      "excerpt_zh": "非线性流形可以提供偏微分方程 (PDE) 解的紧凑表示，但生成训练数据并在大域上学习这些表示仍然成本高昂。我们提出了一个自下而上的框架，该框架重用在小型训练域上学习的局部非线性表示来求解更大的偏微分方程系统。共享非线性解码器代表每个子域拥有的全套自由度，没有单独的内部和界面模型。每个全局自由度都有一个唯一的所有者，局部残差直接使用来自相应相邻子域的解码状态值。由此产生的离散状态在构造上是单值的，从而消除了对独立接口副本和额外接口兼容性约束的需要。通过原始时间离散 PDE 残差保留物理耦合。在解码器保持固定的情况下，通过最小化该残差来联合确定子域特定的简化坐标，并且高斯-牛顿系统由局部贡献组装而成。参数化粘性 Burgers 和不可压缩 Nav 的实验"
+    },
+    {
+      "id": "ac77abaff87ad1b39975",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "Self-Interpretations and Kraj\\'ı{č}ek-Theories",
+      "url": "https://arxiv.org/abs/2611.18383",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "We study self-interpretations of theories and their connection to Kraj\\'{\\i}\\v{c}ek-theories. Our two main results are the following. Firstly, if the self-interpretations of a theory form a group in the category ${\\sf INT}_3$ of theories and interpretations, then the theory is a Kraj\\'{\\i}\\v{c}ek-theory. Secondly, a sequential theory is a Kraj\\'{\\i}\\v{c}ek-theory iff all its self-interpretations are initial. Here initiality of the interpretation $K$ means roughly that its internal interpretations of the weak theory ${\\sf S}^1_2$ are initial in all interpretations of ${\\sf S}^1_2$.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Albert Visser",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "excerpt_zh": "我们研究理论的自我解释及其与 Kraj\\'{\\i}\\v{c}ek 理论的联系。我们的两个主要结果如下。首先，如果一个理论的自我解释形成理论和解释类别${\\sf INT}_3$中的一个组，那么该理论是一个Kraj\\'{\\i}\\v{c}ek理论。其次，序贯理论是一个 Kraj\\'{\\i}\\v{c}ek 理论，当且仅当它所有的自我解释都是初始的。这里解释$K$的初始性大致意味着它对弱理论${\\sf S}^1_2$的内部解释在${\\sf S}^1_2$的所有解释中都是初始的。",
+      "title_zh": "自我解释和克拉吉克理论"
+    },
+    {
+      "id": "7d8dcdf9de10bf92e7e8",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "Arithmetical and set-theoretic semantics of the logic of problems and propositions",
+      "url": "https://arxiv.org/abs/2611.18300",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Kolmogorov interpreted intuitionistic logic as a calculus of problems and later remarked that a complete treatment should deal with problems and propositions together. Melikhov's logic HC is such a joint two-sorted system: it combines classical propositions with intuitionistic problems by means of two modalities, the problem !A (``find a proof of the proposition A'') and the proposition phi (``the problem phi has a solution''). We give the language of HC a formal semantics in which the modalities are read literally: solutions of !A are proofs of A in a fixed formal theory, ?phi states that phi has a solution, and the connectives on problems are interpreted as in Kleene realizability. Three variants are studied: the arithmetical semantics I (provability in PA), its external version E (truth in the standard model), and the set-theoretic semantics B over ZF, where problem variables are ``black boxes'' and a quantifier Pi over them is available. Validity is defined as the existence of a computable uniform solution. We determine which schemes are valid, build calculi HCI, HCE, HCB sound with respect to the three semantics, and derive Lob's",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Anastasia Onoprienko , Nikolay Vereshchagin",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "title_zh": "问题和命题逻辑的算术和集合论语义",
+      "excerpt_zh": "柯尔莫哥洛夫将直觉逻辑解释为问题的演算，后来指出，完整的治疗应该同时处理问题和命题。梅利霍夫的逻辑 HC 就是这样一个联合二分类系统：它通过两种模态将经典命题与直觉问题结合起来，即问题 !A（“找到命题 A 的证明”）和命题 phi（“问题 phi 有解”）。我们赋予 HC 语言一种形式语义，其中的模态按字面意思解读：!A 的解是 A 在固定形式理论中的证明，?phi 表明 phi 有一个解，问题上的连接词被解释为 Kleene 可实现性。研究了三种变体：算术语义 I（PA 中的可证明性）、其外部版本 E（标准模型中的真理）以及 ZF 上的集合论语义 B，其中问题变量是“黑匣子”，并且可以使用它们上的量词 Pi。有效性被定义为存在可计算的统一解。我们确定哪些方案是有效的，根据三种语义构建 HCI、HCE、HCB 声音演算，并导出 Lob"
+    },
+    {
+      "id": "aabdabf646f4a5636c32",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "Higher derived limits, Kurepa families and Chang's Conjecture",
+      "url": "https://arxiv.org/abs/2611.18011",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "We investigate the interplay between homological algebra and combinatorial set theory, specifically focusing on the (non)vanishing of higher derived limits of certain inverse systems of abelian groups, denoted $\\mathbf C_{[\\kappa]^\\lambda}$, indexed by the ordered sets $([\\kappa]^{\\lambda},\\subseteq)$, where $\\lambda < \\kappa$ are infinite cardinals. Our first main result is a general structural theorem which provides a generalisation of Goblot's theorem to the setting of locally small directed sets. We then present the first systematic study of generalised cofinal Kurepa families. We establish their existence in the constructible universe $L$ and under specific cardinal arithmetic hypotheses. Then, we apply our structural result to show that $\\mathrm{lim}^{n+2} \\mathbf{C}_{[\\kappa]^{\\aleph_n}} = 0$ in environments where the appropriate cofinal Kurepa families exist. In contrast, we explore conditions that force these derived limits to be nonzero. In particular, we prove that certain instances of Chang's conjecture (CC), together with the existence of suitable $\\diamondsuit$ sequences, imply that $\\mathrm{lim}^{n+2} \\mathbf{C}_{[\\kapp",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Dianthe Basak , Matteo Casarosa , Chris Lambie-Hanson , Pedro Marun , Boban Velickovic , Alessandro Vignati",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "title_zh": "更高的导出极限、Kurepa 族和张猜想",
+      "excerpt_zh": "我们研究同调代数和组合集合论之间的相互作用，特别关注某些阿贝尔群逆系统的更高导出极限的（不）消失，表示为 $\\mathbf C_{[\\kappa]^\\lambda}$，由有序集 $([\\kappa]^{\\lambda},\\subseteq)$ 索引，其中 $\\lambda < \\kappa$ 是无限基数。我们的第一个主要结果是一个一般结构定理，它将 Goblot 定理推广到局部小有向集的设置。然后，我们提出了对广义共尾库雷帕家族的第一个系统研究。我们在可构造宇宙 $L$ 和特定的基数算术假设下确定它们的存在。然后，我们应用我们的结构结果来表明，在存在适当的共尾 Kurepa 族的环境中，$\\mathrm{lim}^{n+2} \\mathbf{C}_{[\\kappa]^{\\aleph_n}} = 0$。相反，我们探索迫使这些导出的限制非零的条件。特别是，我们证明了 Chang 猜想 (CC) 的某些实例，以及合适的 $\\diamondsuit$ 序列的存在，意味着 $\\mathrm{lim}^{n+2} \\mathbf{C}_{[\\kapp"
+    },
+    {
+      "id": "060d702be8fcf8e5ef45",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "HOL in HOL: mechanized soundness, completeness and consistency, with and without infinity",
+      "url": "https://arxiv.org/abs/2611.17884",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "What can a logic certify about a copy of itself? For Church's simple theory of types, formalized as a deep embedding in Isabelle/HOL with Henkin semantics and a natural-deduction calculus, the answer has two tiers. On the first tier, plain Isabelle/HOL certifies the logic without an axiom of infinity, by a standard model with one individual. On the second tier, the logic with a Dedekind-style axiom of infinity is certified only in Isabelle/HOL extended by a large enough set-theoretic universe. Both tiers appear in Harrison's self-verification of HOL Light. What the present formalization adds is Henkin completeness, and with it a semantics that matches the calculus exactly, compactness and model existence on the first tier, and the boundary between the tiers. Comparing two ways of adding infinity to the object logic shows where the boundary lies. One is an infinite domain of individuals, expressed by the first-order sentences \"there are at least $n$ individuals\", each of which has a finite model; the other is the Dedekind axiom, a single sentence with no finite model, and there the first tier ends. In the calculus the axiom is strictly",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "formal",
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Christoph Benzmüller (Otto-Friedrich-Universität Bamberg and Freie Universität Berlin), Daniel Kirchner (Otto-Friedrich-Universität Bamberg)",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "title_zh": "HOL in HOL：机械化的健全性、完整性和一致性，有或没有无穷大",
+      "excerpt_zh": "逻辑可以证明其自身的副本是什么？对于 Church 的简单类型理论，形式化为具有 Henkin 语义和自然演绎演算的 Isabelle/HOL 的深度嵌入，答案有两层。在第一层，简单的 Isabelle/HOL 通过一个个体的标准模型来证明没有无穷大公理的逻辑。在第二层，具有戴德金式无穷大公理的逻辑仅在由足够大的集合论宇宙扩展的 Isabelle/HOL 中得到证明。这两层都出现在哈里森对 HOL Light 的自我验证中。目前的形式化增加的是亨金完备性，以及与微积分精确匹配的语义、第一层的紧凑性和模型存在性以及各层之间的边界。比较向对象逻辑添加无穷大的两种方法可以显示边界所在。一个是个体的无限域，用一阶句子“至少有$n$个个体”来表示，每个个体都有一个有限模型；另一个是戴德金公理，没有有限模型的单个句子，第一层到此结束。在微积分中，公理严格是"
+    },
+    {
+      "id": "0b4ff010ec61c3966a78",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "A large ultrafilter number at $\\aleph_ω$",
+      "url": "https://arxiv.org/abs/2611.17643",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Gitik constructed a model where $\\aleph_\\omega$ is strong limit, $2^{\\aleph_\\omega}=\\aleph_{\\omega+2}$ and every strongly uniform ultrafilter on $\\aleph_\\omega$ has character $\\aleph_{\\omega+2}$. We show that in fact every uniform ultrafilter on $\\aleph_\\omega$ has character $\\aleph_{\\omega+2}$ in that model.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Fanxin Wu",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "excerpt_zh": "Gitik 构建了一个模型，其中 $\\aleph_\\omega$ 为强极限，$2^{\\aleph_\\omega}=\\aleph_{\\omega+2}$ 并且 $\\aleph_\\omega$ 上的每个强均匀超滤器都有字符 $\\aleph_{\\omega+2}$。我们证明，实际上 $\\aleph_\\omega$ 上的每个均匀超滤器在该模型中都具有字符 $\\aleph_{\\omega+2}$。",
+      "title_zh": "$\\aleph_ω$ 处有大量超滤器"
+    },
+    {
+      "id": "f0d32166a86d60011a05",
+      "source_id": "arxiv-math-lo",
+      "source": "arXiv · 数理逻辑",
+      "title": "Forcing global $Π^2_n$ uniformization with or without projective determinacy",
+      "url": "https://arxiv.org/abs/2611.17475",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "We construct a set-forcing extension of $L$ which has the same reals as $L$ and satisfies the $\\Pi^2_n$-uniformization property for every $n\\geq1$. Assuming $\\omega$ Woodin cardinals and a measurable cardinal above them, we also obtain a forcing extension of $L(\\mathbb R)^{M_\\omega}$ which has the same reals and satisfies projective determinacy together with the $\\Pi^2_n$-uniformization property for every $n\\geq1$.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Stefan Hoffelner",
+      "source_refs": [
+        {
+          "id": "arxiv-math-lo",
+          "name": "arXiv · 数理逻辑"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.0,
+      "excerpt_zh": "我们构造 $L$ 的集合强制扩展，它与 $L$ 具有相同的实数，并且满足每个 $n\\geq1$ 的 $\\Pi^2_n$ 统一属性。假设 $\\omega$ Woodin 基数和其上方的可测基数，我们还获得 $L(\\mathbb R)^{M_\\omega}$ 的强制扩展，它具有相同的实数，并满足每个 $n\\geq1$ 的投影确定性以及 $\\Pi^2_n$ 均匀化属性。",
+      "title_zh": "在有或没有投影确定性的情况下强制全局 $Π^2_n$ 统一"
+    },
+    {
       "id": "1fa1e1ceccc9bd8ce7e4",
       "source_id": "arxiv-math-nt",
       "source": "arXiv · 数论",
       "title": "Lower bounds on ranks of universal quadratic forms through geometry-of-numbers",
       "url": "https://arxiv.org/abs/2611.17965",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
       "excerpt": "We obtain lower bounds for the ranks of universal forms over totally real cubic fields using techniques from geometry-of-numbers and the parametrisation of cubic rings by binary cubics due to Delone--Faddeev. Additionally, our methods give lower bounds for totally real primitive fields of any degree with codifferent generated by a totally positive element.",
       "summary_kind": "source_excerpt",
       "domain": "mathematics",
@@ -2434,7 +2435,7 @@
       "content_type": "paper",
       "priority": 72,
       "recency_basis": "announced",
-      "authors": "Mart\\'i Oller",
+      "authors": "Martí Oller",
       "source_refs": [
         {
           "id": "arxiv-math-nt",
@@ -2442,7 +2443,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
+      "discovery_score": 89.0,
       "title_zh": "通过数几何的通用二次形式的等级下界",
       "excerpt_zh": "我们使用数字几何技术和 Delone-Faddeev 的二元三次立方环参数化技术，获得了完全实数立方域上的通用形式的等级下界。此外，我们的方法给出了任何程度的完全实数本原域的下界，并具有由完全正元素生成的余差。"
     },
@@ -2452,8 +2453,8 @@
       "source": "arXiv · 数论",
       "title": "Common values of linear recurrences related to Ankeny-Brauer-Chowla polynomials",
       "url": "https://arxiv.org/abs/2611.17962",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
       "excerpt": "Let $P_u(X)=XQ(X)(X-u)+1$, where $Q(X)\\in \\mathbb{Z}[X]$ is monic, separabel, has constant term $\\pm 1$, and degree $q\\ge 1$. Denote $(A_n(u))$ the linear recursive sequence having characteristic polynomial $P_u(X)$ and initial terms $A_0,\\ldots,A_{q+1}\\in \\mathbb{Z}$ such that at least one of them is non-zero. Then there exist effectively computable constants $n_0,u_0$ depending only on $Q(X)$ and $\\max\\{|A_0|,\\ldots, |A_{q+1}|\\}$ such that if $|A_n(u)| = |A_m(u)|$ holds for some integers $u,n,m$ with $u>u_0$ and $n\\not=m$ then $\\max\\{",
       "summary_kind": "source_excerpt",
       "domain": "mathematics",
@@ -2463,7 +2464,7 @@
       "content_type": "paper",
       "priority": 72,
       "recency_basis": "announced",
-      "authors": "Attila Peth\\H{o}",
+      "authors": "Attila Pethő",
       "source_refs": [
         {
           "id": "arxiv-math-nt",
@@ -2471,7 +2472,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.5,
+      "discovery_score": 89.0,
       "title_zh": "与 Ankeny-Brauer-Chowla 多项式相关的线性递推的常用值",
       "excerpt_zh": "设$P_u(X)=XQ(X)(X-u)+1$，其中$Q(X)\\in \\mathbb{Z}[X]$ 是单调的，分立式，常数项$\\pm 1$，度数$q\\ge 1$。表示 $(A_n(u))$ 具有特征多项式 $P_u(X)$ 和初始项 $A_0,\\ldots,A_{q+1}\\in \\mathbb{Z}$ 的线性递归序列，其中至少有一个非零。那么存在有效可计算常数 $n_0,u_0$ 仅取决于 $Q(X)$ 和 $\\max\\{|A_0|,\\ldots, |A_{q+1}|\\}$ 使得如果 $|A_n(u)| = |A_m(u)|$ 对于某些整数 $u,n,m$ 成立，其中 $u>u_0$ 且 $n\\not=m$ 则 $\\max\\{"
     },
@@ -2500,7 +2501,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "论赵有限多重zeta值的猜想基础",
       "excerpt_zh": "作者：关信一郎；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2529,7 +2530,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "关于单位圆盘外具有多个根的 Borwein 多项式",
       "excerpt_zh": "作者：Souad El Otmani、Musbahu Idris、Jean-Marc Sac-Epee；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2558,7 +2559,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "短二次指数和，主弧上有素数",
       "excerpt_zh": "作者：扎鲁洛·拉赫莫诺夫；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2587,7 +2588,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "基于非交换岩泽理论的 Chabauty--Kim 维数不等式",
       "excerpt_zh": "作者：萨尔·泽哈维；科目：数论（数学.NT）；代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2616,7 +2617,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "超奇异椭圆曲线总格的均匀分布",
       "excerpt_zh": "作者：Lam L. Pham；科目：数论（数学.NT）；代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2645,7 +2646,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "$\\ell$-正则过度分区的最小排除",
       "excerpt_zh": "作者：Sourav Bhowmick、Nabin Kumar Meher；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2674,7 +2675,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "双根无子字复合体的多面实现",
       "excerpt_zh": "作者：李子君；科目：组合学（math.CO）；表示论（数学.RT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2703,7 +2704,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "路径和循环的笛卡尔积的科恩·麦考利尼斯和布赫鲍姆尼斯",
       "excerpt_zh": "作者：比德万·查克拉博蒂；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2732,7 +2733,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "独立横截面的高效重构",
       "excerpt_zh": "作者：Sahab Hajebi、Penny Haxell；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2761,7 +2762,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "从对角线着色到区分相邻面部总和的正确顶点标签",
       "excerpt_zh": "作者：周国飞；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2790,7 +2791,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "相对于平均流量矩阵的共谱图的枚举",
       "excerpt_zh": "作者：乌萨马·瓦希德、纳维德·艾哈迈德·阿扎姆；科目：组合学（math.CO）；谱论（数学.SP）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2819,7 +2820,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "从 Butson Hadamard 切换到图形切换并返回",
       "excerpt_zh": "作者：Aida Abiad、Ronan Egan、Stef Mohnen；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2848,7 +2849,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "具有简单质因数的因式分解的莫比乌斯函数",
       "excerpt_zh": "作者：Madjid Mirzavaziri、Daniel Yaqubi；科目：组合学（math.CO）；数论（数学.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2877,7 +2878,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "达到 Haemers 韧性界限的图表",
       "excerpt_zh": "作者：李一凡、古正耀；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2906,7 +2907,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "论性状簇上同调的纯部分",
       "excerpt_zh": "作者：奥利维尔·希夫曼、埃里克·瓦瑟罗；科目：代数几何（math.AG）；表示论（数学.RT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2935,7 +2936,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "Behrend 函数的商公式",
       "excerpt_zh": "作者：Fatemeh Rezaee；科目：代数几何（math.AG）；交换代数（math.AC）；组合数学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2964,7 +2965,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "专业分级 Huber 对的 $\\operatorname{Proj}$ 结构",
       "excerpt_zh": "作者：迪米特里·戴恩；科目：代数几何（math.AG）；交换代数（math.AC）；数论（数学.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2993,7 +2994,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "最小体积的正则三倍模",
       "excerpt_zh": "作者：别品贤、杜培恩、于正杰；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3022,7 +3023,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "正特性曲线上半稳定抛物线连接的非交换霍奇对应",
       "excerpt_zh": "作者：沉诗雨;科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3051,7 +3052,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "改变当地积极性：从最低估值到非理性 Seshadri 常数",
       "excerpt_zh": "作者：Sönke Rollenske；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3080,7 +3081,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "正特征 $T$ 品种奇点的等变分辨率",
       "excerpt_zh": "作者：加里·马丁内斯-努内斯；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3109,7 +3110,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "自同构的动机不变量和平面克雷莫纳群",
       "excerpt_zh": "作者：Ran Azouri、Anubhav Nanavaty、Jesse Pajwani；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3138,7 +3139,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "不变性原理下随机平面地图上 DLA 的内径界限",
       "excerpt_zh": "作者：德文·米塔尔；科目：概率（数学.PR）；数学物理（数学-ph）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3167,7 +3168,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "交换过程中运动粒子引理的刚性",
       "excerpt_zh": "作者：Joe P. Chen；科目：概率（数学.PR）；数学物理（数学-ph）；组合数学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3196,7 +3197,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "具有奇异齐次核的 Marcus-Lushnikov 过程中可观测量向 Smoluchowski 的收敛率",
       "excerpt_zh": "作者：R{é}mi Catellier（UniCA、LJAD）、Sebastian Baudelet-Aponte Garcia；科目：概率（数学.PR）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3225,7 +3226,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "在定向景观中采取的道路",
       "excerpt_zh": "作者：Pranay Agarwal、Sourav Sarkar、Bálint Virág；科目：概率（数学.PR）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3254,7 +3255,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "具有弱斥力的平方贝塞尔粒子系统",
       "excerpt_zh": "作者：Julia Lenczewska、Jacek Małecki、Szymon Sołtysiak；科目：概率（数学.PR）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3284,7 +3285,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "基于分数的反应扩散神经常微分方程",
       "excerpt_zh": "作者：侯建国，李武辰；科目：数值分析（math.NA）；机器学习（cs.LG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3313,7 +3314,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "用于解决反问题的协方差矩阵的克罗内克近似",
       "excerpt_zh": "作者：Srijon Sarkar、Julianne Chung；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3342,7 +3343,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "非结构化网格上双曲色散浅水模型的熵稳定分裂策略",
       "excerpt_zh": "作者：Frédéric Couderc、Arnaud Duran、Maria Kazakova、Bastien Lombard、Pascal Noble、Rémy Baraille、Jean-Paul Vila；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3371,7 +3372,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "具有非线性和非局部漂移的耦合抛物线系统的保界有限体积方案",
       "excerpt_zh": "作者：Nicklas Jävergård、Adrian Muntean；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3400,7 +3401,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "没有自由格包含 FL(3) 副本的无限上升链",
       "excerpt_zh": "作者：威廉·德梅奥、拉尔夫·弗里斯；科目：环和代数（数学.RA）；计算机科学中的逻辑（cs.LO）；群论（数学.GR）；逻辑（数学.LO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3429,7 +3430,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.1,
+      "discovery_score": 89.0,
       "title_zh": "矩阵超乘积具有平凡的基本群",
       "excerpt_zh": "作者：安藤浩、艾萨克·戈德布林；科目：算子代数（math.OA）；逻辑（数学.LO）；表示论（数学.RT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3712,7 +3713,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 102.9,
+      "discovery_score": 102.8,
       "title_zh": "247A，注释 4：加权估计和伪微分算子",
       "excerpt_zh": "— 1. 加权不等式 — 在前面的注释中，我们在测度空间上采用了线性或次线性算子并建立了映射属性，例如 这些估计揭示了有关 的高度和宽度如何由 的高度和宽度控制的信息。然而，这些估计并没有表明[...]"
     },
@@ -5926,7 +5927,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 90.9,
+      "discovery_score": 90.8,
       "title_zh": "Ran Raz 60 岁生日：下界、随机性、空间复杂性和量子计算",
       "excerpt_zh": "Gil Cohen 和 Amir Shpilka 请我通过我的博客宣传 Ran Raz 60 岁生日的庆祝活动。 RR60 @ 特拉维夫大学 – 2026 年 12 月 27-29 日 这次会议（点击查看网站）汇集了研究人员…… 继续阅读 →"
     },
@@ -5983,7 +5984,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 91.6,
+      "discovery_score": 91.5,
       "title_zh": "使用 PDD Kit 正式验证代理编写的全栈 Web 应用程序",
       "excerpt_zh": "人工智能代理可以生成人类难以逐行检查的规模的代码。 PDD 套件通过创建正式规范并对其进行测试，帮助确保代码按照开发人员的预期进行。它将开发人员的意图转换为 Verus 规范，证明人工智能生成的代码满足每个输入的要求，并在证明不切实际的情况下使用测试。开发人员会审查意图，而不是每一行。使用 PDD Kit 正式验证代理编写的全栈 Web 应用程序一文首先出现在 Microsoft Research 上。"
     },
@@ -9357,7 +9358,7 @@
         }
       ],
       "first_seen_at": "2026-11-03T18:33:37.017335+00:00",
-      "discovery_score": 96.9,
+      "discovery_score": 96.8,
       "title_zh": "AHM 的博士生咨询指南",
       "excerpt_zh": "[这是 AHM 通讯小组的客座帖子。 — T.] 我们很高兴地宣布，人类数学协会的教学工作组针对院系、导师和学生撰写了一套关于博士生咨询的建议。该文件包含五项指导方针，重点是优先考虑人类撰写的写作，避免过度依赖[...]"
     },
@@ -11672,7 +11673,7 @@
         }
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
-      "discovery_score": 96.5,
+      "discovery_score": 96.4,
       "excerpt_zh": "“有充分的证据表明，人工智能已经解决了 IMO，能够输出在大多数或所有问题上得分 7 的 LaTeX，几乎保证了在那里和类似比赛中的最高荣誉。尽管如此，我在社区中看到的是，人工智能并没有对比赛或比赛准备产生有意义的影响。[...]”",
       "title_zh": "人工智能为奥学生做什么？"
     },
@@ -11700,7 +11701,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 91.5,
+      "discovery_score": 91.4,
       "title_zh": "Hopfield 模型在每个温度和负载比下的自由能",
       "excerpt_zh": "已证明 · 数学统计力学 · 使用 GPT 6 Astra，寓言 5.1 · 显着性 32/100。在 Hopfield 模型中，N 个自旋 \\sigma\\in\\{-1,1\\}^N 通过 M_N 个独立均匀 \\pm1 模式 x^1,\\ldots,x^{M_N} 相互作用，自由能 F_N(\\beta)=\\frac1N\\log\\int\\exp\\big(\\frac{\\beta}{2N}|X_N^\\top\\sigma|^2\\big)\\,dP_N(\\sigma)。在扩展存储体系 M_N/N\\to\\alpha\\in(0,\\infty) 中，Amit、Gutfreund 和 Sompolinsky 导出了复制相图 (1985-1987)，并且严格的结果 (Bovier, Gayrard, Picco; Pastur, Shcherbina, Tirozzi; Talagrand) 仅涵盖高温、小 α"
     },
@@ -11728,7 +11729,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 91.5,
+      "discovery_score": 91.4,
       "title_zh": "Mirković-Vilonen 和 theta 底相等（卡姆尼策猜想）",
       "excerpt_zh": "证明·几何表示论；簇代数 · 使用 ChatGPT-6-Pro（使用 Codex；由 Rethlas-OSV 审查） · 显着性 25/100。设 G 为连通复半单群，N 为最大单能子群。 \\mathbb{C}[N] 带有 Mirković-Vilonen (MV) 基，来自仿射 Grassmannian 中的 MV 循环，通过几何 Satake (Baumann-Kamnitzer-Knutson)，以及 Gross-Hacking-Keel-Kontsevich 的簇结构的 theta 基。 Kamnitzer 的 ICM 2022 报告以以下猜想结束其簇代数部分：\\mathbb{C}[N] 的 MV 和 theta 基重合。他们有吗？"
     },
@@ -11756,7 +11757,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 91.5,
+      "discovery_score": 91.4,
       "title_zh": "Rosenthal-Yuen 问题：unitaryQIP = unitaryPSPACE",
       "excerpt_zh": "证明·量子复杂性理论；单一合成 · 与 GPT-6 · 重要性 20/100。 Rosenthal 和 Yuen 引入了酉合成类 \\mathsf{unitaryQIP} （由多项式时间量子验证器与不受信任的证明者交互可合成的酉）和 \\mathsf{unitaryPSPACE} （可在多项式空间中实现的酉），并保留这两个包含项： \\mathsf{unitaryQIP} 中的每个 \\mathsf{unitaryPSPACE} 族都具有非平凡的完整性，并且健全性，并且每个 \\mathsf{unitaryQIP} 系列都可以通过空间均匀电路实现吗？ \\mathsf{unitaryQIP}=\\m 吗"
     },
@@ -11784,7 +11785,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 91.5,
+      "discovery_score": 91.4,
       "title_zh": "纯 S^1 谱的 A^1-同伦滑轮的莫雷尔纯度猜想",
       "excerpt_zh": "用 GPT-6 Astra 反驳了·代数 K 理论、动机同伦理论；克劳德作品 5.5 · 重要性 15/100。令 S 为有限克鲁尔维数的分离诺特格式。如果 S^1-谱位于 S 上的纯谱，则它位于稳定 \\mathbb A^1-同伦范畴的最小三角子范畴中，该范畴包含平滑射影 S-方案的悬置谱，并且在任意余积下闭合并回缩；如果 Zariski 和 Nisnevich 上同调一致并且上同调在一定程度上对删除高余维的闭子集不敏感，则称 \\mathrm{Sm}_S 上的 Nisnevich 束为纯。"
     },
@@ -15410,7 +15411,7 @@
         }
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
-      "discovery_score": 95.6,
+      "discovery_score": 95.5,
       "title_zh": "人工智能、数学、教育和公共产品问题",
       "excerpt_zh": "[这是 Gireeja Ranade 的客座文章。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 — T.] 纳维-斯托克斯结果公布的第二天，一名学生来到我的办公时间。他们说：“我们能谈谈纳维-斯托克斯结果及其含义吗？我 [...]"
     },
@@ -27411,7 +27412,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T12:49:13.427344+00:00",
-      "discovery_score": 94.2,
+      "discovery_score": 94.1,
       "title_zh": "未来的数学",
       "excerpt_zh": "“人工智能的快速进步正在改变研究，对于数学知识的增长来说，这是令人兴奋的。然而，对于我们的职业来说，这提出了关键问题：人类数学家会发挥作用吗？数学家应该如何接受培训和评估？[...]”"
     },
@@ -31744,7 +31745,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T02:51:58.185516+00:00",
-      "discovery_score": 94.0,
+      "discovery_score": 93.9,
       "title_zh": "西格尔零点不存在的证明草图",
       "excerpt_zh": "对于给定素数 ，勒让德符号定义如下： 如果 是二次余数模 ，则 ；如果 是二次非余数模 ，则 ;如果 相除，则 .设 是一个非完全平方数的整数。 （一个人可能需要成为一个基本的判别式，如果 [...]"
     },
