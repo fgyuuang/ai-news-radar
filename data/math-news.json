@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T02:35:27.873500+00:00",
+  "generated_at": "2026-11-17T03:05:36.488984+00:00",
   "window_hours": 168,
   "archive_days": 90,
   "ranking_policy": "Source priority plus recency; curated view balances topics and caps each source. Not popularity or proof verification.",
@@ -10,7 +10,7 @@
       "name": "Terence Tao — What’s New",
       "url": "https://terrytao.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "frontier"
       ],
@@ -19,7 +19,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-14T03:19:00+00:00",
       "note": null,
-      "duration_ms": 3735,
+      "duration_ms": 2846,
       "recent_count": 4
     },
     {
@@ -27,7 +27,7 @@
       "name": "Proofs and Prompts",
       "url": "https://proofsandprompts.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "ai_math"
       ],
@@ -36,7 +36,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-16T15:00:00+00:00",
       "note": null,
-      "duration_ms": 3715,
+      "duration_ms": 6991,
       "recent_count": 12
     },
     {
@@ -44,7 +44,7 @@
       "name": "VibeMathed",
       "url": "https://vibemathed.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "ai_math"
       ],
@@ -53,7 +53,7 @@
       "item_count": 30,
       "latest_published_at": "2026-11-11T12:00:00+00:00",
       "note": null,
-      "duration_ms": 6534,
+      "duration_ms": 1473,
       "recent_count": 3
     },
     {
@@ -61,15 +61,16 @@
       "name": "Gowers’s Weblog",
       "url": "https://gowers.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "frontier"
       ],
       "content_type": "blog",
-      "ok": false,
-      "item_count": 0,
-      "error": "ReadTimeout",
-      "duration_ms": 10031,
+      "ok": true,
+      "item_count": 25,
+      "latest_published_at": "2026-10-16T10:29:30+00:00",
+      "note": null,
+      "duration_ms": 3993,
       "recent_count": 0
     },
     {
@@ -77,7 +78,7 @@
       "name": "Xena Project",
       "url": "https://xenaproject.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "formal"
       ],
@@ -86,7 +87,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-12T00:50:07+00:00",
       "note": null,
-      "duration_ms": 3691,
+      "duration_ms": 3221,
       "recent_count": 2
     },
     {
@@ -94,7 +95,7 @@
       "name": "MathArena",
       "url": "https://matharena.ai/blogs",
       "method": "matharena",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "ai_math"
       ],
@@ -102,24 +103,25 @@
       "ok": false,
       "item_count": 0,
       "error": "ValueError",
-      "duration_ms": 7156,
+      "duration_ms": 6850,
       "recent_count": 0
     },
     {
       "id": "arxiv-math-nt",
       "name": "arXiv · 数论",
       "url": "https://arxiv.org/",
-      "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "method": "rss+dated_listing",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "frontier"
       ],
       "content_type": "paper",
+      "rss_error": "ReadTimeout",
       "ok": true,
       "item_count": 8,
-      "latest_published_at": "2026-11-16T05:00:00+00:00",
+      "latest_published_at": "2026-11-16T00:00:00+00:00",
       "note": null,
-      "duration_ms": 6981,
+      "duration_ms": 10906,
       "recent_count": 22
     },
     {
@@ -127,7 +129,7 @@
       "name": "arXiv · 组合数学",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "frontier"
       ],
@@ -136,7 +138,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-16T05:00:00+00:00",
       "note": null,
-      "duration_ms": 7592,
+      "duration_ms": 10228,
       "recent_count": 24
     },
     {
@@ -144,7 +146,7 @@
       "name": "arXiv · 代数几何",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "frontier"
       ],
@@ -153,7 +155,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-16T05:00:00+00:00",
       "note": null,
-      "duration_ms": 7071,
+      "duration_ms": 10777,
       "recent_count": 24
     },
     {
@@ -161,7 +163,7 @@
       "name": "arXiv · 概率",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "frontier"
       ],
@@ -170,7 +172,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-16T05:00:00+00:00",
       "note": null,
-      "duration_ms": 4864,
+      "duration_ms": 8978,
       "recent_count": 21
     },
     {
@@ -178,7 +180,7 @@
       "name": "arXiv · 数值分析",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "frontier"
       ],
@@ -187,7 +189,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-16T05:00:00+00:00",
       "note": null,
-      "duration_ms": 4059,
+      "duration_ms": 5895,
       "recent_count": 20
     },
     {
@@ -195,7 +197,7 @@
       "name": "arXiv · 数理逻辑",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "frontier"
       ],
@@ -204,7 +206,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-16T05:00:00+00:00",
       "note": null,
-      "duration_ms": 1404,
+      "duration_ms": 5423,
       "recent_count": 18
     },
     {
@@ -212,7 +214,7 @@
       "name": "arXiv · AI for Math · cs.AI",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "ai_math"
       ],
@@ -221,7 +223,7 @@
       "item_count": 5,
       "latest_published_at": "2026-11-16T05:00:00+00:00",
       "note": null,
-      "duration_ms": 9760,
+      "duration_ms": 3585,
       "recent_count": 6
     },
     {
@@ -229,7 +231,7 @@
       "name": "arXiv · AI for Math · cs.LG",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "ai_math"
       ],
@@ -238,7 +240,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-16T05:00:00+00:00",
       "note": null,
-      "duration_ms": 9679,
+      "duration_ms": 3940,
       "recent_count": 9
     },
     {
@@ -246,7 +248,7 @@
       "name": "arXiv · AI for Math · cs.CL",
       "url": "https://arxiv.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "ai_math"
       ],
@@ -255,7 +257,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-16T05:00:00+00:00",
       "note": null,
-      "duration_ms": 9287,
+      "duration_ms": 2063,
       "recent_count": 10
     },
     {
@@ -263,7 +265,7 @@
       "name": "Quanta · Mathematics",
       "url": "https://www.quantamagazine.org/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "frontier"
       ],
@@ -272,7 +274,7 @@
       "item_count": 5,
       "latest_published_at": "2026-10-26T14:54:29+00:00",
       "note": null,
-      "duration_ms": 5896,
+      "duration_ms": 956,
       "recent_count": 0
     },
     {
@@ -280,7 +282,7 @@
       "name": "Gil Kalai · Combinatorics and more",
       "url": "https://gilkalai.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "frontier"
       ],
@@ -289,7 +291,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-07T15:33:06+00:00",
       "note": null,
-      "duration_ms": 3290,
+      "duration_ms": 1915,
       "recent_count": 0
     },
     {
@@ -297,7 +299,7 @@
       "name": "Google DeepMind · 数学研究",
       "url": "https://deepmind.google/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "ai_math"
       ],
@@ -306,7 +308,7 @@
       "item_count": 4,
       "latest_published_at": "2026-11-10T12:02:28+00:00",
       "note": null,
-      "duration_ms": 2605,
+      "duration_ms": 1220,
       "recent_count": 1
     },
     {
@@ -314,7 +316,7 @@
       "name": "Google Research · 数学研究",
       "url": "https://research.google/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "ai_math"
       ],
@@ -323,7 +325,7 @@
       "item_count": 0,
       "latest_published_at": null,
       "note": "no_matching_updates",
-      "duration_ms": 1558,
+      "duration_ms": 6311,
       "recent_count": 0
     },
     {
@@ -331,7 +333,7 @@
       "name": "Microsoft Research · 数学与证明",
       "url": "https://www.microsoft.com/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "ai_math"
       ],
@@ -340,7 +342,7 @@
       "item_count": 3,
       "latest_published_at": "2026-11-12T21:31:57+00:00",
       "note": null,
-      "duration_ms": 5567,
+      "duration_ms": 7968,
       "recent_count": 1
     },
     {
@@ -348,7 +350,7 @@
       "name": "Lean 4 · Releases",
       "url": "https://github.com/leanprover/lean4/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "formal",
         "tools"
@@ -358,7 +360,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-16T16:38:45+00:00",
       "note": null,
-      "duration_ms": 1310,
+      "duration_ms": 1506,
       "recent_count": 1
     },
     {
@@ -366,17 +368,18 @@
       "name": "LeanDojo · Releases",
       "url": "https://github.com/lean-dojo/LeanDojo/",
       "method": "rss",
-      "checked_at": "2026-11-17T02:35:27.873500+00:00",
+      "checked_at": "2026-11-17T03:05:36.488984+00:00",
       "topics": [
         "formal",
         "tools",
         "ai_math"
       ],
       "content_type": "release",
-      "ok": false,
-      "item_count": 0,
-      "error": "ReadTimeout",
-      "duration_ms": 10016,
+      "ok": true,
+      "item_count": 10,
+      "latest_published_at": "2025-06-13T16:25:33+00:00",
+      "note": null,
+      "duration_ms": 2106,
       "recent_count": 0
     }
   ],
@@ -406,7 +409,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T14:05:38.191601+00:00",
-      "discovery_score": 100.9,
+      "discovery_score": 100.8,
       "title_zh": "v4.36.0",
       "excerpt_zh": "这是 Lean 的 v4.36.0 版本。查看发行说明以获取更多信息。"
     },
@@ -465,64 +468,6 @@
       "discovery_score": 108.4,
       "title_zh": "新型造纸厂的更新",
       "excerpt_zh": "关于国际数学联盟防止数学欺诈的建议。"
-    },
-    {
-      "id": "1fa1e1ceccc9bd8ce7e4",
-      "source_id": "arxiv-math-nt",
-      "source": "arXiv · 数论",
-      "title": "Lower bounds on ranks of universal quadratic forms through geometry-of-numbers",
-      "url": "https://arxiv.org/abs/2611.17965",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "We obtain lower bounds for the ranks of universal forms over totally real cubic fields using techniques from geometry-of-numbers and the parametrisation of cubic rings by binary cubics due to Delone--Faddeev. Additionally, our methods give lower bounds for totally real primitive fields of any degree with codifferent generated by a totally positive element.",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Mart\\'i Oller",
-      "source_refs": [
-        {
-          "id": "arxiv-math-nt",
-          "name": "arXiv · 数论"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.7,
-      "title_zh": "通过数几何的通用二次形式的等级下界",
-      "excerpt_zh": "我们使用数字几何技术和 Delone-Faddeev 的二元三次立方环参数化技术，获得了完全实数立方域上的通用形式的等级下界。此外，我们的方法给出了任何程度的完全实数本原域的下界，并具有由完全正元素生成的余差。"
-    },
-    {
-      "id": "f25911b102eda04271a7",
-      "source_id": "arxiv-math-nt",
-      "source": "arXiv · 数论",
-      "title": "Common values of linear recurrences related to Ankeny-Brauer-Chowla polynomials",
-      "url": "https://arxiv.org/abs/2611.17962",
-      "published_at": "2026-11-16T05:00:00+00:00",
-      "date_precision": "datetime",
-      "excerpt": "Let $P_u(X)=XQ(X)(X-u)+1$, where $Q(X)\\in \\mathbb{Z}[X]$ is monic, separabel, has constant term $\\pm 1$, and degree $q\\ge 1$. Denote $(A_n(u))$ the linear recursive sequence having characteristic polynomial $P_u(X)$ and initial terms $A_0,\\ldots,A_{q+1}\\in \\mathbb{Z}$ such that at least one of them is non-zero. Then there exist effectively computable constants $n_0,u_0$ depending only on $Q(X)$ and $\\max\\{|A_0|,\\ldots, |A_{q+1}|\\}$ such that if $|A_n(u)| = |A_m(u)|$ holds for some integers $u,n,m$ with $u>u_0$ and $n\\not=m$ then $\\max\\{",
-      "summary_kind": "source_excerpt",
-      "domain": "mathematics",
-      "topics": [
-        "frontier"
-      ],
-      "content_type": "paper",
-      "priority": 72,
-      "recency_basis": "announced",
-      "authors": "Attila Peth\\H{o}",
-      "source_refs": [
-        {
-          "id": "arxiv-math-nt",
-          "name": "arXiv · 数论"
-        }
-      ],
-      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.7,
-      "title_zh": "与 Ankeny-Brauer-Chowla 多项式相关的线性递推的常用值",
-      "excerpt_zh": "设$P_u(X)=XQ(X)(X-u)+1$，其中$Q(X)\\in \\mathbb{Z}[X]$ 是单调的，分立式，常数项$\\pm 1$，度数$q\\ge 1$。表示 $(A_n(u))$ 具有特征多项式 $P_u(X)$ 和初始项 $A_0,\\ldots,A_{q+1}\\in \\mathbb{Z}$ 的线性递归序列，其中至少有一个非零。那么存在有效可计算常数 $n_0,u_0$ 仅取决于 $Q(X)$ 和 $\\max\\{|A_0|,\\ldots, |A_{q+1}|\\}$ 使得如果 $|A_n(u)| = |A_m(u)|$ 对于某些整数 $u,n,m$ 成立，其中 $u>u_0$ 且 $n\\not=m$ 则 $\\max\\{"
     },
     {
       "id": "ec570dec895e66852ad9",
@@ -2475,6 +2420,64 @@
       "excerpt_zh": "Partial-prompt completion, where a model receives the first part of a benchmark problem and is checked for whether it reproduces the rest, is a widely used test for benchmark contamination.我们使用 MATH-500 和最近的 AIME 2025/2026 问题对七个开放权重模型进行了测试，这些模型作为真负数。 Memorization flags depend strongly on how much text remains: for every model, problems with at most 8 leftover words are flagged several times more often than problems with at least 25 (31.5% vs. 5.5% for Qwen2.5-7B-Instruct), and half to three-quarters of all ROUGE-based flags come from short leftovers. On true negatives, a ROUGE-L >= 0.75 threshold flags up to 6.7% of problems at a 60% prefix, and at an 80% prefix even exact match flags 8.6% (pooled over models; 6.2% on AIME 2026, which postdates every model), against 0% at 40-60%. The test also misses contamination upstream: models distilled from Qwen2.5-Math, whose base is heavily flagged in prior work, show almost no model-specific recall.根据其他系列的模型校准每个模型会删除大多数标志，同时隔离一致的 Qwen2.5 规范"
     },
     {
+      "id": "1fa1e1ceccc9bd8ce7e4",
+      "source_id": "arxiv-math-nt",
+      "source": "arXiv · 数论",
+      "title": "Lower bounds on ranks of universal quadratic forms through geometry-of-numbers",
+      "url": "https://arxiv.org/abs/2611.17965",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "We obtain lower bounds for the ranks of universal forms over totally real cubic fields using techniques from geometry-of-numbers and the parametrisation of cubic rings by binary cubics due to Delone--Faddeev. Additionally, our methods give lower bounds for totally real primitive fields of any degree with codifferent generated by a totally positive element.",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Martí Oller",
+      "source_refs": [
+        {
+          "id": "arxiv-math-nt",
+          "name": "arXiv · 数论"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.2,
+      "title_zh": "通过数几何的通用二次形式的等级下界",
+      "excerpt_zh": "我们使用数字几何技术和 Delone-Faddeev 的二元三次立方环参数化技术，获得了完全实数立方域上的通用形式的等级下界。此外，我们的方法给出了任何程度的完全实数本原域的下界，并具有由完全正元素生成的余差。"
+    },
+    {
+      "id": "f25911b102eda04271a7",
+      "source_id": "arxiv-math-nt",
+      "source": "arXiv · 数论",
+      "title": "Common values of linear recurrences related to Ankeny-Brauer-Chowla polynomials",
+      "url": "https://arxiv.org/abs/2611.17962",
+      "published_at": "2026-11-16T00:00:00+00:00",
+      "date_precision": "day",
+      "excerpt": "Let $P_u(X)=XQ(X)(X-u)+1$, where $Q(X)\\in \\mathbb{Z}[X]$ is monic, separabel, has constant term $\\pm 1$, and degree $q\\ge 1$. Denote $(A_n(u))$ the linear recursive sequence having characteristic polynomial $P_u(X)$ and initial terms $A_0,\\ldots,A_{q+1}\\in \\mathbb{Z}$ such that at least one of them is non-zero. Then there exist effectively computable constants $n_0,u_0$ depending only on $Q(X)$ and $\\max\\{|A_0|,\\ldots, |A_{q+1}|\\}$ such that if $|A_n(u)| = |A_m(u)|$ holds for some integers $u,n,m$ with $u>u_0$ and $n\\not=m$ then $\\max\\{",
+      "summary_kind": "source_excerpt",
+      "domain": "mathematics",
+      "topics": [
+        "frontier"
+      ],
+      "content_type": "paper",
+      "priority": 72,
+      "recency_basis": "announced",
+      "authors": "Attila Pethő",
+      "source_refs": [
+        {
+          "id": "arxiv-math-nt",
+          "name": "arXiv · 数论"
+        }
+      ],
+      "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
+      "discovery_score": 89.2,
+      "title_zh": "与 Ankeny-Brauer-Chowla 多项式相关的线性递推的常用值",
+      "excerpt_zh": "设$P_u(X)=XQ(X)(X-u)+1$，其中$Q(X)\\in \\mathbb{Z}[X]$ 是单调的，分立式，常数项$\\pm 1$，度数$q\\ge 1$。表示 $(A_n(u))$ 具有特征多项式 $P_u(X)$ 和初始项 $A_0,\\ldots,A_{q+1}\\in \\mathbb{Z}$ 的线性递归序列，其中至少有一个非零。那么存在有效可计算常数 $n_0,u_0$ 仅取决于 $Q(X)$ 和 $\\max\\{|A_0|,\\ldots, |A_{q+1}|\\}$ 使得如果 $|A_n(u)| = |A_m(u)|$ 对于某些整数 $u,n,m$ 成立，其中 $u>u_0$ 且 $n\\not=m$ 则 $\\max\\{"
+    },
+    {
       "id": "ce9c441992d436eb943c",
       "source_id": "arxiv-math-nt",
       "source": "arXiv · 数论",
@@ -2499,7 +2502,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "论赵有限多重zeta值的猜想基础",
       "excerpt_zh": "作者：关信一郎；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2528,7 +2531,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "关于单位圆盘外具有多个根的 Borwein 多项式",
       "excerpt_zh": "作者：Souad El Otmani、Musbahu Idris、Jean-Marc Sac-Epee；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2557,7 +2560,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "短二次指数和，主弧上有素数",
       "excerpt_zh": "作者：扎鲁洛·拉赫莫诺夫；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2586,7 +2589,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "基于非交换岩泽理论的 Chabauty--Kim 维数不等式",
       "excerpt_zh": "作者：萨尔·泽哈维；科目：数论（数学.NT）；代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2615,7 +2618,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "超奇异椭圆曲线总格的均匀分布",
       "excerpt_zh": "作者：Lam L. Pham；科目：数论（数学.NT）；代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2644,7 +2647,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "$\\ell$-正则过度分区的最小排除",
       "excerpt_zh": "作者：Sourav Bhowmick、Nabin Kumar Meher；科目：数论（math.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2673,7 +2676,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "双根无子字复合体的多面实现",
       "excerpt_zh": "作者：李子君；科目：组合学（math.CO）；表示论（数学.RT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2702,7 +2705,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "路径和循环的笛卡尔积的科恩·麦考利尼斯和布赫鲍姆尼斯",
       "excerpt_zh": "作者：比德万·查克拉博蒂；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2731,7 +2734,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "独立横截面的高效重构",
       "excerpt_zh": "作者：Sahab Hajebi、Penny Haxell；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2760,7 +2763,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "从对角线着色到区分相邻面部总和的正确顶点标签",
       "excerpt_zh": "作者：周国飞；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2789,7 +2792,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "相对于平均流量矩阵的共谱图的枚举",
       "excerpt_zh": "作者：乌萨马·瓦希德、纳维德·艾哈迈德·阿扎姆；科目：组合学（math.CO）；谱论（数学.SP）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2818,7 +2821,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "从 Butson Hadamard 切换到图形切换并返回",
       "excerpt_zh": "作者：Aida Abiad、Ronan Egan、Stef Mohnen；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2847,7 +2850,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "具有简单质因数的因式分解的莫比乌斯函数",
       "excerpt_zh": "作者：Madjid Mirzavaziri、Daniel Yaqubi；科目：组合学（math.CO）；数论（数学.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2876,7 +2879,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "达到 Haemers 韧性界限的图表",
       "excerpt_zh": "作者：李一凡、古正耀；科目：组合学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2905,7 +2908,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "论性状簇上同调的纯部分",
       "excerpt_zh": "作者：奥利维尔·希夫曼、埃里克·瓦瑟罗；科目：代数几何（math.AG）；表示论（数学.RT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2934,7 +2937,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "Behrend 函数的商公式",
       "excerpt_zh": "作者：Fatemeh Rezaee；科目：代数几何（math.AG）；交换代数（math.AC）；组合数学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2963,7 +2966,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "专业分级 Huber 对的 $\\operatorname{Proj}$ 结构",
       "excerpt_zh": "作者：迪米特里·戴恩；科目：代数几何（math.AG）；交换代数（math.AC）；数论（数学.NT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -2992,7 +2995,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "最小体积的正则三倍模",
       "excerpt_zh": "作者：别品贤、杜培恩、于正杰；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3021,7 +3024,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "正特性曲线上半稳定抛物线连接的非交换霍奇对应",
       "excerpt_zh": "作者：沉诗雨;科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3050,7 +3053,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "改变当地积极性：从最低估值到非理性 Seshadri 常数",
       "excerpt_zh": "作者：Sönke Rollenske；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3079,7 +3082,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "正特征 $T$ 品种奇点的等变分辨率",
       "excerpt_zh": "作者：加里·马丁内斯-努内斯；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3108,7 +3111,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "自同构的动机不变量和平面克雷莫纳群",
       "excerpt_zh": "作者：Ran Azouri、Anubhav Nanavaty、Jesse Pajwani；科目：代数几何（math.AG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3137,7 +3140,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "不变性原理下随机平面地图上 DLA 的内径界限",
       "excerpt_zh": "作者：德文·米塔尔；科目：概率（数学.PR）；数学物理（数学-ph）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3166,7 +3169,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "交换过程中运动粒子引理的刚性",
       "excerpt_zh": "作者：Joe P. Chen；科目：概率（数学.PR）；数学物理（数学-ph）；组合数学（math.CO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3195,7 +3198,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "具有奇异齐次核的 Marcus-Lushnikov 过程中可观测量向 Smoluchowski 的收敛率",
       "excerpt_zh": "作者：R{é}mi Catellier（UniCA、LJAD）、Sebastian Baudelet-Aponte Garcia；科目：概率（数学.PR）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3224,7 +3227,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "在定向景观中采取的道路",
       "excerpt_zh": "作者：Pranay Agarwal、Sourav Sarkar、Bálint Virág；科目：概率（数学.PR）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3253,7 +3256,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "具有弱斥力的平方贝塞尔粒子系统",
       "excerpt_zh": "作者：Julia Lenczewska、Jacek Małecki、Szymon Sołtysiak；科目：概率（数学.PR）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3283,7 +3286,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "基于分数的反应扩散神经常微分方程",
       "excerpt_zh": "作者：侯建国，李武辰；科目：数值分析（math.NA）；机器学习（cs.LG）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3312,7 +3315,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "用于解决反问题的协方差矩阵的克罗内克近似",
       "excerpt_zh": "作者：Srijon Sarkar、Julianne Chung；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3341,7 +3344,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "非结构化网格上双曲色散浅水模型的熵稳定分裂策略",
       "excerpt_zh": "作者：Frédéric Couderc、Arnaud Duran、Maria Kazakova、Bastien Lombard、Pascal Noble、Rémy Baraille、Jean-Paul Vila；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3370,7 +3373,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "具有非线性和非局部漂移的耦合抛物线系统的保界有限体积方案",
       "excerpt_zh": "作者：Nicklas Jävergård、Adrian Muntean；科目：数值分析（math.NA）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3399,7 +3402,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "没有自由格包含 FL(3) 副本的无限上升链",
       "excerpt_zh": "作者：威廉·德梅奥、拉尔夫·弗里斯；科目：环和代数（数学.RA）；计算机科学中的逻辑（cs.LO）；群论（数学.GR）；逻辑（数学.LO）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3428,7 +3431,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T04:33:39.876338+00:00",
-      "discovery_score": 89.3,
+      "discovery_score": 89.2,
       "title_zh": "矩阵超乘积具有平凡的基本群",
       "excerpt_zh": "作者：安藤浩、艾萨克·戈德布林；科目：算子代数（math.OA）；逻辑（数学.LO）；表示论（数学.RT）；此列表提供纸张元数据；打开原文查看摘要。"
     },
@@ -3484,7 +3487,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 106.3,
+      "discovery_score": 106.2,
       "title_zh": "你对一个混蛋做什么？",
       "excerpt_zh": "“这是一个思想实验。想象一下，一位非常资深的同事，被视为接近其领域的顶尖人物，以了解年轻研究人员正在研究的内容为己任，然后解决他们的问题。[...]”"
     },
@@ -3513,7 +3516,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 104.8,
+      "discovery_score": 104.7,
       "title_zh": "为什么正确答案还不够",
       "excerpt_zh": "“想象一下，人工智能系统提出了一个在多个地区之间分配公共服务的计划。根据该模型的假设和要求，没有其他允许的计划总体成本更低。这一结果的正式证明已经通过软件进行了检查。但一些地区的居民表示反对：他们将不得不等待太长时间才能获得该计划下的服务。[...]”"
     },
@@ -3541,7 +3544,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 104.6,
+      "discovery_score": 104.5,
       "title_zh": "我们怎么知道他们没有作弊？",
       "excerpt_zh": "如果代理人变得雄心勃勃，想要不惜一切代价完成任务，我们如何确定他们正在制作和验证的冗长且令人困惑的证据不会遭受某种黑客攻击，就像 HuggingFace 事件一样？"
     },
@@ -3627,7 +3630,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 103.4,
+      "discovery_score": 103.3,
       "title_zh": "人类怀疑论和形式验证",
       "excerpt_zh": "我相信在精益中得到验证的数学主张，但这基本上也是对权威的诉求。从方法论怀疑论的角度来看，我不知道 OpenAI 声称的结果是否真实，直到我研究了它们并亲自说服自己它们是真实的。"
     },
@@ -3711,7 +3714,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 103.0,
+      "discovery_score": 102.9,
       "title_zh": "247A，注释 4：加权估计和伪微分算子",
       "excerpt_zh": "— 1. 加权不等式 — 在前面的注释中，我们在测度空间上采用了线性或次线性算子并建立了映射属性，例如 这些估计揭示了有关 的高度和宽度如何由 的高度和宽度控制的信息。然而，这些估计并没有表明[...]"
     },
@@ -5304,7 +5307,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 102.1,
+      "discovery_score": 102.0,
       "title_zh": "与人工智能公司合作是一个失败的策略",
       "excerpt_zh": "我同意这值得一试，但与人工智能公司合作基本上没有给我们带来任何好处，现在是时候采取不同的方法了。"
     },
@@ -5333,7 +5336,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 101.7,
+      "discovery_score": 101.6,
       "title_zh": "精益魔法书",
       "excerpt_zh": "早在七月，我就开始尝试使用现代编码代理来构建许多数学可视化小程序。由于过去几个月发生的极其忙碌的事件，我不得不搁置这些项目；但我最近找到了一些时间来从事一个这样的项目，我已经开始了 […]"
     },
@@ -5445,7 +5448,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 100.9,
+      "discovery_score": 100.8,
       "title_zh": "数学的现代重组",
       "excerpt_zh": "[这几天大家都在做客座文章，所以这里有一篇关于韦尔猜想的文章（按字母顺序排列）：Bin Dong、Nailinguan、Jiedong Jiang、Ruuchuan Liu、Christian Merten、Xiangyu Pan、Tingxiao Shi、Bin Wu、Edison Xie 和 Wei Yang] 我们……继续阅读 →"
     },
@@ -5785,7 +5788,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 93.0,
+      "discovery_score": 92.9,
       "title_zh": "Smale 的平均值常数：它正好是 4 吗？",
       "excerpt_zh": "已证明 · 复杂分析 · 与 Claude 一起； ChatGPT（未说明版本）· 重要性 45/100。对于 d\\ge 2 次复数多项式 p(0)=0 且 p'(0)\\ne 0，设 S(p)=\\min_{p'(c)=0}|p(c)/(c\\,p'(0))|，并设 K(d) 为 S(p) 在所有此类 d 次 p 上的上确界。 Smale (1981) 证明了 K(d)\\le 4 对于每个 d 并询问 4 是否可以用 1 代替；这个观点在 2026 年被反驳了。Smale 的平均值常数 K^*=\\sup_{d\\ge2}K(d) 的确切值是多少？ Jatar 和 Ng (2026) 列出 K^*=4 是否为开。"
     },
@@ -5813,7 +5816,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 93.0,
+      "discovery_score": 92.9,
       "title_zh": "阿伦森-安拜尼斯猜想",
       "excerpt_zh": "已证明·布尔函数分析；量子查询复杂性 · 使用非公共人择模型（PSI 研究工具） · 重要性 45/100。令 p:\\mathbb R^N\\to\\mathbb R 为 d 次多项式，对于所有 X\\in\\{0,1\\}^N 和 \\mathbb E_X[(p(X)-\\mathbb E[p])^2]\\ge\\varepsilon，其值为 0\\le p(X)\\le1，其中 X 在 \\{0,1\\}^N 上均匀。 Aaronson 和 Ambainis 推测某个变量 i 会影响 \\mathrm{Inf}_i[p]=\\mathbb E_X[(p(X)-p(X^i))^2]\\ge(\\varepsilon/d)^{O(1)}，其中 X^i 是 X 位 i 翻转。他们表明，这意味着每个 T 查询量子算法都可以通过具有 \\mathrm{poly}(T"
     },
@@ -5841,7 +5844,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 93.0,
+      "discovery_score": 92.9,
       "title_zh": "Z丢番图在Q里吗？",
       "excerpt_zh": "已证明·丢番图可定义性·使用 GPT-6 Astra、GPT-6.1 Sol、Claude Opus 5.5；克劳德寓言 5.1 和 5.2 的审核 · 重要性 70/100。 Julia Robinson (1949) 表明 \\mathbb Z 在 \\mathbb Q 中是一阶可定义的，Koenigsmann 给出了一个通用定义，但存在性定义是否存在仍然悬而未决。是否存在一个多项式 P\\in\\mathbb Z[x,y_1,\\ldots,y_m] 使得对于每个 x\\in\\mathbb Q，x\\in\\mathbb Z 当且仅当对于某些 y\\in\\mathbb Q^m P(x,y)=0？ Mazur 1992 年关于有理点拓扑的猜想预测这样的 P 不存在；一个肯定的答案会反驳它，并且使用 Davis-Putnam-Robinson-Matiy"
     },
@@ -5869,7 +5872,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 93.0,
+      "discovery_score": 92.9,
       "title_zh": "k派假说",
       "excerpt_zh": "已被反驳 · 细粒度的复杂性 · 使用 ChatGPT-6 · 重要性 45/100。 Nesetril 和 Poljak (1985) 将 n 节点图中的 k-Clique 简化为 O(n^{k/3}) 节点图中的三角形检测，给出了 k 能被 3 整除的 n^{\\omega k/3+o(1)} 次算法，其中 omega 是方阵乘法的指数。 Woeginger (2004) 向算法设计者提出挑战，要求算法设计者在某些固定的 k 上击败这个算法，Abboud、Backurs 和 Vassilevska Williams 提出了 k-Clique 假设：在具有 O(\\log n) 位单词的字 RAM 模型中，对于可被 3 整除的 k，检测 n-no 中的 k-clique"
     },
@@ -5897,7 +5900,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 93.0,
+      "discovery_score": 92.9,
       "title_zh": "最优、确定性、多项式时间排序对手",
       "excerpt_zh": "经 GPT 6 Astra (Codex) 证明 · 重要性 15/100。排序对手在线回答排序算法的比较，如果其答案的每个有限序列都与某个全序一致，则该对手是合法的。 Atallah 和 Kosaraju (1981) 给出了一个有效的确定性对手，迫使每个正确的排序器进行 \\frac12 n\\log_2 n 比较，Kaplan、Zamir 和 Zwick (SODA 2019) 将其提升为 \\frac{37}{64}n\\log_2 n。 Kaplan、Zamir 和 Zwick 询问高效（多项式时间）确定性对手是否可以迫使 (1-\\varepsilon)n\\l"
     },
@@ -11811,7 +11814,7 @@
         }
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
-      "discovery_score": 96.5,
+      "discovery_score": 96.4,
       "excerpt_zh": "“我们很高兴地宣布，人类数学协会的教学工作组针对院系、导师和学生编写了一套关于博士生咨询的建议。该文件包含五项指导方针，重点是优先考虑人类撰写的写作、避免过度依赖人工智能、面对人工智能使用的道德问题、改善学生的福祉，以及如何实施这些建议的具体建议。[…]”",
       "title_zh": "AHM 的更新：博士生咨询指南"
     },
@@ -15068,7 +15071,7 @@
         }
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
-      "discovery_score": 96.3,
+      "discovery_score": 96.2,
       "title_zh": "阐述问题的协作工作组",
       "excerpt_zh": "对被抢先的恐惧导致未经修饰的预印本旨在要求优先权。对于关键结果的解释工作是否也会出现这种不良的插旗行为？从这个前提出发，这篇文章建议协作工作组提供更健康的前进方式。"
     },
@@ -18855,7 +18858,7 @@
         }
       ],
       "first_seen_at": "2026-10-28T02:41:12.504983+00:00",
-      "discovery_score": 95.2,
+      "discovery_score": 95.1,
       "title_zh": "拟黎曼假设",
       "excerpt_zh": "简单说明一下，Maksym Radziwill 明天将在 Courant 上发表关于拟黎曼假设的混合演讲。"
     },
@@ -27438,7 +27441,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 94.2,
+      "discovery_score": 94.1,
       "title_zh": "美丽与优雅的力量",
       "excerpt_zh": "机器拥有什么：海量的知识和强大的计算能力。人类拥有什么：对美丽和优雅的直觉。最终的问题是海量的知识和强大的计算能力是否会战胜人类的直觉。如果不是，我们只会面临一些重大变化。如果是的话，那么人类数学就会退化为奇异的艺术。"
     },
