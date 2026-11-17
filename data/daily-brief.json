@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T07:01:55.519757Z",
+  "generated_at": "2026-11-17T07:31:46.155966Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.869,
-      "importance": 0.869,
-      "importance_score": 0.869,
+      "score": 0.8679,
+      "importance": 0.8679,
+      "importance_score": 0.8679,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8166,
+        "recency": 0.8107,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8279,
+      "importance": 0.8279,
+      "importance_score": 0.8279,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8724,
+        "recency": 0.8662,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8048,
-      "importance": 0.8048,
-      "importance_score": 0.8048,
+      "score": 0.8037,
+      "importance": 0.8037,
+      "importance_score": 0.8037,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.782,
+        "recency": 0.7764,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,7 +328,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
+      }
+    },
+    {
+      "story_id": "story_49384d4c148d",
+      "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+      "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "primary_url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+          "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+          "title_zh": "利用人工智能加强北约和盟国的网络防御",
+          "title_en": "Strengthening NATO and allied cyber defenses with AI",
+          "title_original": "Strengthening NATO and allied cyber defenses with AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.897,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T00:00:00Z",
+      "latest_at": "2026-11-17T00:00:00Z",
+      "primary_item": {
+        "id": "6d35ceb02c57202992362041a28b11e244ae9c7d",
+        "title": "利用人工智能加强北约和盟国的网络防御 / Strengthening NATO and allied cyber defenses with AI",
+        "title_zh": "利用人工智能加强北约和盟国的网络防御",
+        "title_en": "Strengthening NATO and allied cyber defenses with AI",
+        "title_original": "Strengthening NATO and allied cyber defenses with AI",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/strengthening-nato-allied-cyber-defences-ai",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -380,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.827,
-      "importance": 0.827,
-      "importance_score": 0.827,
+      "score": 0.8258,
+      "importance": 0.8258,
+      "importance_score": 0.8258,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9055,
+        "recency": 0.899,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,94 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
-      }
-    },
-    {
-      "story_id": "story_720d3cffff4a",
-      "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-          "title_zh": "扩大科学家使用人工智能的机会",
-          "title_en": "Broadening access to AI for scientists",
-          "title_original": "Broadening access to AI for scientists",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-          "title_zh": "扩大科学家使用人工智能的机会",
-          "title_en": "Broadening access to AI for scientists",
-          "title_original": "Broadening access to AI for scientists",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T17:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8166,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T17:00:00Z",
-      "latest_at": "2026-11-16T17:00:00Z",
-      "primary_item": {
-        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
-        "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
-        "title_zh": "扩大科学家使用人工智能的机会",
-        "title_en": "Broadening access to AI for scientists",
-        "title_original": "Broadening access to AI for scientists",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -554,15 +554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8264,
-      "importance": 0.8264,
-      "importance_score": 0.8264,
+      "score": 0.8253,
+      "importance": 0.8253,
+      "importance_score": 0.8253,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8579,
+        "recency": 0.8518,
         "story_heat": 0.0
       },
       "category": "official",
@@ -589,7 +589,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -641,15 +641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -675,30 +675,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
-      "story_id": "story_83c01ad63559",
-      "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-      "url": "https://openai.com/index/science-at-the-frontier",
-      "primary_url": "https://openai.com/index/science-at-the-frontier",
+      "story_id": "story_720d3cffff4a",
+      "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+      "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
+      "primary_url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-          "title_en": "Science at the Frontier: How scientists use ChatGPT",
-          "title_original": "Science at the Frontier: How scientists use ChatGPT",
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "title_zh": "扩大科学家使用人工智能的机会",
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/science-at-the-frontier",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T12:00:00Z",
+          "published_at": "2026-11-16T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -709,33 +709,33 @@
       ],
       "items": [
         {
-          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-          "title_en": "Science at the Frontier: How scientists use ChatGPT",
-          "title_original": "Science at the Frontier: How scientists use ChatGPT",
+          "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+          "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+          "title_zh": "扩大科学家使用人工智能的机会",
+          "title_en": "Broadening access to AI for scientists",
+          "title_original": "Broadening access to AI for scientists",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/science-at-the-frontier",
+          "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T12:00:00Z",
+          "published_at": "2026-11-16T17:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8167,
-      "importance": 0.8167,
-      "importance_score": 0.8167,
+      "score": 0.8179,
+      "importance": 0.8179,
+      "importance_score": 0.8179,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7597,
+        "ai_relevance": 0.91,
+        "recency": 0.8107,
         "story_heat": 0.0
       },
       "category": "official",
@@ -744,17 +744,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T12:00:00Z",
-      "latest_at": "2026-11-16T12:00:00Z",
+      "earliest_at": "2026-11-16T17:00:00Z",
+      "latest_at": "2026-11-16T17:00:00Z",
       "primary_item": {
-        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
-        "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
-        "title_zh": "前沿科学：科学家如何使用 ChatGPT",
-        "title_en": "Science at the Frontier: How scientists use ChatGPT",
-        "title_original": "Science at the Frontier: How scientists use ChatGPT",
+        "id": "3b301029bfd439fb8609fe9d109687afc3160535",
+        "title": "扩大科学家使用人工智能的机会 / Broadening access to AI for scientists",
+        "title_zh": "扩大科学家使用人工智能的机会",
+        "title_en": "Broadening access to AI for scientists",
+        "title_original": "Broadening access to AI for scientists",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/science-at-the-frontier",
+        "url": "https://openai.com/index/expanding-chatgpt-for-academic-researchers",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -762,7 +762,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -814,15 +814,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8251,
-      "importance": 0.8251,
-      "importance_score": 0.8251,
+      "score": 0.824,
+      "importance": 0.824,
+      "importance_score": 0.824,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8504,
+        "recency": 0.8443,
         "story_heat": 0.0
       },
       "category": "official",
@@ -849,7 +849,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -901,15 +901,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9856,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -935,30 +935,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
-      "story_id": "story_36b60329478e",
-      "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-      "url": "https://openai.com/index/lvmh-media-division-partnership",
-      "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
+      "story_id": "story_83c01ad63559",
+      "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+      "url": "https://openai.com/index/science-at-the-frontier",
+      "primary_url": "https://openai.com/index/science-at-the-frontier",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
+          "title_en": "Science at the Frontier: How scientists use ChatGPT",
+          "title_original": "Science at the Frontier: How scientists use ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "url": "https://openai.com/index/science-at-the-frontier",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T09:00:00Z",
+          "published_at": "2026-11-16T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -969,33 +969,33 @@
       ],
       "items": [
         {
-          "id": "c857cb04056a67136a815d45c5da94457b53c014",
-          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+          "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+          "title_zh": "前沿科学：科学家如何使用 ChatGPT",
+          "title_en": "Science at the Frontier: How scientists use ChatGPT",
+          "title_original": "Science at the Frontier: How scientists use ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/lvmh-media-division-partnership",
+          "url": "https://openai.com/index/science-at-the-frontier",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T09:00:00Z",
+          "published_at": "2026-11-16T12:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8089,
-      "importance": 0.8089,
-      "importance_score": 0.8089,
+      "score": 0.8158,
+      "importance": 0.8158,
+      "importance_score": 0.8158,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7275,
+        "ai_relevance": 0.95,
+        "recency": 0.7543,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1004,17 +1004,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T09:00:00Z",
-      "latest_at": "2026-11-16T09:00:00Z",
+      "earliest_at": "2026-11-16T12:00:00Z",
+      "latest_at": "2026-11-16T12:00:00Z",
       "primary_item": {
-        "id": "c857cb04056a67136a815d45c5da94457b53c014",
-        "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
-        "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
-        "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "id": "e6fdec1c7f79240833026f343cfa1a1a499b5052",
+        "title": "前沿科学：科学家如何使用 ChatGPT / Science at the Frontier: How scientists use ChatGPT",
+        "title_zh": "前沿科学：科学家如何使用 ChatGPT",
+        "title_en": "Science at the Frontier: How scientists use ChatGPT",
+        "title_original": "Science at the Frontier: How scientists use ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/lvmh-media-division-partnership",
+        "url": "https://openai.com/index/science-at-the-frontier",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1022,7 +1022,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -1074,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
+      "score": 0.8198,
+      "importance": 0.8198,
+      "importance_score": 0.8198,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8716,
+        "recency": 0.8653,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1109,7 +1109,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -1161,15 +1161,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1195,30 +1195,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
-      "story_id": "story_52922842e062",
-      "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-      "url": "https://openai.com/business/customer-stories/revolut",
-      "primary_url": "https://openai.com/business/customer-stories/revolut",
+      "story_id": "story_36b60329478e",
+      "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+      "url": "https://openai.com/index/lvmh-media-division-partnership",
+      "primary_url": "https://openai.com/index/lvmh-media-division-partnership",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-          "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-          "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
-          "title_en": "How Revolut raises ambition without lowering the bar",
-          "title_original": "How Revolut raises ambition without lowering the bar",
+          "id": "c857cb04056a67136a815d45c5da94457b53c014",
+          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
+          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/revolut",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T09:30:00Z",
+          "published_at": "2026-11-16T09:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1229,33 +1229,33 @@
       ],
       "items": [
         {
-          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-          "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-          "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
-          "title_en": "How Revolut raises ambition without lowering the bar",
-          "title_original": "How Revolut raises ambition without lowering the bar",
+          "id": "c857cb04056a67136a815d45c5da94457b53c014",
+          "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
+          "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+          "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/business/customer-stories/revolut",
+          "url": "https://openai.com/index/lvmh-media-division-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T09:30:00Z",
+          "published_at": "2026-11-16T09:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.808,
+      "importance": 0.808,
+      "importance_score": 0.808,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7328,
+        "ai_relevance": 0.94,
+        "recency": 0.7223,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1264,17 +1264,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T09:30:00Z",
-      "latest_at": "2026-11-16T09:30:00Z",
+      "earliest_at": "2026-11-16T09:00:00Z",
+      "latest_at": "2026-11-16T09:00:00Z",
       "primary_item": {
-        "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
-        "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
-        "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
-        "title_en": "How Revolut raises ambition without lowering the bar",
-        "title_original": "How Revolut raises ambition without lowering the bar",
+        "id": "c857cb04056a67136a815d45c5da94457b53c014",
+        "title": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系 / LVMH’s Media Division announces strategic partnership with OpenAI",
+        "title_zh": "LVMH 媒体部门宣布与 OpenAI 建立战略合作伙伴关系",
+        "title_en": "LVMH’s Media Division announces strategic partnership with OpenAI",
+        "title_original": "LVMH’s Media Division announces strategic partnership with OpenAI",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/business/customer-stories/revolut",
+        "url": "https://openai.com/index/lvmh-media-division-partnership",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1282,7 +1282,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -1334,15 +1334,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1368,7 +1368,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -1420,15 +1420,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8161,
-      "importance": 0.8161,
-      "importance_score": 0.8161,
+      "score": 0.815,
+      "importance": 0.815,
+      "importance_score": 0.815,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8452,
+        "recency": 0.8391,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1455,7 +1455,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
+      }
+    },
+    {
+      "story_id": "story_52922842e062",
+      "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
+      "url": "https://openai.com/business/customer-stories/revolut",
+      "primary_url": "https://openai.com/business/customer-stories/revolut",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
+          "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
+          "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
+          "title_en": "How Revolut raises ambition without lowering the bar",
+          "title_original": "How Revolut raises ambition without lowering the bar",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/revolut",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T09:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
+          "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
+          "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
+          "title_en": "How Revolut raises ambition without lowering the bar",
+          "title_original": "How Revolut raises ambition without lowering the bar",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/customer-stories/revolut",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T09:30:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7275,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T09:30:00Z",
+      "latest_at": "2026-11-16T09:30:00Z",
+      "primary_item": {
+        "id": "13abb8efcd54e03d09e645d1cb23dc3f65b1cd0b",
+        "title": "Revolut 如何在不降低标准的情况下提高雄心 / How Revolut raises ambition without lowering the bar",
+        "title_zh": "Revolut 如何在不降低标准的情况下提高雄心",
+        "title_en": "How Revolut raises ambition without lowering the bar",
+        "title_original": "How Revolut raises ambition without lowering the bar",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/customer-stories/revolut",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -1573,15 +1660,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.642,
-      "importance": 0.642,
-      "importance_score": 0.642,
+      "score": 0.641,
+      "importance": 0.641,
+      "importance_score": 0.641,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8238,
+        "recency": 0.8179,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1606,7 +1693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -1658,15 +1745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9438,
+        "recency": 0.9371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1692,7 +1779,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     },
     {
@@ -1744,15 +1831,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8085,
-      "importance": 0.8085,
-      "importance_score": 0.8085,
+      "score": 0.8075,
+      "importance": 0.8075,
+      "importance_score": 0.8075,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.803,
+        "recency": 0.7973,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1779,93 +1866,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
-      }
-    },
-    {
-      "story_id": "story_5b7e07ae524c",
-      "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-      "url": "https://www.aibase.com/news/32350",
-      "primary_url": "https://www.aibase.com/news/32350",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-          "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_en": null,
-          "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32350",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T02:31:45.426881Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-          "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "title_en": null,
-          "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32350",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-17T02:31:45.426881Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.937,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T02:31:45.426881Z",
-      "latest_at": "2026-11-17T02:31:45.426881Z",
-      "primary_item": {
-        "id": "48290e034964fbc71a20380da16221a817ae8ecc",
-        "title": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-        "title_zh": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-        "title_en": null,
-        "title_original": "Gemini Notebook上线网站生成功能，支持一句话创建互动网页",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32350",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T07:08:30.074880Z"
+        "scored_at": "2026-11-17T07:37:17.584539Z"
       }
     }
   ]
