@@ -1,39 +1,27 @@
 {
   "schema_version": 1,
   "provider": "codex-cli",
-  "model": "codex-native-scheduled-task",
-  "generated_at": "2026-11-16T01:04:22.437473+00:00",
+  "model": "gpt-6-luna",
+  "generated_at": "2026-11-17T01:02:06.291909+00:00",
   "selected_keys": [
-    "c3d2ece6c950857f6dd7b20a",
-    "ca328f94d84a2aaef0c74817",
-    "354694f7d6e111a87c9d5857",
-    "831e1309346c3ad8ed0ac6a4",
-    "3c7bef84770c0737f87d5f01",
-    "21c98be4f3798e3cfb932d47",
-    "18961afc07941b34824d386f",
-    "207455206e11af2c436fcd9b",
-    "9ad8d4633bd2cd872151372c",
-    "e322b0ecb3f8580f011056da",
-    "eea7b6871c13c425550b1743",
-    "a42f1c1901c3577eeabba4e5",
-    "a5761d6be16943c5a88b603c",
-    "685a8368fec4e99a51cd1fb9",
-    "2b0bf52cd24e1aafe877d871",
-    "73dd4b608132649bff9f8ed8",
-    "178bea6711f44fe953bc4567",
-    "c1f038d3f5ce51a5ae15b8d6",
-    "45aa40407daeaf51defbaea1",
-    "33eff24c65b033980988162e",
-    "950f296634da6b794bc78484",
-    "1ae9037be115421157d6ae87",
-    "99bea93d6b50ce012b28cc50",
-    "fc964741cb7af4efc4541b6e",
-    "b753ce4258c01190917e3577",
-    "c4ce4eebfa0aaa845a740582",
-    "9b3329a6a9bc5e3a7a6c5c06",
-    "32d2cdc9ae741017bf57b6ce",
-    "0d6f4bef291883fd26c72059",
-    "b9af830acfe58cb92a919adb"
+    "c82740ded5a190e309535a24",
+    "4b9aeab7a14255104f52f5f4",
+    "2798d72cd4a4d7aed2225451",
+    "f3cb23b97d42437ec5b3c126",
+    "317acb24c469dc187797ef1f",
+    "4b1e9120d56cb2f65a96c32d",
+    "d107a14cc73d24ce7031b7ce",
+    "297be4c75e30aa38bc4e1fa5",
+    "61d62f5c54231fc24357fa7d",
+    "76e176d9dfcfb9da70164a43",
+    "90b4c30b9c1f6b1a9ba63545",
+    "ea36ad6d0680ec461aacea18",
+    "320b4ca75d1f5a170cc1533d",
+    "e662fbd8d51eecdd803d61bf",
+    "43135e0db06f1236a757f935",
+    "07e4419a3657fba3702b2a25",
+    "28d4689e7172193371b20cb3",
+    "af096ab265cbf524b050cb16"
   ],
   "entries": [
     {
@@ -5102,6 +5090,54 @@
       "generated_at": "2026-10-24T02:52:48.976678+00:00"
     },
     {
+      "url": "https://www.npmjs.com/package/metaharness",
+      "domain": "project",
+      "source": "npm",
+      "source_title": "metaharness",
+      "source_excerpt": "Scaffold, check and score a custom AI agent harness for Claude Code, Codex, Copilot, GitHub Actions and six more hosts: `npx metaharness new `, then `harness doctor` and `harness score`.",
+      "published_at": null,
+      "observed_at": "2026-11-17T00:40:39.988924Z",
+      "recency_basis": null,
+      "platform": "npm",
+      "topics": [
+        "ai",
+        "research",
+        "skills",
+        "agents",
+        "plugins"
+      ],
+      "license": "MIT",
+      "gated": false,
+      "key": "2798d72cd4a4d7aed2225451",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/ruvnet/metaharness/readme",
+      "title_zh": "MetaHarness：按代码仓库生成 AI Agent Harness",
+      "summary_zh": "MetaHarness 自称可根据代码仓库生成定制化的 Agent 工作框架，包括工具、技能、记忆空间和治理策略，并支持多个 Agent 宿主。README 还介绍了 Darwin Mode 和 AVO 等实验功能，但对 AVO 类性能的更强主张仍受预注册评测门槛限制，部分 ARC 相关包也明确标为私有和实验性。",
+      "recommend_reason_zh": "对希望为不同代码库配置专属编码 Agent 的个人开发者有参考价值，尤其值得查看它如何组织仓库范围内的技能、工具权限和评估流程；复杂功能应先逐项核对成熟度。",
+      "pragmatic_score": 62,
+      "pragmatic_review": "可从只读仓库评分或生成最小 Harness 的路径了解项目结构，再评估其产物是否适合自己的 Agent。",
+      "cynic_score": 39,
+      "cynic_review": "README 包含多项宏大的能力描述，同时明确承认若干性能主张尚未通过规定评测，且部分扩展仍是私有实验功能。",
+      "paper_score": 43,
+      "paper_review": "材料列出测试数量和若干内部评测门槛，但没有提供足以独立核验整体效果的论文或完整评测结果。",
+      "project_insight": {
+        "translation_zh": "MetaHarness 自称是一个从任意代码仓库生成定制 AI Agent Harness 的工厂，可提供仓库相关的 Agent、技能、命令、MCP 工具、项目记忆和治理策略，并面向多个 Agent 宿主输出可发布包。",
+        "one_liner_zh": "它尝试把代码仓库转换成带有项目专属工具、技能、记忆和权限策略的 Agent 工作环境。",
+        "getting_started_zh": "先阅读用户指南和架构文档，并从公开 Studio 或只读取仓库的评分功能开始；若尝试生成 Harness，先在独立测试仓库检查输出内容、权限策略和依赖，再决定是否接入日常项目。",
+        "limitations_zh": "README 展示 MIT 许可标识，但材料中未展示完整许可条款；项目包含大量实验性扩展，README 明确指出 AVO 类性能主张仍等待预注册评测，ARC 相关包为私有实验功能且未作性能承诺。测试徽章和作者自述不是独立验证。",
+        "use_cases_zh": [
+          "为个人维护的代码项目生成项目专属编码 Agent 配置，并检查是否包含适用的技能和命令。",
+          "在构建 Harness 前使用仓库评分功能查看工具安全、适配度与粗略运行成本信息。",
+          "研究 Agent 工具治理、记忆和变更评估如何结合在同一套开发流程中。"
+        ],
+        "recommendation_score": 49,
+        "recommendation_tier": "watch"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-17T01:01:08.409395+00:00"
+    },
+    {
       "url": "https://arxiv.org/abs/2610.33736",
       "domain": "math",
       "source": "arXiv · 代数几何",
@@ -5235,6 +5271,51 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-24T02:52:48.976678+00:00"
+    },
+    {
+      "url": "https://github.com/anthropics/skills",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "anthropics/skills",
+      "source_excerpt": "Public repository for Agent Skills",
+      "published_at": null,
+      "observed_at": "2026-11-17T00:40:39.988924Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "agents",
+        "skills"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "28d4689e7172193371b20cb3",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/anthropics/skills/readme",
+      "title_zh": "Anthropic Skills：Claude Agent Skills 示例与规范",
+      "summary_zh": "该仓库收录用于 Claude 的 Agent Skills 示例，每个 Skill 通常由包含指令和元数据的文件夹组成，可帮助 Claude 按重复流程执行特定任务。项目包含多类示例、模板及 Agent Skills 规范，并说明部分技能采用 Apache-2.0；仓库将这些内容定位为演示和教育材料，实际表现仍需自行测试。",
+      "recommend_reason_zh": "适合参考如何把任务流程、领域指引和辅助资源组织成可按需加载的 Skill；文档与表格处理等示例也与个人科研资料工作流相关。",
+      "pragmatic_score": 77,
+      "pragmatic_review": "可挑选一个与当前任务相近的示例，检查其指令、输入输出和依赖，再改写为可在自己 Claude 环境中验证的小型技能。",
+      "cynic_score": 70,
+      "cynic_review": "仓库说明这些技能是演示与教育用途，Claude 不同产品中的实际行为可能与示例不同，且并非所有目录都能假定采用相同许可。",
+      "paper_score": 65,
+      "paper_review": "材料提供了技能结构、模板与使用说明，但没有给出统一的任务评测或各技能效果的可复现对照数据。",
+      "project_insight": {
+        "translation_zh": "Skills 是由指令、脚本和资源组成的文件夹，Claude 可按需加载它们，以提升特定任务的表现。这些技能用于教会 Claude 以可重复的方式完成专门任务，例如分析数据、创建文档或自动处理个人事务。",
+        "one_liner_zh": "该仓库展示如何把任务说明、资源和可选脚本整理成 Claude 可按需加载的 Agent Skill。",
+        "getting_started_zh": "先阅读 Agent Skills 规范和仓库模板，再选一个与目标任务相近的示例，检查其 SKILL.md、脚本和资源依赖；在非关键任务上测试后再逐步加入自己的数据与流程。",
+        "limitations_zh": "仓库面向 Claude 的技能实现，不能据此假定在其他 Agent 中可直接使用；README 明确指出内容仅供演示和教育，实际行为可能不同。文中仅说明“许多”技能为 Apache-2.0，使用具体子目录前应核对对应许可。",
+        "use_cases_zh": [
+          "参考 PDF、DOCX、PPTX 或 XLSX 技能的组织方式，设计个人科研文档处理流程。",
+          "为重复的数据整理或项目沟通任务编写带有清晰步骤的 Claude Skill。",
+          "学习 Agent Skills 规范与模板，制作便于审阅和维护的技能目录。"
+        ],
+        "recommendation_score": 80,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-17T01:02:06.291909+00:00"
     },
     {
       "url": "https://www.npmjs.com/package/@modelcontextprotocol/sdk",
@@ -6390,6 +6471,50 @@
       "generated_at": "2026-10-21T01:13:47.927137+00:00"
     },
     {
+      "url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image",
+      "domain": "project",
+      "source": "Hugging Face Models",
+      "source_title": "MiniMaxAI/MiniMax-H3-Image",
+      "source_excerpt": "minimax-h3 · diffusers · safetensors · text-to-image · image-to-image · image-editing · image-generation · en · base_model:MiniMaxAI/MiniMax-H3 · base_model:finetune:MiniMaxAI/MiniMax-H3 · license:other · region:us",
+      "published_at": null,
+      "observed_at": "2026-11-17T00:40:39.988924Z",
+      "recency_basis": null,
+      "platform": "hf_models",
+      "topics": [
+        "ai"
+      ],
+      "license": "other",
+      "gated": false,
+      "key": "317acb24c469dc187797ef1f",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/MiniMaxAI/MiniMax-H3-Image/raw/main/README.md",
+      "title_zh": "MiniMax-H3-Image：文本生成与图像编辑模型",
+      "summary_zh": "MiniMax-H3-Image 是 MiniMax H3 系列的图像生成与编辑模型，支持文本生成图像及使用参考图编辑图像；项目介绍称可生成约 1600 万像素图像，并支持最多 16 张参考图。其主模型权重约 68.65 GB，另需从 MiniMax-H3 获取约 66.7 GB 的文本编码器；上述性能与能力描述来自项目材料，本条未提供独立验证。",
+      "recommend_reason_zh": "若个人创作或科研工作需要本地运行高分辨率图像生成与编辑模型，可将其作为候选方案；模型体量和非标准许可需要在投入前评估。",
+      "pragmatic_score": 54,
+      "pragmatic_review": "材料列出 diffusers、ComfyUI 和其他推理框架的部署入口，便于按现有工作流查找接入方式。",
+      "cynic_score": 72,
+      "cynic_review": "约 135 GB 的主模型与文本编码器权重带来显著存储和硬件要求，且仓库标注的是 MiniMax 社区许可而非标准开源许可。",
+      "paper_score": 51,
+      "paper_review": "材料介绍了架构参数和模型规模，但未提供论文内容或支持性能宣传的独立比较结果。",
+      "project_insight": {
+        "translation_zh": "MiniMax-H3-Image 是 MiniMax H3 系列的图像生成和编辑模型，支持文本生成图像以及编辑一张或多张参考图像；项目称其可直接生成约 1600 万像素图像，蒸馏为 6 个采样步。",
+        "one_liner_zh": "它将文本生成图像与参考图编辑整合到同一个大型模型权重中。",
+        "getting_started_zh": "先核对社区许可条款，并查看所选推理框架的硬件配置说明；确认可用存储和加速器资源后，再决定是否下载主模型与其依赖的文本编码器。",
+        "limitations_zh": "主模型约 68.65 GB，另需约 66.7 GB 的 MiniMax-H3 文本编码器，部署成本较高。模型仓库标注为 other 许可，并链接 MiniMax-H3-Image 社区许可协议；项目关于画质、速度和指令遵循的描述在提供的材料中没有独立评测支撑。",
+        "use_cases_zh": [
+          "为个人视觉创作生成高分辨率图像，并尝试调整宽高比。",
+          "以一张或多张参考图为基础探索图像编辑工作流。",
+          "研究大型扩散 Transformer、少步采样和图像编辑模型的本地部署需求。"
+        ],
+        "recommendation_score": 53,
+        "recommendation_tier": "watch"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-17T01:01:08.409395+00:00"
+    },
+    {
       "url": "https://www.aibase.com/news/32088",
       "domain": "ai",
       "source": "AIbase",
@@ -6542,6 +6667,51 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-28T04:42:37.437680+00:00"
+    },
+    {
+      "url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard",
+      "domain": "project",
+      "source": "Hugging Face Spaces",
+      "source_title": "joelniklaus/harness-leaderboard",
+      "source_excerpt": "Which coding-agent harness should you use for your model?",
+      "published_at": null,
+      "observed_at": "2026-11-17T00:40:39.988924Z",
+      "recency_basis": null,
+      "platform": "hf_spaces",
+      "topics": [
+        "ai",
+        "agents"
+      ],
+      "license": "apache-2.0",
+      "gated": false,
+      "key": "320b4ca75d1f5a170cc1533d",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/spaces/joelniklaus/harness-leaderboard/raw/main/README.md",
+      "title_zh": "Harness Leaderboard：编码 Agent 框架排行榜",
+      "summary_zh": "该榜单比较多个编码 Agent harness 在相同模型、任务和推理设置下的表现，涵盖 Terminal-Bench 2.1 与 DeepSWE v1.1，并报告宏平均解决率及 95% 置信区间。项目称每项任务进行三次尝试，公开大多数轨迹，并说明了基础设施失败、疑似作弊、联网条件和并列排名的处理方式。",
+      "recommend_reason_zh": "适合在选用编码 Agent 外壳时查看同模型条件下的对照结果；公开轨迹与方法说明也能帮助读者检查分数差异是否稳健以及可能受哪些设置影响。",
+      "pragmatic_score": 75,
+      "pragmatic_review": "可按自己使用的模型和任务类型筛选榜单，重点比较三次运行的一致性、成本和耗时，而不只看平均分。",
+      "cynic_score": 72,
+      "cynic_review": "每项任务仅三次尝试，部分 DeepSWE 试验曾在线、后续改为离线且结果被重跑或保留，跨时期比较仍需留意条件差异。",
+      "paper_score": 81,
+      "paper_review": "材料提供了评测设置、置信区间、公开轨迹与缺失记录说明，但榜单结果仍是项目方运行和整理的基准测试，不能视为独立复现。",
+      "project_insight": {
+        "translation_zh": "这个榜单回答的是：对你的模型来说，应该使用哪种编码 Agent harness？使用相同模型与权重、相同推理强度，每项任务运行三次并给出置信区间，且公开每条执行轨迹。",
+        "one_liner_zh": "它用公开轨迹和重复试验比较不同编码 Agent harness 在指定模型与基准任务上的解决率、稳定性、成本和耗时。",
+        "getting_started_zh": "先读 Method、FAQ 和版本变更记录，确认目标模型、推理强度与基准任务是否在榜单覆盖范围内；再查看公开轨迹及缺失日志说明，最后用自己的任务做小规模对照。",
+        "limitations_zh": "榜单覆盖的模型和 harness 有限，且运行由项目所有者发起；材料说明部分试验使用志愿者提供的服务器，部分轨迹或日志缺失。不同基准的联网条件并不完全相同，结果不能直接代表个人项目中的表现。",
+        "use_cases_zh": [
+          "为本地或托管开源模型挑选编码 Agent harness。",
+          "检查某个 harness 的任务成功率是否稳定，查看它在不同任务上的执行轨迹。",
+          "研究评测中联网、作弊判定、重试和置信区间如何影响编码 Agent 排名。"
+        ],
+        "recommendation_score": 78,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-17T01:02:06.291909+00:00"
     },
     {
       "url": "https://www.aibase.com/news/31912",
@@ -10121,6 +10291,50 @@
       "provider": "codex-cli",
       "model": "gpt-6-luna",
       "generated_at": "2026-10-18T07:57:25.525249+00:00"
+    },
+    {
+      "url": "https://huggingface.co/spaces/huggingface/moe-blogpost",
+      "domain": "project",
+      "source": "Hugging Face Spaces",
+      "source_title": "huggingface/moe-blogpost",
+      "source_excerpt": "A hands-on guide to training Mixture-of-Experts models",
+      "published_at": null,
+      "observed_at": "2026-11-17T00:40:39.988924Z",
+      "recency_basis": null,
+      "platform": "hf_spaces",
+      "topics": [
+        "ai"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "4b1e9120d56cb2f65a96c32d",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/spaces/huggingface/moe-blogpost/raw/main/README.md",
+      "title_zh": "The Ultimate MoE Training Handbook：MoE 模型训练指南",
+      "summary_zh": "这个 Hugging Face Space 自述提供 Mixture-of-Experts（MoE）模型训练的实操指南，涵盖路由器、负载均衡、专家模块、模块布局、训练与系统设置。当前材料仅提供一句简介，没有章节内容、示例或训练结果可供评估。",
+      "recommend_reason_zh": "对想快速梳理 MoE 训练涉及哪些组件和系统设置的个人读者有初步参考价值，适合作为后续查阅技术文档的入口。",
+      "pragmatic_score": 45,
+      "pragmatic_review": "简介列出了训练流程的主要主题，但材料不足以判断是否包含可直接运行的配置或示例。",
+      "cynic_score": 58,
+      "cynic_review": "“终极手册”是页面标题，现有摘录无法证明其覆盖完整或优于其他教程。",
+      "paper_score": 34,
+      "paper_review": "提供内容没有论文、代码、实验数据或可复现步骤，无法据此评估技术结论。",
+      "project_insight": {
+        "translation_zh": "一份关于训练混合专家（Mixture-of-Experts，MoE）模型的实操指南，按设置讲解路由器、负载均衡、专家、模块布局、训练和系统。",
+        "one_liner_zh": "这个页面尝试汇总 MoE 模型训练涉及的主要组件与系统设置。",
+        "getting_started_zh": "先浏览 Space 页面确认完整指南是否可访问，再挑选具体配置与相关论文或框架文档交叉核对后用于实验。",
+        "limitations_zh": "本条材料只有页面简介，没有目录、代码、实验或可复现证据；许可证信息也未提供，无法判断内容是否适合复制或再发布。",
+        "use_cases_zh": [
+          "初学 MoE 时用作主题清单，梳理路由、负载均衡和专家模块等概念。",
+          "在设计个人训练实验前查看其是否涵盖相关训练与系统配置。",
+          "将页面内容与论文及框架官方文档对照，建立进一步阅读路线。"
+        ],
+        "recommendation_score": 38,
+        "recommendation_tier": "watch"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-17T01:01:08.409395+00:00"
     },
     {
       "url": "https://arxiv.org/abs/2610.27095",
@@ -14790,6 +15004,50 @@
       "generated_at": "2026-10-29T06:08:23.603082+00:00"
     },
     {
+      "url": "https://github.com/meta/astryx",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "meta/astryx",
+      "source_excerpt": "An open source design system that's fully customizable and agent ready",
+      "published_at": null,
+      "observed_at": "2026-11-17T00:40:39.988924Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "agents"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "76e176d9dfcfb9da70164a43",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/meta/astryx/readme",
+      "title_zh": "Astryx：面向人和 Agent 的 React 设计系统",
+      "summary_zh": "Astryx 是建立在 React 19 及以上版本和 StyleX 之上的设计系统，项目介绍称包含 150 多个可访问组件、主题、模板与 CLI，并针对开发者和 AI 助手协同使用进行设计。项目目前处于 Beta；图表相关包仅以 canary 标签发布，尚无稳定版本。",
+      "recommend_reason_zh": "个人前端开发者若正在用 React 构建可由编码 Agent 协助维护的界面，可查看其组件文档、CLI 和主题系统，评估是否适配现有技术栈。",
+      "pragmatic_score": 59,
+      "pragmatic_review": "Storybook、沙盒和 CLI 文档提供了了解组件与开发方式的路径，但须使用 React 19 或更高版本。",
+      "cynic_score": 55,
+      "cynic_review": "项目处于 Beta，且图表相关包尚无稳定发布，因此不宜直接假设所有组件都已适合生产环境。",
+      "paper_score": 40,
+      "paper_review": "README 描述了组件数量和设计原则，但本条材料没有独立的可访问性审查或 Agent 使用效果评测。",
+      "project_insight": {
+        "translation_zh": "Astryx 是一个开源设计系统，面向人和 AI Agent 协同开发，基于 React 19 及以上版本与 StyleX，提供可定制组件、主题、模板和命令行工具。",
+        "one_liner_zh": "它提供一套带有组件文档和 CLI 的 React 界面系统，目标是让开发者与编码 Agent 使用相同的界面约定。",
+        "getting_started_zh": "先浏览官方文档、Storybook 和沙盒，再在一个小型 React 19 项目中评估核心组件与主题；若需要图表组件，先确认对应包的 canary 发布状态。",
+        "limitations_zh": "项目标为 Beta，要求 React 19 或更高版本；图表相关包仅在 canary 标签下发布，尚无稳定版本。材料显示 MIT 许可标识，但没有提供独立评测来验证其可访问性或对 Agent 编码质量的影响。",
+        "use_cases_zh": [
+          "为个人 React 项目选择现成组件、主题和界面模式。",
+          "通过 CLI 查询组件文档或脚手架，辅助编码 Agent 按项目约定生成界面。",
+          "查看其可组合组件与主题变量设计，并比较是否适合既有 CSS 工作流。"
+        ],
+        "recommendation_score": 48,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-17T01:01:08.409395+00:00"
+    },
+    {
       "url": "https://github.com/akitaonrails/ai-memory",
       "domain": "ai",
       "source": "GitHub Trending",
@@ -17984,6 +18242,51 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-27T04:57:45.610108+00:00"
+    },
+    {
+      "url": "https://github.com/dream-num/univer",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "dream-num/univer",
+      "source_excerpt": "Build your own AI office with Univer Office SDK. Bring editing, calculation, collaboration, and file processing into your product for people and AI agents. Built on an extensible open-source core.",
+      "published_at": null,
+      "observed_at": "2026-11-17T00:40:39.988924Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "ai",
+        "agents"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "90b4c30b9c1f6b1a9ba63545",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/dream-num/univer/readme",
+      "title_zh": "Univer：面向应用与 AI Agent 的 Office SDK",
+      "summary_zh": "Univer 提供可嵌入自有产品的 Office 编辑、计算、协作和文件处理能力，覆盖表格、文档等内容类型。该仓库包含基于 Apache-2.0 的 Web SDK 核心架构以及 Sheets 和 Docs 的部分编辑能力；Server SDK、商业插件和商业 AI SDK 扩展需单独获取和授权。",
+      "recommend_reason_zh": "适合研究如何把表格计算和文档编辑能力嵌入个人工具或 Agent 工作流；README 也明确区分了开源核心与商业扩展，便于评估实际可用范围。",
+      "pragmatic_score": 76,
+      "pragmatic_review": "若你正在开发网页工具或 Agent，可从 Sheets Core 和 Facade API 入手，验证表格编辑、公式计算及无界面处理是否满足需求。",
+      "cynic_score": 66,
+      "cynic_review": "“AI office”是产品定位，AI SDK 的部分扩展属于商业授权，演示内容也可能包含开源默认配置之外的功能。",
+      "paper_score": 61,
+      "paper_review": "材料列出了架构、功能范围、API 文档和构建状态徽章，但没有提供独立评测或足以在此判断各功能质量的验证结果。",
+      "project_insight": {
+        "translation_zh": "使用 Univer Office SDK 构建自己的 AI 办公套件：从开源 Sheets 和 Docs 开始，再连接自己的应用或 Agent。它为人和 AI Agent 提供编辑、计算、协作与文件处理能力，建立在可扩展的开源核心之上。",
+        "one_liner_zh": "Univer 是用于在自有产品中嵌入表格、文档编辑与计算功能的 Office SDK，并提供应用和 Agent 可调用的接口。",
+        "getting_started_zh": "先阅读 README 中的开源功能范围、授权说明和 Quick Start，再查看官方文档与 Sheets Core 示例；用小型原型确认所需功能是否属于开源核心。",
+        "limitations_zh": "仓库说明 Apache-2.0 许可适用于 Web SDK 核心；商业 Web SDK 插件、Server SDK 和商业 AI SDK 扩展另行授权。功能覆盖取决于所组合的插件，README 中的演示可能展示商业能力；当前材料未提供个人用户的完整部署成本或性能对比。",
+        "use_cases_zh": [
+          "为个人研究数据仪表盘嵌入可编辑表格和公式计算。",
+          "制作能读取、修改并保存结构化表格或文档的个人 Agent 工具。",
+          "研究插件式编辑器架构，以及应用如何通过 Facade API 与编辑内容交互。"
+        ],
+        "recommendation_score": 70,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-17T01:02:06.291909+00:00"
     },
     {
       "url": "https://arxiv.org/abs/2610.33783",
@@ -24096,6 +24399,54 @@
       "generated_at": "2026-10-20T02:28:02.527611+00:00"
     },
     {
+      "url": "https://github.com/NVIDIA/SkillEvaluator",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "NVIDIA/SkillEvaluator",
+      "source_excerpt": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
+      "published_at": null,
+      "observed_at": "2026-11-17T00:40:39.988924Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "ai",
+        "research",
+        "skills",
+        "agents",
+        "plugins"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "c82740ded5a190e309535a24",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/NVIDIA/SkillEvaluator/readme",
+      "title_zh": "NVIDIA SkillEvaluator：AI Agent 技能评估框架",
+      "summary_zh": "SkillEvaluator 用分层流程检查 AI Agent 技能的格式与安全性、重复内容，以及技能对 Agent 任务表现的影响。项目介绍还提到合成评测数据集生成和实时评估；其中静态质量检查可不接入模型运行，后续层级则需要额外依赖。",
+      "recommend_reason_zh": "适合正在编写 Codex 或 Claude Code 技能的人，借助静态检查和有技能、无技能的运行对照，发现结构问题并评估技能是否改善实际任务结果。",
+      "pragmatic_score": 87,
+      "pragmatic_review": "可以先对个人技能运行无需 API 密钥的基础检查，再按需增加去重或实时评估。",
+      "cynic_score": 75,
+      "cynic_review": "项目标为 Experimental，且文档明确指出基础质量分不代表安全扫描完整或 Agent 效果已经验证。",
+      "paper_score": 72,
+      "paper_review": "README 链接了 arXiv 论文、实现与测试命令，但本条材料未提供论文内容或独立复现结果。",
+      "project_insight": {
+        "translation_zh": "这是一个多层框架，用于评估 AI Agent 技能和插件，包含质量门槛、语义重叠检测、合成评测数据集生成，以及测量技能如何影响 Agent 行为的实时评估。",
+        "one_liner_zh": "它通过静态检查、技能去重和带技能与不带技能的 Agent 运行比较，评估技能质量及其任务影响。",
+        "getting_started_zh": "可先按项目文档用 pip 安装并运行 Tier 1 基础验证；确认报告中的通过项与未完成项后，再决定是否配置嵌入、模型服务和 Agent 沙箱来运行更高层级。",
+        "limitations_zh": "项目标为 Experimental；Tier 1 的完整静态安全覆盖需要外部扫描器，Tier 2 需要嵌入与聊天服务，Tier 3 需要模型服务、受支持的 Agent 和沙箱，可能产生费用。README 标示 Apache 2.0，同时提醒需检查下载的第三方软件许可。",
+        "use_cases_zh": [
+          "检查个人编写的 Codex 或 Claude Code 技能是否格式正确、存在明显安全问题。",
+          "比较启用某项技能前后的任务运行结果，观察它是否带来可测量的改善。",
+          "在 GitHub 或 GitLab 的技能仓库中加入持续集成检查。"
+        ],
+        "recommendation_score": 84,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-17T01:01:08.409395+00:00"
+    },
+    {
       "url": "https://arxiv.org/abs/2610.24944",
       "domain": "math",
       "source": "arXiv · AI for Math · cs.CL",
@@ -27420,6 +27771,50 @@
       "generated_at": "2026-10-27T04:57:45.610108+00:00"
     },
     {
+      "url": "https://huggingface.co/Qwen/Qwen3.8-27B",
+      "domain": "project",
+      "source": "Hugging Face Models",
+      "source_title": "Qwen/Qwen3.8-27B",
+      "source_excerpt": "transformers · safetensors · qwen3_5 · image-text-to-text · conversational · license:apache-2.0 · eval-results · endpoints_compatible · deploy:azure · deploy:sagemaker · region:us",
+      "published_at": null,
+      "observed_at": "2026-11-17T00:40:39.988924Z",
+      "recency_basis": null,
+      "platform": "hf_models",
+      "topics": [
+        "ai"
+      ],
+      "license": "apache-2.0",
+      "gated": false,
+      "key": "e662fbd8d51eecdd803d61bf",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/Qwen/Qwen3.8-27B/raw/main/README.md",
+      "title_zh": "Qwen3.8-27B：视觉语言模型权重与配置",
+      "summary_zh": "该 Hugging Face 页面提供 Qwen3.8-27B 后训练模型的权重和配置文件，标注为 Apache-2.0，并称其兼容 Transformers、vLLM、SGLang 等工具。页面介绍了图像与视频理解、可调推理深度及编码和 Agent 能力，并列出若干基准成绩；这些描述与成绩来自模型发布方材料，尚不能据此视为独立验证。",
+      "recommend_reason_zh": "对有本地推理资源的个人研究者，页面可作为评估 27B 视觉语言模型及其长上下文能力的起点；列出的评测项目也便于进一步核对其适用任务。",
+      "pragmatic_score": 68,
+      "pragmatic_review": "可先依据模型规模、262,144 原生上下文长度和所需推理框架评估硬件与部署可行性，再用自己的图表或代码任务试测。",
+      "cynic_score": 74,
+      "cynic_review": "性能提升和“更可靠的端到端任务完成”属于发布方表述，模型卡所列基准成绩不能直接保证个人环境中的效果。",
+      "paper_score": 55,
+      "paper_review": "页面包含模型结构参数和多项基准分数，但当前材料未给出足以独立复核全部评测的完整实验协议、原始轨迹或独立复现结果。",
+      "project_insight": {
+        "translation_zh": "该仓库包含采用 Hugging Face Transformers 格式的后训练模型权重和配置文件，可与 Transformers、vLLM、SGLang、TokenSpeed 等工具配合使用。模型卡称其具备图像与视频理解能力，原生上下文长度为 262,144 tokens，并可扩展至 1,000,000 tokens。",
+        "one_liner_zh": "Qwen3.8-27B 是一个 27B 参数的视觉语言模型，提供图像和视频理解能力以及可调推理设置。",
+        "getting_started_zh": "先核对模型卡的权重格式、许可、上下文需求及目标推理框架兼容性；根据 27B 模型和视觉输入的资源开销准备环境，再用小批量、可检查的自有样例评估效果。",
+        "limitations_zh": "这是模型权重与配置仓库，不是开源软件项目；页面标注 Apache-2.0。实际部署需要匹配的硬件和推理环境；模型卡中的能力描述及基准结果属于发布材料，当前摘录不足以独立确认其普遍表现。",
+        "use_cases_zh": [
+          "测试模型对 STEM 图表、研究文档和图像材料的理解能力。",
+          "比较本地或自建推理环境中 27B 模型的编码与多步骤 Agent 表现。",
+          "探索长上下文视觉语言模型对长视频或较大文档的处理效果。"
+        ],
+        "recommendation_score": 60,
+        "recommendation_tier": "watch"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-17T01:02:06.291909+00:00"
+    },
+    {
       "url": "https://arxiv.org/abs/2610.34015",
       "domain": "math",
       "source": "arXiv · AI for Math · cs.LG",
@@ -29255,6 +29650,51 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-24T02:52:48.976678+00:00"
+    },
+    {
+      "url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m",
+      "domain": "project",
+      "source": "Hugging Face Datasets",
+      "source_title": "Angais/pixel-art-atlas-1.4m",
+      "source_excerpt": "Pixel Art Atlas · 1.4M Synthetic Sprites 1,409,404 synthetic game sprites with English captions, covering 6,194 training subjects. Each sprite is a native 16×16 image with a transparent background. The images were generated from text prompts with Krea 2 Turbo and a pixel art LoRA. Caption quality: Captions generally describe what the generator was asked to draw. Image–caption agreement has not been systematically reviewed. For example, a sprite may show a lit candle even when… See the full description on the dataset page: https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m.",
+      "published_at": null,
+      "observed_at": "2026-11-17T00:40:39.988924Z",
+      "recency_basis": null,
+      "platform": "hf_datasets",
+      "topics": [
+        "ai",
+        "research"
+      ],
+      "license": "cc0-1.0",
+      "gated": false,
+      "key": "f3cb23b97d42437ec5b3c126",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/datasets/Angais/pixel-art-atlas-1.4m/raw/main/README.md",
+      "title_zh": "Pixel Art Atlas：140 万张合成像素艺术精灵图数据集",
+      "summary_zh": "该数据集收录约 141 万张由文本提示生成的 16×16 透明背景游戏精灵图及英文说明，覆盖 6,194 个训练主题。数据集说明称图文一致性未经系统审查，说明文字可能与图片细节不符；验证集也不能据此视为包含训练中未见过的主题。",
+      "recommend_reason_zh": "适合个人研究者快速构建像素风图像生成或检索原型，也可用于研究合成图像数据的标签噪声及其对评测的影响。",
+      "pragmatic_score": 66,
+      "pragmatic_review": "Parquet 数据可逐条读取，另提供逐行像素索引和调色板文件的示例处理方式。",
+      "cynic_score": 82,
+      "cynic_review": "说明文字仅近似描述生成意图，且验证集主题未保证与训练集隔离，因此不宜直接用作可靠的指令遵循基准。",
+      "paper_score": 62,
+      "paper_review": "材料提供数据规模、字段和划分说明，但没有展示系统性图文一致性审核或评测结果。",
+      "project_insight": {
+        "translation_zh": "Pixel Art Atlas 包含 1,409,404 张合成游戏精灵图及英文说明，涉及 6,194 个训练主题；每张图为带透明背景的原生 16×16 图像。",
+        "one_liner_zh": "这是用于像素风图像生成与实验的合成图像及说明数据集，提供 Parquet 图像记录和可选的像素索引文件。",
+        "getting_started_zh": "先浏览数据集页面的样例并确认文件结构，再用 Hugging Face Datasets 流式读取少量记录；正式训练或评测前，抽查图片与说明是否一致，并自行验证训练集和验证集是否存在主题重叠。",
+        "limitations_zh": "图文一致性未经系统审核，作者建议在用说明评估指令遵循前自行核对图片；验证集划分未证明其主题在训练集中不可见。数据集标注为 CC0 1.0，但说明指出该许可不授予第三方素材、商标或 Krea 模型的权利，也不取代 Krea 的许可和使用政策。",
+        "use_cases_zh": [
+          "为个人像素风图像生成或分类原型准备小尺寸训练样本。",
+          "研究图像说明中的颜色、数量或状态错误如何影响模型训练和评估。",
+          "探索将 16×16 精灵图及其调色板表示转换为其他图像处理流程。"
+        ],
+        "recommendation_score": 55,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-17T01:01:08.409395+00:00"
     },
     {
       "url": "https://www.aibase.com/news/31954",
