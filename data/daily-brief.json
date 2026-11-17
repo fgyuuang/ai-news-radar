@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-17T00:01:43.459789Z",
+  "generated_at": "2026-11-17T00:31:43.794903Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8846,
-      "importance": 0.8846,
-      "importance_score": 0.8846,
+      "score": 0.8835,
+      "importance": 0.8835,
+      "importance_score": 0.8835,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9035,
+        "recency": 0.897,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8457,
-      "importance": 0.8457,
-      "importance_score": 0.8457,
+      "score": 0.8445,
+      "importance": 0.8445,
+      "importance_score": 0.8445,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9653,
+        "recency": 0.9583,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8197,
-      "importance": 0.8197,
-      "importance_score": 0.8197,
+      "score": 0.8186,
+      "importance": 0.8186,
+      "importance_score": 0.8186,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8652,
+        "recency": 0.859,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,30 +328,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
-      "story_id": "story_41002422ce0e",
-      "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
-      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
-      "primary_url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "story_id": "story_7e6875842a45",
+      "title": "Dependabot alert dismissal requests now last one year",
+      "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
+      "primary_url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
-          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
-          "title_zh": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用",
-          "title_en": "GitHub Copilot models deprecated on November 16, 2026",
-          "title_original": "GitHub Copilot models deprecated on November 16, 2026",
+          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+          "title": "Dependabot alert dismissal requests now last one year",
+          "title_zh": null,
+          "title_en": "Dependabot alert dismissal requests now last one year",
+          "title_original": "Dependabot alert dismissal requests now last one year",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T20:25:20Z",
+          "published_at": "2026-11-17T00:09:27Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -362,33 +362,33 @@
       ],
       "items": [
         {
-          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
-          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
-          "title_zh": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用",
-          "title_en": "GitHub Copilot models deprecated on November 16, 2026",
-          "title_original": "GitHub Copilot models deprecated on November 16, 2026",
+          "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+          "title": "Dependabot alert dismissal requests now last one year",
+          "title_zh": null,
+          "title_en": "Dependabot alert dismissal requests now last one year",
+          "title_original": "Dependabot alert dismissal requests now last one year",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+          "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T20:25:20Z",
+          "published_at": "2026-11-17T00:09:27Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8429,
-      "importance": 0.8429,
-      "importance_score": 0.8429,
+      "score": 0.843,
+      "importance": 0.843,
+      "importance_score": 0.843,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9493,
+        "ai_relevance": 0.87,
+        "recency": 0.9947,
         "story_heat": 0.0
       },
       "category": "official",
@@ -397,17 +397,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T20:25:20Z",
-      "latest_at": "2026-11-16T20:25:20Z",
+      "earliest_at": "2026-11-17T00:09:27Z",
+      "latest_at": "2026-11-17T00:09:27Z",
       "primary_item": {
-        "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
-        "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
-        "title_zh": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用",
-        "title_en": "GitHub Copilot models deprecated on November 16, 2026",
-        "title_original": "GitHub Copilot models deprecated on November 16, 2026",
+        "id": "21d11222c3d37837c649f1d2584079e663911ad4",
+        "title": "Dependabot alert dismissal requests now last one year",
+        "title_zh": null,
+        "title_en": "Dependabot alert dismissal requests now last one year",
+        "title_original": "Dependabot alert dismissal requests now last one year",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+        "url": "https://github.blog/changelog/2026-11-16-dependabot-alert-dismissal-requests-now-last-one-year",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8346,
-      "importance": 0.8346,
-      "importance_score": 0.8346,
+      "score": 0.8335,
+      "importance": 0.8335,
+      "importance_score": 0.8335,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9035,
+        "recency": 0.897,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,30 +502,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
-      "story_id": "story_c53b340056aa",
-      "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
-      "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
-      "primary_url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+      "story_id": "story_41002422ce0e",
+      "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+      "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
+      "primary_url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
-          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
-          "title_zh": "每个帐户的预算限制增加至 40,000 个预算",
-          "title_en": "Budget limit increased to 40,000 budgets per account",
-          "title_original": "Budget limit increased to 40,000 budgets per account",
+          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+          "title_zh": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用",
+          "title_en": "GitHub Copilot models deprecated on November 16, 2026",
+          "title_original": "GitHub Copilot models deprecated on November 16, 2026",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T21:30:49Z",
+          "published_at": "2026-11-16T20:25:20Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -536,33 +536,33 @@
       ],
       "items": [
         {
-          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
-          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
-          "title_zh": "每个帐户的预算限制增加至 40,000 个预算",
-          "title_en": "Budget limit increased to 40,000 budgets per account",
-          "title_original": "Budget limit increased to 40,000 budgets per account",
+          "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+          "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+          "title_zh": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用",
+          "title_en": "GitHub Copilot models deprecated on November 16, 2026",
+          "title_original": "GitHub Copilot models deprecated on November 16, 2026",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+          "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T21:30:49Z",
+          "published_at": "2026-11-16T20:25:20Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8376,
-      "importance": 0.8376,
-      "importance_score": 0.8376,
+      "score": 0.8416,
+      "importance": 0.8416,
+      "importance_score": 0.8416,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9643,
+        "ai_relevance": 0.91,
+        "recency": 0.9424,
         "story_heat": 0.0
       },
       "category": "official",
@@ -571,17 +571,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T21:30:49Z",
-      "latest_at": "2026-11-16T21:30:49Z",
+      "earliest_at": "2026-11-16T20:25:20Z",
+      "latest_at": "2026-11-16T20:25:20Z",
       "primary_item": {
-        "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
-        "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
-        "title_zh": "每个帐户的预算限制增加至 40,000 个预算",
-        "title_en": "Budget limit increased to 40,000 budgets per account",
-        "title_original": "Budget limit increased to 40,000 budgets per account",
+        "id": "66ca20a9b5d676e9dcf39fa182e2d7e7f4b3c4bf",
+        "title": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用 / GitHub Copilot models deprecated on November 16, 2026",
+        "title_zh": "GitHub Copilot 模型已于 2026 年 11 月 16 日弃用",
+        "title_en": "GitHub Copilot models deprecated on November 16, 2026",
+        "title_original": "GitHub Copilot models deprecated on November 16, 2026",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+        "url": "https://github.blog/changelog/2026-11-16-github-copilot-models-deprecated-on-november-16-2026",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -589,7 +589,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -641,15 +641,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8313,
-      "importance": 0.8313,
-      "importance_score": 0.8313,
+      "score": 0.8302,
+      "importance": 0.8302,
+      "importance_score": 0.8302,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8405,
+        "recency": 0.8345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -676,30 +676,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
-      "story_id": "story_43ec7f0d19a5",
-      "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
-      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
-      "primary_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "story_id": "story_c53b340056aa",
+      "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+      "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
+      "primary_url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
-          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
-          "title_zh": "批量启动 AI 扫描代码仓库",
-          "title_en": "Bulk start AI Scan for repositories",
-          "title_original": "Bulk start AI Scan for repositories",
+          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+          "title_zh": "每个帐户的预算限制增加至 40,000 个预算",
+          "title_en": "Budget limit increased to 40,000 budgets per account",
+          "title_original": "Budget limit increased to 40,000 budgets per account",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T15:50:22Z",
+          "published_at": "2026-11-16T21:30:49Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -710,33 +710,33 @@
       ],
       "items": [
         {
-          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
-          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
-          "title_zh": "批量启动 AI 扫描代码仓库",
-          "title_en": "Bulk start AI Scan for repositories",
-          "title_original": "Bulk start AI Scan for repositories",
+          "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+          "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+          "title_zh": "每个帐户的预算限制增加至 40,000 个预算",
+          "title_en": "Budget limit increased to 40,000 budgets per account",
+          "title_original": "Budget limit increased to 40,000 budgets per account",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-16T15:50:22Z",
+          "published_at": "2026-11-16T21:30:49Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8239,
-      "importance": 0.8239,
-      "importance_score": 0.8239,
+      "score": 0.8363,
+      "importance": 0.8363,
+      "importance_score": 0.8363,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8885,
+        "recency": 0.9574,
         "story_heat": 0.0
       },
       "category": "official",
@@ -745,17 +745,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-16T15:50:22Z",
-      "latest_at": "2026-11-16T15:50:22Z",
+      "earliest_at": "2026-11-16T21:30:49Z",
+      "latest_at": "2026-11-16T21:30:49Z",
       "primary_item": {
-        "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
-        "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
-        "title_zh": "批量启动 AI 扫描代码仓库",
-        "title_en": "Bulk start AI Scan for repositories",
-        "title_original": "Bulk start AI Scan for repositories",
+        "id": "3c503d70f53853b0ba28abb7538773e238c295c4",
+        "title": "每个帐户的预算限制增加至 40,000 个预算 / Budget limit increased to 40,000 budgets per account",
+        "title_zh": "每个帐户的预算限制增加至 40,000 个预算",
+        "title_en": "Budget limit increased to 40,000 budgets per account",
+        "title_original": "Budget limit increased to 40,000 budgets per account",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+        "url": "https://github.blog/changelog/2026-11-16-budget-limit-increased-to-40000-budgets-per-account",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -763,7 +763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -815,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7336,
-      "importance": 0.7336,
-      "importance_score": 0.7336,
+      "score": 0.7325,
+      "importance": 0.7325,
+      "importance_score": 0.7325,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8111,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,7 +848,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -900,15 +900,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8229,
-      "importance": 0.8229,
-      "importance_score": 0.8229,
+      "score": 0.8218,
+      "importance": 0.8218,
+      "importance_score": 0.8218,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8049,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "official",
@@ -935,7 +935,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
+      }
+    },
+    {
+      "story_id": "story_43ec7f0d19a5",
+      "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+      "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "primary_url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+          "title_zh": "批量启动 AI 扫描代码仓库",
+          "title_en": "Bulk start AI Scan for repositories",
+          "title_original": "Bulk start AI Scan for repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+          "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+          "title_zh": "批量启动 AI 扫描代码仓库",
+          "title_en": "Bulk start AI Scan for repositories",
+          "title_original": "Bulk start AI Scan for repositories",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T15:50:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8228,
+      "importance": 0.8228,
+      "importance_score": 0.8228,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8821,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T15:50:22Z",
+      "latest_at": "2026-11-16T15:50:22Z",
+      "primary_item": {
+        "id": "1a1bf881450e272c4b2cf04ab4bb0e7e64931a44",
+        "title": "批量启动 AI 扫描代码仓库 / Bulk start AI Scan for repositories",
+        "title_zh": "批量启动 AI 扫描代码仓库",
+        "title_en": "Bulk start AI Scan for repositories",
+        "title_original": "Bulk start AI Scan for repositories",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-bulk-start-ai-scan-for-repositories",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -987,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7995,
+        "recency": 0.7937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1020,94 +1107,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
-      }
-    },
-    {
-      "story_id": "story_97bf5a0b15de",
-      "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-      "primary_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
-          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
-          "title_en": "Take GitHub Mobile with you on iPhone Duo",
-          "title_original": "Take GitHub Mobile with you on iPhone Duo",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T14:30:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
-          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
-          "title_en": "Take GitHub Mobile with you on iPhone Duo",
-          "title_original": "Take GitHub Mobile with you on iPhone Duo",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-16T14:30:07Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8209,
-      "importance": 0.8209,
-      "importance_score": 0.8209,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.8715,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-16T14:30:07Z",
-      "latest_at": "2026-11-16T14:30:07Z",
-      "primary_item": {
-        "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
-        "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
-        "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
-        "title_en": "Take GitHub Mobile with you on iPhone Duo",
-        "title_original": "Take GitHub Mobile with you on iPhone Duo",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -1159,15 +1159,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8187,
-      "importance": 0.8187,
-      "importance_score": 0.8187,
+      "score": 0.8177,
+      "importance": 0.8177,
+      "importance_score": 0.8177,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7708,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1194,7 +1194,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
+      }
+    },
+    {
+      "story_id": "story_97bf5a0b15de",
+      "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+      "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "primary_url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+          "title_en": "Take GitHub Mobile with you on iPhone Duo",
+          "title_original": "Take GitHub Mobile with you on iPhone Duo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T14:30:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+          "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+          "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+          "title_en": "Take GitHub Mobile with you on iPhone Duo",
+          "title_original": "Take GitHub Mobile with you on iPhone Duo",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-16T14:30:07Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8197,
+      "importance": 0.8197,
+      "importance_score": 0.8197,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.8652,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-16T14:30:07Z",
+      "latest_at": "2026-11-16T14:30:07Z",
+      "primary_item": {
+        "id": "746bc7b7d1bd48df7c8b6088885e3a4660dbbe92",
+        "title": "在 iPhone Duo 上随身携带 GitHub Mobile / Take GitHub Mobile with you on iPhone Duo",
+        "title_zh": "在 iPhone Duo 上随身携带 GitHub Mobile",
+        "title_en": "Take GitHub Mobile with you on iPhone Duo",
+        "title_original": "Take GitHub Mobile with you on iPhone Duo",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-16-take-github-mobile-with-you-on-iphone-duo",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -1246,15 +1333,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7937,
+        "recency": 0.788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1279,7 +1366,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -1331,15 +1418,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8107,
-      "importance": 0.8107,
-      "importance_score": 0.8107,
+      "score": 0.8097,
+      "importance": 0.8097,
+      "importance_score": 0.8097,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7708,
+        "recency": 0.7652,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1366,7 +1453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -1484,15 +1571,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.6578,
-      "importance": 0.6578,
-      "importance_score": 0.6578,
+      "score": 0.6566,
+      "importance": 0.6566,
+      "importance_score": 0.6566,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.9115,
+        "recency": 0.9049,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1517,7 +1604,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -1569,15 +1656,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7284,
-      "importance": 0.7284,
-      "importance_score": 0.7284,
+      "score": 0.7274,
+      "importance": 0.7274,
+      "importance_score": 0.7274,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7823,
+        "recency": 0.7767,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1602,7 +1689,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
@@ -1654,15 +1741,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7274,
-      "importance": 0.7274,
-      "importance_score": 0.7274,
+      "score": 0.7264,
+      "importance": 0.7264,
+      "importance_score": 0.7264,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7767,
+        "recency": 0.7711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1687,117 +1774,116 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     },
     {
-      "story_id": "story_4afe5d6d7b72",
-      "title": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西 / ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-      "url": "https://www.producthunt.com/products/chatgpt",
-      "primary_url": "https://www.producthunt.com/products/chatgpt",
+      "story_id": "story_a079d048e705",
+      "title": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK by Vercel — Give AI agents the building blocks to create UI",
+      "url": "https://www.producthunt.com/products/ui-sdk",
+      "primary_url": "https://www.producthunt.com/products/ui-sdk",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "724c4ca85d100e0c57f0c3e5f9a9f78cfcf1530d",
-          "title": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西 / ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "title_zh": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西",
-          "title_en": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "title_original": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "summary": "Let ChatGPT agents buy things without seeing your card",
+          "id": "52f66885b97639006834e8033f06fe14b09246be",
+          "title": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK by Vercel — Give AI agents the building blocks to create UI",
+          "title_zh": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块",
+          "title_en": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
+          "title_original": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
+          "summary": "Give AI agents the building blocks to create UI",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/chatgpt",
+          "url": "https://www.producthunt.com/products/ui-sdk",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-13T18:06:13Z",
-          "updated_at": "2026-11-16T23:45:43Z",
+          "published_at": "2026-11-15T12:01:57Z",
+          "updated_at": "2026-11-17T00:13:06Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "5101060b6052840a1bd9348d6c1c1339f335c54b",
-          "title": "ChatGPT Wallet",
-          "title_zh": null,
-          "title_en": "ChatGPT Wallet",
-          "title_original": "ChatGPT Wallet",
-          "summary": null,
+          "id": "9d8e9a81fb1d6cafb25e259e9e56e111cc4587e7",
+          "title": "UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK — Give AI agents the building blocks to create UI",
+          "title_zh": "UI SDK — 为 AI 代理提供创建 UI 的构建块",
+          "title_en": "UI SDK — Give AI agents the building blocks to create UI",
+          "title_original": "UI SDK — Give AI agents the building blocks to create UI",
+          "summary": "Give AI agents the building blocks to create UI",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/chatgpt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T12:34:17.570000Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/ui-sdk",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-15T12:01:57Z",
+          "updated_at": "2026-11-16T09:02:42Z",
+          "recency_basis": "updated_at"
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Product Hunt"
       ],
       "items": [
         {
-          "id": "724c4ca85d100e0c57f0c3e5f9a9f78cfcf1530d",
-          "title": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西 / ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "title_zh": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西",
-          "title_en": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "title_original": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-          "summary": "Let ChatGPT agents buy things without seeing your card",
+          "id": "52f66885b97639006834e8033f06fe14b09246be",
+          "title": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK by Vercel — Give AI agents the building blocks to create UI",
+          "title_zh": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块",
+          "title_en": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
+          "title_original": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
+          "summary": "Give AI agents the building blocks to create UI",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/chatgpt",
+          "url": "https://www.producthunt.com/products/ui-sdk",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-13T18:06:13Z",
-          "updated_at": "2026-11-16T23:45:43Z",
+          "published_at": "2026-11-15T12:01:57Z",
+          "updated_at": "2026-11-17T00:13:06Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "5101060b6052840a1bd9348d6c1c1339f335c54b",
-          "title": "ChatGPT Wallet",
-          "title_zh": null,
-          "title_en": "ChatGPT Wallet",
-          "title_original": "ChatGPT Wallet",
-          "summary": null,
+          "id": "9d8e9a81fb1d6cafb25e259e9e56e111cc4587e7",
+          "title": "UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK — Give AI agents the building blocks to create UI",
+          "title_zh": "UI SDK — 为 AI 代理提供创建 UI 的构建块",
+          "title_en": "UI SDK — Give AI agents the building blocks to create UI",
+          "title_original": "UI SDK — Give AI agents the building blocks to create UI",
+          "summary": "Give AI agents the building blocks to create UI",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/chatgpt",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-16T12:34:17.570000Z",
-          "updated_at": null,
-          "recency_basis": null
+          "url": "https://www.producthunt.com/products/ui-sdk",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-15T12:01:57Z",
+          "updated_at": "2026-11-16T09:02:42Z",
+          "recency_basis": "updated_at"
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5935,
-      "importance": 0.5935,
-      "importance_score": 0.5935,
+      "score": 0.5934,
+      "importance": 0.5934,
+      "importance_score": 0.5934,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9962,
+        "recency": 0.9955,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-16T12:34:17.570000Z",
-      "latest_at": "2026-11-16T23:45:43Z",
+      "earliest_at": "2026-11-16T09:02:42Z",
+      "latest_at": "2026-11-17T00:13:06Z",
       "primary_item": {
-        "id": "724c4ca85d100e0c57f0c3e5f9a9f78cfcf1530d",
-        "title": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西 / ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-        "title_zh": "ChatGPT 钱包 — 让 ChatGPT 代理商无需看到您的卡即可购买东西",
-        "title_en": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-        "title_original": "ChatGPT Wallet — Let ChatGPT agents buy things without seeing your card",
-        "summary": "Let ChatGPT agents buy things without seeing your card",
+        "id": "52f66885b97639006834e8033f06fe14b09246be",
+        "title": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块 / UI SDK by Vercel — Give AI agents the building blocks to create UI",
+        "title_zh": "Vercel 的 UI SDK — 为 AI 代理提供创建 UI 的构建块",
+        "title_en": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
+        "title_original": "UI SDK by Vercel — Give AI agents the building blocks to create UI",
+        "summary": "Give AI agents the building blocks to create UI",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/chatgpt",
+        "url": "https://www.producthunt.com/products/ui-sdk",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1805,124 +1891,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
-      }
-    },
-    {
-      "story_id": "story_1ccd33a3f946",
-      "title": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-      "url": "https://github.com/NVIDIA/SkillEvaluator",
-      "primary_url": "https://github.com/NVIDIA/SkillEvaluator",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "f803de41944649b7e7b80b2dcd8b8d416d88cd3d",
-          "title": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "title_zh": null,
-          "title_en": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "title_original": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/NVIDIA/SkillEvaluator",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e44040ff7871ee640a5de1a1f7d39f43650a4629",
-          "title": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "title_zh": null,
-          "title_en": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "title_original": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "summary": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/NVIDIA/SkillEvaluator",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending"
-      ],
-      "items": [
-        {
-          "id": "f803de41944649b7e7b80b2dcd8b8d416d88cd3d",
-          "title": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "title_zh": null,
-          "title_en": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "title_original": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/NVIDIA/SkillEvaluator",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e44040ff7871ee640a5de1a1f7d39f43650a4629",
-          "title": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "title_zh": null,
-          "title_en": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "title_original": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "summary": "Multi-tier framework for evaluating AI agent skills with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/NVIDIA/SkillEvaluator",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5793,
-      "importance": 0.5793,
-      "importance_score": 0.5793,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.917,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-16T02:28:58.747031Z",
-      "latest_at": "2026-11-16T18:01:44.930297Z",
-      "primary_item": {
-        "id": "f803de41944649b7e7b80b2dcd8b8d416d88cd3d",
-        "title": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-        "title_zh": null,
-        "title_en": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-        "title_original": "NVIDIA/SkillEvaluator — Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-        "summary": "Multi-tier framework for evaluating AI agent skills and plugins with quality gates, semantic overlap detection, synthetic evaluation dataset generation, and live agent evaluation that measures how skills affect agent behavior.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/NVIDIA/SkillEvaluator",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-17T00:21:24.325726Z"
+        "scored_at": "2026-11-17T00:40:53.759927Z"
       }
     }
   ]
