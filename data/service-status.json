@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-17T19:31:50.650437Z",
+  "generated_at": "2026-11-17T20:01:50.793361Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -18,11 +18,11 @@
       "provider": "OpenAI",
       "title": "Costs API data is delayed",
       "title_zh": "Costs API data is delayed",
-      "status": "investigating",
+      "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-11-17T17:46:15Z",
-      "updated_at": "2026-11-17T18:41:57Z",
-      "message": "We have identified the issue, it was due to an internal account, that jumped from 100 groups to 400+ groups, breaking rockset's ingestion. We have identified a simple fix for this and waiting for it to deploy, we will rerun the jobs for these hours, and expect to start catching up in 2 hours, And expect to fully recover in 8 hours.",
+      "updated_at": "2026-11-17T19:53:49Z",
+      "message": "We've pushed a fix and are monitoring the recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M7N9VNR6X5SEC90M1YCDB36D"
     }
