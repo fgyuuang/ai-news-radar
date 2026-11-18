@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T21:31:45.645635Z",
+  "generated_at": "2026-11-18T22:01:45.957216Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8559,
-      "importance": 0.8559,
-      "importance_score": 0.8559,
+      "score": 0.8546,
+      "importance": 0.8546,
+      "importance_score": 0.8546,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.977,
+        "recency": 0.9699,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
+      }
+    },
+    {
+      "story_id": "story_e0cc6809540e",
+      "title": "Introducing Gemini 4 Neon",
+      "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+      "primary_url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4dec27a174458fb924c93975be1ddec17839441f",
+          "title": "Introducing Gemini 4 Neon",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 4 Neon",
+          "title_original": "Introducing Gemini 4 Neon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T21:35:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "4dec27a174458fb924c93975be1ddec17839441f",
+          "title": "Introducing Gemini 4 Neon",
+          "title_zh": null,
+          "title_en": "Introducing Gemini 4 Neon",
+          "title_original": "Introducing Gemini 4 Neon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T21:35:43Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8509,
+      "importance": 0.8509,
+      "importance_score": 0.8509,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.9938,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T21:35:43Z",
+      "latest_at": "2026-11-18T21:35:43Z",
+      "primary_item": {
+        "id": "4dec27a174458fb924c93975be1ddec17839441f",
+        "title": "Introducing Gemini 4 Neon",
+        "title_zh": null,
+        "title_en": "Introducing Gemini 4 Neon",
+        "title_original": "Introducing Gemini 4 Neon",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/introducing-gemini-4-neon",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -139,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8406,
-      "importance": 0.8406,
-      "importance_score": 0.8406,
+      "score": 0.8394,
+      "importance": 0.8394,
+      "importance_score": 0.8394,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9367,
+        "recency": 0.9299,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -226,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8382,
-      "importance": 0.8382,
-      "importance_score": 0.8382,
+      "score": 0.837,
+      "importance": 0.837,
+      "importance_score": 0.837,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9233,
+        "recency": 0.9167,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,173 +348,120 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
-      "story_id": "story_2256a2f0ba3c",
-      "title": "Genie 4 is now available",
-      "url": "https://deepmind.google/blog/genie-4-is-now-available",
-      "primary_url": "https://deepmind.google/blog/genie-4-is-now-available",
-      "source": "Google DeepMind",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "725506b42b16c18702103415e53d51ff53358fc5",
-          "title": "Genie 4 is now available",
-          "title_zh": null,
-          "title_en": "Genie 4 is now available",
-          "title_original": "Genie 4 is now available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/genie-4-is-now-available",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T18:13:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Google DeepMind"
-      ],
-      "items": [
-        {
-          "id": "725506b42b16c18702103415e53d51ff53358fc5",
-          "title": "Genie 4 is now available",
-          "title_zh": null,
-          "title_en": "Genie 4 is now available",
-          "title_original": "Genie 4 is now available",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://deepmind.google/blog/genie-4-is-now-available",
-          "source": "Google DeepMind",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T18:13:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8356,
-      "importance": 0.8356,
-      "importance_score": 0.8356,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.87,
-        "recency": 0.9534,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T18:13:42Z",
-      "latest_at": "2026-11-18T18:13:42Z",
-      "primary_item": {
-        "id": "725506b42b16c18702103415e53d51ff53358fc5",
-        "title": "Genie 4 is now available",
-        "title_zh": null,
-        "title_en": "Genie 4 is now available",
-        "title_original": "Genie 4 is now available",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://deepmind.google/blog/genie-4-is-now-available",
-        "source": "Google DeepMind",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
-      }
-    },
-    {
-      "story_id": "story_aca705309e9e",
-      "title": "Inside the Codex sandbox",
-      "url": "https://openai.com/index/inside-the-codex-sandbox",
-      "primary_url": "https://openai.com/index/inside-the-codex-sandbox",
+      "story_id": "story_9205b5475a74",
+      "title": "利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models",
+      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "primary_url": "https://openai.com/index/advancing-chip-design-with-our-models",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "efeccecd89af4bc0483ba6dba779d51d7fca9ed0",
-          "title": "Inside the Codex sandbox",
-          "title_zh": null,
-          "title_en": "Inside the Codex sandbox",
-          "title_original": "Inside the Codex sandbox",
+          "id": "c6055c08c4cbd326dbf4d06378104b424189a16e",
+          "title": "利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models",
+          "title_zh": "利用 OpenAI 模型推动芯片设计发展",
+          "title_en": "Advancing chip design with OpenAI models",
+          "title_original": "Advancing chip design with OpenAI models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/inside-the-codex-sandbox",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-18T08:00:00Z",
+          "published_at": "2026-11-18T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "730aca89915eec1e31980d077c39e0de618fa40b",
+          "title": "利用 OpenAI 模型推动芯片设计发展",
+          "title_zh": "利用 OpenAI 模型推动芯片设计发展",
+          "title_en": null,
+          "title_original": "利用 OpenAI 模型推动芯片设计发展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-18T21:51:51.423000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 1,
+      "source_count": 2,
       "source_names": [
-        "OpenAI News"
+        "OpenAI News",
+        "openai.com"
       ],
       "items": [
         {
-          "id": "efeccecd89af4bc0483ba6dba779d51d7fca9ed0",
-          "title": "Inside the Codex sandbox",
-          "title_zh": null,
-          "title_en": "Inside the Codex sandbox",
-          "title_original": "Inside the Codex sandbox",
+          "id": "c6055c08c4cbd326dbf4d06378104b424189a16e",
+          "title": "利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models",
+          "title_zh": "利用 OpenAI 模型推动芯片设计发展",
+          "title_en": "Advancing chip design with OpenAI models",
+          "title_original": "Advancing chip design with OpenAI models",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/inside-the-codex-sandbox",
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-18T08:00:00Z",
+          "published_at": "2026-11-18T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "730aca89915eec1e31980d077c39e0de618fa40b",
+          "title": "利用 OpenAI 模型推动芯片设计发展",
+          "title_zh": "利用 OpenAI 模型推动芯片设计发展",
+          "title_en": null,
+          "title_original": "利用 OpenAI 模型推动芯片设计发展",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-18T21:51:51.423000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8341,
-      "importance": 0.8341,
-      "importance_score": 0.8341,
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.834,
+      "importance": 0.834,
+      "importance_score": 0.834,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.98,
-        "recency": 0.8225,
-        "story_heat": 0.0
+        "ai_relevance": 0.94,
+        "recency": 0.7275,
+        "story_heat": 0.25
       },
       "category": "official",
       "reasons": [
         "official_source",
+        "multi_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T08:00:00Z",
-      "latest_at": "2026-11-18T08:00:00Z",
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T21:51:51.423000Z",
       "primary_item": {
-        "id": "efeccecd89af4bc0483ba6dba779d51d7fca9ed0",
-        "title": "Inside the Codex sandbox",
-        "title_zh": null,
-        "title_en": "Inside the Codex sandbox",
-        "title_original": "Inside the Codex sandbox",
+        "id": "c6055c08c4cbd326dbf4d06378104b424189a16e",
+        "title": "利用 OpenAI 模型推动芯片设计发展 / Advancing chip design with OpenAI models",
+        "title_zh": "利用 OpenAI 模型推动芯片设计发展",
+        "title_en": "Advancing chip design with OpenAI models",
+        "title_original": "Advancing chip design with OpenAI models",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/inside-the-codex-sandbox",
+        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -435,7 +469,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -487,15 +521,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8533,
-      "importance": 0.8533,
-      "importance_score": 0.8533,
+      "score": 0.852,
+      "importance": 0.852,
+      "importance_score": 0.852,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9627,
+        "recency": 0.9557,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +556,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -574,15 +608,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8179,
-      "importance": 0.8179,
-      "importance_score": 0.8179,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7328,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -609,7 +643,181 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
+      }
+    },
+    {
+      "story_id": "story_2256a2f0ba3c",
+      "title": "Genie 4 is now available",
+      "url": "https://deepmind.google/blog/genie-4-is-now-available",
+      "primary_url": "https://deepmind.google/blog/genie-4-is-now-available",
+      "source": "Google DeepMind",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "725506b42b16c18702103415e53d51ff53358fc5",
+          "title": "Genie 4 is now available",
+          "title_zh": null,
+          "title_en": "Genie 4 is now available",
+          "title_original": "Genie 4 is now available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/genie-4-is-now-available",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T18:13:42Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Google DeepMind"
+      ],
+      "items": [
+        {
+          "id": "725506b42b16c18702103415e53d51ff53358fc5",
+          "title": "Genie 4 is now available",
+          "title_zh": null,
+          "title_en": "Genie 4 is now available",
+          "title_original": "Genie 4 is now available",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://deepmind.google/blog/genie-4-is-now-available",
+          "source": "Google DeepMind",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T18:13:42Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8344,
+      "importance": 0.8344,
+      "importance_score": 0.8344,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.87,
+        "recency": 0.9466,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T18:13:42Z",
+      "latest_at": "2026-11-18T18:13:42Z",
+      "primary_item": {
+        "id": "725506b42b16c18702103415e53d51ff53358fc5",
+        "title": "Genie 4 is now available",
+        "title_zh": null,
+        "title_en": "Genie 4 is now available",
+        "title_original": "Genie 4 is now available",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://deepmind.google/blog/genie-4-is-now-available",
+        "source": "Google DeepMind",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T22:04:52.311166Z"
+      }
+    },
+    {
+      "story_id": "story_aca705309e9e",
+      "title": "Inside the Codex sandbox",
+      "url": "https://openai.com/index/inside-the-codex-sandbox",
+      "primary_url": "https://openai.com/index/inside-the-codex-sandbox",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "efeccecd89af4bc0483ba6dba779d51d7fca9ed0",
+          "title": "Inside the Codex sandbox",
+          "title_zh": null,
+          "title_en": "Inside the Codex sandbox",
+          "title_original": "Inside the Codex sandbox",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/inside-the-codex-sandbox",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "efeccecd89af4bc0483ba6dba779d51d7fca9ed0",
+          "title": "Inside the Codex sandbox",
+          "title_zh": null,
+          "title_en": "Inside the Codex sandbox",
+          "title_original": "Inside the Codex sandbox",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/inside-the-codex-sandbox",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T08:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.833,
+      "importance": 0.833,
+      "importance_score": 0.833,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.98,
+        "recency": 0.8166,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T08:00:00Z",
+      "latest_at": "2026-11-18T08:00:00Z",
+      "primary_item": {
+        "id": "efeccecd89af4bc0483ba6dba779d51d7fca9ed0",
+        "title": "Inside the Codex sandbox",
+        "title_zh": null,
+        "title_en": "Inside the Codex sandbox",
+        "title_original": "Inside the Codex sandbox",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/inside-the-codex-sandbox",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -661,15 +869,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8324,
-      "importance": 0.8324,
-      "importance_score": 0.8324,
+      "score": 0.8312,
+      "importance": 0.8312,
+      "importance_score": 0.8312,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9354,
+        "recency": 0.9287,
         "story_heat": 0.0
       },
       "category": "official",
@@ -696,94 +904,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
-      }
-    },
-    {
-      "story_id": "story_e9ca520e7f37",
-      "title": "管理前沿人工智能风险：从培训到部署 / Managing frontier AI risk: From training to deployment",
-      "url": "https://openai.com/index/managing-frontier-ai-risk",
-      "primary_url": "https://openai.com/index/managing-frontier-ai-risk",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "3318287fb79225b809e8c3bbdffecbd186893952",
-          "title": "管理前沿人工智能风险：从培训到部署 / Managing frontier AI risk: From training to deployment",
-          "title_zh": "管理前沿人工智能风险：从培训到部署",
-          "title_en": "Managing frontier AI risk: From training to deployment",
-          "title_original": "Managing frontier AI risk: From training to deployment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/managing-frontier-ai-risk",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T06:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "OpenAI News"
-      ],
-      "items": [
-        {
-          "id": "3318287fb79225b809e8c3bbdffecbd186893952",
-          "title": "管理前沿人工智能风险：从培训到部署 / Managing frontier AI risk: From training to deployment",
-          "title_zh": "管理前沿人工智能风险：从培训到部署",
-          "title_en": "Managing frontier AI risk: From training to deployment",
-          "title_original": "Managing frontier AI risk: From training to deployment",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/managing-frontier-ai-risk",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-18T06:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8158,
-      "importance": 0.8158,
-      "importance_score": 0.8158,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7991,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T06:00:00Z",
-      "latest_at": "2026-11-18T06:00:00Z",
-      "primary_item": {
-        "id": "3318287fb79225b809e8c3bbdffecbd186893952",
-        "title": "管理前沿人工智能风险：从培训到部署 / Managing frontier AI risk: From training to deployment",
-        "title_zh": "管理前沿人工智能风险：从培训到部署",
-        "title_en": "Managing frontier AI risk: From training to deployment",
-        "title_original": "Managing frontier AI risk: From training to deployment",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/managing-frontier-ai-risk",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -835,15 +956,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8438,
-      "importance": 0.8438,
-      "importance_score": 0.8438,
+      "score": 0.8426,
+      "importance": 0.8426,
+      "importance_score": 0.8426,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9101,
+        "recency": 0.9036,
         "story_heat": 0.0
       },
       "category": "official",
@@ -870,30 +991,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
-      "story_id": "story_8b20cb44e693",
-      "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
-      "primary_url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "story_id": "story_e9ca520e7f37",
+      "title": "管理前沿人工智能风险：从培训到部署 / Managing frontier AI risk: From training to deployment",
+      "url": "https://openai.com/index/managing-frontier-ai-risk",
+      "primary_url": "https://openai.com/index/managing-frontier-ai-risk",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "806ec6838e0a5c9033d6008ec4d2459bc0ea282c",
-          "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "title_zh": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT",
-          "title_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "title_original": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "id": "3318287fb79225b809e8c3bbdffecbd186893952",
+          "title": "管理前沿人工智能风险：从培训到部署 / Managing frontier AI risk: From training to deployment",
+          "title_zh": "管理前沿人工智能风险：从培训到部署",
+          "title_en": "Managing frontier AI risk: From training to deployment",
+          "title_original": "Managing frontier AI risk: From training to deployment",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "url": "https://openai.com/index/managing-frontier-ai-risk",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-18T00:00:00Z",
+          "published_at": "2026-11-18T06:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -904,33 +1025,33 @@
       ],
       "items": [
         {
-          "id": "806ec6838e0a5c9033d6008ec4d2459bc0ea282c",
-          "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "title_zh": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT",
-          "title_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-          "title_original": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "id": "3318287fb79225b809e8c3bbdffecbd186893952",
+          "title": "管理前沿人工智能风险：从培训到部署 / Managing frontier AI risk: From training to deployment",
+          "title_zh": "管理前沿人工智能风险：从培训到部署",
+          "title_en": "Managing frontier AI risk: From training to deployment",
+          "title_original": "Managing frontier AI risk: From training to deployment",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+          "url": "https://openai.com/index/managing-frontier-ai-risk",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-18T00:00:00Z",
+          "published_at": "2026-11-18T06:00:00Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7328,
+        "ai_relevance": 0.91,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "official",
@@ -939,17 +1060,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T00:00:00Z",
-      "latest_at": "2026-11-18T00:00:00Z",
+      "earliest_at": "2026-11-18T06:00:00Z",
+      "latest_at": "2026-11-18T06:00:00Z",
       "primary_item": {
-        "id": "806ec6838e0a5c9033d6008ec4d2459bc0ea282c",
-        "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-        "title_zh": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT",
-        "title_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
-        "title_original": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "id": "3318287fb79225b809e8c3bbdffecbd186893952",
+        "title": "管理前沿人工智能风险：从培训到部署 / Managing frontier AI risk: From training to deployment",
+        "title_zh": "管理前沿人工智能风险：从培训到部署",
+        "title_en": "Managing frontier AI risk: From training to deployment",
+        "title_original": "Managing frontier AI risk: From training to deployment",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+        "url": "https://openai.com/index/managing-frontier-ai-risk",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -957,7 +1078,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -1009,15 +1130,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8471,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1042,7 +1163,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -1094,15 +1215,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8199,
-      "importance": 0.8199,
-      "importance_score": 0.8199,
+      "score": 0.819,
+      "importance": 0.819,
+      "importance_score": 0.819,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.99,
-        "recency": 0.7328,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1129,26 +1250,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
-      "story_id": "story_9205b5475a74",
-      "title": "利用 OpenAI 模型推进芯片设计 / Advancing chip design with OpenAI models",
-      "url": "https://openai.com/index/advancing-chip-design-with-our-models",
-      "primary_url": "https://openai.com/index/advancing-chip-design-with-our-models",
+      "story_id": "story_8b20cb44e693",
+      "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+      "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
+      "primary_url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
       "source": "OpenAI News",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "c6055c08c4cbd326dbf4d06378104b424189a16e",
-          "title": "利用 OpenAI 模型推进芯片设计 / Advancing chip design with OpenAI models",
-          "title_zh": "利用 OpenAI 模型推进芯片设计",
-          "title_en": "Advancing chip design with OpenAI models",
-          "title_original": "Advancing chip design with OpenAI models",
+          "id": "806ec6838e0a5c9033d6008ec4d2459bc0ea282c",
+          "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "title_zh": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT",
+          "title_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "title_original": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1163,14 +1284,14 @@
       ],
       "items": [
         {
-          "id": "c6055c08c4cbd326dbf4d06378104b424189a16e",
-          "title": "利用 OpenAI 模型推进芯片设计 / Advancing chip design with OpenAI models",
-          "title_zh": "利用 OpenAI 模型推进芯片设计",
-          "title_en": "Advancing chip design with OpenAI models",
-          "title_original": "Advancing chip design with OpenAI models",
+          "id": "806ec6838e0a5c9033d6008ec4d2459bc0ea282c",
+          "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "title_zh": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT",
+          "title_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+          "title_original": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+          "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
           "source": "OpenAI News",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1181,15 +1302,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8099,
-      "importance": 0.8099,
-      "importance_score": 0.8099,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.94,
-        "recency": 0.7328,
+        "ai_relevance": 0.95,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1201,14 +1322,14 @@
       "earliest_at": "2026-11-18T00:00:00Z",
       "latest_at": "2026-11-18T00:00:00Z",
       "primary_item": {
-        "id": "c6055c08c4cbd326dbf4d06378104b424189a16e",
-        "title": "利用 OpenAI 模型推进芯片设计 / Advancing chip design with OpenAI models",
-        "title_zh": "利用 OpenAI 模型推进芯片设计",
-        "title_en": "Advancing chip design with OpenAI models",
-        "title_original": "Advancing chip design with OpenAI models",
+        "id": "806ec6838e0a5c9033d6008ec4d2459bc0ea282c",
+        "title": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT / Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "title_zh": "Le Groupe Figaro 和 OpenAI 合作将 Le Figaro 新闻带入 ChatGPT",
+        "title_en": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
+        "title_original": "Le Groupe Figaro and OpenAI partner to bring Le Figaro journalism to ChatGPT",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/advancing-chip-design-with-our-models",
+        "url": "https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership",
         "source": "OpenAI News",
         "source_name": "Official AI Updates"
       },
@@ -1216,7 +1337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -1268,15 +1389,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7401,
-      "importance": 0.7401,
-      "importance_score": 0.7401,
+      "score": 0.739,
+      "importance": 0.739,
+      "importance_score": 0.739,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8471,
+        "recency": 0.841,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1301,7 +1422,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -1353,15 +1474,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8119,
-      "importance": 0.8119,
-      "importance_score": 0.8119,
+      "score": 0.811,
+      "importance": 0.811,
+      "importance_score": 0.811,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7328,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1388,7 +1509,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -1440,15 +1561,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.803,
+      "importance": 0.803,
+      "importance_score": 0.803,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7328,
+        "recency": 0.7275,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1475,7 +1596,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -1527,15 +1648,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.739,
-      "importance": 0.739,
-      "importance_score": 0.739,
+      "score": 0.7379,
+      "importance": 0.7379,
+      "importance_score": 0.7379,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8409,
+        "recency": 0.8349,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1560,7 +1681,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     },
     {
@@ -1612,15 +1733,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7379,
-      "importance": 0.7379,
-      "importance_score": 0.7379,
+      "score": 0.7368,
+      "importance": 0.7368,
+      "importance_score": 0.7368,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8349,
+        "recency": 0.8288,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1645,125 +1766,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
-      }
-    },
-    {
-      "story_id": "story_c5fccb1bc663",
-      "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks say customers using AI agents are on their own — even if they get hacked",
-      "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-      "primary_url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-      "source": "TechCrunch AI",
-      "source_name": "Curated Media",
-      "sources": [
-        {
-          "id": "c5c65a30d271535aac8e665818e2cbaeba4cb456",
-          "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks say customers using AI agents are on their own — even if they get hacked",
-          "title_zh": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击",
-          "title_en": "More banks say customers using AI agents are on their own — even if they get hacked",
-          "title_original": "More banks say customers using AI agents are on their own — even if they get hacked",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-18T17:32:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ed79926d6748fbfc4980462d30c74be480b24a3a",
-          "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks says customers using AI agents are on their own — even if they get hacked",
-          "title_zh": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击",
-          "title_en": "More banks says customers using AI agents are on their own — even if they get hacked",
-          "title_original": "More banks says customers using AI agents are on their own — even if they get hacked",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-18T17:32:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "TechCrunch",
-        "TechCrunch AI"
-      ],
-      "items": [
-        {
-          "id": "c5c65a30d271535aac8e665818e2cbaeba4cb456",
-          "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks say customers using AI agents are on their own — even if they get hacked",
-          "title_zh": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击",
-          "title_en": "More banks say customers using AI agents are on their own — even if they get hacked",
-          "title_original": "More banks say customers using AI agents are on their own — even if they get hacked",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-          "source": "TechCrunch AI",
-          "source_name": "Curated Media",
-          "site_id": "curated_media",
-          "published_at": "2026-11-18T17:32:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "ed79926d6748fbfc4980462d30c74be480b24a3a",
-          "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks says customers using AI agents are on their own — even if they get hacked",
-          "title_zh": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击",
-          "title_en": "More banks says customers using AI agents are on their own — even if they get hacked",
-          "title_original": "More banks says customers using AI agents are on their own — even if they get hacked",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-          "source": "TechCrunch",
-          "source_name": "TechURLs",
-          "site_id": "techurls",
-          "published_at": "2026-11-18T17:32:10Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.6387,
-      "importance": 0.6387,
-      "importance_score": 0.6387,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.5472,
-        "source_tier": 0.58,
-        "ai_relevance": 0.76,
-        "recency": 0.944,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-18T17:32:10Z",
-      "latest_at": "2026-11-18T17:32:10Z",
-      "primary_item": {
-        "id": "c5c65a30d271535aac8e665818e2cbaeba4cb456",
-        "title": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击 / More banks say customers using AI agents are on their own — even if they get hacked",
-        "title_zh": "越来越多的银行表示，使用人工智能代理的客户只能依靠自己——即使他们遭到黑客攻击",
-        "title_en": "More banks say customers using AI agents are on their own — even if they get hacked",
-        "title_original": "More banks say customers using AI agents are on their own — even if they get hacked",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://techcrunch.com/2026/11/18/more-banks-says-customers-using-ai-agents-are-on-their-own-even-if-they-get-hacked",
-        "source": "TechCrunch AI",
-        "source_name": "Curated Media"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T21:35:15.487103Z"
+        "scored_at": "2026-11-18T22:04:52.311166Z"
       }
     }
   ]
