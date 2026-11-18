@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T07:01:45.605772Z",
+  "generated_at": "2026-11-18T09:01:48.071769Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8786,
-      "importance": 0.8786,
-      "importance_score": 0.8786,
+      "score": 0.8744,
+      "importance": 0.8744,
+      "importance_score": 0.8744,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8255,
+        "recency": 0.802,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
@@ -206,15 +206,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8486,
-      "importance": 0.8486,
-      "importance_score": 0.8486,
+      "score": 0.844,
+      "importance": 0.844,
+      "importance_score": 0.844,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.9035,
+        "recency": 0.8777,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +241,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
@@ -293,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8343,
-      "importance": 0.8343,
-      "importance_score": 0.8343,
+      "score": 0.8299,
+      "importance": 0.8299,
+      "importance_score": 0.8299,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.857,
+        "recency": 0.8326,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
@@ -380,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.819,
-      "importance": 0.819,
-      "importance_score": 0.819,
+      "score": 0.8148,
+      "importance": 0.8148,
+      "importance_score": 0.8148,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8166,
+        "recency": 0.7934,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
@@ -467,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8273,
-      "importance": 0.8273,
-      "importance_score": 0.8273,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8294,
+        "recency": 0.8058,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,94 +502,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
-      "story_id": "story_e6d6b9315c6a",
-      "title": "推出用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-      "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "primary_url": "https://openai.com/index/introducing-chatgpt-for-sales",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
+      "story_id": "story_c1c5a37b0566",
+      "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+      "url": "https://www.aibase.com/news/32379",
+      "primary_url": "https://www.aibase.com/news/32379",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-          "title": "推出用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-          "title_zh": "推出用于销售的 ChatGPT",
-          "title_en": "Introducing ChatGPT for Sales",
-          "title_original": "Introducing ChatGPT for Sales",
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_en": null,
+          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T08:00:00Z",
+          "url": "https://www.aibase.com/news/32379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:01:48.071769Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 1,
       "source_names": [
-        "OpenAI News"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-          "title": "推出用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-          "title_zh": "推出用于销售的 ChatGPT",
-          "title_en": "Introducing ChatGPT for Sales",
-          "title_original": "Introducing ChatGPT for Sales",
+          "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+          "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+          "title_en": null,
+          "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T08:00:00Z",
+          "url": "https://www.aibase.com/news/32379",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:01:48.071769Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8091,
-      "importance": 0.8091,
-      "importance_score": 0.8091,
-      "importance_label": "官方更新",
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7171,
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
         "story_heat": 0.0
       },
-      "category": "official",
+      "category": "industry",
       "reasons": [
-        "official_source",
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T08:00:00Z",
-      "latest_at": "2026-11-17T08:00:00Z",
+      "earliest_at": "2026-11-18T09:01:48.071769Z",
+      "latest_at": "2026-11-18T09:01:48.071769Z",
       "primary_item": {
-        "id": "d1e6370b23b24cbc4cffc01b82f4787a8ecbf5c4",
-        "title": "推出用于销售的 ChatGPT / Introducing ChatGPT for Sales",
-        "title_zh": "推出用于销售的 ChatGPT",
-        "title_en": "Introducing ChatGPT for Sales",
-        "title_original": "Introducing ChatGPT for Sales",
+        "id": "6638f595b2f53a07d1a5af6f3dba0eecf9bc729b",
+        "title": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "title_zh": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
+        "title_en": null,
+        "title_original": "Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://openai.com/index/introducing-chatgpt-for-sales",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
+        "url": "https://www.aibase.com/news/32379",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
@@ -641,15 +640,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8271,
-      "importance": 0.8271,
-      "importance_score": 0.8271,
+      "score": 0.8229,
+      "importance": 0.8229,
+      "importance_score": 0.8229,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.8286,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "category": "official",
@@ -676,30 +675,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
-      "story_id": "story_44f5074f9425",
-      "title": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
-      "url": "https://www.aibase.com/news/32377",
-      "primary_url": "https://www.aibase.com/news/32377",
+      "story_id": "story_7ab530951193",
+      "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+      "url": "https://www.aibase.com/news/32378",
+      "primary_url": "https://www.aibase.com/news/32378",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "ee73f8b4f7d108a431347e7f1a76f51e6b79c414",
-          "title": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
-          "title_zh": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
+          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
           "title_en": null,
-          "title_original": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
+          "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32377",
+          "url": "https://www.aibase.com/news/32378",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T06:31:44.255334Z",
+          "published_at": "2026-11-18T09:01:48.071769Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -710,33 +709,33 @@
       ],
       "items": [
         {
-          "id": "ee73f8b4f7d108a431347e7f1a76f51e6b79c414",
-          "title": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
-          "title_zh": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
+          "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+          "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+          "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
           "title_en": null,
-          "title_original": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
+          "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32377",
+          "url": "https://www.aibase.com/news/32378",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T06:31:44.255334Z",
+          "published_at": "2026-11-18T09:01:48.071769Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -744,17 +743,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T06:31:44.255334Z",
-      "latest_at": "2026-11-18T06:31:44.255334Z",
+      "earliest_at": "2026-11-18T09:01:48.071769Z",
+      "latest_at": "2026-11-18T09:01:48.071769Z",
       "primary_item": {
-        "id": "ee73f8b4f7d108a431347e7f1a76f51e6b79c414",
-        "title": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
-        "title_zh": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
+        "id": "02b3a114351369dddd765e8c64b165ed2fd5ebb9",
+        "title": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
+        "title_zh": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
         "title_en": null,
-        "title_original": "曾怕 AI 抢饭碗的美术生，带队月产 20 部短剧，5 个月营收破百万",
+        "title_original": "Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32377",
+        "url": "https://www.aibase.com/news/32378",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -762,180 +761,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
-      }
-    },
-    {
-      "story_id": "story_19ad988d9abd",
-      "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-          "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
-          "title_en": "GitHub Copilot app, Microsoft Ignite releases",
-          "title_original": "GitHub Copilot app, Microsoft Ignite releases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:03:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-          "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
-          "title_en": "GitHub Copilot app, Microsoft Ignite releases",
-          "title_original": "GitHub Copilot app, Microsoft Ignite releases",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:03:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8213,
-      "importance": 0.8213,
-      "importance_score": 0.8213,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8292,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:03:42Z",
-      "latest_at": "2026-11-17T18:03:42Z",
-      "primary_item": {
-        "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
-        "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
-        "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
-        "title_en": "GitHub Copilot app, Microsoft Ignite releases",
-        "title_original": "GitHub Copilot app, Microsoft Ignite releases",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
-      }
-    },
-    {
-      "story_id": "story_15ceca82eaf2",
-      "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-      "url": "https://www.aibase.com/news/32376",
-      "primary_url": "https://www.aibase.com/news/32376",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
-          "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-          "title_zh": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-          "title_en": null,
-          "title_original": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32376",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:01:54.564006Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
-          "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-          "title_zh": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-          "title_en": null,
-          "title_original": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32376",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T04:01:54.564006Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T04:01:54.564006Z",
-      "latest_at": "2026-11-18T04:01:54.564006Z",
-      "primary_item": {
-        "id": "f2f9f16260d505885414219d4c23fe4f37e8f28a",
-        "title": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-        "title_zh": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-        "title_en": null,
-        "title_original": "郑渊洁停更两年复出：用 AI 手搓动画免费放送，还劝同行“换付费 AI 再试试”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32376",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
@@ -987,15 +813,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8289,
+        "recency": 0.8053,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1022,30 +848,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
-      "story_id": "story_7929613f9e33",
-      "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-      "url": "https://www.aibase.com/news/32374",
-      "primary_url": "https://www.aibase.com/news/32374",
+      "story_id": "story_78690ba1dbc5",
+      "title": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
+      "url": "https://www.aibase.com/news/32383",
+      "primary_url": "https://www.aibase.com/news/32383",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "id": "0006d73ca78db618a38a3b6034396ed3950195d8",
+          "title": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
+          "title_zh": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
           "title_en": null,
-          "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "title_original": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32374",
+          "url": "https://www.aibase.com/news/32383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T03:31:51.012326Z",
+          "published_at": "2026-11-18T09:01:48.071769Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1056,33 +882,33 @@
       ],
       "items": [
         {
-          "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-          "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-          "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "id": "0006d73ca78db618a38a3b6034396ed3950195d8",
+          "title": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
+          "title_zh": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
           "title_en": null,
-          "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+          "title_original": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32374",
+          "url": "https://www.aibase.com/news/32383",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T03:31:51.012326Z",
+          "published_at": "2026-11-18T09:01:48.071769Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1090,17 +916,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T03:31:51.012326Z",
-      "latest_at": "2026-11-18T03:31:51.012326Z",
+      "earliest_at": "2026-11-18T09:01:48.071769Z",
+      "latest_at": "2026-11-18T09:01:48.071769Z",
       "primary_item": {
-        "id": "9c463c5ca0cb405ace9e232fc38af8d2a6a21828",
-        "title": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
-        "title_zh": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+        "id": "0006d73ca78db618a38a3b6034396ed3950195d8",
+        "title": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
+        "title_zh": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
         "title_en": null,
-        "title_original": "微软掏出首款语音对语音模型 MAI Realtime 1：能被打断、会打电话干活，价格只有对手三分之一",
+        "title_original": "免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32374",
+        "url": "https://www.aibase.com/news/32383",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1108,7 +934,353 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
+      }
+    },
+    {
+      "story_id": "story_19ad988d9abd",
+      "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+          "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
+          "title_en": "GitHub Copilot app, Microsoft Ignite releases",
+          "title_original": "GitHub Copilot app, Microsoft Ignite releases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:03:42Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+          "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+          "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
+          "title_en": "GitHub Copilot app, Microsoft Ignite releases",
+          "title_original": "GitHub Copilot app, Microsoft Ignite releases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:03:42Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.817,
+      "importance": 0.817,
+      "importance_score": 0.817,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.8056,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:03:42Z",
+      "latest_at": "2026-11-17T18:03:42Z",
+      "primary_item": {
+        "id": "5ec5aefa235f8c35a0a08eb9a2397ebbdca960e5",
+        "title": "GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases",
+        "title_zh": "GitHub Copilot 应用程序、Microsoft Ignite 发布",
+        "title_en": "GitHub Copilot app, Microsoft Ignite releases",
+        "title_original": "GitHub Copilot app, Microsoft Ignite releases",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T09:13:57.452729Z"
+      }
+    },
+    {
+      "story_id": "story_625fe3cea53b",
+      "title": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+      "url": "https://www.aibase.com/news/32381",
+      "primary_url": "https://www.aibase.com/news/32381",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "057874d8f0528760d56fd5c21330a6f62264a8bb",
+          "title": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "title_zh": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "title_en": null,
+          "title_original": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32381",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:01:48.071769Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "057874d8f0528760d56fd5c21330a6f62264a8bb",
+          "title": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "title_zh": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "title_en": null,
+          "title_original": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32381",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:01:48.071769Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T09:01:48.071769Z",
+      "latest_at": "2026-11-18T09:01:48.071769Z",
+      "primary_item": {
+        "id": "057874d8f0528760d56fd5c21330a6f62264a8bb",
+        "title": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+        "title_zh": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+        "title_en": null,
+        "title_original": "总参数 224B、支持 100 万超长上下文！腾讯混元重磅开源 Hy4 flash 家族，多端生态全面上线",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32381",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T09:13:57.452729Z"
+      }
+    },
+    {
+      "story_id": "story_656e809f1ddf",
+      "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
+          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
+          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:00:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.805,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:00:35Z",
+      "latest_at": "2026-11-17T18:00:35Z",
+      "primary_item": {
+        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+        "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
+        "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T09:13:57.452729Z"
+      }
+    },
+    {
+      "story_id": "story_4e63f8569840",
+      "title": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+      "url": "https://www.aibase.com/news/32382",
+      "primary_url": "https://www.aibase.com/news/32382",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "b02f4c476f315c57dcccef4a4c5731a686aea42f",
+          "title": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "title_zh": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "title_en": null,
+          "title_original": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32382",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:01:48.071769Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "b02f4c476f315c57dcccef4a4c5731a686aea42f",
+          "title": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "title_zh": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "title_en": null,
+          "title_original": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32382",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:01:48.071769Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T09:01:48.071769Z",
+      "latest_at": "2026-11-18T09:01:48.071769Z",
+      "primary_item": {
+        "id": "b02f4c476f315c57dcccef4a4c5731a686aea42f",
+        "title": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+        "title_zh": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+        "title_en": null,
+        "title_original": "特斯拉双线出击：纽约时代广场投放 FSD 广告，Grok Bot 闪耀点亮拉斯维加斯 Sphere",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32382",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
@@ -1160,15 +1332,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8287,
+        "recency": 0.8051,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1195,30 +1367,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
-      "story_id": "story_3053d7bb272a",
-      "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-      "url": "https://www.aibase.com/news/32375",
-      "primary_url": "https://www.aibase.com/news/32375",
+      "story_id": "story_d20ba1b6bc0d",
+      "title": "腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%",
+      "url": "https://www.aibase.com/news/32385",
+      "primary_url": "https://www.aibase.com/news/32385",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
-          "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-          "title_zh": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+          "id": "c67a27e02fb88c8538221bdf01474f55892c53d0",
+          "title": "腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%",
+          "title_zh": "腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%",
           "title_en": null,
-          "title_original": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+          "title_original": "腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32375",
+          "url": "https://www.aibase.com/news/32385",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T03:31:51.012326Z",
+          "published_at": "2026-11-18T09:01:48.071769Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1229,33 +1401,33 @@
       ],
       "items": [
         {
-          "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
-          "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-          "title_zh": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+          "id": "c67a27e02fb88c8538221bdf01474f55892c53d0",
+          "title": "腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%",
+          "title_zh": "腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%",
           "title_en": null,
-          "title_original": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+          "title_original": "腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32375",
+          "url": "https://www.aibase.com/news/32385",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-18T03:31:51.012326Z",
+          "published_at": "2026-11-18T09:01:48.071769Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 1.0,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1263,17 +1435,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-18T03:31:51.012326Z",
-      "latest_at": "2026-11-18T03:31:51.012326Z",
+      "earliest_at": "2026-11-18T09:01:48.071769Z",
+      "latest_at": "2026-11-18T09:01:48.071769Z",
       "primary_item": {
-        "id": "4ac5ec4c114413a776b84b12ca8bd24b772741a7",
-        "title": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
-        "title_zh": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+        "id": "c67a27e02fb88c8538221bdf01474f55892c53d0",
+        "title": "腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%",
+        "title_zh": "腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%",
         "title_en": null,
-        "title_original": "语音 AI 迎来重磅并购：ElevenLabs 宣布收购日本知名语音 AI 公司 Kotoba",
+        "title_original": "腾讯三季报:WorkBuddy日均Token用量国内第一，云收入同比增长35%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32375",
+        "url": "https://www.aibase.com/news/32385",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1281,7 +1453,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
@@ -1333,15 +1505,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8288,
+        "recency": 0.8052,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1368,266 +1540,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
-      }
-    },
-    {
-      "story_id": "story_2750a132879a",
-      "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-      "url": "https://www.aibase.com/news/32372",
-      "primary_url": "https://www.aibase.com/news/32372",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "title_en": null,
-          "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32372",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T03:01:51.010245Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-          "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "title_en": null,
-          "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32372",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T03:01:51.010245Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T03:01:51.010245Z",
-      "latest_at": "2026-11-18T03:01:51.010245Z",
-      "primary_item": {
-        "id": "8529a455ce70adfb0ac5aa300fb9abbc54826cd3",
-        "title": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-        "title_zh": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-        "title_en": null,
-        "title_original": "宕机连成串之后，“Gmail 也挂了”的传言替谷歌白紧张一场",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32372",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
-      }
-    },
-    {
-      "story_id": "story_3b115a9684d2",
-      "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-      "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-      "primary_url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ca54700843ef108233ec9969a0891238ab62892a",
-          "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
-          "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ca54700843ef108233ec9969a0891238ab62892a",
-          "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
-          "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8212,
-      "importance": 0.8212,
-      "importance_score": 0.8212,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.8287,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:00:59Z",
-      "latest_at": "2026-11-17T18:00:59Z",
-      "primary_item": {
-        "id": "ca54700843ef108233ec9969a0891238ab62892a",
-        "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-        "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
-        "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-        "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
-      }
-    },
-    {
-      "story_id": "story_b82784b6441c",
-      "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-      "url": "https://www.aibase.com/news/32373",
-      "primary_url": "https://www.aibase.com/news/32373",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_en": null,
-          "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T03:01:51.010245Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-          "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "title_en": null,
-          "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32373",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T03:01:51.010245Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9439,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T03:01:51.010245Z",
-      "latest_at": "2026-11-18T03:01:51.010245Z",
-      "primary_item": {
-        "id": "a5cd44d6fcf6044d6b1bfe00b01c83d7ab3372bf",
-        "title": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-        "title_zh": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-        "title_en": null,
-        "title_original": "微软医疗转录 AI 覆盖全美三分之一医师，多语言错误率砍半",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32373",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
@@ -1711,15 +1624,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5892,
+      "importance": 0.5892,
+      "importance_score": 0.5892,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.972,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1744,26 +1657,112 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     },
     {
-      "story_id": "story_656e809f1ddf",
-      "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "story_id": "story_7dbbfe5bf313",
+      "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+      "url": "https://www.aibase.com/news/32380",
+      "primary_url": "https://www.aibase.com/news/32380",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "title_zh": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "title_en": null,
+          "title_original": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32380",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:01:48.071769Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+          "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "title_zh": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "title_en": null,
+          "title_original": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32380",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:01:48.071769Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T09:01:48.071769Z",
+      "latest_at": "2026-11-18T09:01:48.071769Z",
+      "primary_item": {
+        "id": "58c35d68b07ead95bba8a168f72ff73356496906",
+        "title": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+        "title_zh": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+        "title_en": null,
+        "title_original": "腾讯把 Hy4 flash 开源了：224B 大模型放进 GitHub，人人可下载",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32380",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T09:13:57.452729Z"
+      }
+    },
+    {
+      "story_id": "story_238adc092859",
+      "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+      "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
+      "primary_url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
-          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
+          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+          "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
+          "title_en": "Track Copilot code review outcomes in Repository insights",
+          "title_original": "Track Copilot code review outcomes in Repository insights",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1778,14 +1777,14 @@
       ],
       "items": [
         {
-          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
-          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
+          "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+          "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
+          "title_en": "Track Copilot code review outcomes in Repository insights",
+          "title_original": "Track Copilot code review outcomes in Repository insights",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+          "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
@@ -1796,15 +1795,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8211,
-      "importance": 0.8211,
-      "importance_score": 0.8211,
+      "score": 0.8169,
+      "importance": 0.8169,
+      "importance_score": 0.8169,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8286,
+        "recency": 0.805,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1816,14 +1815,14 @@
       "earliest_at": "2026-11-17T18:00:35Z",
       "latest_at": "2026-11-17T18:00:35Z",
       "primary_item": {
-        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
-        "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
-        "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
-        "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "id": "877b5c8a4e26cc0b06a41f8c57e6295f1c931c62",
+        "title": "在 Repository Insights 中跟踪 Copilot 代码审查结果 / Track Copilot code review outcomes in Repository insights",
+        "title_zh": "在 Repository Insights 中跟踪 Copilot 代码审查结果",
+        "title_en": "Track Copilot code review outcomes in Repository insights",
+        "title_original": "Track Copilot code review outcomes in Repository insights",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+        "url": "https://github.blog/changelog/2026-11-17-track-copilot-code-review-outcomes-in-repository-insights",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1831,7 +1830,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T07:11:02.401164Z"
+        "scored_at": "2026-11-18T09:13:57.452729Z"
       }
     }
   ]
