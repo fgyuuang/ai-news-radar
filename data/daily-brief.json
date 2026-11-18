@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-18T14:31:46.301019Z",
+  "generated_at": "2026-11-18T15:32:26.930147Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -44,7 +44,7 @@
           "recency_basis": null
         },
         {
-          "id": "d25dcd46a160b612978e3f6692c235d012dc724b",
+          "id": "983744efe0058323b944fea24f9db6522c023dd1",
           "title": "GPT‑6.2 Astra 和 Sol / GPT‑6.2 Astra and Sol",
           "title_zh": "GPT‑6.2 Astra 和 Sol",
           "title_en": "GPT‑6.2 Astra and Sol",
@@ -52,9 +52,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-17T17:46:43Z",
           "updated_at": null,
           "recency_basis": null
@@ -62,7 +62,7 @@
       ],
       "source_count": 3,
       "source_names": [
-        "Hacker News (黑客新闻)",
+        "Hacker News · 24h最热",
         "OpenAI News",
         "openai.com"
       ],
@@ -100,7 +100,7 @@
           "recency_basis": null
         },
         {
-          "id": "d25dcd46a160b612978e3f6692c235d012dc724b",
+          "id": "983744efe0058323b944fea24f9db6522c023dd1",
           "title": "GPT‑6.2 Astra 和 Sol / GPT‑6.2 Astra and Sol",
           "title_zh": "GPT‑6.2 Astra 和 Sol",
           "title_en": "GPT‑6.2 Astra and Sol",
@@ -108,9 +108,9 @@
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://openai.com/index/introducing-gpt-6-2-astra-sol",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-17T17:46:43Z",
           "updated_at": null,
           "recency_basis": null
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.8633,
-      "importance": 0.8633,
-      "importance_score": 0.8633,
+      "score": 0.8614,
+      "importance": 0.8614,
+      "importance_score": 0.8614,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7408,
+        "recency": 0.73,
         "story_heat": 0.5
       },
       "category": "official",
@@ -154,7 +154,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
+      }
+    },
+    {
+      "story_id": "story_0f2a2904d331",
+      "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+      "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "primary_url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_zh": null,
+          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T15:00:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
+          "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_zh": null,
+          "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T15:00:23Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8586,
+      "importance": 0.8586,
+      "importance_score": 0.8586,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9923,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T15:00:23Z",
+      "latest_at": "2026-11-18T15:00:23Z",
+      "primary_item": {
+        "id": "a85d66b6ca0fa163bbf2f9fe074be61c5259e596",
+        "title": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "title_zh": null,
+        "title_en": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "title_original": "Time-Series Models in the Streamhouse: A New Frontier and Use Cases",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -206,15 +293,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8319,
-      "importance": 0.8319,
-      "importance_score": 0.8319,
+      "score": 0.8298,
+      "importance": 0.8298,
+      "importance_score": 0.8298,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.8107,
+        "recency": 0.799,
         "story_heat": 0.0
       },
       "category": "official",
@@ -241,7 +328,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -293,15 +380,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8184,
-      "importance": 0.8184,
-      "importance_score": 0.8184,
+      "score": 0.8164,
+      "importance": 0.8164,
+      "importance_score": 0.8164,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.769,
+        "recency": 0.7579,
         "story_heat": 0.0
       },
       "category": "official",
@@ -328,7 +415,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -380,15 +467,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8039,
-      "importance": 0.8039,
-      "importance_score": 0.8039,
+      "score": 0.802,
+      "importance": 0.802,
+      "importance_score": 0.802,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7328,
+        "recency": 0.7222,
         "story_heat": 0.0
       },
       "category": "official",
@@ -415,7 +502,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -467,15 +554,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8259,
-      "importance": 0.8259,
-      "importance_score": 0.8259,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8107,
+        "recency": 0.799,
         "story_heat": 0.0
       },
       "category": "official",
@@ -502,7 +589,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
+      }
+    },
+    {
+      "story_id": "story_3a3e9fb28354",
+      "title": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+      "url": "https://huggingface.co/blog/rumble-2-flash",
+      "primary_url": "https://huggingface.co/blog/rumble-2-flash",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "5e0dafb3a74526ff2bf6d42919ecdde2a053e537",
+          "title": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "title_zh": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型",
+          "title_en": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "title_original": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/rumble-2-flash",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "5e0dafb3a74526ff2bf6d42919ecdde2a053e537",
+          "title": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "title_zh": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型",
+          "title_en": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "title_original": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/rumble-2-flash",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-18T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.799,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T00:00:00Z",
+      "latest_at": "2026-11-18T00:00:00Z",
+      "primary_item": {
+        "id": "5e0dafb3a74526ff2bf6d42919ecdde2a053e537",
+        "title": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+        "title_zh": "Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型",
+        "title_en": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+        "title_original": "Rumble-2-Flash: an open 0.5B speech model for 40+ languages",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/rumble-2-flash",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -554,15 +728,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.812,
-      "importance": 0.812,
-      "importance_score": 0.812,
+      "score": 0.81,
+      "importance": 0.81,
+      "importance_score": 0.81,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7443,
+        "recency": 0.7335,
         "story_heat": 0.0
       },
       "category": "official",
@@ -589,7 +763,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -641,15 +815,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9372,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -675,7 +849,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -727,15 +901,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8118,
-      "importance": 0.8118,
-      "importance_score": 0.8118,
+      "score": 0.8099,
+      "importance": 0.8099,
+      "importance_score": 0.8099,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.7435,
+        "recency": 0.7328,
         "story_heat": 0.0
       },
       "category": "official",
@@ -762,7 +936,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -814,15 +988,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7563,
-      "importance": 0.7563,
-      "importance_score": 0.7563,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9372,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -848,180 +1022,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
-      }
-    },
-    {
-      "story_id": "story_308e6b02f235",
-      "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:02:05Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7438,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:02:05Z",
-      "latest_at": "2026-11-17T18:02:05Z",
-      "primary_item": {
-        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
-        "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
-        "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
-        "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
-        "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
-      }
-    },
-    {
-      "story_id": "story_3114981544bc",
-      "title": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
-      "url": "https://www.aibase.com/news/32387",
-      "primary_url": "https://www.aibase.com/news/32387",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "fa71a675395595f64358a3ff17b9722906b3356a",
-          "title": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
-          "title_zh": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
-          "title_en": null,
-          "title_original": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32387",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T09:31:49.040321Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "fa71a675395595f64358a3ff17b9722906b3356a",
-          "title": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
-          "title_zh": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
-          "title_en": null,
-          "title_original": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32387",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-18T09:31:49.040321Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9304,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-18T09:31:49.040321Z",
-      "latest_at": "2026-11-18T09:31:49.040321Z",
-      "primary_item": {
-        "id": "fa71a675395595f64358a3ff17b9722906b3356a",
-        "title": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
-        "title_zh": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
-        "title_en": null,
-        "title_original": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32387",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -1073,15 +1074,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.804,
+      "importance": 0.804,
+      "importance_score": 0.804,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7441,
+        "recency": 0.7333,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1108,7 +1109,180 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
+      }
+    },
+    {
+      "story_id": "story_3114981544bc",
+      "title": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
+      "url": "https://www.aibase.com/news/32387",
+      "primary_url": "https://www.aibase.com/news/32387",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fa71a675395595f64358a3ff17b9722906b3356a",
+          "title": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
+          "title_zh": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
+          "title_en": null,
+          "title_original": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32387",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:31:49.040321Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fa71a675395595f64358a3ff17b9722906b3356a",
+          "title": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
+          "title_zh": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
+          "title_en": null,
+          "title_original": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32387",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-18T09:31:49.040321Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7526,
+      "importance": 0.7526,
+      "importance_score": 0.7526,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9169,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-18T09:31:49.040321Z",
+      "latest_at": "2026-11-18T09:31:49.040321Z",
+      "primary_item": {
+        "id": "fa71a675395595f64358a3ff17b9722906b3356a",
+        "title": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
+        "title_zh": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
+        "title_en": null,
+        "title_original": "孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32387",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T15:44:13.465358Z"
+      }
+    },
+    {
+      "story_id": "story_308e6b02f235",
+      "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+      "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "primary_url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+          "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+          "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+          "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+          "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-17T18:02:05Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.733,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-17T18:02:05Z",
+      "latest_at": "2026-11-17T18:02:05Z",
+      "primary_item": {
+        "id": "b62d1f82e8a2fb03cf839ed4289ca6912491a30a",
+        "title": "Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more",
+        "title_zh": "Copilot代码审查：自适应工作、秘密检测等",
+        "title_en": "Copilot code review: Adaptive effort, secret detection, and more",
+        "title_original": "Copilot code review: Adaptive effort, secret detection, and more",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -1160,15 +1334,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.9103,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1194,30 +1368,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
-      "story_id": "story_2d4e74257161",
-      "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
-      "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
-      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+      "story_id": "story_656e809f1ddf",
+      "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
-          "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
-          "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
-          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
-          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
+          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
+          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
+          "published_at": "2026-11-17T18:00:35Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1228,33 +1402,33 @@
       ],
       "items": [
         {
-          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
-          "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
-          "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
-          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
-          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
+          "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+          "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
+          "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+          "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
+          "published_at": "2026-11-17T18:00:35Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7436,
+        "recency": 0.7328,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1263,17 +1437,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:00:59Z",
-      "latest_at": "2026-11-17T18:00:59Z",
+      "earliest_at": "2026-11-17T18:00:35Z",
+      "latest_at": "2026-11-17T18:00:35Z",
       "primary_item": {
-        "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
-        "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
-        "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
-        "title_en": "GitHub Copilot in JetBrains, Ignite releases",
-        "title_original": "GitHub Copilot in JetBrains, Ignite releases",
+        "id": "ffc8e8511c050da245e1102932a23a84290281e0",
+        "title": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "title_zh": "GitHub Copilot CLI 添加了 Microsoft Entra 登录预览",
+        "title_en": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
+        "title_original": "GitHub Copilot CLI adds Microsoft Entra sign-in as a preview",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1281,7 +1455,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -1333,15 +1507,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.9103,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1367,30 +1541,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
-      "story_id": "story_9c01c6018d4d",
-      "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-      "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
-      "primary_url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+      "story_id": "story_2d4e74257161",
+      "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+      "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
+      "primary_url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
       "source": "GitHub Changelog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
+          "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+          "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
+          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
+          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:01:45Z",
+          "published_at": "2026-11-17T18:00:59Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1401,33 +1575,33 @@
       ],
       "items": [
         {
-          "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-          "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_zh": null,
-          "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-          "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+          "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
+          "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+          "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
+          "title_en": "GitHub Copilot in JetBrains, Ignite releases",
+          "title_original": "GitHub Copilot in JetBrains, Ignite releases",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+          "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
           "source": "GitHub Changelog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-17T18:01:45Z",
+          "published_at": "2026-11-17T18:00:59Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
+      "score": 0.8039,
+      "importance": 0.8039,
+      "importance_score": 0.8039,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7438,
+        "recency": 0.7328,
         "story_heat": 0.0
       },
       "category": "official",
@@ -1436,17 +1610,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-17T18:01:45Z",
-      "latest_at": "2026-11-17T18:01:45Z",
+      "earliest_at": "2026-11-17T18:00:59Z",
+      "latest_at": "2026-11-17T18:00:59Z",
       "primary_item": {
-        "id": "85137ffb3ccc2dc1577bf90253abaebf8c8ea79d",
-        "title": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "title_zh": null,
-        "title_en": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
-        "title_original": "MAI Code 2 and MAI Code 2 Flash in GitHub Copilot",
+        "id": "b96d68062b3485356fcf5c9aba549b8618cefde4",
+        "title": "JetBrains 中的 GitHub Copilot、Ignite 版本 / GitHub Copilot in JetBrains, Ignite releases",
+        "title_zh": "JetBrains 中的 GitHub Copilot、Ignite 版本",
+        "title_en": "GitHub Copilot in JetBrains, Ignite releases",
+        "title_original": "GitHub Copilot in JetBrains, Ignite releases",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot",
+        "url": "https://github.blog/changelog/2026-11-17-github-copilot-in-jetbrains-ignite-releases",
         "source": "GitHub Changelog",
         "source_name": "Official AI Updates"
       },
@@ -1454,7 +1628,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -1506,15 +1680,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7514,
+      "importance": 0.7514,
+      "importance_score": 0.7514,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.9103,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1540,94 +1714,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
-      }
-    },
-    {
-      "story_id": "story_3b115a9684d2",
-      "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-      "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-      "primary_url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "ca54700843ef108233ec9969a0891238ab62892a",
-          "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
-          "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "ca54700843ef108233ec9969a0891238ab62892a",
-          "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
-          "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-17T18:00:59Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8059,
-      "importance": 0.8059,
-      "importance_score": 0.8059,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.7436,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-17T18:00:59Z",
-      "latest_at": "2026-11-17T18:00:59Z",
-      "primary_item": {
-        "id": "ca54700843ef108233ec9969a0891238ab62892a",
-        "title": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365",
-        "title_zh": "通过 Microsoft Agent 365 监控 GitHub Copilot 活动",
-        "title_en": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-        "title_original": "Monitor GitHub Copilot activity through Microsoft Agent 365",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     },
     {
@@ -1651,7 +1738,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-17T18:06:04Z",
-          "updated_at": "2026-11-18T14:18:23Z",
+          "updated_at": "2026-11-18T15:35:20Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1690,7 +1777,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-17T18:06:04Z",
-          "updated_at": "2026-11-18T14:18:23Z",
+          "updated_at": "2026-11-18T15:35:20Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1712,15 +1799,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5936,
-      "importance": 0.5936,
-      "importance_score": 0.5936,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9968,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1728,7 +1815,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-18T12:18:07.914000Z",
-      "latest_at": "2026-11-18T14:18:23Z",
+      "latest_at": "2026-11-18T15:35:20Z",
       "primary_item": {
         "id": "97bff26772ae4f37b544ebee5d1556e2814d5872",
         "title": "GPT-6.2 Astra 和 Sol — 两个新的 OpenAI 模型：前沿 Astra 和高效 Sol / GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol",
@@ -1745,125 +1832,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
-      }
-    },
-    {
-      "story_id": "story_0086ebc4703b",
-      "title": "punkpeye/awesome-mcp-servers — MCP 服务器的集合。 / punkpeye/awesome-mcp-servers — A collection of MCP servers.",
-      "url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "primary_url": "https://github.com/punkpeye/awesome-mcp-servers",
-      "source": "GitHub Trending",
-      "source_name": "GitHub Trending",
-      "sources": [
-        {
-          "id": "94a3f0cb04a40b1cb0829a9f95499dfb62896c1b",
-          "title": "punkpeye/awesome-mcp-servers — MCP 服务器的集合。 / punkpeye/awesome-mcp-servers — A collection of MCP servers.",
-          "title_zh": "punkpeye/awesome-mcp-servers — MCP 服务器的集合。",
-          "title_en": "punkpeye/awesome-mcp-servers — A collection of MCP servers.",
-          "title_original": "punkpeye/awesome-mcp-servers — A collection of MCP servers.",
-          "summary": "A collection of MCP servers.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/punkpeye/awesome-mcp-servers",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
-          "title": "punkpeye / 精选MCP服务器 / punkpeye /      awesome-mcp-servers",
-          "title_zh": "punkpeye / 精选MCP服务器",
-          "title_en": "punkpeye /      awesome-mcp-servers",
-          "title_original": "punkpeye /      awesome-mcp-servers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/punkpeye/awesome-mcp-servers",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-18T10:54:41.020000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "GitHub Trending",
-        "github"
-      ],
-      "items": [
-        {
-          "id": "94a3f0cb04a40b1cb0829a9f95499dfb62896c1b",
-          "title": "punkpeye/awesome-mcp-servers — MCP 服务器的集合。 / punkpeye/awesome-mcp-servers — A collection of MCP servers.",
-          "title_zh": "punkpeye/awesome-mcp-servers — MCP 服务器的集合。",
-          "title_en": "punkpeye/awesome-mcp-servers — A collection of MCP servers.",
-          "title_original": "punkpeye/awesome-mcp-servers — A collection of MCP servers.",
-          "summary": "A collection of MCP servers.",
-          "recommend_reason_zh": null,
-          "url": "https://github.com/punkpeye/awesome-mcp-servers",
-          "source": "GitHub Trending",
-          "source_name": "GitHub Trending",
-          "site_id": "github_trending",
-          "published_at": null,
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "90118fc6419d480f2882f91491dbddae6f234c8a",
-          "title": "punkpeye / 精选MCP服务器 / punkpeye /      awesome-mcp-servers",
-          "title_zh": "punkpeye / 精选MCP服务器",
-          "title_en": "punkpeye /      awesome-mcp-servers",
-          "title_original": "punkpeye /      awesome-mcp-servers",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.com/punkpeye/awesome-mcp-servers",
-          "source": "github",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-18T10:54:41.020000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5853,
-      "importance": 0.5853,
-      "importance_score": 0.5853,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9507,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-18T10:54:41.020000Z",
-      "latest_at": "2026-11-18T11:01:45.453730Z",
-      "primary_item": {
-        "id": "94a3f0cb04a40b1cb0829a9f95499dfb62896c1b",
-        "title": "punkpeye/awesome-mcp-servers — MCP 服务器的集合。 / punkpeye/awesome-mcp-servers — A collection of MCP servers.",
-        "title_zh": "punkpeye/awesome-mcp-servers — MCP 服务器的集合。",
-        "title_en": "punkpeye/awesome-mcp-servers — A collection of MCP servers.",
-        "title_original": "punkpeye/awesome-mcp-servers — A collection of MCP servers.",
-        "summary": "A collection of MCP servers.",
-        "recommend_reason_zh": null,
-        "url": "https://github.com/punkpeye/awesome-mcp-servers",
-        "source": "GitHub Trending",
-        "source_name": "GitHub Trending"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-18T14:46:26.501162Z"
+        "scored_at": "2026-11-18T15:44:13.465358Z"
       }
     }
   ]

@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Wed, 18 Nov 2026 14:31:46 +0000</lastBuildDate>
+<lastBuildDate>Wed, 18 Nov 2026 15:32:26 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>GPT‑6.2 Astra 和 Sol / Introducing GPT-6.2 Astra and Sol</title>
@@ -14,6 +14,14 @@
 <description>OpenAI News</description>
 <category>官方更新</category>
 <pubDate>Tue, 17 Nov 2026 18:01:14 +0000</pubDate>
+</item>
+<item>
+<title>Time-Series Models in the Streamhouse: A New Frontier and Use Cases</title>
+<link>https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</link>
+<guid isPermaLink="true">https://huggingface.co/blog/ibm-research/time-series-powered-streamhouse</guid>
+<description>Hugging Face Blog</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 15:00:23 +0000</pubDate>
 </item>
 <item>
 <title>Codex CLI 0.170.0</title>
@@ -44,6 +52,14 @@
 <link>https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</link>
 <guid isPermaLink="true">https://openai.com/index/le-groupe-figaro-and-openai-announce-partnership</guid>
 <description>OpenAI News</description>
+<category>官方更新</category>
+<pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
+</item>
+<item>
+<title>Rumble-2-Flash：适用于 40 多种语言的开放 0.5B 语音模型 / Rumble-2-Flash: an open 0.5B speech model for 40+ languages</title>
+<link>https://huggingface.co/blog/rumble-2-flash</link>
+<guid isPermaLink="true">https://huggingface.co/blog/rumble-2-flash</guid>
+<description>Hugging Face Blog</description>
 <category>官方更新</category>
 <pubDate>Wed, 18 Nov 2026 00:00:00 +0000</pubDate>
 </item>
@@ -80,12 +96,12 @@
 <pubDate>Wed, 18 Nov 2026 10:02:22 +0000</pubDate>
 </item>
 <item>
-<title>Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more</title>
-<link>https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</guid>
+<title>GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:02:05 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:03:42 +0000</pubDate>
 </item>
 <item>
 <title>孙正义认错：没投 Anthropic 是一大失误，“真希望当时投了”</title>
@@ -96,17 +112,33 @@
 <pubDate>Wed, 18 Nov 2026 09:31:49 +0000</pubDate>
 </item>
 <item>
-<title>GitHub Copilot 应用程序、Microsoft Ignite 发布 / GitHub Copilot app, Microsoft Ignite releases</title>
-<link>https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-app-microsoft-ignite-releases</guid>
+<title>Copilot代码审查：自适应工作、秘密检测等 / Copilot code review: Adaptive effort, secret detection, and more</title>
+<link>https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-copilot-code-review-adaptive-effort-secret-detection-and-more</guid>
 <description>GitHub Changelog</description>
 <category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:03:42 +0000</pubDate>
+<pubDate>Tue, 17 Nov 2026 18:02:05 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic 在 Claude 平台推出测试版关联账单功能：打通生态闭环，为第三方应用开启 OAuth 计费测试</title>
 <link>https://www.aibase.com/news/32379</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32379</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Wed, 18 Nov 2026 09:01:48 +0000</pubDate>
+</item>
+<item>
+<title>GitHub Copilot CLI 添加了 Microsoft Entra 登录预览 / GitHub Copilot CLI adds Microsoft Entra sign-in as a preview</title>
+<link>https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</link>
+<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-github-copilot-cli-adds-microsoft-entra-sign-in-as-a-preview</guid>
+<description>GitHub Changelog</description>
+<category>官方更新</category>
+<pubDate>Tue, 17 Nov 2026 18:00:35 +0000</pubDate>
+</item>
+<item>
+<title>Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面</title>
+<link>https://www.aibase.com/news/32378</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32378</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Wed, 18 Nov 2026 09:01:48 +0000</pubDate>
@@ -120,22 +152,6 @@
 <pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
 </item>
 <item>
-<title>Office 主客易位：微软把 Word、Excel 塞进 Copilot，AI 当门面</title>
-<link>https://www.aibase.com/news/32378</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32378</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Wed, 18 Nov 2026 09:01:48 +0000</pubDate>
-</item>
-<item>
-<title>MAI Code 2 and MAI Code 2 Flash in GitHub Copilot</title>
-<link>https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-mai-code-2-and-mai-code-2-flash-in-github-copilot</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:01:45 +0000</pubDate>
-</item>
-<item>
 <title>免费开源招来“斗米仇”？DeepSeek 仅因长文本限流竟遭极端差评与投诉</title>
 <link>https://www.aibase.com/news/32383</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32383</guid>
@@ -144,28 +160,12 @@
 <pubDate>Wed, 18 Nov 2026 09:01:48 +0000</pubDate>
 </item>
 <item>
-<title>通过 Microsoft Agent 365 监控 GitHub Copilot 活动 / Monitor GitHub Copilot activity through Microsoft Agent 365</title>
-<link>https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-17-monitor-github-copilot-activity-through-microsoft-agent-365</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Tue, 17 Nov 2026 18:00:59 +0000</pubDate>
-</item>
-<item>
 <title>GPT-6.2 Astra 和 Sol — 两个新的 OpenAI 模型：前沿 Astra 和高效 Sol / GPT-6.2 Astra and Sol — Two new OpenAI models: frontier Astra and efficient Sol</title>
 <link>https://www.producthunt.com/products/openai</link>
 <guid isPermaLink="true">https://www.producthunt.com/products/openai</guid>
 <description>Two new OpenAI models: frontier Astra and efficient Sol（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Wed, 18 Nov 2026 14:18:23 +0000</pubDate>
-</item>
-<item>
-<title>punkpeye/awesome-mcp-servers — MCP 服务器的集合。 / punkpeye/awesome-mcp-servers — A collection of MCP servers.</title>
-<link>https://github.com/punkpeye/awesome-mcp-servers</link>
-<guid isPermaLink="true">https://github.com/punkpeye/awesome-mcp-servers</guid>
-<description>A collection of MCP servers.（GitHub Trending）</description>
-<category>值得关注</category>
-<pubDate>Wed, 18 Nov 2026 11:01:45 +0000</pubDate>
+<pubDate>Wed, 18 Nov 2026 15:35:20 +0000</pubDate>
 </item>
 </channel>
 </rss>
