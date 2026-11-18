@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-18T05:01:52.184514Z",
+  "generated_at": "2026-11-18T05:31:45.936942Z",
   "merge_strategy": "url_or_title_similarity_v0_6",
-  "total_events": 24,
+  "total_events": 25,
   "events": [
     {
       "story_id": "story_0399999c8bad",
@@ -137,23 +137,23 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_42263c44112d",
-      "item_id": "cd34b93f483e6080a88b2a95bf6a03ee896a79ba",
-      "merged_into": "story_42263c44112d",
+      "story_id": "story_9292b8bd1655",
+      "item_id": "1914f2daf3d72e2cf510b0e7962246719c57cb6c",
+      "merged_into": "story_9292b8bd1655",
       "reason": "title_similarity",
       "similarity": 1.0
     },
     {
-      "story_id": "story_22994f4bb69f",
-      "item_id": "a768045efdf33f97d01e60acedf39b7eacaf88a8",
-      "merged_into": "story_22994f4bb69f",
-      "reason": "canonical_url",
+      "story_id": "story_a5fd9a13ad20",
+      "item_id": "2b28af8521813227e836d76204a3bf5aff19ea5d",
+      "merged_into": "story_a5fd9a13ad20",
+      "reason": "title_similarity",
       "similarity": 1.0
     },
     {
-      "story_id": "story_20b4c983b1f0",
-      "item_id": "43aac95fdc3e18268e19681360197b5ba39f3918",
-      "merged_into": "story_20b4c983b1f0",
+      "story_id": "story_8dd11d10b1eb",
+      "item_id": "e59d21e53a60ce5222face5b13d4fab14d1ccbdf",
+      "merged_into": "story_8dd11d10b1eb",
       "reason": "canonical_url",
       "similarity": 1.0
     },
@@ -165,9 +165,16 @@
       "similarity": 1.0
     },
     {
-      "story_id": "story_8dd11d10b1eb",
-      "item_id": "e59d21e53a60ce5222face5b13d4fab14d1ccbdf",
-      "merged_into": "story_8dd11d10b1eb",
+      "story_id": "story_20b4c983b1f0",
+      "item_id": "43aac95fdc3e18268e19681360197b5ba39f3918",
+      "merged_into": "story_20b4c983b1f0",
+      "reason": "canonical_url",
+      "similarity": 1.0
+    },
+    {
+      "story_id": "story_22994f4bb69f",
+      "item_id": "a768045efdf33f97d01e60acedf39b7eacaf88a8",
+      "merged_into": "story_22994f4bb69f",
       "reason": "canonical_url",
       "similarity": 1.0
     }
