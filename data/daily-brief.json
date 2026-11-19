@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T23:01:44.989707Z",
+  "generated_at": "2026-11-19T23:31:46.601266Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8454,
-      "importance": 0.8454,
-      "importance_score": 0.8454,
+      "score": 0.8442,
+      "importance": 0.8442,
+      "importance_score": 0.8442,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.94,
-        "recency": 0.93,
+        "recency": 0.9233,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8335,
-      "importance": 0.8335,
-      "importance_score": 0.8335,
+      "score": 0.8322,
+      "importance": 0.8322,
+      "importance_score": 0.8322,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9414,
+        "recency": 0.9346,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8249,
-      "importance": 0.8249,
-      "importance_score": 0.8249,
+      "score": 0.8238,
+      "importance": 0.8238,
+      "importance_score": 0.8238,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8049,
+        "recency": 0.7991,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8334,
-      "importance": 0.8334,
-      "importance_score": 0.8334,
+      "score": 0.8321,
+      "importance": 0.8321,
+      "importance_score": 0.8321,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9409,
+        "recency": 0.9342,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.829,
-      "importance": 0.829,
-      "importance_score": 0.829,
+      "score": 0.8278,
+      "importance": 0.8278,
+      "importance_score": 0.8278,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.9166,
+        "recency": 0.91,
         "story_heat": 0.0
       },
       "category": "official",
@@ -435,7 +435,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
+      }
+    },
+    {
+      "story_id": "story_cd4902b49aba",
+      "title": "探索 Codex 安全插件 / Explore the Codex Security Plugin",
+      "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "primary_url": "https://openai.com/business/learn/codex-security-plugin-demo",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+          "title": "探索 Codex 安全插件 / Explore the Codex Security Plugin",
+          "title_zh": "探索 Codex 安全插件",
+          "title_en": "Explore the Codex Security Plugin",
+          "title_original": "Explore the Codex Security Plugin",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+          "title": "探索 Codex 安全插件 / Explore the Codex Security Plugin",
+          "title_zh": "探索 Codex 安全插件",
+          "title_en": "Explore the Codex Security Plugin",
+          "title_original": "Explore the Codex Security Plugin",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8081,
+      "importance": 0.8081,
+      "importance_score": 0.8081,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7119,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T00:00:00Z",
+      "latest_at": "2026-11-19T00:00:00Z",
+      "primary_item": {
+        "id": "cea3c335c7bc913d60a4c7b36d2df9bef4189196",
+        "title": "探索 Codex 安全插件 / Explore the Codex Security Plugin",
+        "title_zh": "探索 Codex 安全插件",
+        "title_en": "Explore the Codex Security Plugin",
+        "title_original": "Explore the Codex Security Plugin",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/learn/codex-security-plugin-demo",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -487,15 +574,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8098,
-      "importance": 0.8098,
-      "importance_score": 0.8098,
+      "score": 0.8088,
+      "importance": 0.8088,
+      "importance_score": 0.8088,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8102,
+        "recency": 0.8044,
         "story_heat": 0.0
       },
       "category": "official",
@@ -522,7 +609,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
+      }
+    },
+    {
+      "story_id": "story_a7c64a364fd3",
+      "title": "开始使用黎明蓝色 / Get started with Daybreak Blue",
+      "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "primary_url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "618c8197fc8e1a8d4c4ba0d0d0af45a5eb8c4d28",
+          "title": "开始使用黎明蓝色 / Get started with Daybreak Blue",
+          "title_zh": "开始使用黎明蓝色",
+          "title_en": "Get started with Daybreak Blue",
+          "title_original": "Get started with Daybreak Blue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "618c8197fc8e1a8d4c4ba0d0d0af45a5eb8c4d28",
+          "title": "开始使用黎明蓝色 / Get started with Daybreak Blue",
+          "title_zh": "开始使用黎明蓝色",
+          "title_en": "Get started with Daybreak Blue",
+          "title_original": "Get started with Daybreak Blue",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7119,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T00:00:00Z",
+      "latest_at": "2026-11-19T00:00:00Z",
+      "primary_item": {
+        "id": "618c8197fc8e1a8d4c4ba0d0d0af45a5eb8c4d28",
+        "title": "开始使用黎明蓝色 / Get started with Daybreak Blue",
+        "title_zh": "开始使用黎明蓝色",
+        "title_en": "Get started with Daybreak Blue",
+        "title_original": "Get started with Daybreak Blue",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/learn/daybreak-blue-onboarding-demo",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -574,15 +748,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7368,
-      "importance": 0.7368,
-      "importance_score": 0.7368,
+      "score": 0.7357,
+      "importance": 0.7357,
+      "importance_score": 0.7357,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8288,
+        "recency": 0.8229,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -607,7 +781,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
+      }
+    },
+    {
+      "story_id": "story_87625853e194",
+      "title": "查看 PR 扫描的实际应用 / See PR scans in action",
+      "url": "https://openai.com/business/learn/pr-scans-demo",
+      "primary_url": "https://openai.com/business/learn/pr-scans-demo",
+      "source": "OpenAI News",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "b1ce73544cf9933e073928f23c58462b5d4e5e6c",
+          "title": "查看 PR 扫描的实际应用 / See PR scans in action",
+          "title_zh": "查看 PR 扫描的实际应用",
+          "title_en": "See PR scans in action",
+          "title_original": "See PR scans in action",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/pr-scans-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "OpenAI News"
+      ],
+      "items": [
+        {
+          "id": "b1ce73544cf9933e073928f23c58462b5d4e5e6c",
+          "title": "查看 PR 扫描的实际应用 / See PR scans in action",
+          "title_zh": "查看 PR 扫描的实际应用",
+          "title_en": "See PR scans in action",
+          "title_original": "See PR scans in action",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/business/learn/pr-scans-demo",
+          "source": "OpenAI News",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-19T00:00:00Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8001,
+      "importance": 0.8001,
+      "importance_score": 0.8001,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.7119,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-19T00:00:00Z",
+      "latest_at": "2026-11-19T00:00:00Z",
+      "primary_item": {
+        "id": "b1ce73544cf9933e073928f23c58462b5d4e5e6c",
+        "title": "查看 PR 扫描的实际应用 / See PR scans in action",
+        "title_zh": "查看 PR 扫描的实际应用",
+        "title_en": "See PR scans in action",
+        "title_original": "See PR scans in action",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/business/learn/pr-scans-demo",
+        "source": "OpenAI News",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -659,15 +920,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8229,
+        "recency": 0.8169,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +953,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -744,15 +1005,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7931,
-      "importance": 0.7931,
-      "importance_score": 0.7931,
+      "score": 0.7922,
+      "importance": 0.7922,
+      "importance_score": 0.7922,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7171,
+        "recency": 0.712,
         "story_heat": 0.0
       },
       "category": "official",
@@ -779,7 +1040,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -831,15 +1092,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7357,
-      "importance": 0.7357,
-      "importance_score": 0.7357,
+      "score": 0.7346,
+      "importance": 0.7346,
+      "importance_score": 0.7346,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8229,
+        "recency": 0.8169,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -864,7 +1125,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -916,15 +1177,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7315,
-      "importance": 0.7315,
-      "importance_score": 0.7315,
+      "score": 0.7305,
+      "importance": 0.7305,
+      "importance_score": 0.7305,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7994,
+        "recency": 0.7937,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -949,7 +1210,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -1001,15 +1262,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7937,
+        "recency": 0.788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1034,7 +1295,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
+      }
+    },
+    {
+      "story_id": "story_6f40924e5fc0",
+      "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+      "url": "https://www.producthunt.com/products/gemini-6",
+      "primary_url": "https://www.producthunt.com/products/gemini-6",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
+          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
+          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "summary": "Frontier reasoning with faster task completion",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-19T02:32:38Z",
+          "updated_at": "2026-11-19T23:31:04Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
+          "title": "Gemini 4 Neon",
+          "title_zh": null,
+          "title_en": "Gemini 4 Neon",
+          "title_original": "Gemini 4 Neon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T12:09:44.795000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
+          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
+          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+          "summary": "Frontier reasoning with faster task completion",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-19T02:32:38Z",
+          "updated_at": "2026-11-19T23:31:04Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
+          "title": "Gemini 4 Neon",
+          "title_zh": null,
+          "title_en": "Gemini 4 Neon",
+          "title_original": "Gemini 4 Neon",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/gemini-6",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T12:09:44.795000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9998,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-19T12:09:44.795000Z",
+      "latest_at": "2026-11-19T23:31:04Z",
+      "primary_item": {
+        "id": "798edf7edb601291def27d1f26b71b8c9796626a",
+        "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
+        "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
+        "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+        "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
+        "summary": "Frontier reasoning with faster task completion",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/gemini-6",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -1118,15 +1497,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5932,
-      "importance": 0.5932,
-      "importance_score": 0.5932,
+      "score": 0.5921,
+      "importance": 0.5921,
+      "importance_score": 0.5921,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.4896,
         "source_tier": 0.58,
         "ai_relevance": 0.68,
-        "recency": 0.8764,
+        "recency": 0.8701,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1151,125 +1530,190 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
-      "story_id": "story_6f40924e5fc0",
-      "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-      "url": "https://www.producthunt.com/products/gemini-6",
-      "primary_url": "https://www.producthunt.com/products/gemini-6",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_9f4cc375e61b",
+      "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+      "primary_url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+      "source": "www.reuters.com",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
-          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
-          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "summary": "Frontier reasoning with faster task completion",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-19T02:32:38Z",
-          "updated_at": "2026-11-19T22:32:50Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
-          "title": "Gemini 4 Neon",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon",
-          "title_original": "Gemini 4 Neon",
+          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "producthunt",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T18:19:45.063000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
+          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_en": "Anthropic hits $2T in Nasdaq debut",
+          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T17:02:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
+          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
+          "title_zh": "Anthropic 在纳斯达克首次亮相就突破 2T 美元",
+          "title_en": "Anthropic hits $2T in Nasdaq debut",
+          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50562754",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-19T12:09:44.795000Z",
+          "published_at": "2026-11-19T17:02:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "82f7f71db83136ed823dfd92f50ab621cfeecd4f",
+          "title": "Anthropic 在纳斯达克首次亮相 / Anthropic’s Nasdaq debut",
+          "title_zh": "Anthropic 在纳斯达克首次亮相",
+          "title_en": "Anthropic’s Nasdaq debut",
+          "title_original": "Anthropic’s Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50562754",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T17:02:40Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 2,
+      "source_count": 4,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "www.reuters.com"
       ],
       "items": [
         {
-          "id": "798edf7edb601291def27d1f26b71b8c9796626a",
-          "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
-          "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-          "summary": "Frontier reasoning with faster task completion",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-19T02:32:38Z",
-          "updated_at": "2026-11-19T22:32:50Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "c937d4ddb68b71a76ee4d2d0be5d72d9c0411be7",
-          "title": "Gemini 4 Neon",
-          "title_zh": null,
-          "title_en": "Gemini 4 Neon",
-          "title_original": "Gemini 4 Neon",
+          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_en": null,
+          "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/gemini-6",
-          "source": "producthunt",
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "www.reuters.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-19T18:19:45.063000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
+          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
+          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+          "title_en": "Anthropic hits $2T in Nasdaq debut",
+          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-19T17:02:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
+          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
+          "title_zh": "Anthropic 在纳斯达克首次亮相就突破 2T 美元",
+          "title_en": "Anthropic hits $2T in Nasdaq debut",
+          "title_original": "Anthropic hits $2T in Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50562754",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-19T12:09:44.795000Z",
+          "published_at": "2026-11-19T17:02:40Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "82f7f71db83136ed823dfd92f50ab621cfeecd4f",
+          "title": "Anthropic 在纳斯达克首次亮相 / Anthropic’s Nasdaq debut",
+          "title_zh": "Anthropic 在纳斯达克首次亮相",
+          "title_en": "Anthropic’s Nasdaq debut",
+          "title_original": "Anthropic’s Nasdaq debut",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50562754",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-19T17:02:40Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
-      "importance_label": "值得关注",
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5828,
+      "importance": 0.5828,
+      "importance_score": 0.5828,
+      "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9931,
-        "story_heat": 0.25
+        "recency": 0.9277,
+        "story_heat": 0.75
       },
-      "category": "watch",
+      "category": "multi_source",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-19T12:09:44.795000Z",
-      "latest_at": "2026-11-19T22:32:50Z",
+      "earliest_at": "2026-11-19T17:02:40Z",
+      "latest_at": "2026-11-19T18:19:45.063000Z",
       "primary_item": {
-        "id": "798edf7edb601291def27d1f26b71b8c9796626a",
-        "title": "Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion",
-        "title_zh": "Gemini 4 Neon — 前沿推理，更快地完成任务",
-        "title_en": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-        "title_original": "Gemini 4 Neon — Frontier reasoning with faster task completion",
-        "summary": "Frontier reasoning with faster task completion",
+        "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
+        "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+        "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+        "title_en": null,
+        "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/gemini-6",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
+        "source": "www.reuters.com",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -1419,15 +1863,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5821,
-      "importance": 0.5821,
-      "importance_score": 0.5821,
+      "score": 0.5809,
+      "importance": 0.5809,
+      "importance_score": 0.5809,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9236,
+        "recency": 0.917,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -1452,7 +1896,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     },
     {
@@ -1504,15 +1948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7305,
-      "importance": 0.7305,
-      "importance_score": 0.7305,
+      "score": 0.7294,
+      "importance": 0.7294,
+      "importance_score": 0.7294,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.7937,
+        "recency": 0.788,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1537,611 +1981,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
-      }
-    },
-    {
-      "story_id": "story_f47f707fe18a",
-      "title": "Chrome 的 AI 功能消耗了大量带宽",
-      "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-      "primary_url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-      "source": "perishablepress.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "532be2a0e80628d2455ca7d9f1d928d882ce581d",
-          "title": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_en": null,
-          "title_original": "Chrome 的 AI 功能消耗了大量带宽",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-          "source": "perishablepress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T21:32:06.980000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "262c1481ef6b67af7e9bce56d0049d5bbdb800ad",
-          "title": "Chrome 的 AI 功能消耗了大量带宽 / Chrome AI features wasting much bandwidth",
-          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_en": "Chrome AI features wasting much bandwidth",
-          "title_original": "Chrome AI features wasting much bandwidth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T16:54:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d57781b4e162e49d70882df9c097e81838a7ce3c",
-          "title": "Chrome AI 功能浪费大量带宽 / Chrome AI features wasting much bandwidth",
-          "title_zh": "Chrome AI 功能浪费大量带宽",
-          "title_en": "Chrome AI features wasting much bandwidth",
-          "title_original": "Chrome AI features wasting much bandwidth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562636",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T16:54:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "perishablepress.com"
-      ],
-      "items": [
-        {
-          "id": "532be2a0e80628d2455ca7d9f1d928d882ce581d",
-          "title": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_en": null,
-          "title_original": "Chrome 的 AI 功能消耗了大量带宽",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-          "source": "perishablepress.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T21:32:06.980000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "262c1481ef6b67af7e9bce56d0049d5bbdb800ad",
-          "title": "Chrome 的 AI 功能消耗了大量带宽 / Chrome AI features wasting much bandwidth",
-          "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
-          "title_en": "Chrome AI features wasting much bandwidth",
-          "title_original": "Chrome AI features wasting much bandwidth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T16:54:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d57781b4e162e49d70882df9c097e81838a7ce3c",
-          "title": "Chrome AI 功能浪费大量带宽 / Chrome AI features wasting much bandwidth",
-          "title_zh": "Chrome AI 功能浪费大量带宽",
-          "title_en": "Chrome AI features wasting much bandwidth",
-          "title_original": "Chrome AI features wasting much bandwidth",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562636",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T16:54:25Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.567,
-      "importance": 0.567,
-      "importance_score": 0.567,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9787,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T16:54:25Z",
-      "latest_at": "2026-11-19T21:32:06.980000Z",
-      "primary_item": {
-        "id": "532be2a0e80628d2455ca7d9f1d928d882ce581d",
-        "title": "Chrome 的 AI 功能消耗了大量带宽",
-        "title_zh": "Chrome 的 AI 功能消耗了大量带宽",
-        "title_en": null,
-        "title_original": "Chrome 的 AI 功能消耗了大量带宽",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://perishablepress.com/chrome-ai-wasting-much-bandwidth",
-        "source": "perishablepress.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
-      }
-    },
-    {
-      "story_id": "story_aeed7537abda",
-      "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-      "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "primary_url": "https://www.anthropic.com/research/claude-black-hole-physics",
-      "source": "www.anthropic.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "291360acfe40fdf6d9e4ad08206e746be8509ab8",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_zh": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_en": null,
-          "title_original": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:52:01.592000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3091fb6f43c702625eaafaa61e445e0a46a89a6b",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题 / Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "title_zh": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_en": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "title_original": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:30:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "fb75dc946aa64968d9c48d606816dc2ec8accac5",
-          "title": "Claude寓言 5.2 解决了黑洞物理学中的两个悬而未决的问题 / Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "title_zh": "Claude寓言 5.2 解决了黑洞物理学中的两个悬而未决的问题",
-          "title_en": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "title_original": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50563148",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:30:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.anthropic.com"
-      ],
-      "items": [
-        {
-          "id": "291360acfe40fdf6d9e4ad08206e746be8509ab8",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_zh": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_en": null,
-          "title_original": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "www.anthropic.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:52:01.592000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3091fb6f43c702625eaafaa61e445e0a46a89a6b",
-          "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题 / Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "title_zh": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-          "title_en": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "title_original": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:30:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "fb75dc946aa64968d9c48d606816dc2ec8accac5",
-          "title": "Claude寓言 5.2 解决了黑洞物理学中的两个悬而未决的问题 / Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "title_zh": "Claude寓言 5.2 解决了黑洞物理学中的两个悬而未决的问题",
-          "title_en": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "title_original": "Claude Fable 5.2 solves two open problems in the physics of black holes",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50563148",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:30:44Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5603,
-      "importance": 0.5603,
-      "importance_score": 0.5603,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9417,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T17:30:44Z",
-      "latest_at": "2026-11-19T18:52:01.592000Z",
-      "primary_item": {
-        "id": "291360acfe40fdf6d9e4ad08206e746be8509ab8",
-        "title": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-        "title_zh": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-        "title_en": null,
-        "title_original": "Claude Fable 5.2 解决了黑洞物理学中的两个未解问题",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.anthropic.com/research/claude-black-hole-physics",
-        "source": "www.anthropic.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
-      }
-    },
-    {
-      "story_id": "story_9f4cc375e61b",
-      "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-      "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-      "primary_url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-      "source": "www.reuters.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": null,
-          "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:19:45.063000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:02:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
-          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic 在纳斯达克首次亮相就突破 2T 美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews",
-        "www.reuters.com"
-      ],
-      "items": [
-        {
-          "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": null,
-          "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "www.reuters.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:19:45.063000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "5c114f142f73ac0536bf23adfadcb17549209972",
-          "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-19T17:02:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "e2d103a7fdb3b74264ce7a7fb357617429fa4219",
-          "title": "Anthropic 在纳斯达克首次亮相就突破 2T 美元 / Anthropic hits $2T in Nasdaq debut",
-          "title_zh": "Anthropic 在纳斯达克首次亮相就突破 2T 美元",
-          "title_en": "Anthropic hits $2T in Nasdaq debut",
-          "title_original": "Anthropic hits $2T in Nasdaq debut",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562754",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T17:02:40Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.559,
-      "importance": 0.559,
-      "importance_score": 0.559,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9344,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T17:02:40Z",
-      "latest_at": "2026-11-19T18:19:45.063000Z",
-      "primary_item": {
-        "id": "ba59d45aff8a47a8d408129c772fc374b836003c",
-        "title": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-        "title_zh": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-        "title_en": null,
-        "title_original": "Anthropic在纳斯达克上市首日市值突破2万亿美元",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.reuters.com/business/finance/anthropics-historic-debut-put-ais-promise-peril-wall-st-test-2026-11-19",
-        "source": "www.reuters.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
-      }
-    },
-    {
-      "story_id": "story_98cab7d321e8",
-      "title": "去他妈的AI安全保障措施",
-      "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
-      "primary_url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
-      "source": "ounapuu.ee",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3b0b463d0c468dee1a8ad23ce5cdc9d9b045c17f",
-          "title": "去他妈的AI安全保障措施",
-          "title_zh": "去他妈的AI安全保障措施",
-          "title_en": null,
-          "title_original": "去他妈的AI安全保障措施",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
-          "source": "ounapuu.ee",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:19:45.059000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "f17f055051b66f41a06dd0cf8e33e5e7436e2819",
-          "title": "去他妈的AI安全保障措施 / Fuck Your AI Safeguards",
-          "title_zh": "去他妈的AI安全保障措施",
-          "title_en": "Fuck Your AI Safeguards",
-          "title_original": "Fuck Your AI Safeguards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T16:30:18Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "795f546b518bec5bc0cc10492015cbc7cb24be66",
-          "title": "操你的人工智能保障措施 / Fuck Your AI Safeguards",
-          "title_zh": "操你的人工智能保障措施",
-          "title_en": "Fuck Your AI Safeguards",
-          "title_original": "Fuck Your AI Safeguards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562262",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T16:30:18Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "ounapuu.ee"
-      ],
-      "items": [
-        {
-          "id": "3b0b463d0c468dee1a8ad23ce5cdc9d9b045c17f",
-          "title": "去他妈的AI安全保障措施",
-          "title_zh": "去他妈的AI安全保障措施",
-          "title_en": null,
-          "title_original": "去他妈的AI安全保障措施",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
-          "source": "ounapuu.ee",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-19T18:19:45.059000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "f17f055051b66f41a06dd0cf8e33e5e7436e2819",
-          "title": "去他妈的AI安全保障措施 / Fuck Your AI Safeguards",
-          "title_zh": "去他妈的AI安全保障措施",
-          "title_en": "Fuck Your AI Safeguards",
-          "title_original": "Fuck Your AI Safeguards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-19T16:30:18Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "795f546b518bec5bc0cc10492015cbc7cb24be66",
-          "title": "操你的人工智能保障措施 / Fuck Your AI Safeguards",
-          "title_zh": "操你的人工智能保障措施",
-          "title_en": "Fuck Your AI Safeguards",
-          "title_original": "Fuck Your AI Safeguards",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50562262",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-19T16:30:18Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.559,
-      "importance": 0.559,
-      "importance_score": 0.559,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9344,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-19T16:30:18Z",
-      "latest_at": "2026-11-19T18:19:45.059000Z",
-      "primary_item": {
-        "id": "3b0b463d0c468dee1a8ad23ce5cdc9d9b045c17f",
-        "title": "去他妈的AI安全保障措施",
-        "title_zh": "去他妈的AI安全保障措施",
-        "title_en": null,
-        "title_original": "去他妈的AI安全保障措施",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://ounapuu.ee/posts/2026/11/19/unsafeguards",
-        "source": "ounapuu.ee",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-19T23:04:25.955894Z"
+        "scored_at": "2026-11-19T23:34:29.926634Z"
       }
     }
   ]
