@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-19T19:03:35.895124Z",
+  "generated_at": "2026-11-19T19:33:05.354685Z",
   "date": "2026-11-20",
   "total_items": 4,
   "items": [
@@ -15,35 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-19T19:01:45.876913Z"
-    },
-    {
-      "id": "project_650234bf06d8",
-      "project_name": "Adside",
-      "url": "https://www.producthunt.com/products/adside",
-      "summary": "A team of specialized AI agents that manage paid ads for you",
-      "site_id": "producthunt",
-      "site_name": "Product Hunt",
-      "recommend_reason_zh": "体验它主打的「A team of specialized AI agents that manage paid ads for you」，看看是否解决你当前的问题。",
-      "recommend_reason_en": "Try what it promises (\"A team of specialized AI agents that manage paid ads for you\") and see whether it solves a problem you have right now.",
-      "published_at": "2026-11-19T00:52:42Z",
-      "updated_at": "2026-11-19T19:01:59Z",
-      "recency_basis": "updated_at",
-      "observed_at": "2026-11-19T19:03:24.099464Z"
-    },
-    {
-      "id": "project_1555ed6bcb12",
-      "project_name": "jingyaogong/minimind",
-      "url": "https://github.com/jingyaogong/minimind",
-      "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
-      "site_id": "github_trending",
-      "site_name": "GitHub Trending",
-      "recommend_reason_zh": "看看这个开源项目的「🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours」能力，判断能否用到你手头的任务中。",
-      "recommend_reason_en": null,
-      "published_at": null,
-      "updated_at": null,
-      "recency_basis": null,
-      "observed_at": "2026-11-19T19:01:45.876913Z"
+      "observed_at": "2026-11-19T19:31:45.436351Z"
     },
     {
       "id": "project_d9919f393c04",
@@ -57,7 +29,35 @@
       "published_at": "2026-11-18T13:32:13Z",
       "updated_at": "2026-11-19T18:09:23Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-19T19:03:24.099464Z"
+      "observed_at": "2026-11-19T19:32:53.695697Z"
+    },
+    {
+      "id": "project_1555ed6bcb12",
+      "project_name": "jingyaogong/minimind",
+      "url": "https://github.com/jingyaogong/minimind",
+      "summary": "🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours.",
+      "site_id": "github_trending",
+      "site_name": "GitHub Trending",
+      "recommend_reason_zh": "看看这个开源项目的「🧠 两小时从 0 训出你的 64M 大模型。Train your own 64M LLM from scratch in 2 hours」能力，判断能否用到你手头的任务中。",
+      "recommend_reason_en": null,
+      "published_at": null,
+      "updated_at": null,
+      "recency_basis": null,
+      "observed_at": "2026-11-19T19:31:45.436351Z"
+    },
+    {
+      "id": "project_d3fc712a5c73",
+      "project_name": "Upsolve MCP Connections",
+      "url": "https://www.producthunt.com/products/upsolve-ai",
+      "summary": "Plug Notion, Linear and more into your data agent",
+      "site_id": "producthunt",
+      "site_name": "Product Hunt",
+      "recommend_reason_zh": "体验它主打的「Plug Notion, Linear and more into your data agent」，看看是否解决你当前的问题。",
+      "recommend_reason_en": "Try what it promises (\"Plug Notion, Linear and more into your data agent\") and see whether it solves a problem you have right now.",
+      "published_at": "2026-11-18T21:56:08Z",
+      "updated_at": "2026-11-19T18:58:41Z",
+      "recency_basis": "updated_at",
+      "observed_at": "2026-11-19T19:32:53.695697Z"
     }
   ],
   "sources": [
@@ -66,15 +66,15 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 2484,
+      "duration_ms": 2636,
       "error": null
     },
     {
       "site_id": "producthunt",
       "site_name": "Product Hunt",
       "ok": true,
-      "item_count": 49,
-      "duration_ms": 711,
+      "item_count": 50,
+      "duration_ms": 821,
       "error": null
     }
   ]
