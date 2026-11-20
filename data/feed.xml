@@ -5,8 +5,16 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Fri, 20 Nov 2026 01:01:49 +0000</lastBuildDate>
+<lastBuildDate>Fri, 20 Nov 2026 01:31:46 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
+<item>
+<title>Codex CLI 0.171.0</title>
+<link>https://developers.openai.com/codex/changelog</link>
+<guid isPermaLink="true">https://developers.openai.com/codex/changelog</guid>
+<description>OpenAI Codex Changelog</description>
+<category>官方更新</category>
+<pubDate>Fri, 20 Nov 2026 00:00:00 +0000</pubDate>
+</item>
 <item>
 <title>公共预览版中拉取请求概述的改进 / Improvements on the pull request overview in public preview</title>
 <link>https://github.blog/changelog/2026-11-19-improvements-on-the-pull-request-overview-in-public-preview</link>
@@ -48,6 +56,14 @@
 <pubDate>Thu, 19 Nov 2026 17:00:00 +0000</pubDate>
 </item>
 <item>
+<title>Anthropic CEO 回应 9000 亿美元 AI 投入承诺：对比现有现金与营收并不算夸张</title>
+<link>https://www.aibase.com/news/32422</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32422</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 01:31:46 +0000</pubDate>
+</item>
+<item>
 <title>红帽企业 Linux 运行器镜像现已全面上市 / Red Hat Enterprise Linux runner images now generally available</title>
 <link>https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</link>
 <guid isPermaLink="true">https://github.blog/changelog/2026-11-19-red-hat-enterprise-linux-runner-images-now-generally-available</guid>
@@ -56,20 +72,12 @@
 <pubDate>Thu, 19 Nov 2026 18:48:46 +0000</pubDate>
 </item>
 <item>
-<title>Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元</title>
-<link>https://www.aibase.com/news/32420</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32420</guid>
+<title>Google 开放 Genie4世界模型 API，支持实时交互与原生音频生成</title>
+<link>https://www.aibase.com/news/32424</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32424</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 01:01:49 +0000</pubDate>
-</item>
-<item>
-<title>ChatGPT 语音输入大升级：上线实时听写功能，取消 10 分钟限制并全平台陆续推送</title>
-<link>https://www.aibase.com/news/32418</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32418</guid>
-<description>AIbase</description>
-<category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 01:01:49 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 01:31:46 +0000</pubDate>
 </item>
 <item>
 <title>使用 OpenID Connect 的 S3 审核日志流扩展到 GHE.com / S3 audit log streaming with OpenID Connect expands to GHE.com</title>
@@ -80,28 +88,36 @@
 <pubDate>Thu, 19 Nov 2026 08:27:16 +0000</pubDate>
 </item>
 <item>
-<title>谷歌 Gemini 上线 Mac“电脑操控”功能：后台自动干活，支持修图与做 PPT</title>
-<link>https://www.aibase.com/news/32419</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32419</guid>
+<title>Meta AI 可穿戴设备 Muse Charm 据悉定价300美元</title>
+<link>https://www.aibase.com/news/32425</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32425</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Fri, 20 Nov 2026 01:01:49 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 01:31:46 +0000</pubDate>
 </item>
 <item>
-<title>满分学霸被疑 AI 作弊后离世，韩国考场紧急封杀智能眼镜</title>
-<link>https://www.aibase.com/news/32417</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32417</guid>
+<title>微软CEO纳德拉警告：零售商若屏蔽AI购物代理，市场份额恐流向Shopify等开放平台</title>
+<link>https://www.aibase.com/news/32423</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32423</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 10:01:42 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 01:31:46 +0000</pubDate>
 </item>
 <item>
-<title>“同样任务更便宜更好”：微软公开叫板 Claude 和 ChatGPT</title>
-<link>https://www.aibase.com/news/32415</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32415</guid>
+<title>摸一下指纹就能唤出 AI：Meta 掌上新硬件定价曝光</title>
+<link>https://www.aibase.com/news/32421</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32421</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 09:31:42 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 01:31:46 +0000</pubDate>
+</item>
+<item>
+<title>改提示词不如改代码：谷歌让 AI 自改运行框架</title>
+<link>https://www.aibase.com/news/32426</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32426</guid>
+<description>AIbase</description>
+<category>行业动态</category>
+<pubDate>Fri, 20 Nov 2026 01:31:46 +0000</pubDate>
 </item>
 <item>
 <title>Gemini 4 Neon — 前沿推理，更快地完成任务 / Gemini 4 Neon — Frontier reasoning with faster task completion</title>
@@ -128,12 +144,12 @@
 <pubDate>Thu, 19 Nov 2026 13:53:38 +0000</pubDate>
 </item>
 <item>
-<title>特斯拉机器人瞄准家庭场景，马斯克称明年有望收拾脏盘子、倒垃圾</title>
-<link>https://www.aibase.com/news/32416</link>
-<guid isPermaLink="true">https://www.aibase.com/news/32416</guid>
+<title>Anthropic创纪录IPO募资1048亿美元，七位联合创始人套现近20亿美元</title>
+<link>https://www.aibase.com/news/32420</link>
+<guid isPermaLink="true">https://www.aibase.com/news/32420</guid>
 <description>AIbase</description>
 <category>行业动态</category>
-<pubDate>Thu, 19 Nov 2026 09:31:42 +0000</pubDate>
+<pubDate>Fri, 20 Nov 2026 01:01:49 +0000</pubDate>
 </item>
 <item>
 <title>Anthropic在纳斯达克上市首日市值突破2万亿美元</title>
@@ -150,22 +166,6 @@
 <description>thedataexchange.media</description>
 <category>多源热议</category>
 <pubDate>Thu, 19 Nov 2026 17:31:41 +0000</pubDate>
-</item>
-<item>
-<title>人工智能不会取代你的工作。它只是将你的工作转变为低薪的零工。</title>
-<link>https://restofworld.org/2026/ai-jobs-skills-gig-work</link>
-<guid isPermaLink="true">https://restofworld.org/2026/ai-jobs-skills-gig-work</guid>
-<description>restofworld.org</description>
-<category>多源热议</category>
-<pubDate>Thu, 19 Nov 2026 23:39:45 +0000</pubDate>
-</item>
-<item>
-<title>Room AI——像设计师一样与它交谈。你的房间，一次更换一个 / Room AI — Talk to it like a designer. Your room, one change at a time</title>
-<link>https://www.producthunt.com/products/room-ai-2</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/room-ai-2</guid>
-<description>Talk to it like a designer. Your room, one change at a time（Product Hunt）</description>
-<category>值得关注</category>
-<pubDate>Fri, 20 Nov 2026 00:13:14 +0000</pubDate>
 </item>
 </channel>
 </rss>
