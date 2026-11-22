@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T09:01:42.620360Z",
+  "generated_at": "2026-11-22T09:31:43.839683Z",
   "window_hours": 24,
   "total_items": 7,
   "items": [
@@ -24,7 +24,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-09T14:46:21Z",
-          "updated_at": "2026-11-22T08:33:55Z",
+          "updated_at": "2026-11-22T09:23:15Z",
           "recency_basis": "updated_at"
         },
         {
@@ -63,7 +63,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-09T14:46:21Z",
-          "updated_at": "2026-11-22T08:33:55Z",
+          "updated_at": "2026-11-22T09:23:15Z",
           "recency_basis": "updated_at"
         },
         {
@@ -85,15 +85,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9933,
+        "recency": 0.998,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -101,7 +101,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-22T03:14:59.384000Z",
-      "latest_at": "2026-11-22T08:33:55Z",
+      "latest_at": "2026-11-22T09:23:15Z",
       "primary_item": {
         "id": "01e6968b4ddfaa57c7c3aefd035b2b2b174b5b24",
         "title": "AI Context Flow MCP — 您控制的内存，同步到每个代理、工具和团队 / AI Context Flow MCP — Memory you control, synced to every agent, tool and team",
@@ -118,7 +118,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T09:11:31.256249Z"
+        "scored_at": "2026-11-22T09:41:28.228031Z"
       }
     },
     {
@@ -203,15 +203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5917,
-      "importance": 0.5917,
-      "importance_score": 0.5917,
+      "score": 0.5904,
+      "importance": 0.5904,
+      "importance_score": 0.5904,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9861,
+        "recency": 0.979,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -236,7 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T09:11:31.256249Z"
+        "scored_at": "2026-11-22T09:41:28.228031Z"
       }
     },
     {
@@ -321,15 +321,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5418,
-      "importance": 0.5418,
-      "importance_score": 0.5418,
+      "score": 0.5405,
+      "importance": 0.5405,
+      "importance_score": 0.5405,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9777,
+        "recency": 0.9707,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -354,7 +354,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T09:11:31.256249Z"
+        "scored_at": "2026-11-22T09:41:28.228031Z"
       }
     },
     {
@@ -439,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5361,
-      "importance": 0.5361,
-      "importance_score": 0.5361,
+      "score": 0.5349,
+      "importance": 0.5349,
+      "importance_score": 0.5349,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9462,
+        "recency": 0.9393,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -472,243 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T09:11:31.256249Z"
-      }
-    },
-    {
-      "story_id": "story_d49e1bb693bf",
-      "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "primary_url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "source": "Hacker News (黑客新闻)",
-      "source_name": "Info Flow",
-      "sources": [
-        {
-          "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
-          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-          "title_zh": "Together.ai：请求提示泄漏",
-          "title_en": "Together.ai: Prompt Leakage for Requests",
-          "title_original": "Together.ai: Prompt Leakage for Requests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T03:07:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "4dc9acb650da58d7063a0183aba561edb20d069c",
-          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-          "title_zh": "Together.ai：请求提示泄漏",
-          "title_en": "Together.ai: Prompt Leakage for Requests",
-          "title_original": "Together.ai: Prompt Leakage for Requests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50595816",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T03:07:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News (黑客新闻)",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
-          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-          "title_zh": "Together.ai：请求提示泄漏",
-          "title_en": "Together.ai: Prompt Leakage for Requests",
-          "title_original": "Together.ai: Prompt Leakage for Requests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-          "source": "Hacker News (黑客新闻)",
-          "source_name": "Info Flow",
-          "site_id": "iris",
-          "published_at": "2026-11-22T03:07:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "4dc9acb650da58d7063a0183aba561edb20d069c",
-          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-          "title_zh": "Together.ai：请求提示泄漏",
-          "title_en": "Together.ai: Prompt Leakage for Requests",
-          "title_original": "Together.ai: Prompt Leakage for Requests",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50595816",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T03:07:27Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9183,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T03:07:27Z",
-      "latest_at": "2026-11-22T03:07:27Z",
-      "primary_item": {
-        "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
-        "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-        "title_zh": "Together.ai：请求提示泄漏",
-        "title_en": "Together.ai: Prompt Leakage for Requests",
-        "title_original": "Together.ai: Prompt Leakage for Requests",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-        "source": "Hacker News (黑客新闻)",
-        "source_name": "Info Flow"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-22T09:11:31.256249Z"
-      }
-    },
-    {
-      "story_id": "story_4812e305d1ee",
-      "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "primary_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
-          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
-          "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "title_original": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T03:06:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "364a5c0c6df616051d275bafd12404df4010f8f5",
-          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
-          "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "title_original": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50595812",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T03:06:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
-          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
-          "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "title_original": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-22T03:06:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "364a5c0c6df616051d275bafd12404df4010f8f5",
-          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
-          "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "title_original": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50595812",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T03:06:35Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5311,
-      "importance": 0.5311,
-      "importance_score": 0.5311,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9181,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-22T03:06:35Z",
-      "latest_at": "2026-11-22T03:06:35Z",
-      "primary_item": {
-        "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
-        "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-        "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
-        "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-        "title_original": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-22T09:11:31.256249Z"
+        "scored_at": "2026-11-22T09:41:28.228031Z"
       }
     },
     {
@@ -793,15 +557,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5167,
-      "importance": 0.5167,
-      "importance_score": 0.5167,
+      "score": 0.5156,
+      "importance": 0.5156,
+      "importance_score": 0.5156,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8381,
+        "recency": 0.832,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -826,7 +590,243 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T09:11:31.256249Z"
+        "scored_at": "2026-11-22T09:41:28.228031Z"
+      }
+    },
+    {
+      "story_id": "story_d49e1bb693bf",
+      "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "primary_url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "7b773fda8a305d41f09608a047e12546c6df2110",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4dc9acb650da58d7063a0183aba561edb20d069c",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50595816",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7b773fda8a305d41f09608a047e12546c6df2110",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4dc9acb650da58d7063a0183aba561edb20d069c",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50595816",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9117,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T03:07:27Z",
+      "latest_at": "2026-11-22T03:07:27Z",
+      "primary_item": {
+        "id": "7b773fda8a305d41f09608a047e12546c6df2110",
+        "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+        "title_zh": "Together.ai：请求提示泄漏",
+        "title_en": "Together.ai: Prompt Leakage for Requests",
+        "title_original": "Together.ai: Prompt Leakage for Requests",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T09:41:28.228031Z"
+      }
+    },
+    {
+      "story_id": "story_4812e305d1ee",
+      "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+      "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "primary_url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
+          "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "title_original": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:06:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "364a5c0c6df616051d275bafd12404df4010f8f5",
+          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
+          "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "title_original": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50595812",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T03:06:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
+          "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "title_original": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-22T03:06:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "364a5c0c6df616051d275bafd12404df4010f8f5",
+          "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
+          "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "title_original": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50595812",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T03:06:35Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9115,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T03:06:35Z",
+      "latest_at": "2026-11-22T03:06:35Z",
+      "primary_item": {
+        "id": "d9e4319684153954e4a94fbe4e7073f4565eeb53",
+        "title": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？” / Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+        "title_zh": "从去年开始，我们就问：“如果人工智能解决了黎曼猜想怎么办？”",
+        "title_en": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+        "title_original": "Since last year, we asked: \"What if AI solved the Riemann Hypothesis?\"",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.youtube.com/watch?v=zqzk43bSdDI",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T09:41:28.228031Z"
       }
     }
   ]
