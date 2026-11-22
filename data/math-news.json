@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-22T14:05:28.947549+00:00",
+  "generated_at": "2026-11-22T14:33:42.929525+00:00",
   "window_hours": 168,
   "archive_days": 90,
   "ranking_policy": "Source priority plus recency; curated view balances topics and caps each source. Not popularity or proof verification.",
@@ -10,7 +10,7 @@
       "name": "Terence Tao — What’s New",
       "url": "https://terrytao.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "frontier"
       ],
@@ -19,7 +19,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-22T01:19:10+00:00",
       "note": null,
-      "duration_ms": 1859,
+      "duration_ms": 1338,
       "recent_count": 3
     },
     {
@@ -27,7 +27,7 @@
       "name": "Proofs and Prompts",
       "url": "https://proofsandprompts.com/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "ai_math"
       ],
@@ -36,7 +36,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-22T12:00:00+00:00",
       "note": null,
-      "duration_ms": 1712,
+      "duration_ms": 1396,
       "recent_count": 14
     },
     {
@@ -44,7 +44,7 @@
       "name": "VibeMathed",
       "url": "https://vibemathed.com/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "ai_math"
       ],
@@ -53,7 +53,7 @@
       "item_count": 30,
       "latest_published_at": "2026-11-16T12:00:00+00:00",
       "note": null,
-      "duration_ms": 1887,
+      "duration_ms": 625,
       "recent_count": 1
     },
     {
@@ -61,7 +61,7 @@
       "name": "Gowers’s Weblog",
       "url": "https://gowers.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "frontier"
       ],
@@ -70,7 +70,7 @@
       "item_count": 25,
       "latest_published_at": "2026-10-16T10:29:30+00:00",
       "note": null,
-      "duration_ms": 2400,
+      "duration_ms": 1690,
       "recent_count": 0
     },
     {
@@ -78,7 +78,7 @@
       "name": "Xena Project",
       "url": "https://xenaproject.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "formal"
       ],
@@ -87,7 +87,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-21T17:16:37+00:00",
       "note": null,
-      "duration_ms": 1630,
+      "duration_ms": 1017,
       "recent_count": 1
     },
     {
@@ -95,7 +95,7 @@
       "name": "MathArena",
       "url": "https://matharena.ai/blogs",
       "method": "matharena",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "ai_math"
       ],
@@ -103,7 +103,7 @@
       "ok": false,
       "item_count": 0,
       "error": "ValueError",
-      "duration_ms": 1918,
+      "duration_ms": 1101,
       "recent_count": 0
     },
     {
@@ -111,7 +111,7 @@
       "name": "arXiv · 数论",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "frontier"
       ],
@@ -120,7 +120,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-20T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1662,
+      "duration_ms": 1115,
       "recent_count": 54
     },
     {
@@ -128,7 +128,7 @@
       "name": "arXiv · 组合数学",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "frontier"
       ],
@@ -137,7 +137,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-20T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1454,
+      "duration_ms": 1145,
       "recent_count": 48
     },
     {
@@ -145,7 +145,7 @@
       "name": "arXiv · 代数几何",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "frontier"
       ],
@@ -154,7 +154,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-20T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1203,
+      "duration_ms": 1295,
       "recent_count": 48
     },
     {
@@ -162,7 +162,7 @@
       "name": "arXiv · 概率",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "frontier"
       ],
@@ -171,7 +171,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-20T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1463,
+      "duration_ms": 1043,
       "recent_count": 53
     },
     {
@@ -179,7 +179,7 @@
       "name": "arXiv · 数值分析",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "frontier"
       ],
@@ -188,7 +188,7 @@
       "item_count": 8,
       "latest_published_at": "2026-11-20T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1449,
+      "duration_ms": 816,
       "recent_count": 52
     },
     {
@@ -196,7 +196,7 @@
       "name": "arXiv · 数理逻辑",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "frontier"
       ],
@@ -205,7 +205,7 @@
       "item_count": 6,
       "latest_published_at": "2026-11-20T00:00:00+00:00",
       "note": null,
-      "duration_ms": 1025,
+      "duration_ms": 1119,
       "recent_count": 40
     },
     {
@@ -213,7 +213,7 @@
       "name": "arXiv · AI for Math · cs.AI",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "ai_math"
       ],
@@ -222,7 +222,7 @@
       "item_count": 0,
       "latest_published_at": null,
       "note": "no_matching_updates",
-      "duration_ms": 1650,
+      "duration_ms": 1027,
       "recent_count": 28
     },
     {
@@ -230,7 +230,7 @@
       "name": "arXiv · AI for Math · cs.LG",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "ai_math"
       ],
@@ -239,7 +239,7 @@
       "item_count": 0,
       "latest_published_at": null,
       "note": "no_matching_updates",
-      "duration_ms": 1312,
+      "duration_ms": 1016,
       "recent_count": 38
     },
     {
@@ -247,7 +247,7 @@
       "name": "arXiv · AI for Math · cs.CL",
       "url": "https://arxiv.org/",
       "method": "rss+dated_listing",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "ai_math"
       ],
@@ -256,7 +256,7 @@
       "item_count": 0,
       "latest_published_at": null,
       "note": "no_matching_updates",
-      "duration_ms": 1117,
+      "duration_ms": 1011,
       "recent_count": 30
     },
     {
@@ -264,7 +264,7 @@
       "name": "Quanta · Mathematics",
       "url": "https://www.quantamagazine.org/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "frontier"
       ],
@@ -273,7 +273,7 @@
       "item_count": 5,
       "latest_published_at": "2026-11-18T15:51:40+00:00",
       "note": null,
-      "duration_ms": 473,
+      "duration_ms": 313,
       "recent_count": 1
     },
     {
@@ -281,7 +281,7 @@
       "name": "Gil Kalai · Combinatorics and more",
       "url": "https://gilkalai.wordpress.com/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "frontier"
       ],
@@ -290,7 +290,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-20T17:54:44+00:00",
       "note": null,
-      "duration_ms": 832,
+      "duration_ms": 849,
       "recent_count": 2
     },
     {
@@ -298,7 +298,7 @@
       "name": "Google DeepMind · 数学研究",
       "url": "https://deepmind.google/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "ai_math"
       ],
@@ -307,7 +307,7 @@
       "item_count": 4,
       "latest_published_at": "2026-11-10T12:02:28+00:00",
       "note": null,
-      "duration_ms": 867,
+      "duration_ms": 1003,
       "recent_count": 0
     },
     {
@@ -315,7 +315,7 @@
       "name": "Google Research · 数学研究",
       "url": "https://research.google/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "ai_math"
       ],
@@ -324,7 +324,7 @@
       "item_count": 0,
       "latest_published_at": null,
       "note": "no_matching_updates",
-      "duration_ms": 1674,
+      "duration_ms": 1652,
       "recent_count": 0
     },
     {
@@ -332,7 +332,7 @@
       "name": "Microsoft Research · 数学与证明",
       "url": "https://www.microsoft.com/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "ai_math"
       ],
@@ -341,7 +341,7 @@
       "item_count": 3,
       "latest_published_at": "2026-11-12T21:31:57+00:00",
       "note": null,
-      "duration_ms": 1908,
+      "duration_ms": 1535,
       "recent_count": 0
     },
     {
@@ -349,7 +349,7 @@
       "name": "Lean 4 · Releases",
       "url": "https://github.com/leanprover/lean4/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "formal",
         "tools"
@@ -359,7 +359,7 @@
       "item_count": 10,
       "latest_published_at": "2026-11-18T13:51:23+00:00",
       "note": null,
-      "duration_ms": 1536,
+      "duration_ms": 780,
       "recent_count": 2
     },
     {
@@ -367,7 +367,7 @@
       "name": "LeanDojo · Releases",
       "url": "https://github.com/lean-dojo/LeanDojo/",
       "method": "rss",
-      "checked_at": "2026-11-22T14:05:28.947549+00:00",
+      "checked_at": "2026-11-22T14:33:42.929525+00:00",
       "topics": [
         "formal",
         "tools",
@@ -378,7 +378,7 @@
       "item_count": 10,
       "latest_published_at": "2025-06-13T16:25:33+00:00",
       "note": null,
-      "duration_ms": 1388,
+      "duration_ms": 1157,
       "recent_count": 0
     }
   ],
@@ -408,7 +408,7 @@
         }
       ],
       "first_seen_at": "2026-11-22T12:03:25.626924+00:00",
-      "discovery_score": 109.8,
+      "discovery_score": 109.7,
       "title_zh": "数学社区？",
       "excerpt_zh": "“这是对法国数学学会主席伊莎贝尔·加拉格尔 (Isabelle Gallagher) 的回答。她的提议基于两个值得辩论的假设。[...]”"
     },
@@ -437,7 +437,7 @@
         }
       ],
       "first_seen_at": "2026-11-22T03:36:12.724565+00:00",
-      "discovery_score": 83.6,
+      "discovery_score": 83.5,
       "title_zh": "更多帖子、观点文章、采访和立场声明",
       "excerpt_zh": "AHM 关于宣布证明黎曼猜想的声明 德国数学会 (DMV) 主席团关于人工智能对数学重要性的立场）牛津数学对话人工智能 – Ben Green 和 James Maynard 与 [...]"
     },
@@ -788,7 +788,7 @@
         }
       ],
       "first_seen_at": "2026-11-22T03:36:12.724565+00:00",
-      "discovery_score": 106.2,
+      "discovery_score": 106.1,
       "title_zh": "哥伦比亚数据科学研究所博士后职位",
       "excerpt_zh": "[这是 Ivan Corwin – T. 的客座文章] 亲爱的同事们，我写这封信是为了鼓励那些有兴趣参与哥伦比亚人工智能和数学基础研究活动的人申请哥伦比亚数据科学研究所的博士后项目。有关 2026 年春季的一些活动，请参阅此处的（有趣）基本人工智能和数学描述，以及此处 [...]"
     },
@@ -2263,7 +2263,7 @@
         }
       ],
       "first_seen_at": "2026-11-19T17:09:10.941023+00:00",
-      "discovery_score": 104.1,
+      "discovery_score": 104.0,
       "title_zh": "谁来回答证明？提出该信息的人承诺什么，即使已得到验证",
       "excerpt_zh": "即使证明已被正式验证，其作者提出该证明的承诺是什么？为了回应陶哲轩的文章，这篇笔记利用技术哲学和法律哲学来询问在数学消化的每个阶段谁负责、对谁负责以及为了什么负责。"
     },
@@ -4415,7 +4415,7 @@
         }
       ],
       "first_seen_at": "2026-11-18T15:21:44.851952+00:00",
-      "discovery_score": 102.8,
+      "discovery_score": 102.7,
       "excerpt_zh": "人工智能正在迅速跨越曾经被认为是人类数学家独有的界限。它可以搜索巨大的空间，发现模式，形式化论证，并逐渐证明困难的定理。这就提出了一个令人不安的问题：如果机器能够胜过我们的搜索、推理和证明，那么人类数学家还有什么独特的价值呢？",
       "title_zh": "为什么数学的未来属于人类判断"
     },
@@ -9501,7 +9501,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T14:05:38.191601+00:00",
-      "discovery_score": 92.9,
+      "discovery_score": 92.8,
       "title_zh": "v4.36.0",
       "excerpt_zh": "这是 Lean 的 v4.36.0 版本。查看发行说明以获取更多信息。"
     },
@@ -9614,7 +9614,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "还原李代数格中的交换对",
       "excerpt_zh": "我们在 \\(\\Q\\) 上的还原李代数 \\(\\g\\) 中计算完整格子 \\(\\Lambda\\) 中的有序通勤对。对于内部包含原点的固定凸体\\(B\\)，\\(HB\\)中的计数为\\(C_{\\Lambda,B}H^{\\dim\\g+\\dim Z(\\g)}\\)，存在节能误差。主导项来自对每个简单理想的投影与其质心线性相关的对。它们的斜率索引了 \\(C_{\\Lambda,B}\\) 截面体积的绝对收敛总和。从有限场傅立叶和中减去相关对的贡献可以得到一般相关频率处的抵消。对于独立频率，我们限制了轨迹的维数，其中相应的超平面包含非零括号纤维的不可约分量。对于\\(n\\ge3\\)，\\(M_n(\\Z)\\)中绝对值最多为\\(H\\)的有序通勤对的数量为\\[ \\frac{2(n+3)\\zeta(n^2-2)}{(n+1)\\zeta(n^2-1)} (2\\lfloor H\\rfloor+1)^{n^2+1} +O_n\\!\\left(H^{n^2+1-1/(n+1)}\\right), \\] 证实了 Browning、Sawin 和 Wang~\\cite{BSW} 预测的指数 \\(n^2+1\\)。"
     },
@@ -9643,7 +9643,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "半稳定 1-动机：单性、显式周期和局部二元性",
       "excerpt_zh": "令$K/\\mathbf Q_p$ 是无分支的，其中$p>2$。对于具有恒定晶格、分裂环面和良好阿贝尔商的 $1$ 动机，我们根据环面估值和形式群对数计算半稳定扩张复形。每个半稳定表示都存在规范单峰边界；它检测结晶周期的分裂和单一性等级的增加。对于所述的 1$ 动机，该边界和未分枝的商恢复了具有指数根式的受限局部 Tate 配对。非分裂椭圆的例子、雷诺均匀化和高度一正周期界限解释了几何范围。对于环面动机，我们构造实际周期、收敛罗巴基和积分作用矩阵。复曲面基族具有完美的射影/迹零矩阵对偶性，包括其精确的积分缺陷。显式残差零解算子构造每个对偶 Herr 类。按组件应用，一旦指定了系数序列，相同的算子就会为一般恒定格子 $1$ 动机提供相对完整的双提升。最后，有限基系数迹实现除法塔岩佐"
     },
@@ -9672,7 +9672,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "$p$-adic $L$-函数零点的改进随机矩阵猜想",
       "excerpt_zh": "我们做出并测试了这样的猜想：对于与二次狄利克雷特征及其 Teichm\\\"uller 扭曲相关的 $p$-adic $L$-函数，单位圆盘中所有零点的局部统计都与 $p$-adic 随机矩阵特征值的统计数据相匹配。这概括了 Ellenberg-Jain-Venkatesh 之前推测的单位圆盘中零点数量的情况，该猜想得到了数值的良好支持，以及使用最近的特征值局部统计随机矩阵结果，我们对许多统计数据进行明确的随机矩阵预测，类似于复杂设置中的局部密度和配对相关性，为了测试这些，我们计算 $p$-adic $L$ 函数上的数据，用于高达 $10^7$ 的导体特征，并且对于高于 $10^{10}$ 的窗口中的某些统计数据，我们发现与这些统计数据以及判别式的新随机矩阵预测。"
     },
@@ -9701,7 +9701,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "二次曲面和三次超曲面对上的有理线",
       "excerpt_zh": "我们研究两个二次曲面的平滑交点和数域上的平滑三次超曲面上的有理线。对于 $n$ 变量中两个二次曲线的交集，我们证明了当 $n\\geq 11$ 时各种直线的哈斯原理和弱近似，更一般地证明了当 $n\\geq 3r+8$ 时各种 $r$ 平面的哈斯原理和弱近似。在此范围内，当且仅当每个实际完成的区域都存在一个 $r$ 平面时，地面场上才存在 $r$ 平面。对于线的多样性，我们还证明了当 $n\\geq 8$ 时的哈斯原理和弱近似，条件是某些 Tate-Shafarevich 群的有限性。对于 $n$ 变量中的光滑立方超曲面，我们证明当 $n\\geq 23$ 时，地面场上存在一条线。"
     },
@@ -9730,7 +9730,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "椭圆曲线 II 的几乎素数二次扭曲的极端中心 $L$ 值",
       "excerpt_zh": "我们通过最多五个素因子的判别式证明了椭圆曲线二次扭曲的中心 $L$ 值的下界。根据零阶 Birch--Swinnerton-Dyer 公式，这些界限给出了大的 Tate--Shafarevich 群。"
     },
@@ -9759,7 +9759,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "水平方面的中心 $\\rm GL_3$ L 值不消失",
       "excerpt_zh": "We study non-vanishing of central standard $L$-values of spherical cuspidal $\\mathrm{GL}_3$ newforms of prime level.具有有限逆欧拉因子的对数 M\\\"obius 缓和器与函数方程中的共轭项相结合，对于每个 $\\varepsilon>0$ 和所有足够大的素数水平给出至少 $1/2-\\varepsilon$ 的非零调和比例。所需的混合矩通过不对称近似函数方程进行评估。"
     },
@@ -9788,7 +9788,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "整数分区的秩和曲柄统计的对数凹性",
       "excerpt_zh": "Let $M(m,n)$ and $N(m,n)$ denote the numbers of partitions of $n$ with crank $m$ and rank $m$, respectively. Ji and Zang [Adv.数学。 2021] 推测对于 $n\\ge72$ 和 $|m|\\le n-72$，$M(m,n)$ 在 $m$ 中是对数凹的，对于 $n\\ge73$ 和 $|m|\\le n-73$，$N(m,n)$ 在 $m$ 中是对数凹的。 In this paper, we prove these two conjectures."
     },
@@ -9817,7 +9817,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "excerpt_zh": "我们研究有限 $p$ 组上 $\\mathbb{N}^n$ 的 $n$ 维递归。这些规则是群自同态的有序产物，具有 $p$-自动附加序列和兼容的 $p$-自动边界数据。对于有限的、非空的、字典顺序为正的前驱集，只要最多一个坐标包含两个符号的条目，我们就证明自动性。这涵盖了 $n=1$ 和 $n=2$ 的所有此类系统。对于 $n\\ge3$，单独的字典正性是不够的：对于每个素数 $p$，具有单个非零边界值的固定三维递归在基数 $p$ 中是非自动的。对于非负前驱，我们给出了阿贝尔情况下的直接自动机构造和显式状态边界。使用代数幂级数除法、提升模素幂、中心子群和边界保持坐标变化来处理负坐标。具有指定规则和单个边界种子的二参数族承认模素数幂的精确自动性准则。我们还给出了非阿贝尔例子和有限计算证书，包括先前提出的公式的证明",
       "title_zh": "具有负前驱坐标的有限 $p$ 组上的自动 $n$ 维递归"
     },
@@ -9846,7 +9846,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "实数分离子集和的正对偶证明：Conway-Guy 和 Bohman 集的室最优性，以及高达 8 的精确值",
       "excerpt_zh": "令 $f_R(n)$ 为一组 $n$ 正实数的最小可能最大元素，其 $2^n$ 子集和至少成对为 1，并令 $f_Z(n) \\ge f_R(n)$ 为 Erd\\H{o}s 不同子集和问题的相应整数数量。固定所有符号关系 $\\varepsilon\\cdot x$, $\\varepsilon \\in \\{-1,0,1\\}^n$ 的符号，将实际问题分解为多面体室，每个多面体室上都是一个线性程序。我们证明，对于每 $n$，Conway-Guy 集都是其腔室的唯一最佳值。证明是一个显式正对偶证明，由 $n$ 签名关系组成，这些关系在 Conway-Guy 集和间隙坐标中的单位下三角上紧密；关系由连续坐标块和位置 $n - k(k+1)/2$ 来描述，紧密性简化为通过归纳证明的 Conway-Guy 序列的同一性。然后，我们通过室上的分支定界（其中每片叶子都带有精确的理性证明）来证明，对于所有 $n \\le 8$， $f_R(n) = f_Z(n)$ ； in particular $f_R(7) = 44$ and $f_R(8) = 84$.然后我们证明博曼的两个家庭也是如此，首先"
     },
@@ -9875,7 +9875,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "四维 Erd\\H{o}s 框问题的 $19/5$ 下界",
       "excerpt_zh": "对于 $q\\ge2$ ~$2$ 的每一次幂，我们用 $q^{19}$ 点构建 $[q^5]^4$ 的无框子集，将四维 Erd\\H{o}s 框问题中的下界指数从 $15/4$ 提高到 $19/5$。事实上，$[q^5]^4$ 划分为 $q$ 同构无盒集。该证明使用四维双线性空间中的有限域矩形引理和正交性。我们还推导了统一界限 $f_4(n)\\ge2^{-19/20}n^{19/5}$ 和网格着色数字的下限。"
     },
@@ -9904,7 +9904,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "$A_1^{(1)}$-$1$ 和 $2$ 层的接地分区，第二部分：仿射晶体结构",
       "excerpt_zh": "接地分区是 ​​Dousse 和 Konan 提出的具有不同条件的彩色分区，与 Kang、Kashiwara、Misra、Miwa、Nakashima 和 Nakayashiki 的京都路径模型的路径呈双射。我们描述了由 $1$ 级和 $2$ 级完美晶体 $A_1​​^{(1)}$ 产生的接地分区上的仿射晶体结构。在 $1$ 级，接地分区自然地与 $2$ 限制分区相同，并且仿射晶体结构由特征 $2$ 中对称群的 Kleshchev 模分支规则给出。在 $2$ 级别，我们给出了明确的括号规则，将接地分区划分为最高权重 $2\\Lambda_0$、$\\Lambda_0+\\Lambda_1$ 和 $2\\Lambda_1$ 的仿射晶体图。我们通过用 Ariki 和 Mathas 的渐近模型构造显式图同构来证明这一点，其顶点是由 Ariki-Koike 代数产生的 Kleshchev 多重划分。最后，我们删除 $0$ 箭头，留下列维子代数限制的晶体图，并将它们分解为有限串。这种分解给出了新的$q$系列恒等式"
     },
@@ -9933,7 +9933,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "excerpt_zh": "我们研究了更高 Bruhat 阶的 Dushnik-Miller 维数。对于包含顺序 $B_{\\mathrm{inc}}(n,k)$，在 $k$ 固定的情况下，我们通过展示下界的标准示例和上限的显式坐标系来证明维度增长的顺序为 $n^k$。最近由 Gau、Kuang、Pikhurko 和 Wang 构建的图尔安系统给出了一个上系数，其系数小于下系数的 4 美元。对于真正的高阶 Bruhat 阶 $B(n,k)$，我们为每个固定的 $k\\ge3$ 构造阶 $n^{2k+1}$ 的标准示例。我们对这个维度上是否存在多项式上限保持开放态度。",
       "title_zh": "高 Bruhat 阶的尺寸界限"
     },
@@ -9962,7 +9962,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "excerpt_zh": "超图 $F$ 的副本称为 $F$ 副本。对于任意整数 $k$ 和 $r$ 且 $2 \\leq r \\leq k$，设 $K_k^r$ 表示完整的 $r$-均匀超图，其顶点集为 $[k] = \\{1, 2, \\dots, k\\}$（也就是说，$K_k^r$ 的边是 $[k]$ 的 $r$ 元素子集）。给定 $r$-均匀 $m$-边超图 $H$，$H$ 的 $K_k^r$-隔离数，用 $\\iota(H, K_k^r)$ 表示，是 $H$ 顶点集的最小子集 $D$ 的大小，使得 $D$ 的闭邻域 $N[D]$ 与 $H$ 包含的 $K_k^r$-副本的顶点集相交（等效地，$H-N[D]$ 不包含 $K_k^r$ 副本）。我们证明，如果 $H$ 是连通的且不是 $K_k^r$ 副本，则 $$\\iota(H, K^r_k) \\le \\left \\lfloor \\frac{(r-1)m + 1}{(r-1)(\\binom{k}{r}+1) + 1} \\right \\rfloor。$$ 边界是最好的可能。这是解决李、张、叶的一个问题。我们还提供了 $r < k$ 的替代证明。这两个证明都引入了建立隔离参数界限的新想法。",
       "title_zh": "均匀超图中 $k$ 派系的隔离"
     },
@@ -9991,7 +9991,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "以 $k$ 颜色同时进行 $l$-常规分区和 $t$-不同分区的新同余",
       "excerpt_zh": "令$RD_{\\ell,t}^k(n)$ 枚举同时$l$-常规分区和$t$-不同分区的$k$-颜色的数量。在本文中，我们为 $RD_{\\ell,t}^k(n)$ 建立了一些新的模素数 $p$、$p\\geq5$ 和 5 的模幂的无限同余族。例如，对于每个 $n\\geq0$、$0\\leq\\alpha\\leq{2k-2}$ 和 $k\\geq1$，\\begin{align*} \\sum_{n=0}^{\\infty}RD_{(5^{2k-1},5^{2k-1})}^2\\big(5^{2k+\\alpha-1}n+\\frac{9\\cdot5^{2k+\\alpha-1}-2\\cdot5^{2k-1}+1}{12}\\big)q^n\\equiv& 0\\pmod{5^{k+\\left[\\frac{\\alpha}{2}\\right]}} \\end{align*}"
     },
@@ -10020,7 +10020,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "Calabi-Yau 链路的 Sasakian Hodge 数",
       "excerpt_zh": "孤立加权齐次超曲面奇点的度等于其权重之和的链接是一个 Sasakian 流形，它允许接触 Calabi-Yau 结构，并且其 Sasakian Hodge 数是定义多项式的 Milnor 代数的分级部分的维数。在早期的工作中，这些数字是用 Gr\\\"obner 基针对 $7555$ 加权 Calabi-Yau 三重链接的 $7549$ 的 $7$ 维链接进行计算的，并从数据中提出了两个猜想。第一个断言具有相同权重的多项式具有 Milnor 代数，其相关分级部分具有相同的维数；第二个断言 Sasakian Hodge 数 $h^{2,1}_S$上面的链接由基本 Calabi-Yau 的 Hodge 数 $h^{2,1}$ 所限制，这里证明了第一个猜想对于每个具有孤立奇点的多项式都成立，因为它的偏导数形成了正则序列；对于第二个猜想，还给出了 Calabi-Yau 的弦 Hodge 数通过叶空间上同调的独立推导。显示轨道折叠以限制中间"
     },
@@ -10049,7 +10049,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "$\\overline{\\mathcal{M}}_{2,14}$ 上同调中新的同义反复关系",
       "excerpt_zh": "我们在上同调同义环$\\mathsf{RH}^*(\\overline{\\mathcal{M}}_{2,14})$中构造一个关系$\\mathsf{Q}$，它位于$3$-自旋关系的空间之外。 $\\mathsf{Q}$ 是在不可约节点曲线的除数 $\\Delta_0 \\subset \\overline{\\mathcal{M}}_{2,14}$ 上支持的余维 9 纯边界层类的简单线性组合，并根据与分区 $(2^7)$ 关联的 $\\Sigma_{14}$ 的不可约表示进行变换。 The result shows that the set of $3$-spin relations cannot be complete in cohomology. Motivic conjectures relating algebraic cycles to special values of $L$-functions suggest that $\\mathsf{Q}$ is nonzero in Chow.更准确地说，我们证明 $\\mathsf{Q}$ 的 Chow 不消失源自 Harder 关于属 2 中 Manin--Drinfeld 原理失败的猜想。我们通过与同义反复环的生成元配对，证明 $\\mathsf{Q}$ 在上同调中消失。为了证明$\\mathsf{Q}$不在$3$-自旋关系集合中，需要一个涉及$3$-自旋关系的$\\Sigma_{14}$-表示理论属性和"
     },
@@ -10078,7 +10078,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "自旋K\\\"ahler曲面上的向量丛和多旋量Seiberg-Witten方程",
       "excerpt_zh": "我们在自旋 K\\\"ahler 曲面 $X$ 上计算矢量丛 $\\mathscr{E}$ 的第二陈类的新下界，满足 $c_1(\\mathscr{E}) = 0$ 和 $H^2(\\text{End}_0\\mathscr{E}) = 0。$当 $X$ 是正则椭圆曲面且 $\\mathscr{E}$ 的秩为 2 时，我们的我们的技术是使用 Furuta 对多旋量 Seiberg-Witten 方程的有限维近似，以及第二位作者的代数几何解释。我们还使用这些技术来证明奇异 Fueter 截面和多旋量 Seiberg-Witten 解的存在定理，该定理适用于一大类 4 流形上的每个黎曼度量。"
     },
@@ -10107,7 +10107,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "$\\overline{\\mathrm{M}}_{0,n}$ 上全局生成共变向量束",
       "excerpt_zh": "利用融合封闭性和强生成特性，我们识别了顶点算子代数（VOA）上的模块集合，其在模空间 $\\overline{\\mathrm M}_{0,n}$ 稳定的 $n$ 指向零亏格曲线上的共变体的诱导向量丛是全局生成的。这些结果专门针对正整数级别的仿射 VOA 的 \\cite{Fak12} 以及针对 1 阶生成的强有理 VOA 的 \\cite{DG23} 。为了说明结果并表明融合封闭性至关重要，我们给出了许多示例，包括格子 VOA、仿射 VOA 的简单电流扩展以及各种张量积。"
     },
@@ -10136,7 +10136,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "$\\mathrm{Fl}(1,\\ell;\\ell+1)$ 上的线束异常序列",
       "excerpt_zh": "设$X_\\ell=\\mathrm{Fl}(1,\\ell;\\ell+1)\\subset\\mathbb{P}^\\ell\\times(\\mathbb{P}^\\ell)^\\vee$为$\\mathbb{P}^\\ell$中点和超平面的重合变化。我们证明，对于每个 $\\ell\\ge 3$，$X_\\ell$ 上最大长度 $\\ell(\\ell+1)=\\operatorname{rk} K_0(X_\\ell)$ 上的每个特殊线束序列都是满的。与 $\\ell=2$ 的情况一起，由于 Altmann、Hochenegger 和 Witt，这表明对于所有 $\\ell\\ge2$，$X_\\ell$ 上的特殊线束序列是满的，当且仅当它具有最大长度时。该证明将例外性转化为 $\\operatorname{Pic}(X_\\ell)\\cong\\mathbb{Z}^2$ 格点上的组合条件，并将丰满度降低为包含非正交下降的序列。对可接受的有序子集的容量计数排除了除一个血统家族之外的所有血统；对于该族，我们对可能的配置进行分类，并使用欧拉序列和科祖尔复合体验证生成。"
     },
@@ -10165,7 +10165,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "霍奇-黎曼关系中的交集数不等式",
       "excerpt_zh": "我们使用二阶霍奇-黎曼关系导出了满足 K\\\"ahler 包的代数内的 nef 类的交数不等式。作为应用，我们构造了某些严格的洛伦兹多项式，并表明它们不能实现为此类代数内的 nef 类的体积多项式。"
     },
@@ -10194,7 +10194,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "Bruhat-Tits 大楼的 Helly 定理",
       "excerpt_zh": "令 $K$ 为具有评估环 $\\mathcal{O}$ 的离散值字段。我们证明，如果最多 $m+1$ $\\mathcal{O}$-格子的任何子族满足，则 $K^m$ 中的 $\\mathcal{O}$-格子的有限族适应于公共基础。换句话说，在 $\\operatorname{GL}(m)$ 的 Bruhat-Tits 大楼中，当且仅当最多 $m+1$ 个单纯形的任何子族存在时，有限族单纯形位于公共公寓中。该证明使用 $\\mathcal{O}$-格的 Radon 定理的一个版本。我们还提供了使用截断模块的替代证明。"
     },
@@ -10223,7 +10223,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "具有无限基本群和平凡有限完成的射影曲面",
       "excerpt_zh": "对于奇数阶的每个非平凡有限阿贝尔群\\(A\\)，我们构造一个具有无限拓扑基本群和平凡基本群的光滑复射影面。其有限子群的同构类型正是\\(A\\)子群的同构类型。表面为小林双曲线，并有斯坦因万能盖。"
     },
@@ -10252,7 +10252,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "穿孔二维表面上拓扑带电对的湮灭与锚定",
       "excerpt_zh": "相反拓扑电荷的两个独立随机游走在离散圆环 $(\\mathbb{Z}/n\\mathbb{Z})^2$ 上移动，其中包含 $k$ 个分隔良好的孔。当这些步道彼此进入核心距离时就会消失，并且当每个步道第一次接触到一个洞时就会被锚定。我们证明锚定前湮灭的概率收敛于 $w_0/(w_0+\\sum_j w_j)$，其中权重是明确的并且仅与核心和孔的大小成对数关系；对于点状核心和孔，限制为 $1/(1+k)$。然后我们证明一个命运定理：该对要么终止，要么以锚定在两个不同孔上的两个相反电荷结束，在点状情况下概率为 $(k-1)/(k+1)$，并且选择托管对 $\\{j,l\\}$ 的概率与 $w_jw_l$ 成比例。该证明将可逆马尔可夫链中稀有集合的抽象竞争引理与尖锐的二维格林函数估计结合起来。"
     },
@@ -10281,7 +10281,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "有限速度 Ornstein-Uhlenbeck-Kac 过程及其在生成建模中的应用",
       "excerpt_zh": "我们研究了 Ornstein-Uhlenbeck-Kac (OU-K) 过程，其中有限速度 Kac 过程定义了驱动过程，而不是布朗运动。 OU-K 过程可以通过重新调整的、时间不均匀的 Kac 过程进行分析，其特征在于 Kac 部分的切换速率和 Ornstein-Uhlenbeck (OU) 部分的收敛速率。这种非齐次 Kac 过程的定律描述了波动方程（Euler-Poisson-Darboux (EPD) 方程）的解。对于 Kac 切换速率是 OU 收敛速率的倍数，我们可以通过限制在表示波前的两个狄拉克点之间的两个勒让德多项式（的导数）之和明确导出此 EPD 解。使用分段确定性马尔可夫过程 (PDMP) 的框架，我们通过多项式定律公式描述 OU-K 过程的条件速度场。这使我们能够在生成流模型中应用 OU-K 过程。由于 OU-K 速度场被证明受到有限 Kac 速度的限制，因此扩散模型的通常时间截断变得不必要。我们展示了相对于扩散和流量匹配模式的优势"
     },
@@ -10310,7 +10310,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "大象随机游走，近期记忆按比例增长",
       "excerpt_zh": "在这项工作中，我们研究了最近记忆受限的大象随机游走，其中在步骤 $n$ 时，大象只记得 $c\\in(0,1)$ 的最后 $m_n=\\max\\{\\lfloor cn\\rfloor,1\\}$ 步骤。我们证明随机游走在关键点 $p_c=(3+\\sqrt{1-c})/4$ 处经历相变，这取决于内存比例 $c$。对于 $0 <1$，$S_n/n^{\\rho}$ 几乎肯定会收敛，并且在 $L^2$ 中收敛到某个常数 $\\rho\\in (1/2, 1)$ 的随机变量。这种相变不同于经典的大象随机游走及其远程记忆对应物的相变，两者都有相同的固定临界点 $3/4$。"
     },
@@ -10339,7 +10339,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "热 $\\phi^4_2$ 场中高斯盲源的三次局部可观测性",
       "excerpt_zh": "我们研究在圆形的巨大高斯热场中进行空间局部观测时不可见的外部源。二次参考校准消除了一阶热质量转移信号。对于所得的四次模型，我们证明了局部 Wick 三次均值的与截止无关、源均匀的 $C^1$ 展开。其主导算子以热协方差的时间积分立方为核。正双边拉普拉斯表示证明了整个外部源空间上的单射性，而解析性给出了指数奇异值上限。展开在每个固定的有限维源空间上产生局部 Araki 相对熵下界，并在每个规定的 Sobolev 分辨率上产生均匀分离定理。在附加的区间长度条件下，反射正恒等式产生了针对该特定热核的显式非最优双对数条件稳定性界限。 Feynman--Kac--Nelson 构造的连续概率估计和可积性假设在第~3 节中得到验证。"
     },
@@ -10368,7 +10368,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "吸收随机游走的准平稳分布的吸引力域",
       "excerpt_zh": "我们研究正整数上的连续时间随机游走，杀死为零，其中向下速率 $a$ 和向上速率 $b$ 满足 $a>b>0$。其准平稳分布形成一个单参数族。我们证明，如果初始分布 $(m_n)_{n\\geq 1}$ 严格为正，并且满足 $m_{n+1}/m_n\\to r$，其中 $(b/a)^{1/2}<1$，则给定生存率的条件分布在全变分中收敛于相应的非最小准平稳分布。我们获得了位置和生存的联合概率以及生存概率本身的渐近等价。我们还给出了选择最小准平稳分布的矩条件。最后，我们构造一个初始分布，其连续项比率不收敛，但其条件分布仍然收敛于非最小准平稳分布。因此，比率条件是充分但不是必要的。"
     },
@@ -10397,7 +10397,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "罗宾、诺依曼和界面条件的边界值修正割有限元法",
       "excerpt_zh": "我们将 Burman、Hansbo 和 Larson [Math.\\ Comp.\\ 87 (2018) 633--657] 的边界值修正的切割有限元方法扩展到 Robin 和 Neumann 条件以及不完美粘合的界面问题。该公式为所有积分保留分段仿射边界，同时仅在边界正交点处使用精确的几何形状。校正使用解的泰勒展开及其沿离散法线的梯度，并使用精确法线来评估传输通量。在界面处，对法线通量跳跃的进一步修正说明了这两个法线之间的差异。在规定的迹和庞加莱边界下，校正形式是对称形式的 $O(h^{1/2})$ 扰动，因此其矩阵可以用作预条件子。对于固定的有限 Robin 系数，我们获得能量误差界限 $C_\\beta(h^p+\\delta_h^{m+1})$，而 Robin 系数的界限均匀性为 $C(h^p+h^{-1/2}\\delta_h^{m+1})$，前提是庞加莱常数是均匀的。对于 $\\delta_h=O(h^2)$，足够的泰勒阶数因此分别为 $2m+2\\ge p$ 和 $2m+\\frac32\\ge p$"
     },
@@ -10426,7 +10426,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "Gusto：兼容有限元动力核心的工具包",
       "excerpt_zh": "Gusto 是一种基于兼容的有限元方法快速构建新算法原型的工具，用于离散天气和气候模型动力学核心中的流体方程。在这种情况下，新算法的开发通常遵循一条路径，涉及对更简单的方程组的层次结构进行测试，这些方程组共享由动力核心求解的方程组的数学结构的重要特征。 Gusto 提供了方程组层次结构的兼容有限元空间离散化，以及一系列时间步进方案。该代码是模块化的，因此可以组合不同的空间和时间离散化，并且可以将相同的方案应用于任何方程组。这有利于方案的公平比较，并使任何算法开发扩展到更复杂的方程组更加直接。在本文中，我们通过描述 Gusto 中实现的算法并向社区展示 Gusto，并通过数值天气预报中常用的各种测试问题展示其性能。"
     },
@@ -10455,7 +10455,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "平面威尔莫尔流一阶和二阶能量稳定参数有限元方法的统一框架",
       "excerpt_zh": "构建时间上二阶精确并避免大耦合非线性求解的平面威尔莫尔流结构保持方案仍然具有挑战性。在这项工作中，我们为具有长度惩罚项的平面威尔莫尔流的一阶和二阶完全离散能量稳定参数有限元方案开发了一个统一的框架。该框架基于涉及全局辅助变量的新的等效重新表述。主要新颖之处在于二阶结构，它将由元素弧长雅可比比加权的中点曲率量与兼容的离散正切相结合，以获得弯曲能量和曲线长度的精确离散链规则。进一步的贡献是表明这两种方案都满足离散修正能量耗散定律，这些定律在离散解上产生与原始能量定律相同类型的先验界限。他们还保留了 Barrett--Garcke--N{\\\"u}rnberg 切向运动以促进有利的网格分布。每个阶段都减少为具有完全相同的系数矩阵的两个线性求解和一个标量非线性求解。我们"
     },
@@ -10485,7 +10485,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "次扩散的物理信息神经网络的收敛性分析",
       "excerpt_zh": "基于物理的神经网络已成为偏微分方程的无网格求解器，但其针对时间分数问题的严格收敛理论仍然有限。我们针对线性次扩散方程以及从终端观测中恢复初始数据的相关后向问题提出了 PINN 的收敛分析。为了解决分数导数的非定域性和弱奇异核问题，我们引入了一种基于离散化的 PINN 框架，该框架建立在一些满足离散最大正则性的流行时间步进方案上，包括后向 Euler、BDF2、L1 和分数 CN 方案。这种方法避免了在训练点对分数阶导数的精确评估，同时保留了收敛分析所需的稳定性结构。对于前向问题，我们证明，在自然分数最大正则性条件 $u\\in W^{\\alpha,p}(0,T;L^2(\\Omega))\\cap L^p(0,T;H^2(\\Omega)\\cap H_0^1(\\Omega))$ 下，PINN 损失最小化器的分段线性时间重建收敛于精确解。该结果避免了 e 上的高阶正则性假设"
     },
@@ -10514,7 +10514,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "有效的核 C* 代数",
       "excerpt_zh": "我们研究 $C^*$-代数的核性的可计算内容。我们表明，核性自动生效：$C^*$-代数的表示实际上是核性的，从某种意义上说，见证核性的完全正近似可以从它们近似的数据中统一计算出来，当且仅当它是核$C^*$-代数的可计算表示时，同样对于Choi-Effros形式的核性的有效化。主要工具是阿维森扩展定理的有效版本：我们证明可计算表示中的元组的第 $n$ 个矩阵数值范围是可计算紧凑的，在所有数据中是一致的，并推导出一种算法，将近似可达到的矩阵元组转换为可计算的单位完全正映射。副产品是单位 $C^*$-代数的任何可计算表示的可计算状态在其状态空间中都是弱$^*$-稠密的。我们还证明了 Cuntz 代数 $\\mathcal{O}_n$ 是可计算分类的，并获得了 Kirchberg-Phillips 吸收的有效形式。与上述条件对比，"
     },
@@ -10543,7 +10543,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 82.5,
+      "discovery_score": 82.4,
       "title_zh": "稳定模块类别中的弱生成器",
       "excerpt_zh": "本文的目的是表明，环的稳定模类别中弱生成元的存在，或者等效地，用 Holston 等人的术语来说，$p$-indigent 模的存在，取决于集合论的基础模型。"
     },
@@ -10572,7 +10572,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "方向还是大小？ Learning Scalars over Task-Calibrated Directions",
       "excerpt_zh": "参数高效微调（PEFT）旨在保持适应质量，同时降低训练成本。我们提出了 SCALAR，它的性能可与 LoRA 相当，但可训练参数少得多，峰值训练内存更低，吞吐量更高。 SCALAR 根据任务激活构造固定输入基础，并将随机输出字典分配给每个输入方向。微调仅学习特定于层的标量系数，减少梯度和优化器状态存储。分组计算在将适配器应用于令牌激活之前聚合输出原子，而跨兼容层的字典共享减少了固定基础存储。指令调整后的常识推理、数学推理、代码生成和知识评估实验证明了在较小的可训练预算下的有效适应。在常识推理方面，SCALAR 的可训练参数仅占 LoRA 的 4% 左右，其准确度与 LoRA 相当。 Qwen2.5-7B 上的系统测量结果显示，与 LoRA 相比，峰值训练内存降低了 20%，吞吐量提高了 6%。适应质量、紧凑的可训练状态和"
     },
@@ -10602,7 +10602,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "量子图神经网络：架构、可训练性和应用",
       "excerpt_zh": "量子图神经网络（QGNN）将参数化量子电路应用于图结构数据，旨在克服经典图神经网络在可扩展性、表达性和远程信息流方面的限制。自 2019 年第一个基于哈密顿量的模型以来，该领域已经产生了许多架构、应用程序和声明，但它们背后的证据尚未得到系统评估。这项调查引入了一种统一的形式主义，将每个 QGNN 描述为编码器、图条件电路、可观测值和可选的经典头，以及用于排列等方差的电路级条件和用于比较成本的资源模型。我们将文献分为五个架构系列（卷积、等变、消息传递和循环、哈密顿和混合），并通过量子位成本、对称性、可扩展性和证据对它们进行比较。然后，我们回顾对称性和几何归纳偏差（排列、旋转和洛伦兹）、表达性、可训练性、噪声和可扩展性的结果，以及在高能物理、化学、金融、医疗保健、地球观测、"
     },
@@ -10632,7 +10632,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "论充分解释的限度",
       "excerpt_zh": "我们正式描述了对结构化数据（例如图形和字符串）的分类器存在足够解释的条件。我们专注于事后解释器，选择部分输入作为充分的解释。如果仅所选部分可以确保预测标签，则解释就足够了。足够的解释已被广泛采用的数据模式，包括图形、字符串和图像。然而，仍然缺乏对充分解释的统一正式分析。我们通过四个主要贡献弥补了这一差距：（i）我们定义了一个由实例空间、分类器和选择关系组成的通用解释形式。选择关系指定可以从每个实例中选择哪些潜在的子实例或特征子集作为解释； (ii) 我们表明，足够的解释器的存在完全由分类器和选择关系之间的相互作用来表征； (iii) 我们将这种分析扩展到实际相关的充分性变体，包括概率充分性和删除充分性； (iv) 基于形式分析，我们设计了统计数据"
     },
@@ -10661,7 +10661,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "小并没有消亡：e-means 的距离感知集群复兴",
       "excerpt_zh": "e-means（Bessa 等人，2026）是一种最新的小批量 k-means 算法，现在是 FAISS 库的一部分，在大型嵌入数据集上，它的误差比 Lloyd 算法快一个数量级。每五个小批量，它会删除运行点计数低于平均值十分之一的每个集群，并重用其中心来分割一个大集群。在作者的消融中，删除这种称为​​死簇复兴的机制比删除添加到移动平均更新中的任何其他组件更会引发错误。然而，该规则仅考虑簇大小：它无法区分较小的簇，因为它与覆盖一组罕见的孤立点的簇是冗余的，并且对于具有此类组的数据，它会重复删除删除成本高昂的中心。我们根据中心之间的距离添加第二个条件：只有当一个小簇的中心靠近另一个中心（相对于均方误差的运行估计）时才会被删除。当中心等于其点的平均值时，该平方距离是簇中每个点的平方误差平均增加的上限，因为"
     },
@@ -10690,7 +10690,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "excerpt_zh": "Learning across multiple inherently conflicting objectives requires selecting desirable trade-offs from the Pareto set.在这项工作中，我们研究了偏好引导的多目标优化，其中预定义的偏好函数在多个非凸目标的弱帕累托集上被最小化。利用在弱帕累托集上消失的评价函数，我们提出了一种基于惩罚的最小-最大-最小公式，称为 M$^3$ 问题，它将偏好优化和弱帕累托最优性的执行统一在单个目标中。 We further develop ParetoM$^3$, a single-loop first-order algorithm for computing stationary solutions of the resulting M$^3$ problem.在局部 Kurdyka-Lojasiewicz 假设下，我们证明 ParetoM$^3$ 找到 M$^3$ 问题的 $\\epsilon$-驻点，当惩罚参数足够大时，该点对于原始多目标问题也近似弱 Pareto 最优，具有显式非渐近收敛率。我们还表明，这种平稳性概念恢复了现有的最优性标准，包括近似偏好平稳性和近似 Ka",
       "title_zh": "ParetoM$^3$：通过 Min-Max-Min 优化在偏好指导下学习 Pareto 集"
     },
@@ -10719,7 +10719,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "excerpt_zh": "This paper establishes a layered mathematical char acterisation of PF-Exec, the algorithm of the companion system paper.与需求成比例的带宽分配产生精确的一阶同质分解，从中得出等负载带宽目标及其可行性边界的封闭形式。对数膝盖视图保留了严格的负载顺序，并与 Jain 公平指数共享其全局最优值，而需求加权质心则最小化了位置潜力。 The damped softmax association block possesses a fixed point on the product of simplices.截断的一维增益迭代允许完整的表征，其中几何收敛低于临界增益，初始值相关的有界振荡，以及其上方的一系列有界两态循环。 A global invariant error ball and an explicit tracking recursion complete the execution guarantee.数值审计确认每个测量状态的结构特性，并量化耦合关联和资源动态的局部放大。 Together, the results explain how closed form recovery directions a",
       "title_zh": "PF-Exec 的收敛特性：同质结构、锚定闭合形式和增益动态"
     },
@@ -10748,7 +10748,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "excerpt_zh": "自主实验系统需要能够解释异构测量并在数据积累时保持预测性能的表征模型。开发此类模型涉及解决数据源之间的领域不匹配、对不熟悉的输入的过度自信预测以及顺序更新期间的灾难性遗忘。在这项工作中，我们提出了一个概念验证框架，用于二维 X 射线衍射 (XRD) 数据的不确定性感知连续解释。该框架集成了已建立的组件：基于最大平均差异的域适应，以减少模拟与实验的差异，具有用于预测不确定性估计的谱归一化神经高斯过程（CNN--SNGP）的卷积神经网络，以及用于顺序模型更新的知识蒸馏重放。我们使用模拟和先前收集的实验数据来评估该框架，用于单相体心立方、面心立方和六方密堆积图案的晶体结构分类。 Data are organized into predefined sequential blocks to assess adaptation and r",
       "title_zh": "使用模拟和实验数据进行 2D XRD 解释的不确定性感知持续学习"
     },
@@ -10777,7 +10777,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "大型非线性模拟电路中的对比局部学习",
       "excerpt_zh": "物理硬件中的机器学习有望通过在设备物理中并置计算、内存和适应来降低训练成本。对比局部学习网络（CLLN）提供了一条引人注目的途径：电路在自由和弱钳位状态下松弛至平衡，并且每个自适应元件根据局部电压对比而不是反向传播的误差信号进行更新。然而，非线性晶体管的实现是否可以扩展到概念验证电路之外，以及什么设计原则控制这种扩展，仍然未知。在这里，我们表明，通过对比局部规则训练的非线性模拟电路可以学习更大的机器学习任务，并在硬件非理想情况下保持鲁棒性。使用器件级电路仿真，我们系统地探索初始化、操作机制、损耗相关钳位和训练参数，并将 CLLN 扩展到超过一万个自适应边缘。相同的本地规则训练分类器，使其在电离层和手写数字基准上达到传统数字方法的准确度，以及在 122-tok 上自回归生成语言的网络"
     },
@@ -10806,7 +10806,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "查看每个块一次：掩蔽扩散语言模型的方差减少后训练",
       "excerpt_zh": "策略梯度方法广泛用于使大型语言模型输出与人类偏好保持一致，但它们所需的对数似然不能在掩蔽扩散语言模型（MDLM）中直接计算。因此，MDLM 训练后依赖于基于证据下界 (ELBO) 的替代目标，最近的工作通过蒙特卡洛方法估计该目标的分块变体以支持分块生成。然而，现有的估计方案对块索引进行随机采样，因此它们可能多次评估同一块，而使某些块未被评估。这将块选择产生的方差引入到估计中。在这项工作中，我们提出了一个全块估计器，它对每个块进行一次评估并对结果进行平均。我们从理论上表明，所提出的估计量保持无偏，同时消除了由于块选择而产生的组间方差，从而在相同样本量的情况下实现了比基线更低的方差。在涉及数学、规划和编码的五个基准的实验中，我们的方法在四个基准上实现了最高的准确度，并且表现优于其他基准"
     },
@@ -10835,7 +10835,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "将语言模型折叠起来",
       "excerpt_zh": "知识蒸馏通常从头开始训练紧凑的学生，即使教师的权重已经编码了学生必须学习的大部分内容，这也需要大量数据。在这项工作中，我们探索直接根据教师的权重构建学生。我们提出了 Concertina，它将每组 N 个相邻的教师层折叠成一个执行 N 次的共享块。每个循环步骤都带有从其替换的层初始化的低秩校正，并且每个令牌门混合这些校正，以使每个令牌从单个共享块恢复原始层的行为。我们进一步设计了一种蒸馏数据配方，平衡一般、数学、学术和有针对性的多项选择数据，以恢复教师的所有能力，而不是以牺牲另一种能力为代价。在 Qwen3-4B 上，在 22B 代币上提取的 2.27B 手风琴模型在常识和数学推理方面保留了约 90% 的知识，在八个基准测试中平均保留了 84%。它的性能优于相同大小的密集和层共享基线以及经过一千多次训练的 Qwen3-1.7B"
     },
@@ -10865,7 +10865,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "超越黄金标准：法学硕士正式数学推理法官的认知集合",
       "excerpt_zh": "语句自动形式化通过将自然语言语句自动翻译为形式语言，在形式数学推理中发挥着至关重要的作用。虽然最近使用大型语言模型 (LLM) 的进展已经显示出自动形式化方面有前景的能力，但自动评估自动形式化的方法仍未得到充分探索。法学硕士作为法官提出了一种有前景的自动化评估方法，然而，现有方法通常采用粗粒度和通用的评估标准，这限制了它们在高级形式数学推理中的有效性，其中质量取决于细致入微的多粒度维度。 In this work, we take a step toward addressing this gap by introducing a systematic, automatic method to evaluate autoformalization tasks.所提出的方法基于法学硕士法官的认知和形式基础集合（EFG），根据逻辑保存（LP）、数学一致性（MC）、形式质量（FQ）和形式有效性（FV）等标准进行定义，从而产生考虑不同影响因素的透明评估。我们验证"
     },
@@ -10894,7 +10894,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "BBOWP-Bench：评估黑盒优化应用题的法学硕士",
       "excerpt_zh": "Formulating an optimization problem strongly affects final solution quality, yet good formulations usually require substantial expertise.最近的研究探索了从自然语言描述中自动导出优化问题，但现有的基准侧重于目标和约束可以明确地写为数学表达式的设置。许多实际重要的问题自然被视为黑盒优化（BBO）问题，其中只能观察到客观值，而无法获得函数形式。 In BBO, search space design (as part of problem formulation) and optimization algorithm selection are crucial for problem-solving. Automating these processes with large language models (LLMs) remains challenging.我们引入了黑盒优化字问题（BBOWP），这是一种新颖的问题设置，其中系统必须从黑盒优化任务的自然语言描述中推断出搜索空间和优化算法。 To support research on this setting, we establish the BBOWP Benchmark Suite (BBOWP-Bench), a dataset and evaluation framework for BBOWP.乙"
     },
@@ -10923,7 +10923,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "注入转向，而不是代币：学习如何重定向 LLM 推理以进行自我纠正",
       "excerpt_zh": "大型语言模型很难可靠地识别和纠正自身推理中的错误。与之前基于培训的方法对法学硕士进行微调以生成修订或反馈不同，我们学习在何处干预失败的推出并确定如何重新引导它们。为了选择干预位置，我们仅使用最终答案正确性在冻结编码器上训练 130K 参数 MLP 头。对于重定向，我们发现在固定的生成预算下，测试的内联注入无法可靠地重定向推理，而在新用户轮流中呈现相同的指令会改变模型的过程。由此产生的校正框架 UPTURN（在学习位置进行用户提示 TURN 注入）不需要 LLM 微调：它保留选定的前缀，在新的用户回合中注入指令，并重新生成后缀。通过 4 个推理器和 6 个数学基准，UPTURN 在 32 次推出的基线上提高了每种设置的平均准确度。它在匹配的校正预算下优于自我校正和反射令牌注入基线，无需重新训练即可跨推理器传输并传输到 GPQA-Diamond，并且补充"
     },
@@ -10952,7 +10952,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "强化学习后印度任务的增益和回归",
       "excerpt_zh": "我们使用 GRPO 在四种环境中运行强化学习 (RL)，从覆盖英语和八种印度语言的监督微调 30B-A3B 专家混合模型开始。我们在一项评估活动中通过 34 个基准比较了强化学习前后的模型。 MATH 提高了 36.07 点，大多数印度基准也有所提高。然而，由于英语答案从 8.7% 上升至 91.7%，XQuAD-Indic F1 下降了 19.32 分； IndicQA 下降 8.64，而 English XQuAD F1 上升 11.71。来自相同监督初始化的第二次 RL 运行添加了印度语环境以及语言和重复奖励。与发布的模型相比，它提高了段落回答和指令遵循基准，同时保留了数学性能。但它在推理和编码基准方面失去了优势。几种训练选择同时发生变化，因此我们无法孤立任何一项奖励条件的影响。脚本合规性仍未解决。添加语言奖励并不能确保所请求的脚本的使用。因此，即使其他基准分数有所提高，段落回答和脚本合规性也需要直接评估。"
     },
@@ -10981,7 +10981,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "从阅读代码到阅读规范：LLM 驱动的代码库维护的验证层",
       "excerpt_zh": "LLM 生成的代码的快速增长增加了软件复杂性和工程师的维护负担。虽然法学硕士提供了潜在的自动化替代方案，但这种结构复杂性阻碍了他们直接管理代码库的能力。我们引入了原始功能的可证明表示（PROOF），它通过结构化规范间接管理代码库。为了严格通过这些规范实现全生命周期代码库管理，PROOF 将代码库拓扑抽象为分层自然语言表示。为了建立绝对信任，系统通过专门根据该规范重构源代码来证明语义等效性。这个经过验证的基础驱动维护请求，执行代码修改，同时同步更新自身以防止语义漂移。对现实世界存储库的实验证实了这些规范的有效性。"
     },
@@ -11010,7 +11010,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T05:04:11.632869+00:00",
-      "discovery_score": 88.5,
+      "discovery_score": 88.4,
       "title_zh": "剩下多少很重要：部分即时污染测试中的假阳性和假阴性",
       "excerpt_zh": "Partial-prompt completion, where a model receives the first part of a benchmark problem and is checked for whether it reproduces the rest, is a widely used test for benchmark contamination.我们使用 MATH-500 和最近的 AIME 2025/2026 问题对七个开放权重模型进行了测试，这些模型作为真负数。 Memorization flags depend strongly on how much text remains: for every model, problems with at most 8 leftover words are flagged several times more often than problems with at least 25 (31.5% vs. 5.5% for Qwen2.5-7B-Instruct), and half to three-quarters of all ROUGE-based flags come from short leftovers. On true negatives, a ROUGE-L >= 0.75 threshold flags up to 6.7% of problems at a 60% prefix, and at an 80% prefix even exact match flags 8.6% (pooled over models; 6.2% on AIME 2026, which postdates every model), against 0% at 40-60%. The test also misses contamination upstream: models distilled from Qwen2.5-Math, whose base is heavily flagged in prior work, show almost no model-specific recall.根据其他系列的模型校准每个模型会删除大多数标志，同时隔离一致的 Qwen2.5 规范"
     },
@@ -12517,7 +12517,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 99.4,
+      "discovery_score": 99.3,
       "title_zh": "为什么正确答案还不够",
       "excerpt_zh": "“想象一下，人工智能系统提出了一个在多个地区之间分配公共服务的计划。根据该模型的假设和要求，没有其他允许的计划总体成本更低。这一结果的正式证明已经通过软件进行了检查。但一些地区的居民表示反对：他们将不得不等待太长时间才能获得该计划下的服务。[...]”"
     },
@@ -12715,7 +12715,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 98.7,
+      "discovery_score": 98.6,
       "title_zh": "实证主义和人文主义数学：分裂的一个案例",
       "excerpt_zh": "如果我们不把学科一分为二，一半的学科将不可避免地支配另一半，我们都会因此而变得更糟。在经历了数学作为一个整体幸存下来的所有重大危机之后，我们现在发现自己处于一个完全前所未有的境地。我们要么分裂，要么死亡。"
     },
@@ -14308,7 +14308,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 98.3,
+      "discovery_score": 98.2,
       "title_zh": "论人工智能与数学进步：梦想数学通用机器",
       "excerpt_zh": "数学正在从独自发现的大山转向人类和人工智能共同探索的工业矿山。如果数学进步不是通过出版物和引用来衡量，而是通过有多少发现扩展了数学通用机器的能力来衡量，结果会怎样？数学研究的新视野。"
     },
@@ -15631,7 +15631,7 @@
         }
       ],
       "first_seen_at": "2026-11-16T02:31:11.835271+00:00",
-      "discovery_score": 89.9,
+      "discovery_score": 89.8,
       "title_zh": "使用 PDD Kit 正式验证代理编写的全栈 Web 应用程序",
       "excerpt_zh": "人工智能代理可以生成人类难以逐行检查的规模的代码。 PDD 套件通过创建正式规范并对其进行测试，帮助确保代码按照开发人员的预期进行。它将开发人员的意图转换为 Verus 规范，证明人工智能生成的代码满足每个输入的要求，并在证明不切实际的情况下使用测试。开发人员会审查意图，而不是每一行。使用 PDD Kit 正式验证代理编写的全栈 Web 应用程序一文首先出现在 Microsoft Research 上。"
     },
@@ -21460,7 +21460,7 @@
         }
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
-      "discovery_score": 95.2,
+      "discovery_score": 95.1,
       "excerpt_zh": "“我们很高兴地宣布，人类数学协会的教学工作组针对院系、导师和学生编写了一套关于博士生咨询的建议。该文件包含五项指导方针，重点是优先考虑人类撰写的写作、避免过度依赖人工智能、面对人工智能使用的道德问题、改善学生的福祉，以及如何实施这些建议的具体建议。[…]”",
       "title_zh": "AHM 的更新：博士生咨询指南"
     },
@@ -24889,7 +24889,7 @@
         }
       ],
       "first_seen_at": "2026-11-02T16:15:03.466430+00:00",
-      "discovery_score": 94.8,
+      "discovery_score": 94.7,
       "title_zh": "人工智能时代数学研究峰会报告",
       "excerpt_zh": "[这是人工智能时代数学研究峰会组织者的客座帖子：Dan Freed（哈佛大学）、Larry Guth（麻省理工学院）、Bryna Kra（西北大学）、Emily Riehl（约翰霍普金斯大学）和 Mohammed Abouzaid（斯坦福大学）。这篇博文最初是用不同的文件格式编写的，并使用 AI 进行了转换。 - T.]上周[...]"
     },
@@ -25573,7 +25573,7 @@
         }
       ],
       "first_seen_at": "2026-10-28T10:06:14.482692+00:00",
-      "discovery_score": 94.4,
+      "discovery_score": 94.3,
       "title_zh": "人工智能时代数学家的责任",
       "excerpt_zh": "“七月份的某个时候，我对数学感到不一样。直到今年年初，我基本上都回避人工智能，希望炒作能够平息。无论如何，这些模型产生了太多幻觉，不太有用。然后事情发生了变化。它们变得更好，非常非常快。” […]"
     },
@@ -37116,7 +37116,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "代理强化学习中的数据如何扩展：法则和综合策略",
       "excerpt_zh": "预训练缩放法则将训练数据视为一维数量：令牌计数。代理强化学习（RL）继承了这种标量抽象，但现代综合管道现在以非常不同的成本独立生成 \\textit{tasks}、\\textit{environments} 和 \\textit{trajectories}，将数据转换为结构化设计空间。这就提出了一个预训练从来不需要回答的问题：给定综合预算，\\textit{哪个轴}应该缩放？我们通过三个紧密耦合的贡献来端到端地解决这个问题。首先，我们将代理数据分解为三个基数轴（任务、环境、轨迹），加上奖励密度控制变量，并在跨数学+代码、SWE、Web 和 UI/工具应用程序域的不同大型语言模型 (LLM) 上拟合每轴缩放关系。在我们测量的所有模型大小、模型系列、领域和 RL 算法（PPO 和 GRPO）中，缩放指数顺序为环境 $>$ 任务 $>$ 轨迹。当环境多样性分解为世界多样性和环境结构多样性时，其优势主要由前者驱动，而后者只是由环境多样性驱动。"
     },
@@ -37145,7 +37145,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "通过进化策略进行持续的测试时学习",
       "excerpt_zh": "大型语言模型越来越多地在开放环境中运行，在这种环境中，它们需要不断适应不断变化的任务和分布，而通常不需要外部监督。现有的持续学习方法依赖于外部监督，例如标记数据、演示或奖励信号，这在实践中可能成本高昂或不可用。测试时适应通过从自我生成的监督中学习来消除这种依赖性，但现有的方法从正在更新的单个策略中获得监督，因此一旦策略发生变化，其自身的学习信号也会随之变化，从而导致策略崩溃、推理退化和灾难性遗忘。在本文中，我们提出了 \\textbf{进化策略强化学习（ESRL）}，这是一种持续的测试时间学习框架，它从一组策略而不是单个正在训练的策略中获取自我生成的监督。 ESRL 扰乱参数空间中的锚定策略，以形成附近策略的群体，从每个策略中采样一个轨迹，并将其答案聚合成中央策略的无标签组相关学习信号。"
     },
@@ -37174,7 +37174,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "边际边界解释了为什么加权投票在训练误差消失后会泛化，但相关观察需要集中论证来保持相关模型和失败预算的明确性。我们研究固定混合流，而不将依赖性视为“有效样本量”的正式替代。对于有限基类，我们将固定 $\\beta$ 混合过程的独立块 Rademacher 理论与剪切边际损失相结合，以获得明确的统一投票边际证书，其依赖性惩罚由近似独立块的数量和耦合预算 $4(\\mu-1)\\beta(a)$ 设定。黑盒传递定理表明任何 i.i.d.投票保证金在规则间隔的子序列上仍然有效，仅具有附加的 $\\beta$ 混合失败概率。对于独立于固定有限状态可逆马尔可夫流固定的投票，谱集中给出了更干净的 $\\sqrt{t_{rel}/n}$ 率，并且粘性刷新结构表明该指数是不可避免的。该常数是特定于统计的：有效样本大小为 $n/\\tau_{int}(g)$，其中 $\\tau_{int}(g) \\l",
       "title_zh": "混合依赖下投票分类器的保证金证书"
     },
@@ -37203,7 +37203,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "输入为函数的神经网络（如算子学习）通常通过存在性论证（通过简化为有限维网络或通过 Stone-Weierstrass 型密度）证明是普遍的；这些证明了近似值的存在，但很少说明参数如何依赖于目标。我们采取建设性路线。我们将脊波变换（一种与傅立叶变换、氡变换和小波变换相关的积分变换）扩展到可分离的无限维希尔伯特空间上的连续映射，用方向空间上的均匀混合的高斯权重替换在无限维中不可用的勒贝格测度。生成的变换具有 Plancherel 恒等式和重建公式，其中包含帧算子、权重引起的校正，并且它为每个目标分配一个显式系数测量，每个可允许的分析滤波器都有一个。从这些表示中，我们获得了多项式增长的所有连续非多项式激活的紧集的一致近似，包括 ReLU，并且通过系数的蒙特卡罗采样，有限宽度网络",
       "title_zh": "通过高斯加权脊波变换的无限维神经网络的构造通用逼近"
     },
@@ -37232,7 +37232,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "均匀收敛询问有多少随机样本足以使经验平均值同时逼近整个函数类的期望。它是概率的核心概念，也是统计学习的基础。对于二值类，Vapnik--Chervonenkis 定理通过 VC 维度的有限性来表征一致收敛。对于维度 $d$，加性误差 $\\varepsilon$ 的最坏情况样本复杂度为 $d/\\varepsilon^2$。对于实值函数，类似的组合参数是脂肪粉碎维度，它取决于近似尺度 $\\gamma$。挑战是用 $d/\\varepsilon^2$ 样本实现错误 $\\gamma+\\varepsilon$，匹配二进制类的样本范围，其中 $d$ 现在是规模 $\\gamma$ 上的脂肪粉碎维度。以前的结果要么实现了最佳规模，要么实现了最佳样本复杂性，但不能同时实现两者。我们的主要结果弥补了这一差距，在最佳规模下建立了尖锐的样本复杂性。在此过程中，我们使用了几种可能具有独立兴趣的工具。第一个涉及 $\\varepsilon$-nets",
       "title_zh": "以最佳速率和规模均匀收敛"
     },
@@ -37262,7 +37262,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "衡量离线数据对内在驱动探索的授权",
       "excerpt_zh": "先前经验的大型未标记数据集越来越多地可用于机器人和编码等领域的代理任务。这些任务的常见方法是使用先前的数据训练策略，然后通过在线部署进一步改进它。但是，虽然很多工作都在研究如何使用离线和在线数据进行策略提取，但在理解在线学习阶段如何使用先验数据有效地\\textit{explore}方面所做的工作却少之又少。之前的工作试图通过定义 \\textit{empowerment} 来形式化这个想法，这是一个衡量智能体可以实现多少种未来状态的指标；权力较高的国家需要更多的探索，因为有更多的未来可供探索。然而，现有的评估赋权的方法需要在环境中在线推出政策。我们提出了第一种方法，用于根据未标记的先验数据来估计赋权，而无需任何环境交互。通过共同学习赋权最大化策略及其折扣状态占用度量，我们的估计器可以接受由任何未知数生成的未标记轨迹的训练。"
     },
@@ -37291,7 +37291,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "库存限制下连续做市的无悔收入最大化",
       "excerpt_zh": "做市商通过为买家和卖家设定出价和要价来保持交易效率。在顺序做市中，交易根据价格阈值独立发生，要求做市商在 T 轮中保持平衡、低风险的库存。本文研究了如何使用后悔最小化在未知的买家和卖家估值的情况下最大化收入。当做市商只看到交易成功或失败时，算法会实现遗憾，库存范围与 T 的 2/3 次方成正比。当失败交易的完整订单簿数据可用时，遗憾和库存限制将显着改善至 T 的平方根。我们还通过下限建立基本权衡，证明更严格的逐轮库存限制严格迫使更高的最小遗憾。"
     },
@@ -37320,7 +37320,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "使用上下文管理和外部存储器进行推理",
       "excerpt_zh": "推理模型通过上下文记忆维护有关其推理过程状态的信息。复杂的问题需要更大的上下文窗口和内存需求。在这种情况下，没有缓存的上下文管理可能会丢弃用于推理的有用信息。我们提出了 RCMEM，这是一种使用外部存储器扩展上下文管理的方法，以维护附加信息，而不会给推理模型带来附加上下文的负担。 RCMEM 显着减少了需要重复计算中间步骤的问题的计算时间，同时在复杂问题上实现了更好的性能。我们使用 0.4 到 2500 万参数的模型大小和 GPT-2 演示了我们解决一些数学问题的方法。"
     },
@@ -37349,7 +37349,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "带可验证奖励的强化学习（RLVR）提高了大型语言模型的推理能力，但往往降低了其推理行为的多样性。我们从有限样本学习动态的角度研究这种现象，并表明有限的策略推出可以逐渐抑制语义上不同但同样奖励的推理模式。一旦某个模式变得足够欠采样，标准同策略 RLVR 很少能恢复它。受这一观察的启发，我们提出了 TAR，一种有针对性的自适应重放框架，它保留了基本策略中已经存在的各种正确推理行为。 TAR 构建了一个包含不同基本模型解决方案的紧凑存储库，并通过自适应机制选择性地重放它们，该机制仅在 RLVR 期间抑制存储的行为时激活。在六个数学推理基准和两个 Qwen2.5 模型尺度上，TAR 始终比现有的多样性保留后训练方法在推理性能和多样性保留之间取得了更好的平衡，同时大大减少了正确基础模型的遗忘",
       "title_zh": "通过自适应重放保持强化学习中的推理多样性并提供可验证的奖励"
     },
@@ -37378,7 +37378,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "从故事到特征：缩放概念向量以实现人工智能对齐和可解释性",
       "excerpt_zh": "我们研究特征向量：语言模型激活空间中与人类可解释的概念相对应的方向，例如诚实或欺骗。现有的无监督方法（例如稀疏自动编码器）试图恢复整个特征空间，通常以特征质量和可解释性为代价。我们采取了更务实的路线：专注于与人工智能安全和对齐相关的概念，我们生成合成的概念-对抗故事对，并使用它们的平均模型激活的差异作为特征向量。我们使用公开发布的跨多种语言和流派的 2M 合成故事，将此方法扩展到 1,036 个与对齐相关的概念。在三个模型系列的六个模型中，我们的特征向量可靠地概括为检测聊天对话和网络文本中相应的概念。它们形成跨模型共享的可解释几何形状，并且在注入激活时可以因果地引导模型行为。我们进一步使用这些功能来分析越狱攻击、数学和代理推理期间的模型表示。因此，我们的目标特征构建提供了可扩展的"
     },
@@ -37408,7 +37408,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "使用密码进行培训以增强稀有语言翻译的上下文术语学习",
       "excerpt_zh": "使用上下文示例（IC-Train）微调法学硕士可以让翻译模型在部署时适应新的并行数据，但尚不清楚它们是否真的从这些示例中学习了罕见术语的翻译。我们将这种能力正式化为上下文术语学习（ICTL）。我们表明标准 IC-Train 只能弱地开发这种能力，并提出 RareCipherFT，它在没有任何词汇资源的情况下增强了这种能力。 RareCipherFT 将每个训练目标与与其共享稀有术语的上下文示例配对。然后，它在上下文和引用中都用字符打乱的密码替换该术语，因此只能通过从上下文复制来恢复该术语。训练数据的加密部分被退火以保持翻译质量。在英语和泰米尔语、阿萨姆语、米佐语、尼泊尔语和豪萨语之间的七个翻译方向以及从 1B 到 7B 参数的四个模型中，RareCipherFT 比标准 IC-Train 提高了术语召回率 5-15 个绝对点，而没有降低 COMET。使用同义词、随机数词和共享表面上下文控制的探测表明，这些收益来自于将源术语与其内部术语联系起来。"
     },
@@ -37437,7 +37437,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "具有可验证奖励的强化学习（RLVR）极大地改善了数学推理，但它对基本模型的添加内容仍不清楚。我们通过对 Qwen3-4B-Base 进行一系列生成时间干预来研究这一问题，测量每次干预在 120 个 AIME 问题上恢复了多少经过 RL 训练的对应增益。具有相同 8,192 个令牌输出限制的功率采样不会带来除贪婪解码之外的任何增益。然而，仅在两个模型的贪婪选择不同的情况下借用 RL 模型的代币（生成头寸的大约 4%），即可恢复 pass@1 收益的 90.5%，在 MATH-500 上的三个模型对上也有类似的恢复。我们发现，即使是单个开头标记也会产生重大影响：强制基本模型以“好吧”开始可以恢复 35% 的 RL 增益。然而，仅开口是不够的。在相同的空缺之后的后续替换又为 pass@1 添加了 5.2 个百分点，而我们测试的插入反射词（例如“等待”）的固定规则并没有重现这一好处。稀疏替换还保留了基本模型的大部分多样性，同时在 pass@1 上保持接近 RL 模型。在",
       "title_zh": "强化学习给推理带来了什么：一些基本模型不会做出的决定"
     },
@@ -37466,7 +37466,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "本文介绍了 BanglaBBQ，这是一个问答偏见基准，旨在捕捉孟加拉语和英语中基于孟加拉语的刻板印象。继 KoBBQ 和 PakBBQ 之后，BanglaBBQ 通过将其模板分为三组来适应原始的问答偏差基准 (BBQ)：直接翻译 (DT)、修改为使目标群体或上下文与孟加拉国语 (TM) 保持一致，以及在认为不适合孟加拉国语境时删除 (SR)。此过程保留了 6 个类别的 140 个模板，其中包括 76 个 DT 模板和 64 个 TM 模板。然后根据孟加拉国社会常见的刻板印象，添加了五个新创建的（NA）类别：婚姻状况、年龄和政治观念、地区出身、教育背景和心理健康状况。孟加拉国本土注释者对所有 466 个新编写的模板进行了评判，其中 372 个被保留，因为绝大多数英语注释者确定了预期目标并将这种态度评为足够普遍。每个新创作的模板都链接到记录的来源和逐字引用。每个评估模板还具有反刻板印象",
       "title_zh": "BanglaBBQ：孟加拉国背景下问答的偏见基准"
     },
@@ -37495,7 +37495,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "法学硕士能够用语言表达数学公式吗？多领域评估",
       "excerpt_zh": "大型语言模型 (LLM) 在自然语言任务中表现出了强大的能力。但他们生成准确的数学公式书面表达的能力尚未得到系统评估。这种语言表达对于支持基于音频的学习和视障用户的文本到语音系统非常重要。我们评估了六个科学领域的五位最先进的法学硕士，并构建了 Read-Aloud Math，这是一个平衡的多领域语料库，包含 LaTeX 公式、手动验证的简单和扩展转录、多个变体、文本上下文、领域标签和公式复杂性级别。使用多参考 BLEU，GPT-5.2 在简单转录方面取得了最高分（无上下文时为 75.9%，有上下文时为 64.9%），尽管在无上下文时它的表现并没有显着优于 Grok 4.1 Fast 或 Claude Sonnet 4.5。 Claude Sonnet 4.5 在没有上下文的扩展转录方面获得了最高分 (36.5%)，而 Grok 4.1 Fast 在有上下文的情况下获得了最高分 (48.8%)。对于扩展转录，统计和数学在两种背景设置中得分最高，而物理得分最低。公式长度为 si"
     },
@@ -37524,7 +37524,7 @@
         }
       ],
       "first_seen_at": "2026-10-20T04:39:20.254470+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "Epi：走向持久的、自我改进的自主研究代理",
       "excerpt_zh": "我们提出 \\'{E}pi，一个自主研究代理，它可以维持跨模型会话的调查，并通过积累的经验改进其方法。 \\'{E}pi 结合了持久的研究历史、分层记忆、分支和独立审查，以保持研究的连续性、从实验中学习、探索和重新审视替代方法。它的实验跨越会话边界，并且固定的验证器评估它们的输出。 \\'{E}pi 产生了 120 项创纪录的结果，其中包括 12 个家庭的 20 项数字绑定记录和 8 个家庭的 100 项建筑记录。其中包括 $n$-queens 常数的约 84 倍窄区间和四次费根鲍姆吸引子维数的 360 万倍窄严格区间。精确的双重证明表明，Cohn-Elkies 线性规划界限在 10 维和 11 维上不可能是锐利的。除了数值改进之外，\\'{E}pi 还给出了 Tuza 猜想的计算机辅助证明，用于具有八个顶点团部分和最多三个三角形活跃邻域类型的分裂图，具有任意重数。我们"
     },
@@ -37553,7 +37553,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "移位指数多项式的伽罗瓦群",
       "excerpt_zh": "考虑指数级数及其伽罗瓦群的移位截断： $$F_{n,a}(x) := \\sum_{j=0}^{n}\\frac{x^j}{(a+j)!}\\qquad G_{n,a}:= \\text{Gal}(F_{n,a}/\\mathbb{Q})。$$在本文中，我们证明对于每个固定整数 $a>0$，集合$n$ 的 $G_{n,a}=S_n$ 的自然密度为 1，从而回答了 Katz 和 Rivin 的问题。"
     },
@@ -37583,7 +37583,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "最小部分函数的规范同余的类多项式障碍",
       "excerpt_zh": "我们通过证明安德鲁斯最小部分函数 $\\operatorname{spt}(n)$ 的唯一“规范”拉马努金同余素数为 $\\ell= 5, 7, 13$ 来解决一个开放猜想。在 Ahlgren 和 Kim 的工作的基础上，我们证明任何这样的同余都会迫使权重 $1/2$ 的某些弱全纯形式的平方指数系数以模数消失同余素数将其转换为 $X_0(6)$ 上两个定向 CM 多项式的导数的消失。当合适的惰性判别式很小时，$6$ 级的四元数体积估计可以防止消失。Trevi\\~no 的特征估计为每个素数提供至少 $10^{11}$ 的判别式。 Ahlgren 和 Kim 之前的计算涵盖了这些结果，并已由 AxiomProver 在 Lean 中进行了验证。"
     },
@@ -37612,7 +37612,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "统一根的小和：多对数异常集和条件分离",
       "excerpt_zh": "我们证明了任意阶单位根的对称五项和的多对数例外集估计。更准确地说，$N$ 网格的最多 $O((\\log(2N))^{11})$ 个点满足 $|1+2\\cos(2\\pi x)+2\\cos(2\\pi y)|<\\exp(-C(\\log(2N))^{13})$。这意味着在减少的导体处小共轭的相应界限：在多对数的实数嵌入之外，每个这样的总和至少是拟多项式大的。该证明是无条件的，并结合了多项式矢量场多重性估计、算术射流行列式、解析传播和附近网格点的插值行列式。作为伴随结果，假设统一数域 $abc$ 猜想，我们证明固定数量的不同素数阶单位根的每个总和对于每个 $\\varepsilon>0$ 和所有足够大的素数 $p$ 具有至少 $\\exp(-\\varepsilon p)$ 的模，在指数中一致。该证明使用了指数、判别估计和循环结果的同时压缩。"
     },
@@ -37641,7 +37641,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "具有原始实值字符的 Dirichlet $L$ 函数的 de Bruijn-Newman 常数的上限",
       "excerpt_zh": "令 $\\chi_m$ 为导体 $m\\ge3$ 的原始实值狄利克雷特征，令 $L(s)=L(s,\\chi_m)$ 为关联的狄利克雷 $L$ 函数，并令 $\\xi_L(s)$ 表示其完整形式。对于每个 $t \\in \\mathbb R,$ 我们定义整个函数 \\[ H^L_t(z) := \\int_{-\\infty}^{\\infty} e^{tu^2}\\, \\Phi_L(u)\\, e^{izu}\\, du, \\] 其中 $\\Phi_L$ 是超指数衰减密度 \\[ \\Phi_L(u) := \\frac{1}{2\\pi}\\int_{-\\infty}^{\\infty}\\xi_L\\!\\left(\\frac{1+is}{2}\\right) e^{-isu}\\, ds。 \\] 族 $\\{H_t^L\\}_{t \\in \\mathbb R}$ 描述了 $\\xi_L$ 的热流演化并求解向后热方程。根据 Newman 的工作，存在一个有限常数 $\\Lambda_L$，称为广义 de Bruijn-Newman 常数，使得 $H_t^L$ 的所有零都是实数当且仅当 $t \\ge \\Lambda_L$。 $L$ 的广义黎曼假设 (GRH) 等价于 $\\Lambda_L \\le 0$ 的断言。 Dobner 建立了匹配下界 $\\Lambda_L \\ge 0$，而 de Bruijn 证明了上限 $\\Lambda_L \\le \\tfrac12$。我们证明每个原始实值的无条件一致界限 $\\Lambda_L\\le953/3200=0.2978125$"
     },
@@ -37670,7 +37670,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "射影平面上四次曲线的射影Reed-Muller码",
       "excerpt_zh": "我们研究投影 Reed-Muller 码 $\\mathcal C_{2,4}$ 在 $\\mathbf F_q$ 上的汉明权重枚举器，其中 $\\operatorname{char}(\\mathbf F_q)>3$。我们通过将发生计数与固定归一化上的平面线性系列计数相结合来确定几何可约和奇异贡献。直线和圆锥曲线配置以及亏格零情况给出显式多项式。线三次和属一例给出了涉及类数的公式。属二贡献是超椭圆模型上的有限和，使用它们在 $\\mathbf F_q$ 和 $\\mathbf F_{q^2}$ 上的点数及其有理 Weierstrass 点。剩下的平滑贡献是非超椭圆亏格三曲线的加权点数分布。"
     },
@@ -37699,7 +37699,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "赫克的量子方差--垂直测地线上马斯尖点的形成",
       "excerpt_zh": "设 $X=\\mathrm{PSL}_2(\\mathbb Z)\\backslash\\mathbb H$，并设 $\\{u_j\\}$ 为 $X$ 上什至 Hecke--Maass 尖点形式的正交基，拉普拉斯特征值为 $1/4+t_j^2$。对于实值 $\\psi\\in C_c^\\infty(0,\\infty)$，定义 \\[ \\mu_j(\\psi)=\\int_0^\\infty\\psi(y)|u_j(iy)|^2\\,\\frac{dy}{y}, \\qquad M(\\psi)=\\frac6\\pi\\int_0^\\infty\\psi(y)\\,\\frac{dy}{y}。 \\] 对于 $T\\ge2$、$1\\le U\\le T$ 和每个 $\\varepsilon>0$，我们证明 \\[ \\sum_{\\substack{u_j\\ {\\rm Even}\\\\T<\\theta\\le1$、$0<\\eta<\\theta/2$ 和每个 $\\varepsilon>0$，如果 $T^\\theta\\le U\\le T$，那么除了 \\[ $T<t_j\\le T+U$ 的偶数形式 O_{\\psi,\\theta,\\eta,\\varepsilon} \\!\\left(T^{1+2\\eta+\\varepsilon}\\right) \\] 满足 $\\mu_j(\\psi)=M(\\psi)+O(T^{-\\eta})$。特别是，在这个短光谱区间内，异常比例趋于零。"
     },
@@ -37728,7 +37728,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "Bowen--假想阿贝尔域的弗兰克群和负类群",
       "excerpt_zh": "$\\mathrm{Lei}$、$\\mathrm{M\\ddot{u}ller}$和$\\mathrm{Valli\\grave{e}res}$构造了一个有向图，其中相应的Bowen--Franks群的扭转部分与素数导体分圆数域的类群的负部分相关。我们将这个结果扩展到一般的虚阿贝尔场。"
     },
@@ -37757,7 +37757,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "角度 Hecke $L$ 函数的中心值不为零",
       "excerpt_zh": "在本文中，我们渐进地评估与第一类虚数二次数域上的角字符相关的 Hecke $L$ 函数族中心值的一阶矩和二阶矩。我们使用我们的结果来推断关于这些 $L$ 函数的非零结果。"
     },
@@ -37786,7 +37786,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "图拉普拉斯算子的度量维数和最大特征值重数",
       "excerpt_zh": "我们研究拉普拉斯矩阵和无符号拉普拉斯矩阵的度量维数和最大特征值重数之间的相等性。这些数量一般不订购。使用与孪生类相关的标准分解，我们将强制重数与商谱贡献分开。我们对完整的多元图和核心卫星图给出了完整的等式分类，并按顺序枚举了多元等式图。对于通过将至少两个叶子附加到连接核的每个顶点而形成的图，特征值$1$的度量维度和重数是已知的；我们证明了这两个矩阵的重数都是最大的，并且除了 $ P_3 $ 之外都是唯一最大的。我们将这个核心叶族枚举到同构，并通过阶数和度量维数得到统一的渐近公式，以及二次指数增长率$1/18$。对二阶到七阶连通图的精确普查确定了第一个分离示例和没有双胞胎的示例。最后，对于每个奇数 $ r \\in \\mathbb{Z}_{\\geq 3} $，我们研究 $ \\Theta_{2, 2, r} $ 并检测"
     },
@@ -37815,7 +37815,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "普雷尔伯格和斯坦顿的实证猜想",
       "excerpt_zh": "我们证明了 Prellberg 和 Stanton (2003) 的猜想，即 $\\frac{1-q}{(q^n;q)_m}\\genfrac{[}{]}{0pt}{}{n}{m}_{q}$ 对于 $0 <n$ 具有非负幂级数系数，除非 $n$ 为偶数且 $m\\in\\{2,n-2\\}$ 时除外。我们通过高斯系数的一阶差分来限制 M\\\"obius 校正，得到了一个多项式版本。证明使用了二元形式的划分以及二次和三次半不变量。这个界限的扩展证明了关于子空间标志的轨道多项式的正性的 Reiner--Stanton--White 猜想。"
     },
@@ -37844,7 +37844,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "顶点移除和点边支配",
       "excerpt_zh": "图 $G$ $ve$ 的顶点 $v$ - 支配与其闭邻域 $N_{G}[v]$ 中的顶点相交的每条边。如果 $G$ 的每条边都被集合中的某个顶点 $ve$ 支配，则顶点集是顶点边支配集（$ve$-支配集）。这样一个集合的最小基数是点边支配数 $\\gamma_{ve}(G)$，也称为隔离数。在本文中，我们研究了顶点移除对 $\\gamma_{ve}(G)$ 的影响，在 $\\gamma_{ve}(G-v)$ 上建立锐界，并表征移除后会减少、保留或增加 $\\gamma_{ve}(G)$ 的顶点。令$V^0(G)$和$V^+(G)$分别表示移除后保留和增加$\\gamma_{ve}(G)$的顶点集，并令$V_{\\mathrm{fix}}^0(G)$由$V^0(G)$中属于每个最小$ve$支配集的顶点组成。我们证明 \\[ |V^0(G)|\\geq3|V_{\\mathrm{fix}}^0(G)|+\\sum_{v\\in V^+(G)} \\bigl(\\gamma_{ve}(G-v)-\\gamma_{ve}(G)+1\\bigr)。 \\] 特别是，$|V^0(G)|\\geq 2|V^+(G)|$。我们还证明 $V_{\\mathrm{fix}}^0(G)$ 中的每个顶点都位于一个环上，并且 $V^0(T)\\neq\\emptyset$ 对于每棵树 $T$ 至少为三阶。"
     },
@@ -37873,7 +37873,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "高维中不同子集和的高斯下界",
       "excerpt_zh": "对于 $\\mathbb Z^k$ 中具有不同子集和的 $n$ 个非负整数向量序列，我们证明，对于固定 $k$，最大坐标的统一下界 $M\\ge (C_k-o(1))2^{n/k}/\\sqrt n$，其中 \\[ C_k=\\sqrt{\\frac{2k}{\\pi}}\\, \\frac{(k+1)^{(k-1)/(2k)}}{\\sqrt{\\lfloor (k+1)^2/4\\rfloor}}。 \\] 证明将高斯核期望与平移晶格上的总和进行比较，均匀地在向量序列上。我们使用顶点二阶矩证书优化生成的二次形式常数。我们表明 $C_k$ 也超过了通过优化椭圆体几何形状获得的方差常数。"
     },
@@ -37902,7 +37902,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "可分性是 NP 完全的",
       "excerpt_zh": "我们证明了决定单纯复形是否可分的问题在二维及更高维度上是 NP 完全的，回答了 Kleinschmidt 和 Onn 1995 年的问题。"
     },
@@ -37931,7 +37931,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "树格和诺伊曼-扎吉尔猜想",
       "excerpt_zh": "顶点上具有整数权重的树呈现出称为树格的积分格。我们证明，如果树格是正定的，则​​其中一个顶点元素是不可约的，即确定其 Voronoi 多面体的一个面。作为推论，我们解决了 Neumann 和 Zagier 1985 年的猜想：如果树格与欧几里德空间中的整数点格等距，那么树包含一个权重为 1 的顶点。"
     },
@@ -37960,7 +37960,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "随机相交图中的子图概率",
       "excerpt_zh": "自从 Karo'nski、Scheinerman 和 Singer-Cohen 在 90 年代提出以来，随机交集图引起了广泛的关注，这主要是由于它们的各种应用。在本文中，我们建立了给定小子图出现在随机交集图中的概率的一般结果。我们的定理适用于广泛的参数，包括以前在文献中未考虑过的制度。此外，它扩展了已知结果并将其置于更广泛的框架内，使该方法成为比较随机相交图模型中图的概率的便捷工具。为了证明我们的主要结果，我们开发了新的证明技术，据我们所知，这些技术以前尚未用于随机交叉图中的小子图的研究。还介绍了许多特殊情况和示例。"
     },
@@ -37989,7 +37989,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "随机相交图中子图计数的正态近似：派系的情况",
       "excerpt_zh": "令 $X^{(r)}_n$ 表示随机交集图模型中完整图 $K_r$ 在 $n$ 个顶点上的副本数。我们推导出 $X^{(r)}_n$ 的标准化版本与标准正态分布之间距离的上限，以 Kolmogorov 和 Wasserstein 度量进行测量。我们用渐近正态性的充分必要条件来补充这些结果。作为副产品，我们提供了 $X^{(r)}_n$ 方差的精确估计。在此过程中，我们开发了新的通用技术来分析所谓的派覆盖，这在随机相交图中子图概率的研究中发挥着至关重要的作用。"
     },
@@ -38018,7 +38018,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "平滑超椭圆曲线堆栈的积分$K_0$-环",
       "excerpt_zh": "我们计算在特征零域上亏格 $g\\ge2$ 的平滑超椭圆曲线的模堆栈 $\\mathscr H_g$ 的积分 $K_0$ 环。我们证明它是一个自由阿贝尔群，对于偶数$g$来说它是一个等级为$8g+2$的自由交换群，对于奇数$g$来说它是一个等级为$8g+4$的自由阿贝尔群。我们使用相关 $\\mu_{g+1}$-gerbe 的 $K_0$ 的同型分解，从 $\\mathscr H_g$ 的标准商表示中获得偶数和奇数 $g$ 的表示。因此，我们的技术不同于 Edidin--Fulghesu、Fulghesu--Viviani、Di Lorenzo 的 $CH^\\bullet(\\mathscr H_g)$ 计算，以及 Edidin--Hu 的 $K_0(\\mathscr M_2)$ 计算。利用 Pagani 对 $\\mathscr H_g$ 惯性堆栈的描述，我们应用 Riemann--Roch 将 $K_0(\\mathscr H_g)$ 的秩解释为惯性分量的数量。最后，我们通过伽马过滤比较 $\\mathscr H_g$ 的 $K_0$ 和 Chow 环，并对每个素数 $p$ 给出相关的分级环 $\\operatorname{gr}_{\\gamma}K_0(\\mathscr H_g)\\otimes\\mathbb F_p$ 的演示。"
     },
@@ -38047,7 +38047,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "诺维科夫型Landau--Ginzburg模型的Hodge理论",
       "excerpt_zh": "我们建立了Novikov型Landau-Ginzburg模型的强Hodge分解定理，即由一个非紧完备K\\\"ahler流形$(M,g)$和$M$上的非平凡闭全纯一型$\\theta$组成的三元组$(M,g,\\theta)$。在良好驯服条件下，假设$M$是Stein，我们证明了空间$M$ 上的 $L^{2}$-forms 允许正交分解到扭曲拉普拉斯 $\\Delta_{\\theta}$ 的调和形式空间以及扭曲 Dolbeault 算子 $\\bar\\partial+\\theta\\wedge$ 和 $\\bar\\partial^{\\dagger}+\\iota_{\\bar\\theta^{\\sharp}}$ 的图像，此外，调和空间集中在度上； $n=\\dim_{\\C}M$ 并且与 $\\theta$ 的 Milnor 环同构。作为应用，我们赋予超平面排列的补集一个完整的圆柱 K\\\"ahler 度量，并且我们表明具有非共振权重的主函数的微分对于该度量来说是很好的驯服。非正态交叉情况下传递到日志解析后；然后我们将结果应用到 Gaudin 模型的 Yang--Yang 泛函中，其临界点是"
     },
@@ -38076,7 +38076,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "Lawson 之外的二级 Chow 不变量--Massey Products",
       "excerpt_zh": "我们构建了无法从 Lawson-Massey 实现中恢复的二级 Chow 不变量。对于正亏格的每个平滑复射影曲线 $C$ 和每个 $n\\ge2$，显式立方定义系统在 $\\rm{CH}^{3}(C\\times P^{2},1)$ 中产生 $n$ 个不同的梅西值，完全不确定性为零，形成 $n$ 阶的循环群。尽管目标组非零，但所有相应的三元组都具有相同的形态类别和零形态、劳森和奇异梅西括号。这些值是通过 Weil 配对检测的。我们进一步在平滑射影簇上构造每个有限阶的次商类，在每个维度上至少有两个充足的规范束，并证明互素度的一般有限回撤保留了它们的精确阶。这些结构阻碍了积分和素局部动机形式，尽管相应的括号在对每个整数 $m\\ge2$ 取模后变成 $\\{0\\}$ 。所有规定值均为扭转值，合理化后消失。"
     },
@@ -38105,7 +38105,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "维罗内斯切线变种的泰拉西尼位点",
       "excerpt_zh": "射影簇的泰拉西尼轨迹告诉我们泰拉西尼引理将无法恢复相应割线簇维数的点集。我们研究了Veronese变种的切向变种的Terracini轨迹，对几种情况进行了分类，包括将切向变种的Terracini轨迹完整分类为有理正态曲线。我们还表明，许多泰拉西尼基因座仅涉及具有“内切线对”的集合，这些“内切线对”位于与底层维罗纳簇相同的切线空间上。最后，我们给出了代数统计的一些应用，表明维罗纳簇的密切簇是位置族局部混合的矩簇，并将泰拉西尼基因座与局部可识别性联系起来。"
     },
@@ -38134,7 +38134,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "klt Fano 品种的 Nef 复杂性：全谱和以下两个分类",
       "excerpt_zh": "令 $X$ 为复杂的 klt Fano 簇。我们研究有理总指数 $\\tau_X$ 和 nef 复杂度 $c_X=\\dim X+\\rho(X)-\\tau_X$。作者之前与 Enwright、Filipazzi、Gongyo、Moraga、Svaldi 和 Wang 的联合工作在一类特殊的广义对数卡拉比 - 丘对的更广泛的框架中建立了相应的非负性和零情况表征。这里我们在 Fano 设置中给出直接证明，证明不存在严格介于 0 和 1 之间的值，并对所有 $c_X<2$ 的 klt Fano 变种进行分类，而不假设 $\\mathbb Q$-阶乘。在复杂度为 1 的情况下，在分解射影空间因子后，剩下的因子是皮卡德一号的法向二次曲面、射影空间的线性放大或射影空间乘积中的积分 $(1,1)$ 超曲面。如果$1<2$，则仅出现两个加权投影族；特别是，没有平滑的 Fano 变体的复杂度严格介于 1 和 2 之间。我们还确定了允许尺寸变化时的光谱：\\[ \\{0\\}\\cup\\left\\{2-\\frac2q \\ \\middle| \\ q\\in\\mathbb Z_{\\geq2}\\right\\} \\cup(\\mathbb Q\\cap[2,\\infty))。 \\] 大多数样张"
     },
@@ -38163,7 +38163,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "晶格模量和剩余原子",
       "excerpt_zh": "我们研究了规则奇异连接的规定全纯晶格和量子$F$-丛的剩余因子。对于任意有序的单峰谱，我们对完全框架的局部群群进行分类：每个残差纤维是维度 $r(r-1)$ 的离散仿射空间，具有独特的范式和平凡的稳定器。然后我们分析晶格的基本变化。严格正的积分残差差阻碍定向壁；否则，在任意等级中，扩展范式弧形成相对维度$r(r-1)$的仿射torsor，并且对移位残差切片的特化是多项式的并且按根高度是三角形的。相邻壁表现出由类型 $A$ 根子群关系决定的复合根校正，而双数上的示例检测到幂零饱和缺陷。对于单分支$F$-束，标量分支从残差迹中恢复，并且标量残差产生与零分支$F$-束的对称幺半等价。这种结构产生残余原子、函子乔丹层以及与爆炸和 p 兼容的残余化学式"
     },
@@ -38192,7 +38192,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "$m=2$ 幅面体是正几何",
       "excerpt_zh": "幅面体是粒子物理学中具有根本重要性的半代数集。他们的发现开创了正几何领域。我们解决了该领域的一个中心猜想：我们证明 $m=2$ 振幅面体是正几何。我们主要的新工具是成为正几何的霍奇理论准则，将布朗杜邦的工作与阿卡尼哈米德拜林的原始设置联系起来。"
     },
@@ -38221,7 +38221,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "理性分析棱镜化",
       "excerpt_zh": "我们利用 $\\mathbb{Q}_p$ 上刚性解析几何中的 $\\mathbb{Q}_p$ 系数发展了解析棱镜化的一般理论。我们证明了完美解析棱镜化模 Frobenius 上的完美复形与任何光滑部分真刚性解析簇的相对 Fargues-Fontaine 曲线上的完美复形的等价性。特别是，我们解释了这种等价如何通过传递到（几何）Sen 理论中出现的局部解析向量来概念化反完成技术"
     },
@@ -38250,7 +38250,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "具有随机步长的大象随机游走的 Cram\\'{e}r 型中等偏差和精确大偏差",
       "excerpt_zh": "在本文中，我们重点研究随机步长的分布如何影响具有随机步长的大象随机游走的 Cram\\'{e}r 型中度偏差和精确大偏差。首先，在随机步长的次指数矩条件下，我们建立了Cram\\'{e}r型适度偏差结果。由此，得到了适度偏差原则。其次，对于具有次指数尾部的随机步长，我们建立了尾部概率的大偏差原理。最后，对于具有规则变化尾部的随机步长，我们获得了精确的大偏差。"
     },
@@ -38279,7 +38279,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "具有确定性平移的高斯矩阵的最小奇异值",
       "excerpt_zh": "令 $A$ 为确定性实方矩阵，$G$ 为标准高斯矩阵。我们根据 $A$ 的奇异值确定 $\\E\\smin(A+G)$，直到通用常数。该期望相当于 $(A+G)^{\\top}(A+G)$ 期望特征多项式的最小零的平方根。这解决了 Tikhomirov 的 ICM 2022 调查中的问题~3。我们还证明了预期特征多项式的零点主要由 $(A+G)^{\\top}(A+G)$ 的预期有序特征值决定。"
     },
@@ -38308,7 +38308,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "嵌套格子上的超临界分支随机游走",
       "excerpt_zh": "在 $d$ 维晶格上的超临界连续时间分支随机游走 (BRW) 的经典模型中，通常假设维度 $d$ 是固定的。当比较 BRW 中粒子群的指数增长率 $\\lambda_0$ 与跨不同维度晶格的单个分支源时，出现了一个问题：是否可以在 $d$ 维晶格上构造一系列随机游走，使得 $(d+1)$ 维晶格的模型在有意义的意义上“继承”$d$ 维晶格模型的属性。为了解决这个问题，本文引入了“嵌套格子上的随机游走”的概念，并使用“继承”条件研究了维度 $d$ 对粒子种群增长的影响。对于任意对称随机游走，证明了将平均粒子数的演化算子的​​正特征值表示为过程参数和维度 $d$ 的极限定理，即分支源强度 $\\beta \\to \\infty$。该定理表明，即使对于非常大的情况，尺寸的影响仍然存在。"
     },
@@ -38337,7 +38337,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "固定温度和高温下连续 $N$ 粒子系统的中心极限定理：单水平",
       "excerpt_zh": "我们在固定温度状态 $\\theta=\\beta/2>0$ 和高温状态 $N\\theta\\to\\gamma>0$ 上描述了 $\\mathbb R$ 上连续 $N$ 粒子系统的多项式线性统计的中心极限定理。在每种情况下，我们根据对数贝塞尔生成函数的系数给出必要和充分的条件，以及限制协方差的显式组合公式。在固定温度下，该公式恢复了经典的二阶自由矩-累积关系，最高可达因子$1/θ$；在高温下，它产生新的二阶自由 $\\gamma$-累积量及其协方差关系。该证明将通过 Dunkl 算子进行的矩提取与由曲面上的带状图索引的对数多元贝塞尔函数的拓扑展开相结合。这种展开给出了自由累积量的拓扑解释：只有零属在固定温度下有贡献，而任意高的属在高温下有贡献。作为应用，我们证明 $\\beta$ 加法在两种情况下都保留了 CLT，并确定了其限制"
     },
@@ -38367,7 +38367,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "随机动力学中的大偏差：哈密顿观点",
       "excerpt_zh": "这些讲义介绍了随机动力系统中的大偏差，改编自 Les Houches 学校 2024 年 7 月“大偏差：理论与应用”系列讲座。该讲座通过统一的方法发展了该理论：向后 Kolmogorov 方程的 WKB 分析，揭示了此处考虑的所有大偏差原理背后的哈密顿结构。我们系统地处理三种渐近机制。首先，随机微分方程的小噪声极限和马尔可夫跳跃过程的大体积极限，其中大偏差原理通过逐渐精细的波动表征从大数定律中出现。其次，长时间极限与小噪声相结合，产生了平衡和非平衡系统中亚稳态和转变率的准势形式。第三，有限噪声的长期限制，通过倾斜发生器连接到谱方法并能够减少多尺度系统。我们调查计算方法，包括最小动作方法、它们的几何变量"
     },
@@ -38396,7 +38396,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "窄楔初始数据KPZ方程的函数中心极限定理",
       "excerpt_zh": "在本文中，我们考虑具有窄楔形初始数据的 Kardar-Parisi-Zhang (KPZ) 方程。我们证明了解的空间平均值的功能中心极限定理，它解决了 Gu 和 Pu (2025) 的开放问题。我们的主要工具是来自 Malliavin 微积分的 Clark-Ocone 公式，并结合对解的增量的深入分析。主要步骤是归一化空间积分的时间增量的矩限制。为此，我们引入了一种新技术，称为变量的“共同射线”变化。利用解的 Malliavin 导数满足 Chapman-Kolmogorov 关系这一事实，我们将两次的核差异减少到一次公共时间的空间增量。"
     },
@@ -38425,7 +38425,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "从埃尔米特混沌到有吸引力的对数气体：迭代对数和尾常数的显式高阶极限",
       "excerpt_zh": "令$Z$ 为$m\\ge2$ 阶和Hurst 索引$H\\in(1/2,1)$ 的标准Hermite 过程。对于 $d2$，令 $Y$ 为加权积分 $\\int_0^1 x^{-d}\\,\\mathrm dZ(x)$ 的方差归一化版本。它的右尾满足 $ \\log\\Pr\\{Y>t\\}\\sim -\\frac12\\left(\\frac{t}{\\Lambda_m}\\right)^{2m}, t\\to\\infty, $ 其中正常数 $\\Lambda_m$ 允许无限维变分表示。相同的常数控制着长记忆高斯序列的非线性函数的加权和的迭代对数的锐律。有限阶的一般封闭式评估尚不清楚。当 $m\\to\\infty$ 固定 $H$ 和 $d$ 时，归一化常数 $\\sqrt{m!}\\,\\Lambda_m$ 减小为 $H$ 和 $d$ 的显式正函数，相对误差为 $O(m^{-1})$。该函数还给出了每个有限阶的归一化常数的下界。在高阶极限下，每个阶的精确 R\\'enyi 变分表示都会产生有吸引力的对数气体的熵-能量变分问题。极限自由能通过 Selberg 积分和 Barnes $G$ 函数进行评估。对于$d\\le0$，c"
     },
@@ -38454,7 +38454,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "使用泊松四阶矩定理和图论的混沌 CLT",
       "excerpt_zh": "在本文中，我们考虑 1 维中的抛物线安德森模型和双曲安德森模型，由时间无关的 L\\'evy 噪声驱动，该噪声要么是白色，要么是用可积着色内核 $\\kappa$ 着色的。使用 D\\\"obler、Vidotto 和 Cheng (2018) 提出的第四矩定理的泊松版本，我们证明解的空间积分满足中心极限定理。我们证明这个结果也适用于维度 $d=2$ 的双曲安德森模型，如果另外 $\\kappa$ 有界。为了估计空间积分在固定混沌上的投影的第四累积量，我们开发了一种使用图论的新技术，这使我们能够处理一些涉及修改收缩的复杂积分。"
     },
@@ -38483,7 +38483,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "随机噪声下的迭代拉夫连季耶夫正则化：变分源条件和期望速率",
       "excerpt_zh": "非线性单调不适定方程的迭代 Lavrentiev 正则化的收敛理论是确定性的：数据误差受到差异原理明确使用的已知水平的限制。在高斯噪声下，不存在这样的界限。对于泊松方程的离散二维非线性逆源问题，我们分析了有限能量高斯噪声模型的收敛性，将线性化和非线性情况分开。对于线性化迭代，噪声迭代和无噪声迭代的不同之处在于应用于噪声的一种解决方案；这给出了精确的奇异值方差公式、期望的先验率和主要结果：对于距离函数在网格中均匀有界的离散化族，速率由衰减控制，这放宽了经典范围条件。随着潜在的连续误差失去平滑度，并且平衡规则在不知道平滑度的情况下获得平滑度，速率会优雅地降低到对数。对于一阶源条件下的完全非线性迭代，截断差异原理仅馈送噪声水平达到"
     },
@@ -38512,7 +38512,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "非线性势单调病态问题迭代拉夫连季耶夫正则化的无噪声水平参数选择规则",
       "excerpt_zh": "我们考虑希尔伯特空间中的非线性病态算子方程 $F(x)=y$，其中 $F$ 与 Lipschitz 连续 Fr\\'echet 导数单调，该导数在解 $x^\\dg$ 附近自伴（局部 \\emph{潜在} 算子），并且只有具有未知噪声范数 $\\delta:=\\|y-y^\\delta\\|$ 的噪声数据 $y^\\delta$ 可用。对于非平稳迭代 Lavrentiev 正则化 \\[ x_{k+1}^\\delta=x_k^\\delta-\\bigl(F'(x_k^\\delta)+\\alpha_kI\\bigr)^{-1}\\bigl(F(x_k^\\delta)-y^\\delta+\\alpha_k(x_k^\\delta-x_0)\\bigr), \\] 所有经典停止规则都需要 $\\delta$。我们分析了回顾性类型的\\emph{无噪声水平}参数选择规则，在有限的计算窗口上选择$\\theta(k,y^\\delta)=\\|F(x_k^\\delta)-y^\\delta\\|^2/\\alpha_k^2$的最小化器$k_*$。在标准噪声条件下（考虑到巴库辛斯基否决权，这是必要的），规则是明确定义的，$\\alpha_{k_*}^2\\ge c\\,\\delta/\\|x_0-x^\\dg\\|$。此外，如果 $x_0-x^\\dg\\in\\R(F'(x^\\dg))$ 和 $k_*\\ge1$，我们用可计算证明 $\\|x_{k_*}^\\delta-x^\\dg\\|=O(\\sqrt{\\delta_*}+\\sqrt{\\delta})$ $\\delta_*=\\|F(x_{k_*}^\\delta)-y^\\delta\\|$ 满足 $\\kappa\\delta\\le\\delta_*\\le C"
     },
@@ -38541,7 +38541,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "Riesz 空间分数扩散方程的数据驱动加速多重网格方法",
       "excerpt_zh": "多重网格方法是求解大型结构化线性系统最有效的迭代方法之一，其效率源于平滑网格修正和粗网格修正之间的互补性。在本文中，我们考虑通过离散时间相关的 Riesz 空间分数扩散方程获得的块 Toeplitz 线性系统，并采用加权 Jacobi 迭代方法作为平滑器。加权雅可比平滑器具有结构简单、计算成本低的特点，但其平滑特性高度依赖于松弛参数。我们采用高斯过程回归来选择松弛参数来加速多重网格方法的收敛。数值实验验证了理论分析，同时验证了数据驱动参数选择策略的有效性和优越性。"
     },
@@ -38570,7 +38570,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "具有非局部压力的时间分数式多孔介质方程的保结构数值方案",
       "excerpt_zh": "在这项工作中，我们研究方程 \\begin{equation} \\partial_t^\\alpha u-\\nabla\\cdot\\left(u^{m-1}\\nabla(-\\Delta)^{-\\sigma}u\\right)=0, \\end{equation} 的数值近似，其中 $0<\\alpha<1$、$0<\\sigma<1$ 和 $m>1$。 Caputo 导数由 L1 公式离散化，而非线性非局部通量则由保守的迎风有限差分格式近似。我们在任意空间维度上建立了隐式格式的几个结构性质，包括离散最大原理、非负性、质量守恒、$\\ell^\\infty$ 和 $\\ell^2$ 稳定性、非负离散解的存在性以及离散能量耗散估计。我们的假设包括自然对称性、方向系数之和的符号条件以及离散权重的衰减。我们还推导出完整非线性空间算子的一致性估计。为了进行严格的收敛分析，我们将自己限制在一个空间维度，并引入与密度相关的累积变量。这将离散问题转换为涉及分数的方程的单调近似"
     },
@@ -38600,7 +38600,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "残差低，值错误：使用 PINN 学习 Hamilton-Jacobi-Isaacs 方程的粘度解",
       "excerpt_zh": "物理信息神经网络 (PINN) 和其他残差训练求解器通过采样的 PDE 残差的大小来判断候选解。对于一阶 Hamilton-Jacobi 方程，这还不够：相同的方程和边界数据几乎处处允许 Lipschitz 解与粘度解相差 $O(1)$，而仅在测度为零的集合上违反方程。我们研究残差最小化是否在固定范围的追击逃避游戏中选择这样的解决方案，该游戏的 Hamilton-Jacobi-Isaacs 值函数在圆 $S^1$ 和平坦环面 $\\mathbb{T}^{2}$ 和 $\\mathbb{T}^{4}$ 上以封闭形式已知。我们训练四个神经参数化，每个几何体上有 10 个种子，总共 120 次运行。具有周期性傅里叶特征的标准网络在所有 30 次运行中收敛到几乎所有地方的折叠解决方案：小的残差和预期的捕获层梯度，但在大多数域上的值都是错误的。通过损失施加周期性的网络可以在一维和二维中恢复粘度解，但在四维中变得不可靠。接收测地线的两个参数化"
     },
@@ -38629,7 +38629,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "变阶分数反应的自适应历史压缩的卷积求积--扩散方程",
       "excerpt_zh": "我们开发了一种半线性变阶分数反应的完全隐式快速方法——具有周期性分数扩散和指数跃迁 Scarpi 记忆的扩散方程。 Volterra 解析分析建立了描述弱初始奇点的局部适定性和时间规律性估计。后向欧拉卷积求积与傅里叶伪谱离散化相结合，实现了网格均匀稳定性和正时间一阶收敛。为了加速该方案，我们利用 Cauchy-FFT 权重恢复和自适应分块指数和压缩，这显着降低了局部误差控制下的历史评估成本。对数扰动界限量化了权重恢复、历史压缩和不精确非线性求解的影响，给出了保留收敛阶的容差条件。数值实验证实了一阶精度，并证明加速方法能够以显着降低的计算成本有效地解析长时间空间模式。"
     },
@@ -38659,7 +38659,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "一维孤子分布：增强型神经网络求解器和约束 Deep Ritz 方法",
       "excerpt_zh": "我们开发并比较了一维基态轮廓的增强型神经网络求解器，这些求解器是 $$ Q^{\\prime\\prime}=bQ-\\gamma Q^{p},\\quad Q>0,\\quad p>1, \\quad b, \\gamma >0, $$ 非线性 Schr\\\"odinger、广义 Korteweg-de Vries 和非线性 Klein-Gordon 方程的稳态轮廓方程的解。其显式sech 型解决方案作为误差计算和基准超参数选择的精确参考，通过 Gauss-Newton/Levenberg-Marquardt 和 L-BFGS 改进引入高阶优化，以及傅立叶特征 PINN 和约束 Deep Ritz (DR) 公式，我们改进了标准 Adam 训练的物理信息神经网络 (PINN) 基线。在 DR 方法中，我们引入了两种新的神经网络公式，它们实现了两种经典变分。表征：Nehari 约束的 Deep Ritz 方法，其中通过投影到 Nehari/Pokhozhaev 流形上来学习高度；以及 Weinstein Deep Ritz 方法，其中归一化轮廓最小化 Weinstein 商 Deep Ritz 公式总体表现最佳，特别是 Weinstein var。"
     },
@@ -38688,7 +38688,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "椭圆界面问题的迹逆估计和基于核的 Nitsche Galerkin 方法",
       "excerpt_zh": "我们对 Lipschitz 子域上独立生成的 Sobolev 核试验空间的乘积建立了迹逆估计，并使用它们来分析椭圆界面问题的对称 Nitsche Galerkin 方法。该估计通过子域梯度、界面跳跃和外部边界轨迹来控制单侧梯度轨迹。它们的共正规形式提供了尼采公式所需的通量控制，而不对试验空间施加值限制，包括具有内部夹杂物的配置。对于具有可比填充距离和固定核尺度的准均匀中心族，我们获得了足够大的罚参数的矫顽力和适定性，而与细化无关。我们证明了分段 $H^s$ 解 $2\\le s\\le m$ 阶数 $h^{s-1}$ 和 $h^s$ 的能量和 $L^2$ 误差界限，其中 $h$ 是最大填充距离，$m$ 是内核 Sobolev 阶数。 $L^2$ 界限还需要齐次伴随界面问题的分段 $H^2$ 正则性。对于缩放内核 $\\Phi_{m,\\varepsilon}$ 且 $0<\\varepsilon\\le1$，我们还导出了一个缩放显式条件numb"
     },
@@ -38717,7 +38717,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "超级有根据和最终的统治",
       "excerpt_zh": "我们证明，Borel 严格偏序是有充分根据的 Borel 偏序的递增并集，当且仅当它承认最终支配序的（内射）Borel 同态。"
     },
@@ -38746,7 +38746,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "有序变量字定理的一阶部分",
       "excerpt_zh": "有限字母表~$A$上的有序$\\omega$变量序列是扩展字母表$A \\sqcup \\{ x_0, x_1, \\dots \\}$上的无限序列，其中每个变量种类至少出现一次，并且$x_i$的最后一次出现在$x_{i+1}$第一次出现之前。有序变量词定理指出，对于有限字母表 ~$A$ 上单词的每个有限颜色，在 ~$A$ 上存在一个有序 $\\omega$ 变量序列 ~$W$，这样通过用字母替换变量并在第一个未定义变量之前切割而导出的每个单词都具有相同的颜色。在本文中，我们证明有序变量字定理相对于 $\\mathsf{RCA}_0 + \\mathsf{B}\\Sigma^0_2$ 是 $\\Pi^1_1$ 保守的。由此可见，Chubb、Hirst 和 McNicholl 提出的单例树定理相对于 $\\mathsf{RCA}_0 + \\mathsf{B}\\Sigma^0_2$ 是 $\\Pi^1_1$ 保守的，回答了一个长期悬而未决的问题。引理 3.13 由 Claude Opus 5.5 (Anthropic) 发现。"
     },
@@ -38775,7 +38775,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "可以有公平的社会福利秩序，但没有公平的投票制度",
       "excerpt_zh": "在代际公平的背景下，很自然地要求社会福利秩序具有有限匿名性和强帕累托效率的属性。这种社会福利秩序可以通过自然数集上的非主超过滤器来构建，并且已知这种超过滤器的存在等同于阿罗定理意义上的可数无限人口的公平投票系统的存在。不幸的是，这种社会福利秩序的多样性（我们称之为匿名帕累托）的存在意味着不可测量的实数集的存在。对于利塔克等人来说，这意味着此类社会福利秩序不允许在理论经济学中使用，因为它们本质上是非建设性的。作者试图对这一观点进行细微的阐述，证明匿名帕累托和其他社会福利秩序可以在自然数集上没有非主超过滤器的情况下存在。"
     },
@@ -38804,7 +38804,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "$\\boldsymbol{\\Sigma}^0_3$ 和弱法拉理想的封闭最大最终不同族",
       "excerpt_zh": "受封闭最大 $\\mathcal{I}$-最终不同 ($\\mathcal{I}$-MED) 族存在的启发，我们研究理想的统一组合属性。对于固定理想，如果可以通过单个 Borel 地图选择见证人，则属性是统一的。我们证明每个$\\boldsymbol{\\Sigma}^0_3$理想都是一致弱$P^+$。我们还证明了 Farah 和弱 Farah 理想的类别是一致的，回答了 Hru\\v{s}\\'ak 和 Meza-Alc\\'antara 的问题。然后我们证明每个弱法拉理想都是弱拉姆齐。作为一个应用，我们获得了$\\boldsymbol{\\Sigma}^0_3$理想和弱法拉理想的封闭$\\mathcal{I}$-MED族。"
     },
@@ -38833,7 +38833,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "单调完备性猜想的反例",
       "excerpt_zh": "将最近对准迹猜想的反例的修改与第一作者的模型理论还原相结合，我们展示了单调完备性猜想的反例。我们通过修改的构造和论证完全重现了对准迹猜想的反驳。"
     },
@@ -38862,7 +38862,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "来自 EAC 模 Schanuel 的 SEAC：简化为代数指数",
       "excerpt_zh": "我们考虑将 Zilber 伪幂猜想简化为指数代数封闭性的问题，假设是 Schanuel 猜想而不是 Zilber-Pink。概括曼托瓦的工作，我们证明，只要证明完美圆形簇与指数图的有限生成子群具有非稠密交集，其中指数存在于数域中。"
     },
@@ -38891,7 +38891,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "线性微分方程的线性公理化",
       "excerpt_zh": "本文提出了线性微分方程的公理化，该公理化对于具有紧凑初始条件和时间范围的拓扑开放性质是完整的，通过对线性实数算术公式的合理简化进行演绎证明。事实上，线性度得到了保留：线性微分不变量对于线性微分方程的开放性质来说是完整的，并且通过线性数量的李导数（每个原子）简化为线性实数算术。特别是，本文表明，微分动态逻辑 (dL) 的线性片段（标准一阶逻辑在实数上的模态扩展）满足这些完整性属性。通过在可判定的线性实数算术中建立完整性，避免了证明实数算术的复杂非线性公式的需要。此外，本文还对 dL 的非线性片段进行了推广，以实现可达性计算的实际认证，并通过机器可检查的证明来验证 dL 中外部计算的输出。"
     },
@@ -38920,7 +38920,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 75.6,
+      "discovery_score": 75.5,
       "title_zh": "计算贝塞尔零点及其应用",
       "excerpt_zh": "我们建立了 o 最小可定义性结果，并开发了适用于固定非负实参数的贝塞尔函数的零点的点计数机制。我们还给出了固定（复数）参数和指数函数的贝塞尔函数的 Ax-Schanuel 定理。我们将这些结合起来，证明代数簇上的点的稀疏性结果（弱 Manin-Mumford），这些点的坐标是固定（非负实数）参数的贝塞尔函数的零点。我们应用这个结果来改进由富格莱德猜想激发的单位球的谱集的密度结果。"
     },
@@ -38950,7 +38950,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "修复，而不仅仅是重新采样：Lean 4 中的有界编译器引导修复",
       "excerpt_zh": "自动定理证明器通常依赖于采样语言模型，但像 Lean 这样的证明助手会用精确的错误消息拒绝每个失败的步骤——纯采样会丢弃的信息。为了克服这个问题，我们引入了有界的在线步骤级修复模块。我们的搜索在每一步对 $K$ 候选策略进行采样，并最多修复 $R$ 次失败的策略。我们没有放弃失败的策略，而是将编译器的错误消息提供给预训练的修复模型，以修复单个被拒绝的步骤。这种方法提高了所有测试候选预算（$K \\in \\{1,3,5,8\\}$）中仅采样基线的解决率，实现了高达 $32\\%$ 的相对增益，并在 LeanDojo 基准的 $1{,}990$ 定理子集上解决了 $82$ 的额外定理。修复不是免费的：它用额外的运行时间来换取可到达的证明。但这种交易是可以预见的：当抽样受到限制时，维修费用最高；它的回报是预先加载的，第一次修复尝试捕获了总收益的 $84\\text{--}96\\%$ ；而且收益几乎完全来自浅层策略执行失败，而不是类型不匹配等结构性错误"
     },
@@ -38979,7 +38979,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "MAMath-Bench：多模态多智能体数学推理的过程感知和鲁棒评估",
       "excerpt_zh": "数学推理是大型语言模型 (LLM) 教育应用的一项基本能力，其中可靠的问题解决不仅需要正确的答案，还需要连贯且可验证的推理过程。通过利用多个 LLM 代理之间的协作和验证，多代理系统 (MAS) 在该领域显示出越来越大的潜力。然而，现有的评估主要关注纯文本环境中最终答案的正确性，对多模态推理能力、中间推理步骤的可靠性以及针对推理错误的鲁棒性的了解有限。为了解决这些限制，我们引入了 MAMath-Bench，这是一种流程感知基准，旨在评估 MAS 的多模态数学推理能力。 MAMath-Bench 包含 1,003 个问题，涵盖 11 个数学类别、多个难度级别和多种模式，包括文本、图像和音频。它具有细粒度的里程碑注释，可以从三个维度评估系统：问题解决的正确性、推理过程的可靠性以及对抗性推理的稳健性"
     },
@@ -39009,7 +39009,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "ReuF2F：针对形式化本科研究问题对编码代理进行基准测试",
       "excerpt_zh": "随着人工智能系统开始解决开放研究问题，可靠的验证变得越来越重要。形式数学为数学推理提供了一个值得信赖的框架，使代理能够在进行数学探索的同时产生机器可检查的证明。现有的正式数学基准通常侧重于已知结果或一小部分突出的开放问题，一旦发现并广泛传播解决方案，这些问题就很难可靠地评估。现有的评估协议也不总是与现代编码代理的操作方式保持一致。因此，我们引入了 ReuF2F，这是一个精益 4 基准，包含 244 个形式化的开放问题，这些问题取自本科生研究经验 (REU)，涵盖了广泛的数学子领域的入门级开放研究问题。我们预计这些不太突出的开放问题往往不会引起太多关注，并且可能在较长时间内未得到解决，因此更适合对精益中的端到端开放问题解决方案进行持续评估。我们采用标准的编码代理评估设置，将每个问题及其逻辑否定放入精益项目中"
     },
@@ -39038,7 +39038,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "PORA：当更多推理为 LLM 代理带来回报时学习",
       "excerpt_zh": "LLM 代理通过多个步骤执行任务，并根据反馈修改其操作。由于总推理预算通常是有限的并且必须支持未来的步骤，因此智能体必须在每次行动之前在短推理和长推理之间进行选择。较长的推理可以通过防止以后的错误来改善最终的任务结果，但它也会使用未来决策可能需要的预算能力。这带来了两个挑战：估计长推理的下游价值，并决定何时该价值值得使用剩余预算。我们提出了配对结果引导推理分配（PORA），它通过比较相同交互状态的短推理和长推理来学习这个决策。在训练期间，\\method{} 从每个选定的状态完成任务两次，一次使用短推理余量，一次使用长余量，并比较它们的最终质量和总处理量，以估计较长推理何时有价值。在推理过程中，控制器会根据剩余预算压力将此估计与已知价格进行权衡，并选择短期或长期推理，而不运行两种选择。我们评估 PORA acr"
     },
@@ -39068,7 +39068,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "EDMA：熵驱动的多模态应答",
       "excerpt_zh": "多模态问答 (MMQA) 基于集成异构数据源、选择性地利用相关模态并忽略干扰因素。基于多模态大型语言模型 (MLLM) 的现有方法通过将任务拆分为中间步骤来提高性能，但没有量化每种模态如何有助于达到最终答案。我们认为，量化每种模式对回答过程的影响可以提高过程的可追溯性和最终性能。因此，我们提出了熵驱动多模态应答（EDMA），它使用逻辑熵将多模态 QA 形式化为熵减少的迭代过程，并量化每种模态在区分正确与错误候选答案方面的贡献。这使得能够构建可量化的回答轨迹，其中每个步骤都与可测量的熵减少相关联。 EDMA 引入了 (i) 模态条件划分来估计单模态熵减少，(ii) 熵驱动的多模态融合来捕获跨模态的互补信息，以及 (iii) 基于熵的选择"
     },
@@ -39098,7 +39098,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "LSA-PAST：组合增量学习的特定层适应和原型传输",
       "excerpt_zh": "类增量学习 (CIL) 使模型能够随着时间的推移识别新的类，同时保留先验知识，但许多现实世界的问题是组合性的，其中视觉概念源自状态（即红色、闪亮）和对象（即鞋子、汽车）等基元的组合。标准 CIL 方法将每个组合视为一个独立的类，忽略共享基元，并且不提供在新组合到达时稳定其表示的机制。这会导致参数更新纠缠基元并引起漂移，从而降低早期合成的性能。组合式增量学习（composition-IL）通过跨任务引入新的状态-对象组合来形式化这种设置。在本文中，我们提出了带有原型锚定适配器空间传输的层特定自适应（LSA-PAST），这是一种针对组合 IL 定制的参数高效方法。 LSA 将低阶适应 (LoRA) 集成到冻结的 ViT 中，并具有针对状态、对象和组合的深度专用适配器。然后，PAST 通过无需排练的仿射变换拟合，将过去的锚定原型映射到当前的适配器空间中"
     },
@@ -39127,7 +39127,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "因果关系概率的统一锐界",
       "excerpt_zh": "因果关系概率（PoC）一直在稳步发展，从 Pearl 首次引入的二元测量到 Shu 等人最近研究的非二元设置。随着理论的成熟，PoC 已在越来越多的领域得到应用，包括个性化医疗、营销和法律归因。舒等人。提出了多值处理和结果的封闭式边界，并证明了它们的有效性，但保留了它们在高维度上的锐度。我们通过数学证明来缩小这一差距。我们进一步证明 $\\PNS$、$\\PSub$、$\\PRep$ 和 $\\PN$ 都是单个更通用公式的特殊情况。结合它们的等价类，这解决了来自实验和观察数据的离散 PoC 的锐界问题：在每个维度上，它们都由一个定理以封闭形式给出。"
     },
@@ -39156,7 +39156,7 @@
         }
       ],
       "first_seen_at": "2026-10-21T10:51:47.359577+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "要求蒸馏：学习合成数据以进行合规蒸馏",
       "excerpt_zh": "在策略蒸馏（OPD）只需很少的训练问题就可以取得成功，从而激发了将问题视为分布式知识转移载体的观点。我们如何评估新生成的问题对于蒸馏是否有价值，并学会生成更好的问题——而无需获得其正确答案？我们引入了 Ask-to-Distill（\\method），这是一个将综合问题视为分布诱导子的框架，并优化了它们沿着学生生成的轨迹暴露的教师监督。学生初始化的合成器使用问题值的分布代理进行优化，该问题值是根据冻结的学生-教师对计算出来的，没有参考答案、正确性奖励或每个候选学生的更新。奖励结合了教师与学生对学生候选人支持率的分歧以及教师概率质量，以及长度和多样性控制。生成的问题经过过滤和重复数据删除后，放入标准 OPD 的仅提示库中。在数学推理、代码生成和代理任务方面，我们的方法比非优化方法提高了平均性能和教师差距恢复"
     },
@@ -39185,7 +39185,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "多教师政策蒸馏（MOPD）将领域专家整合到共享学生中，但确定每位教师应监督的力度仍然具有挑战性。即使学生已经匹配或超过教师的任务表现，现有的基于差异的分配也可以分配强有力的监督，因为行为不匹配并不一定意味着剩余的能力缺陷。我们提出能力感知多教师按策略蒸馏（CA-MOPD），它将专家合并与能力引导分配相结合，以考虑学生已经学到的知识。 CA-MOPD 首先将强化学习专家合并到强大的学生初始化中，然后使用验证者估计的师生能力差距来调整领域级蒸馏强度。当能力差距缩小时，监督就会减少；而当估计的学生能力下降时，监督就会增加，而教师仍然提供密集的象征性指导。在涵盖数学、代码生成和指令遵循的六个基准测试中，CA-MOPD 的平均得分为 32.22，优于 naive MOPD、Open-MOPD、",
       "title_zh": "超越政策差异：能力意识多教师的政策蒸馏"
     },
@@ -39214,7 +39214,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "通过激活空间引导进行探索，以实现具有可验证奖励的强化学习",
       "excerpt_zh": "具有可验证奖励的强化学习 (RLVR) 通过对响应进行采样、使用自动验证器对其进行评分并根据所得奖励更新策略来训练语言模型。因此，该政策仅从其推出时出现的轨迹接收直接学习信号。然而，对同一政策的重复抽样可能会集中在类似的推理路径上，从而在固定的推出预算下留下未探索的有用替代方案。我们引入激活空间探索（ASE），这是一种用于多样化培训推出的在线方法。通过对同一问题的正确和错误响应之间的激活差异进行聚类，ASE 构建了潜在探索向量的结构化库。然后将不同的向量应用于后续的推出，以探索替代的推理路径。在 DAPO-Math-17k 上训练的 Qwen3-1.7B-Base 和 Qwen3-8B-Base 上，在相同的部署预算下，ASE 在六个数学推理基准上的平均 Mean@8 比 GRPO 分别提高了 4.87 和 1.87 个百分点。"
     },
@@ -39243,7 +39243,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "混合专家语言模型的重构优化专家剪枝",
       "excerpt_zh": "专家混合（MoE）模型通过稀疏专家激活减少计算量，但部署仍然需要存储大量专家参数。我们使用任务域校准数据作为子集选择问题来研究训练后专家剪枝：给定预训练的 MoE 层，选择固定数量的专家来最好地重建其原始输出。精确子集搜索是组合性的，对于每层有许多专家的现代 MoE 模型来说变得很棘手。我们开发了 OptEP，这是一种可扩展的连续松弛，可以直接优化可微分的专家选择变量，然后对保留的专家权重进行基于轻量级重建的更新。在涵盖数学推理和代码生成的多个 MoE 架构和任务中，我们的方法改进了现有最强的专家剪枝基线，Qwen3-30B-A3B 上的绝对准确度增益高达 15.05%，Qwen3-235B-A22B 上的绝对精度增益为 14.55%，GLM-4.5-Air 上的绝对精度增益为 11.06%，Mixtral-8x7B 上的绝对精度增益为 16.20%。这些改进在积极修剪下尤其明显，这表明重建驱动的专家选择和权重适应可以提高"
     },
@@ -39272,7 +39272,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "通过计算分离了解支架的好处",
       "excerpt_zh": "推理时间利用，即多次调用模型并在调用之间保持状态的外部过程，可以显着提高模型功能。在本文中，我们研究了使用此类安全带的好处以及这些好处可以通过培训内在化的程度。更准确地说，我们将线束 $\\mathcal{A}$ 概念化为基本模型 $M$ 的任意包装器，并尝试从线束的痕迹中提取学生模型。根据经验，我们发现，即使使用简单的支架和小型模型，推理时间工具的表现也明显优于经过精炼的学生。然后，我们证明这样的差距是由于基本的表示限制造成的：即使原语是一个微不足道的 $\\AC^0$ 查找，推理时间工具也可以计算其每次调用原语的闭包，该闭包是 $\\NL$ 完整的，并且在广泛相信的猜想 $\\NL\\not\\subseteq\\TC^0$ 下，没有固定深度的前向传递可以表示。我们的理论表明，扩大学生相对于手头任务的表征能力，例如，通过扩大模型、使任务更容易或延长其时间"
     },
@@ -39301,7 +39301,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "在策略学习是后训练的核心：对模型自己的代进行训练可以限制分布转移并有助于保留现有功能。然而，在难题上，当所有尝试都失败时，策略强化学习不会提供基于奖励的学习信号。策略蒸馏提供了来自老师的下一个令牌监督，但在困难问题上，如果部署过早出错，后续监督将以已经包含错误的前缀为条件。正确的行为可以来自黄金或教师解决方案，但这种偏离策略的目标可能与模型的世代有很大不同，并且正如我们所展示的，可能会侵蚀现有的能力。因此，我们将在政策性视为一个连续体，并提出计划蒸馏，将学生的失败尝试最小化为正确的目标。该方法使用对比更新来支持针对失败尝试的更正，并随着学生的发展刷新这些更正，即使所有学生尝试都失败，也能实现近策略学习。从理论上讲，我们证明学生的学习后悔随着编辑大小的增加而增加：它与地平线成线性比例并且",
       "title_zh": "预计蒸馏：学习从近距离、正确的目标解决难题"
     },
@@ -39330,7 +39330,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "当参数梯度在表示空间中流动时",
       "excerpt_zh": "参数化模型所表示的梯度流取决于可以保留隐藏参数信息的移动性。我们研究一个完整的表示的移动性地图何时适用于来自一个固定初始化的每个自主损失。对于比两个输出维度更宽的双因子矩阵表示，具有单独的全行秩因子，我们对所有可接受的联合秩进行分类：闭合精确地发生在有效标量平衡的最小联合秩或全联合秩的双值有符号谱族上。所有中级级别均被排除；正表示的流量属于已知的平方根族。对于具有恒定环境表示和梯度李秩的一般表示，普通闭包等效于分析情况和指定平滑机制中的局部不变级度量。端点部分迫使最初不受限制的移动性图在所表示的图像上接纳局部平滑的表示。我们还分离了测试族：线性损失在每次浸没时都局部承认闭合，而一个固定平移的强凸二次族在延迟括号示例中失败了"
     },
@@ -39359,7 +39359,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "SliMOO：LLM深度修剪的可解释多目标进化搜索",
       "excerpt_zh": "随着大型语言模型 (LLM) 变得越来越强大，其规模使得其服务成本高昂。深度修剪通过直接减少内存和延迟而无需特定于硬件的支持，提供了一种提高效率的实用途径。然而，我们观察到变压器层表现出明显不同的任务相关层贡献，而现有的深度修剪方法忽略了这种异质性，因此倾向于针对狭窄的域或基准进行优化，而不是保留广泛的功能。这表明LLM深度剪枝应该被表述为多目标优化问题而不是单分排名问题。我们提出了 SliMOO，一种用于 LLM 深度修剪的可解释的多目标进化搜索框架。 SliMOO 首先使用单层移除探测来构建任务层重要性图，该图提供了任务共享层和任务特定层的可解释视图，并用作搜索先验。然后，它对修剪掩模执行帕累托感知进化搜索，其中候选者在任务层先验的指导下生成，根据每个任务与密集模型的偏差进行评分，并保留"
     },
@@ -39388,7 +39388,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "在策略蒸馏 (OPD) 使用采样令牌学生-教师对数比来监督学生生成的响应。正对数比会惩罚学生比老师分配更高概率的标记，但其当前值无法区分持续的高惩罚和响应中的突然增加。我们通过比较同一响应中的连续令牌块来检查这些局部变化。我们的诊断发现了惩罚跳跃，平均惩罚的突然增加持续存在于持有的代币上。在这些跳跃过程中，处罚会增加，而教师的信心会下降。我们将这种模式称为惩罚-信心紧张。高惩罚块的边界没有表现出可比较的置信度变化，这表明局部变化提供了超出当前惩罚值的信息。受这一观察的启发，我们提出了自适应回拉 OPD (AP-OPD)。在每次检测到的跳跃时，AP-OPD 使用前一个块作为局部参考，并统一缩放后一个块中的所有监督系数，使其加权平均惩罚与前一个块的原始平均值相匹配。这个参考值决定了t",
       "title_zh": "自适应回调：在政策蒸馏中重新调整惩罚跳跃的监管权重"
     },
@@ -39417,7 +39417,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "WaveCommitments：私有且可验证的语音代理市场",
       "excerpt_zh": "现代语音系统正在演变成自主语音代理的生态系统，这些代理可以交互、协商和交易嵌入、频谱图或原始数据等资产。在这样的市场中，由于隐私限制，卖家无法透露资产进行评估，买家也无法对他们无法测试的东西进行定价。因此，我们引入了 WaveCommitments，这是一种端到端设计，通过可信执行环境中的 Data Shapley 将多元多项式承诺与机密资产评估结合起来。它可以实现选择性开放和防篡改出处，以证明交付的资产与估值相符，同时隐藏其他所有内容。我们使用最先进的编码器（包括 Whisper）对三个标准数据集和各种任务进行了广泛的实验，结果表明我们将最强的基线速度提高了 18.1 倍，同时将其证明大小减少了 43.2 倍。我们还分析了说话者的价值如何在任务和编码器之间变化，揭示代理级别的市场价格。"
     },
@@ -39446,7 +39446,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "现代语言模型越来越多地被要求在单个提示中处理多个任务。这样做需要正确解决每项任务，同时将所得答案整合为连贯的响应。在本文中，我们确定了这个过程中的一个基本限制，即模型在组合任务时会犯更多错误，即使它们可以独立可靠地解决每个组成任务。这种退化不能完全用独立误差的积累来解释。在开放权重模型和前沿模型 Claude Opus 5 中，我们的研究结果指出了这种效应背后的隐性思维预算。特别是，在组合下，模型在每个任务中使用的标记比单独使用的标记要少得多，即使完整序列保持在上下文窗口内也是如此。因此，需要更长的孤立解决方案跟踪的任务在组合下会更加$\\textit{fragile}$，即，模型在包含这些任务的提示上犯更多错误。孤立地看，非脆弱任务会接受超出其需要的推理，从而浪费计算资源。然而，通过根据任务的脆弱性对其进行分组，我",
       "title_zh": "关于组合任务的脆弱性：语言模型中的隐式预算"
     },
@@ -39476,7 +39476,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "关于论证图生成的LLM验证",
       "excerpt_zh": "多智能体法学硕士系统可以端到端地形式化自然语言论证，通过对组件进行分类，将它们与关系连接起来，并将生成的图丰富为正式模型，从而将纯文本转换为结构化图。这些图表的质量保证几乎总是由另一个法学硕士负责：审稿人、法官或批评代理人。另一方面，在相邻的神经符号场中，此类生成的输出通常由外部检查和求解器进行符号验证。在这项工作中，我们认为在参数图验证中，分配应该是相似的，并且基于每个工具可以保证的内容。我们提出分层验证：从确定性检查开始，转向基于求解器和法学硕士审查，并仅在不确定性下利用辩论，将人类的判断留给其他工具无法决定的事情。我们通过对带有注入结构缺陷的人工注释图的研究来奠定我们的原则。法学硕士审稿人以接近上限的召回率检测到它们，包括支持关系中的循环，但它反对几乎十分之一的正确图表，即使它不应该，碰巧在结论上不一致"
     },
@@ -39505,7 +39505,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "DStill：用于块扩散推测解码中加速一步起草的轨迹一致性蒸馏",
       "excerpt_zh": "块扩散推测解码通过并行起草多个标记来加速大型语言模型推理。然而，离散扩散中的一步起草受到令牌分解误差的限制：每个令牌都是从同一屏蔽块预测的，而不以该步骤中其他位置选择的令牌为条件。这可能会产生不一致的草稿并缩短验收时间。迭代细化通过对先前提交的令牌进行后续预测来缓解这一限制，尽管额外的传递会增加起草成本。为了解决草稿保真度和推理延迟之间的这种权衡，我们引入了 DStill，这是一种两阶段框架，可将目标条件起草者自己的多步骤细化提炼为一步起草。我们首先训练绘图员完成部分显示的块，然后使用其细化轨迹来训练学生一次性预测最终完成情况。通过使用从部分输入逐渐过渡到完全屏蔽输入的课程，我们成功地将多步细化能力转化为一步。跨推理、数学、代码基准测试"
     },
@@ -39534,7 +39534,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "TeCoP：通过暂定上下文流水线加速扩散大型语言模型解码",
       "excerpt_zh": "扩散大型语言模型 (dLLM) 在每次前向传递中预测多个标记位置，而块式解码器则序列化生成并重复重新计算稳定的预测。我们将这种低效率归因于将预测对不可逆转承诺的准备与其作为上下文的效用结合起来。我们引入了暂定上下文流水线（TeCoP），这是一种无需训练的解码器，它通过交错的块并行流水线以及草稿和验证来解耦这些角色。 TeCoP 重用稳定但未提交的预测作为临时跨块上下文，并由置信度和稳定性检查控制承诺。在 GSM8K、Minerva MATH 和 MBPP 上的四个 LLaDA 和 Dream dLLM 中，TeCoP 将前向评估数量减少了高达 87%，并且在没有 KV 缓存的情况下实现了高达 7.50 倍的吞吐量，在使用缓存的情况下实现了 11.77 倍的吞吐量。无论是否有缓存，它在所有 12 个模型基准设置中的吞吐量均优于 Fast-dLLM 和 DSB，同时将平均缓存精度保持在原始解码器的 1 个百分点以内。"
     },
@@ -39563,7 +39563,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "excerpt_zh": "大型语言模型（LLM）既展示了语言知识（例如语法判断能力），也展示了通过语言执行任务（例如解决数学单词问题）的能力。受人类大脑中神经解离的神经语言学研究的启发，在这项研究中，我们研究了它们在大语言模型（LLM）中的回路重叠。具体来说，我们使用机械可解释性领域的受控材料和电路发现方法，检查为语言和算术任务提取的电路之间的重叠和因果效应。我们对五个法学硕士的实验表明，电路相似性主要是通过任务领域（语言与算术）来解释的，而不是通过它们的输入和输出词汇或自然语言句子和算术表达式之间的句法相似性来解释的。这一发现表明法学硕士可以使用很大程度上独立的神经回路来处理语言和算术信息，突出了这些模型中基于能力的回路模块化组织。",
       "title_zh": "法学硕士的语言和算术回路是否分离？"
     },
@@ -39592,7 +39592,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "按政策过渡蒸馏",
       "excerpt_zh": "在策略蒸馏 (OPD) 通过在学生生成的部署上匹配教师和学生的最终层分布，将专家能力整合到单个学生中。我们研究深度预测转换（层之间预测的变化）是否可以提供额外的与任务相关的监督。我们的诊断研究发现，中间转换中更强的师生一致性与问题中更高的答案正确性相关，正确的答案在所有测量的中间层对中表现出较低的平均转换 KL。这些观察结果激发了策略转移蒸馏（OPTD），它通过在学生生成的推出上调整教师和学生的层间对数概率增量来增强最终层的分布匹配。对三个主干和八个基准（涵盖数学、编码和指令跟踪）的评估表明，OPTD 在双域和三域蒸馏中实现了最佳或并列最佳的整体性能。在三域设置中，与 OPTD 相比，OPTD 恢复了教师与学生整体能力差距的 $\\approx 90\\%$"
     },
@@ -39621,7 +39621,7 @@
         }
       ],
       "first_seen_at": "2026-10-22T02:51:56.312739+00:00",
-      "discovery_score": 81.6,
+      "discovery_score": 81.5,
       "title_zh": "Africa-Papers：非洲基金会语言模型的 100 亿代币多领域学术语料库",
       "excerpt_zh": "大型语言模型 (LLM) 从根本上取决于其预训练语料库的多样性、深度和事实严谨性。然而，当代基础预训练数据集（例如 The Pile、S2ORC 和 Dolma）表现出严重的结构性遗漏：非洲科学、医学、法律和农业奖学金仅占全球预训练代币的不到 0.5%。因此，在推理热带流行病学、局部小农农业生态、区域经济治理和本土语言结构时，最先进的模型会遭遇系统性失败模式。为了解决这种代表性不足并推进非洲在人工智能方面的知识主权，我们推出了 Africa-Papers，这是迄今为止最大的精心策划的多领域泛非学术预训练语料库。 Africa-Papers 包含超过 844,807 篇全文论文，涵盖 879 个 Parquet 分片中的 101.5 亿个代币，统一了四个主要科学流：(1) 31 个非洲国家的 DOAJ 索引的大陆同行评审期刊，(2) CGIAR CGSpace 农业知识库，(3) 非洲作者和以非洲为重点的 ST"
     },
@@ -45523,7 +45523,7 @@
       "content_type": "blog",
       "priority": 90,
       "recency_basis": "published",
-      "discovery_score": 93.0
+      "discovery_score": 92.9
     },
     {
       "id": "3722d2bd5bf45d4319a8",
@@ -48025,7 +48025,7 @@
         }
       ],
       "first_seen_at": "2026-10-19T03:16:30.769222+00:00",
-      "discovery_score": 87.8,
+      "discovery_score": 87.7,
       "title_zh": "四色定理获得罕见的新证明",
       "excerpt_zh": "通过重新审视这个著名的问题——这个问题在 20 世纪 70 年代借助计算机得到了有争议的解决——数学家们对图的本质获得了重要的新见解。 《四色定理获得罕见的新证明》一文首次出现在《Quanta》杂志上"
     },
