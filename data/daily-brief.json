@@ -1,8 +1,126 @@
 {
-  "generated_at": "2026-11-22T07:01:42.358374Z",
+  "generated_at": "2026-11-22T07:31:41.792137Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 7,
   "items": [
+    {
+      "story_id": "story_0ee0921e3289",
+      "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
+      "url": "https://www.producthunt.com/products/prompt-puncher",
+      "primary_url": "https://www.producthunt.com/products/prompt-puncher",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "653c29992eae3cd7ec74e060e21f9b2192f17fb6",
+          "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
+          "title_zh": "Prompt Puncher——AI CEO格斗游戏",
+          "title_en": "Prompt Puncher — The AI CEO Fighting Game",
+          "title_original": "Prompt Puncher — The AI CEO Fighting Game",
+          "summary": "The AI CEO Fighting Game",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prompt-puncher",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-17T18:29:56Z",
+          "updated_at": "2026-11-22T07:28:14Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a20f75abea8a4ba8b927d7a89f15219dfeff61c1",
+          "title": "Prompt Puncher",
+          "title_zh": null,
+          "title_en": "Prompt Puncher",
+          "title_original": "Prompt Puncher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prompt-puncher",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T03:14:59.384000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "653c29992eae3cd7ec74e060e21f9b2192f17fb6",
+          "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
+          "title_zh": "Prompt Puncher——AI CEO格斗游戏",
+          "title_en": "Prompt Puncher — The AI CEO Fighting Game",
+          "title_original": "Prompt Puncher — The AI CEO Fighting Game",
+          "summary": "The AI CEO Fighting Game",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prompt-puncher",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-17T18:29:56Z",
+          "updated_at": "2026-11-22T07:28:14Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a20f75abea8a4ba8b927d7a89f15219dfeff61c1",
+          "title": "Prompt Puncher",
+          "title_zh": null,
+          "title_en": "Prompt Puncher",
+          "title_original": "Prompt Puncher",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/prompt-puncher",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T03:14:59.384000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9992,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T03:14:59.384000Z",
+      "latest_at": "2026-11-22T07:28:14Z",
+      "primary_item": {
+        "id": "653c29992eae3cd7ec74e060e21f9b2192f17fb6",
+        "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
+        "title_zh": "Prompt Puncher——AI CEO格斗游戏",
+        "title_en": "Prompt Puncher — The AI CEO Fighting Game",
+        "title_original": "Prompt Puncher — The AI CEO Fighting Game",
+        "summary": "The AI CEO Fighting Game",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/prompt-puncher",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T07:40:28.295149Z"
+      }
+    },
     {
       "story_id": "story_14377b8ad49f",
       "title": "AI Context Flow MCP — 您控制的内存，同步到每个代理、工具和团队 / AI Context Flow MCP — Memory you control, synced to every agent, tool and team",
@@ -24,7 +142,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-09T14:46:21Z",
-          "updated_at": "2026-11-22T06:56:43Z",
+          "updated_at": "2026-11-22T07:27:41Z",
           "recency_basis": "updated_at"
         },
         {
@@ -63,7 +181,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-09T14:46:21Z",
-          "updated_at": "2026-11-22T06:56:43Z",
+          "updated_at": "2026-11-22T07:27:41Z",
           "recency_basis": "updated_at"
         },
         {
@@ -93,7 +211,7 @@
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9988,
+        "recency": 0.999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -101,7 +219,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-22T03:14:59.384000Z",
-      "latest_at": "2026-11-22T06:56:43Z",
+      "latest_at": "2026-11-22T07:27:41Z",
       "primary_item": {
         "id": "01e6968b4ddfaa57c7c3aefd035b2b2b174b5b24",
         "title": "AI Context Flow MCP — 您控制的内存，同步到每个代理、工具和团队 / AI Context Flow MCP — Memory you control, synced to every agent, tool and team",
@@ -118,164 +236,164 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T07:03:54.864964Z"
+        "scored_at": "2026-11-22T07:40:28.295149Z"
       }
     },
     {
-      "story_id": "story_0ee0921e3289",
-      "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
-      "url": "https://www.producthunt.com/products/prompt-puncher",
-      "primary_url": "https://www.producthunt.com/products/prompt-puncher",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_2f30e9bb3992",
+      "title": "推理提供商上的数据处理事件",
+      "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+      "primary_url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+      "source": "openrouter.ai",
+      "source_name": "Buzzing",
       "sources": [
         {
-          "id": "653c29992eae3cd7ec74e060e21f9b2192f17fb6",
-          "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
-          "title_zh": "Prompt Puncher——AI CEO格斗游戏",
-          "title_en": "Prompt Puncher — The AI CEO Fighting Game",
-          "title_original": "Prompt Puncher — The AI CEO Fighting Game",
-          "summary": "The AI CEO Fighting Game",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prompt-puncher",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-17T18:29:56Z",
-          "updated_at": "2026-11-22T06:36:35Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a20f75abea8a4ba8b927d7a89f15219dfeff61c1",
-          "title": "Prompt Puncher",
-          "title_zh": null,
-          "title_en": "Prompt Puncher",
-          "title_original": "Prompt Puncher",
+          "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
+          "title": "推理提供商上的数据处理事件",
+          "title_zh": "推理提供商上的数据处理事件",
+          "title_en": null,
+          "title_original": "推理提供商上的数据处理事件",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prompt-puncher",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T03:14:59.384000Z",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T07:28:01.316000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "fb229b787007403cac77c695759b6a0776a478f5",
+          "title": "推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers",
+          "title_zh": "推理提供商上的数据处理事件",
+          "title_en": "Data Processing Incidents on Inference Providers",
+          "title_original": "Data Processing Incidents on Inference Providers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:14:14Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Hacker News (黑客新闻)",
+        "openrouter.ai"
       ],
       "items": [
         {
-          "id": "653c29992eae3cd7ec74e060e21f9b2192f17fb6",
-          "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
-          "title_zh": "Prompt Puncher——AI CEO格斗游戏",
-          "title_en": "Prompt Puncher — The AI CEO Fighting Game",
-          "title_original": "Prompt Puncher — The AI CEO Fighting Game",
-          "summary": "The AI CEO Fighting Game",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prompt-puncher",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-17T18:29:56Z",
-          "updated_at": "2026-11-22T06:36:35Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a20f75abea8a4ba8b927d7a89f15219dfeff61c1",
-          "title": "Prompt Puncher",
-          "title_zh": null,
-          "title_en": "Prompt Puncher",
-          "title_original": "Prompt Puncher",
+          "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
+          "title": "推理提供商上的数据处理事件",
+          "title_zh": "推理提供商上的数据处理事件",
+          "title_en": null,
+          "title_original": "推理提供商上的数据处理事件",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prompt-puncher",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-22T03:14:59.384000Z",
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "openrouter.ai",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-22T07:28:01.316000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "fb229b787007403cac77c695759b6a0776a478f5",
+          "title": "推理提供商上的数据处理事件 / Data Processing Incidents on Inference Providers",
+          "title_zh": "推理提供商上的数据处理事件",
+          "title_en": "Data Processing Incidents on Inference Providers",
+          "title_original": "Data Processing Incidents on Inference Providers",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T02:14:14Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5931,
-      "importance": 0.5931,
-      "importance_score": 0.5931,
+      "score": 0.5456,
+      "importance": 0.5456,
+      "importance_score": 0.5456,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.994,
+        "recency": 0.9991,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T03:14:59.384000Z",
-      "latest_at": "2026-11-22T06:36:35Z",
+      "earliest_at": "2026-11-22T02:14:14Z",
+      "latest_at": "2026-11-22T07:28:01.316000Z",
       "primary_item": {
-        "id": "653c29992eae3cd7ec74e060e21f9b2192f17fb6",
-        "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
-        "title_zh": "Prompt Puncher——AI CEO格斗游戏",
-        "title_en": "Prompt Puncher — The AI CEO Fighting Game",
-        "title_original": "Prompt Puncher — The AI CEO Fighting Game",
-        "summary": "The AI CEO Fighting Game",
+        "id": "c43afa2cac89d34de03625b4d8a0dd6bb49be495",
+        "title": "推理提供商上的数据处理事件",
+        "title_zh": "推理提供商上的数据处理事件",
+        "title_en": null,
+        "title_original": "推理提供商上的数据处理事件",
+        "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/prompt-puncher",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
+        "url": "https://openrouter.ai/blog/announcements/data-processing-incidents-on-inference-providers",
+        "source": "openrouter.ai",
+        "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T07:03:54.864964Z"
+        "scored_at": "2026-11-22T07:40:28.295149Z"
       }
     },
     {
-      "story_id": "story_d49e1bb693bf",
-      "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
-      "primary_url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "story_id": "story_5bed5655c58f",
+      "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+      "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
+      "primary_url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
       "source": "Hacker News (黑客新闻)",
       "source_name": "Info Flow",
       "sources": [
         {
-          "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
-          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-          "title_zh": "Together.ai：请求提示泄漏",
-          "title_en": "Together.ai: Prompt Leakage for Requests",
-          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "id": "3d46f4fb636adbfe3c66ad525875aed463596d98",
+          "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+          "title_zh": "人工智能供应链安全：金丝雀代币发现了什么",
+          "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+          "title_original": "AI Supply Chain Security: What Canary Tokens Found",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-22T03:07:27Z",
+          "published_at": "2026-11-22T05:11:43Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "4dc9acb650da58d7063a0183aba561edb20d069c",
-          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-          "title_zh": "Together.ai：请求提示泄漏",
-          "title_en": "Together.ai: Prompt Leakage for Requests",
-          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "id": "cefa3207114b8c3cd735c7f8723bc844fceaaf61",
+          "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+          "title_zh": "人工智能供应链安全：金丝雀代币发现了什么",
+          "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+          "title_original": "AI Supply Chain Security: What Canary Tokens Found",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50595816",
+          "url": "https://news.ycombinator.com/item?id=50596511",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-22T03:07:27Z",
+          "published_at": "2026-11-22T05:11:43Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -287,66 +405,66 @@
       ],
       "items": [
         {
-          "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
-          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-          "title_zh": "Together.ai：请求提示泄漏",
-          "title_en": "Together.ai: Prompt Leakage for Requests",
-          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "id": "3d46f4fb636adbfe3c66ad525875aed463596d98",
+          "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+          "title_zh": "人工智能供应链安全：金丝雀代币发现了什么",
+          "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+          "title_original": "AI Supply Chain Security: What Canary Tokens Found",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
           "source": "Hacker News (黑客新闻)",
           "source_name": "Info Flow",
           "site_id": "iris",
-          "published_at": "2026-11-22T03:07:27Z",
+          "published_at": "2026-11-22T05:11:43Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "4dc9acb650da58d7063a0183aba561edb20d069c",
-          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-          "title_zh": "Together.ai：请求提示泄漏",
-          "title_en": "Together.ai: Prompt Leakage for Requests",
-          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "id": "cefa3207114b8c3cd735c7f8723bc844fceaaf61",
+          "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+          "title_zh": "人工智能供应链安全：金丝雀代币发现了什么",
+          "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+          "title_original": "AI Supply Chain Security: What Canary Tokens Found",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50595816",
+          "url": "https://news.ycombinator.com/item?id=50596511",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-22T03:07:27Z",
+          "published_at": "2026-11-22T05:11:43Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9452,
+        "recency": 0.9669,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-22T03:07:27Z",
-      "latest_at": "2026-11-22T03:07:27Z",
+      "earliest_at": "2026-11-22T05:11:43Z",
+      "latest_at": "2026-11-22T05:11:43Z",
       "primary_item": {
-        "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
-        "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
-        "title_zh": "Together.ai：请求提示泄漏",
-        "title_en": "Together.ai: Prompt Leakage for Requests",
-        "title_original": "Together.ai: Prompt Leakage for Requests",
+        "id": "3d46f4fb636adbfe3c66ad525875aed463596d98",
+        "title": "人工智能供应链安全：金丝雀代币发现了什么 / AI Supply Chain Security: What Canary Tokens Found",
+        "title_zh": "人工智能供应链安全：金丝雀代币发现了什么",
+        "title_en": "AI Supply Chain Security: What Canary Tokens Found",
+        "title_original": "AI Supply Chain Security: What Canary Tokens Found",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+        "url": "https://www.dragos.com/blog/ai-supply-chain-security-canary-tokens",
         "source": "Hacker News (黑客新闻)",
         "source_name": "Info Flow"
       },
@@ -354,7 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T07:03:54.864964Z"
+        "scored_at": "2026-11-22T07:40:28.295149Z"
       }
     },
     {
@@ -439,15 +557,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.945,
+        "recency": 0.9382,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -472,7 +590,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T07:03:54.864964Z"
+        "scored_at": "2026-11-22T07:40:28.295149Z"
+      }
+    },
+    {
+      "story_id": "story_d49e1bb693bf",
+      "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "primary_url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4dc9acb650da58d7063a0183aba561edb20d069c",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50595816",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4dc9acb650da58d7063a0183aba561edb20d069c",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50595816",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9384,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T03:07:27Z",
+      "latest_at": "2026-11-22T03:07:27Z",
+      "primary_item": {
+        "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
+        "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+        "title_zh": "Together.ai：请求提示泄漏",
+        "title_en": "Together.ai: Prompt Leakage for Requests",
+        "title_original": "Together.ai: Prompt Leakage for Requests",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T07:40:28.295149Z"
       }
     },
     {
@@ -557,15 +793,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
+      "score": 0.52,
+      "importance": 0.52,
+      "importance_score": 0.52,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8626,
+        "recency": 0.8564,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -590,7 +826,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T07:03:54.864964Z"
+        "scored_at": "2026-11-22T07:40:28.295149Z"
       }
     }
   ]
