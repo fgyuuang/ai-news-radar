@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-22T04:31:42.569943Z",
+  "generated_at": "2026-11-22T05:01:42.894122Z",
   "window_hours": 24,
-  "total_items": 5,
+  "total_items": 6,
   "items": [
     {
       "story_id": "story_14377b8ad49f",
@@ -24,7 +24,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-09T14:46:21Z",
-          "updated_at": "2026-11-22T04:34:31Z",
+          "updated_at": "2026-11-22T04:58:52Z",
           "recency_basis": "updated_at"
         },
         {
@@ -63,7 +63,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-09T14:46:21Z",
-          "updated_at": "2026-11-22T04:34:31Z",
+          "updated_at": "2026-11-22T04:58:52Z",
           "recency_basis": "updated_at"
         },
         {
@@ -85,15 +85,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9993,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -101,7 +101,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-22T03:14:59.384000Z",
-      "latest_at": "2026-11-22T04:34:31Z",
+      "latest_at": "2026-11-22T04:58:52Z",
       "primary_item": {
         "id": "01e6968b4ddfaa57c7c3aefd035b2b2b174b5b24",
         "title": "AI Context Flow MCP — 您控制的内存，同步到每个代理、工具和团队 / AI Context Flow MCP — Memory you control, synced to every agent, tool and team",
@@ -118,7 +118,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T04:36:43.515341Z"
+        "scored_at": "2026-11-22T05:12:20.332945Z"
       }
     },
     {
@@ -142,7 +142,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-17T18:29:56Z",
-          "updated_at": "2026-11-22T04:34:33Z",
+          "updated_at": "2026-11-22T04:55:24Z",
           "recency_basis": "updated_at"
         },
         {
@@ -181,7 +181,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-17T18:29:56Z",
-          "updated_at": "2026-11-22T04:34:33Z",
+          "updated_at": "2026-11-22T04:55:24Z",
           "recency_basis": "updated_at"
         },
         {
@@ -203,15 +203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9985,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -219,7 +219,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-22T03:14:59.384000Z",
-      "latest_at": "2026-11-22T04:34:33Z",
+      "latest_at": "2026-11-22T04:55:24Z",
       "primary_item": {
         "id": "653c29992eae3cd7ec74e060e21f9b2192f17fb6",
         "title": "Prompt Puncher——AI CEO格斗游戏 / Prompt Puncher — The AI CEO Fighting Game",
@@ -236,7 +236,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T04:36:43.515341Z"
+        "scored_at": "2026-11-22T05:12:20.332945Z"
+      }
+    },
+    {
+      "story_id": "story_d49e1bb693bf",
+      "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+      "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "primary_url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+      "source": "Hacker News (黑客新闻)",
+      "source_name": "Info Flow",
+      "sources": [
+        {
+          "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4dc9acb650da58d7063a0183aba561edb20d069c",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50595816",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4dc9acb650da58d7063a0183aba561edb20d069c",
+          "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+          "title_zh": "Together.ai：请求提示泄漏",
+          "title_en": "Together.ai: Prompt Leakage for Requests",
+          "title_original": "Together.ai: Prompt Leakage for Requests",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50595816",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-22T03:07:27Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9729,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-22T03:07:27Z",
+      "latest_at": "2026-11-22T03:07:27Z",
+      "primary_item": {
+        "id": "76129c86dbc39e2a88bc19ec193d0700d61ee1ad",
+        "title": "Together.ai：请求提示泄漏 / Together.ai: Prompt Leakage for Requests",
+        "title_zh": "Together.ai：请求提示泄漏",
+        "title_en": "Together.ai: Prompt Leakage for Requests",
+        "title_original": "Together.ai: Prompt Leakage for Requests",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.together.ai/blog/security-event-prompt-leakage-for-requests-in-june-and-july-of-2026",
+        "source": "Hacker News (黑客新闻)",
+        "source_name": "Info Flow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-22T05:12:20.332945Z"
       }
     },
     {
@@ -321,15 +439,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5421,
-      "importance": 0.5421,
-      "importance_score": 0.5421,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9797,
+        "recency": 0.9727,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -354,7 +472,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T04:36:43.515341Z"
+        "scored_at": "2026-11-22T05:12:20.332945Z"
       }
     },
     {
@@ -439,15 +557,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5099,
-      "importance": 0.5099,
-      "importance_score": 0.5099,
+      "score": 0.5089,
+      "importance": 0.5089,
+      "importance_score": 0.5089,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8006,
+        "recency": 0.7949,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -472,7 +590,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T04:36:43.515341Z"
+        "scored_at": "2026-11-22T05:12:20.332945Z"
       }
     },
     {
@@ -557,15 +675,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5268,
-      "importance": 0.5268,
-      "importance_score": 0.5268,
+      "score": 0.5256,
+      "importance": 0.5256,
+      "importance_score": 0.5256,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8943,
+        "recency": 0.8879,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -590,7 +708,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-22T04:36:43.515341Z"
+        "scored_at": "2026-11-22T05:12:20.332945Z"
       }
     }
   ]
