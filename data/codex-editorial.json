@@ -1,49 +1,36 @@
 {
   "schema_version": 1,
   "provider": "codex-cli",
-  "model": "codex-native-scheduled-task",
-  "generated_at": "2026-11-22T03:08:48.324496+00:00",
+  "model": "gpt-6-luna",
+  "generated_at": "2026-11-23T11:19:19.491214+00:00",
   "selected_keys": [
-    "23f893a0404fb7d5bc685bb0",
-    "0133a4dfb10308081f0d7312",
-    "8cfd9317e7cbfa64b715ebb0",
-    "2c1825b91d3f8e448aa1b739",
-    "9fc2d9d45caf0efc92526d01",
-    "8446c915cdad034d33ab5e1c",
-    "6a396355c558eaf9ccaa0c95",
-    "6ffbf72baf0a3dd146f8fd5e",
-    "aadb87909df679167d703daf",
-    "b97eb92b4ba548bd974ee4a7",
-    "676b93148514d1b86d231b37",
-    "1e093e46cd6190b644e0178b",
-    "a6075d30046b215bbde2b114",
-    "12060012a99fecd6f3325ff3",
-    "f25b3e65508c43c29458cfc1",
-    "1869f78b90c7d413100b94af",
-    "7634bf14cbbfe8aecad198a3",
-    "8eb5e24bfa4844f9cca4d5fd",
-    "a26180ce69b7302b200faa6c",
-    "aa605572fc16e22884257221",
-    "7ac5d5c4eeeb467259ba7704",
-    "1150d289f63877f38e99d0d0",
-    "d92ab4e79178c6e59799d6d0",
-    "6ecfe98e86dc44ba4b744a18",
-    "193b91cacf8077667d90686a",
-    "6225e78a640140940f8f1c1c",
-    "fe33270844f710fff7cf711d",
-    "c0e4974aed795cdd04fcad23",
-    "66d0c2b523424b342c13c61f",
-    "5a5df71810633691dbfdf96e",
-    "684f678e28dc70268f0e7e35",
-    "f45cea6f2cfb62fb13ecc0fa",
-    "dbdf78332f979ba96b048d99",
-    "38c727575b4a3586e3543beb",
-    "3e9aba16f8c4cb92cc9ed14f",
-    "e36c3660a1f9c7408310083d",
-    "6a943907dfb75539b94e4232",
-    "3d653fc6c9b882df3d8a3f09",
-    "1bfb03c486d1b00017daeea7",
-    "6c0b85110931eff545e68897"
+    "782d23f3db1f47360d3b557a",
+    "c35de75c79abd617fe8c9e1c",
+    "981e45d532c2d748b39786d8",
+    "262f01e61d105f81d370e525",
+    "ea36ad6d0680ec461aacea18",
+    "4a67e951ff40ad6ce8c05eb2",
+    "c12aeedc22b0f782022ae8f1",
+    "61d62f5c54231fc24357fa7d",
+    "4ee2cf9d4bd0d5d2e7298aae",
+    "17c071553563dc5efc5bac4c",
+    "297be4c75e30aa38bc4e1fa5",
+    "58ae0944c62495286f2ea9dc",
+    "2f6cd3447a139a578897b876",
+    "90b4c30b9c1f6b1a9ba63545",
+    "3cefdf878ca889e8bb3e34ac",
+    "4d369ad9ac50c11df1d2e3a4",
+    "0e9ecbf108cf45cc6d6b051b",
+    "43135e0db06f1236a757f935",
+    "6f66528d6dcb98e22280d4ec",
+    "68d94ada35c038e99bd7f216",
+    "97dc778d0bf137d9e666bb9f",
+    "78b934666c07f9f4e9a0fe3a",
+    "1d866a5afe8619f9fd6d28e9",
+    "bb7d140de6aa00cbb7d35bce",
+    "8f282a0fe2ee89f3273a4c6d",
+    "69ba2177c4dbf2646c3b38b0",
+    "76effb1753a7fc9f79c2b1c9"
   ],
   "entries": [
     {
@@ -5788,6 +5775,52 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-21T01:13:47.928149+00:00"
+    },
+    {
+      "url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2",
+      "domain": "project",
+      "source": "Hugging Face Datasets",
+      "source_title": "ccore/ThreeJS-3D-Scenes-v2",
+      "source_excerpt": "CCORE Three.js 3D Scenes v2 3,445 curated scene examples across 50 domains, including 1,431 voxel scenes, with scene prompts, curated reasoning traces, HTML/JavaScript responses and rendered references. ThreeJS-3D-Scenes-v2 extends ThreeJS-3D-Scenes with knowledge-oriented 3D scenes. The collection covers physical relationships, biological processes, ecological change, geography, history, technology, mathematics, everyday life and interactive systems. Examples range from… See the full description on the dataset page: https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2.",
+      "published_at": null,
+      "observed_at": "2026-11-23T05:05:02.769251Z",
+      "recency_basis": null,
+      "platform": "hf_datasets",
+      "topics": [
+        "ai",
+        "math",
+        "research"
+      ],
+      "license": "mit",
+      "gated": false,
+      "key": "1d866a5afe8619f9fd6d28e9",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/datasets/ccore/ThreeJS-3D-Scenes-v2/raw/main/README.md",
+      "title_zh": "CCORE Three.js 3D Scenes v2 数据集",
+      "summary_zh": "该数据集包含 3,445 个跨 50 个领域的 Three.js 场景样例，其中包括数学、计算、物理等主题；每条样例含场景提示、整理过的推理轨迹、HTML/JavaScript 响应及渲染参考图。数据集还提供训练与验证划分，以及单独的预览配置，面向 3D 场景生成和领域创意编程研究。",
+      "recommend_reason_zh": "它可用于研究数学与科学概念的可视化生成、训练或评估代码模型；文档描述了字段、划分和参考图对齐方式，适合先抽样检查数据质量与任务适配度。",
+      "pragmatic_score": 68,
+      "pragmatic_review": "可先从数学几何、概率或算法类别抽取少量样例，检查提示、代码、渲染图和验证集划分是否满足实验需求。",
+      "cynic_score": 58,
+      "cynic_review": "复杂度标签是数据集标注而非经过验证的能力等级，且场景可能是简化示意；逐帧验证动画和交互还需要额外工作。",
+      "paper_score": 56,
+      "paper_review": "数据卡描述了样本字段、划分策略和视觉审阅流程，但摘录未提供独立质量审计、基准结果或复现实验。",
+      "project_insight": {
+        "translation_zh": "CCORE Three.js 3D Scenes v2 是一个包含 3,445 个精心整理场景样例的数据集，覆盖 50 个领域，其中有 1,431 个体素风格场景。每个样例包含场景提示、整理过的推理轨迹、HTML/JavaScript 响应和渲染参考图。数据集扩展了原有 ThreeJS-3D-Scenes，增加面向知识内容的 3D 场景，主题涉及数学、地理、历史、技术、自然科学和日常生活等。",
+        "one_liner_zh": "为 3D 场景生成与创意编程研究提供带提示、代码目标、推理轨迹和渲染参考图的多领域数据集。",
+        "getting_started_zh": "先查阅数据卡中的许可、字段说明与训练/验证划分，再抽取少量数学或计算主题样例检查提示、HTML/JavaScript 响应和渲染图；运行生成代码前在隔离环境中检查内容，并保留提供的验证集用于评估。",
+        "limitations_zh": "该数据集标注为 MIT，但许可范围表述为仅覆盖发布者持有的权利。文档提示场景可能是低多边形、示意或简化模型，不应超出样例声明的假设解读；动画和交互可能需要多状态评估。数据卡描述了视觉审阅流程，但摘录没有给出独立审计或基准结果。",
+        "use_cases_zh": [
+          "研究模型能否将几何、概率或算法提示转成 Three.js 场景。",
+          "构建带渲染参考图的代码生成评测或小规模微调实验。",
+          "比较不同难度标注和领域下模型生成场景的可视化效果。"
+        ],
+        "recommendation_score": 72,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-23T11:18:18.056825+00:00"
     },
     {
       "url": "https://arxiv.org/abs/2610.30703",
@@ -17264,6 +17297,50 @@
       "generated_at": "2026-11-17T01:26:31.011031+00:00"
     },
     {
+      "url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini",
+      "domain": "project",
+      "source": "Hugging Face Models",
+      "source_title": "thinkingmachines/Inkling-2-Mini",
+      "source_excerpt": "transformers · safetensors · inkling2_loop · image-text-to-text · conversational · moe · license:apache-2.0 · endpoints_compatible · 8-bit · modelopt · region:us",
+      "published_at": null,
+      "observed_at": "2026-11-23T05:05:02.769251Z",
+      "recency_basis": null,
+      "platform": "hf_models",
+      "topics": [
+        "ai"
+      ],
+      "license": "apache-2.0",
+      "gated": false,
+      "key": "58ae0944c62495286f2ea9dc",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/thinkingmachines/Inkling-2-Mini/raw/main/README.md",
+      "title_zh": "Inkling 2 Mini：多模态模型",
+      "summary_zh": "Thinking Machines Lab 将 Inkling 2 Mini 描述为可接收文本和图像、输出文本的通用模型，面向对话、编程辅助、Agent 与工具调用等用途。模型卡称其有 26.4B 总参数、5.4B 每 token 有效激活参数，支持最长 1M token 上下文；这些是发布方提供的信息，摘录未包含独立评测过程。",
+      "recommend_reason_zh": "模型卡给出了架构、硬件门槛和多种推理框架，适合比较本地多模态模型部署成本，也可关注其长上下文和图像输入能力是否适合个人研究工作流。",
+      "pragmatic_score": 72,
+      "pragmatic_review": "若已有约 32GB 显存或 32GB 统一内存设备，可按模型卡列出的框架评估本地推理；否则可先了解 Tinker Playground 或 API 访问方式。",
+      "cynic_score": 62,
+      "cynic_review": "多语言、Agent 能力及评测表现来自厂商模型卡，且训练数据来源描述较宽泛，不能据此推定特定任务表现或数据覆盖质量。",
+      "paper_score": 58,
+      "paper_review": "材料提供了参数规模、架构和若干第三方索引分数，但未呈现论文、完整评测协议、原始结果或独立复现证据。",
+      "project_insight": {
+        "translation_zh": "Inkling 2 Mini 是一款通用多模态模型，可接收文本和图像输入并生成文本。它面向英语及其他语言和多种编程语言，适用于对话、指令遵循、视觉任务，以及开发 Agent、工具调用系统、编程助手、聊天机器人和检索增强生成应用。模型以开放权重发布，供研究、微调及第三方产品集成使用。",
+        "one_liner_zh": "一个采用循环式稀疏 MoE 架构、支持图像与文本输入及长上下文的多模态文本生成模型。",
+        "getting_started_zh": "先查看模型卡列出的硬件要求和推理框架，再选择已有设备支持的框架；也可先通过模型卡链接访问 Tinker Playground。准备本地运行时，确认约 20GB 检查点及模型卡建议的内存或显存余量，并先用小型样例检查输出。",
+        "limitations_zh": "模型卡建议 32GB 或以上统一内存或显存，并称检查点约 20GB；实际速度和兼容性取决于设备及框架。卡片列出的评测分数属于发布材料，摘录未提供完整协议或独立复现；训练数据说明较概括。权重标注 Apache 2.0，另有模型可接受使用政策。",
+        "use_cases_zh": [
+          "在本地尝试对论文图表、数学示意图或代码截图进行问答，再人工核对结果。",
+          "将其接入个人 Agent 原型，测试工具调用或长文档检索工作流。",
+          "比较不同推理框架在现有硬件上的运行表现和资源占用。"
+        ],
+        "recommendation_score": 68,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-23T11:18:18.056825+00:00"
+    },
+    {
       "url": "https://terrytao.wordpress.com/2026/10/17/some-of-my-recent-talks-and-interviews",
       "domain": "math",
       "source": "Terence Tao — What’s New",
@@ -20079,6 +20156,49 @@
       "generated_at": "2026-11-20T01:25:52.968802+00:00"
     },
     {
+      "url": "https://huggingface.co/spaces/Lakonik/pi-H3",
+      "domain": "project",
+      "source": "Hugging Face Spaces",
+      "source_title": "Lakonik/pi-H3",
+      "source_excerpt": "Minimax H3 Video in 2–4 Steps Without a VAE Decoder",
+      "published_at": null,
+      "observed_at": "2026-11-23T05:05:02.769251Z",
+      "recency_basis": null,
+      "platform": "hf_spaces",
+      "topics": [
+        "ai"
+      ],
+      "license": "other",
+      "gated": false,
+      "key": "68d94ada35c038e99bd7f216",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/spaces/Lakonik/pi-H3/raw/main/README.md",
+      "title_zh": "pi-H3：无需 VAE 解码器的 Minimax H3 少步视频生成演示",
+      "summary_zh": "这个 Hugging Face Space 展示一种 Minimax H3 视频生成方案，介绍称其结合 pi-Flow V2 少步生成和 DWD 直接像素预测，以避免视频 VAE 解码器。页面链接到相关论文《Decoding Without a Decoder: Direct Pixel Prediction from Diffusion Transformers》及项目页面，但摘录没有给出方法细节或实验结果。",
+      "recommend_reason_zh": "它为关注扩散 Transformer 视频解码和少步生成的读者提供了一个可追踪的演示与论文入口，适合进一步核对方法和实验，而非仅凭标题判断效果。",
+      "pragmatic_score": 46,
+      "pragmatic_review": "可先查看 Space 演示与链接论文，确认访问条件、输入要求和输出质量是否适合自己的视频生成实验。",
+      "cynic_score": 61,
+      "cynic_review": "“2–4 步”和“无需解码器”是项目描述中的主张，摘录没有提供速度、质量或成本的对照数据。",
+      "paper_score": 43,
+      "paper_review": "材料列出了论文题目、作者和 arXiv 链接，但未包含论文正文、实验设置、代码复现记录或独立验证。",
+      "project_insight": {
+        "translation_zh": "无需解码器的解码：来自扩散 Transformer 的直接像素预测。pi-H3 官方演示使用 pi-Flow V2 进行少步生成，并使用 DWD 直接预测像素，从而不经过视频 VAE 解码器。",
+        "one_liner_zh": "一个演示以少步生成和直接像素预测生成 Minimax H3 视频的 Hugging Face Space。",
+        "getting_started_zh": "先打开 Space 检查演示是否可访问，再阅读链接的项目页面和 arXiv 论文；如需复现，先核实 GitHub 代码、模型权重、依赖和硬件要求。",
+        "limitations_zh": "摘录没有说明演示的资源要求、运行限制或生成质量评测；“2–4 步”和无需 VAE 解码器是项目方描述。许可标为 other，并指向 Minimax H3 社区许可协议，使用前应查阅协议全文。",
+        "use_cases_zh": [
+          "观察直接像素预测在视频生成中的输出效果，并与 VAE 解码流程作初步比较。",
+          "阅读所链接论文，了解扩散 Transformer 解码器设计及其评测方式。"
+        ],
+        "recommendation_score": 48,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-23T11:18:18.056825+00:00"
+    },
+    {
       "url": "https://arxiv.org/abs/2611.22290",
       "domain": "math",
       "source": "arXiv · 数论",
@@ -20212,6 +20332,49 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-19T01:00:20.199109+00:00"
+    },
+    {
+      "url": "https://huggingface.co/facebook/sam3",
+      "domain": "project",
+      "source": "Hugging Face Models",
+      "source_title": "facebook/sam3",
+      "source_excerpt": "transformers · safetensors · sam3_video · feature-extraction · sam3 · mask-generation · en · license:other · eval-results · endpoints_compatible · deploy:azure · region:us",
+      "published_at": null,
+      "observed_at": "2026-11-23T05:05:02.769251Z",
+      "recency_basis": null,
+      "platform": "hf_models",
+      "topics": [
+        "ai"
+      ],
+      "license": "other",
+      "gated": "manual",
+      "key": "69ba2177c4dbf2646c3b38b0",
+      "context_kind": "article_text",
+      "title_zh": "SAM 3：面向图像与视频的可提示概念分割模型",
+      "summary_zh": "SAM 3 将图像和视频中的目标检测、分割与跟踪统一到可提示模型中，可使用文本短语或点、框、掩码等视觉提示。Meta 称其可穷尽分割开放词汇概念的所有实例，并在其 SA-CO 基准上达到人类表现的 75%–80%；该成绩是来源自述，材料没有提供独立验证信息。",
+      "recommend_reason_zh": "个人研究者可据此探索开放词汇图像分割、视频目标跟踪，以及将视觉提示接入数据标注或科研影像处理流程。",
+      "pragmatic_score": 72,
+      "pragmatic_review": "材料提供 Transformers 和原生接口的图像、视频调用示例，便于有 GPU 环境的用户评估其与现有视觉流程的适配性。",
+      "cynic_score": 49,
+      "cynic_review": "模型页面要求登录并同意信息共享条件后访问权重，许可标为 other；所谓大规模概念覆盖与接近人类的表现来自 Meta 自报。",
+      "paper_score": 51,
+      "paper_review": "材料给出接口示例和 SA-CO 基准的概述，但未附论文、基准协议、完整结果或独立复现证据。",
+      "project_insight": {
+        "translation_zh": "SAM 3 是用于图像和视频的统一基础模型，可根据文本或点、框、掩码等视觉提示检测、分割并跟踪对象。与前代 SAM 2 相比，来源称 SAM 3 新增了对短文本概念或示例进行提示、并穷尽分割所有匹配实例的能力。",
+        "one_liner_zh": "用文本或视觉提示在图像和视频中识别、分割并跟踪目标实例。",
+        "getting_started_zh": "先用模型卡提供的 Transformers 示例在一张小图上验证目标类别和掩码质量，再检查官方 sam3 仓库与运行环境要求；处理视频前，先抽取少量帧评估速度和跟踪稳定性。",
+        "limitations_zh": "这是模型而非软件项目。模型访问需登录并同意分享 Hugging Face 信息，许可标注为 other，需先核对具体使用条款；材料没有披露 SA-CO 的完整评测协议或独立验证结果。",
+        "use_cases_zh": [
+          "为个人照片或视频中的特定物体生成分割掩码并跟踪其运动。",
+          "辅助科研影像或实验视频中的目标筛选和半自动标注。",
+          "比较文本提示与框、点提示在开放词汇分割任务中的效果。"
+        ],
+        "recommendation_score": 64,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-23T11:19:19.491214+00:00"
     },
     {
       "url": "https://arxiv.org/abs/2610.26867",
@@ -21082,6 +21245,47 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-11-18T01:23:53.466031+00:00"
+    },
+    {
+      "url": "https://huggingface.co/Sentinel7/h3",
+      "domain": "project",
+      "source": "Hugging Face Models",
+      "source_title": "Sentinel7/h3",
+      "source_excerpt": "region:us · not-for-all-audiences",
+      "published_at": null,
+      "observed_at": "2026-11-23T05:05:02.769251Z",
+      "recency_basis": null,
+      "platform": "hf_models",
+      "topics": [
+        "ai"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "6f66528d6dcb98e22280d4ec",
+      "context_kind": "article_text",
+      "title_zh": "Sentinel7/h3 模型仓库",
+      "summary_zh": "现有资料只显示 Hugging Face 上的 Sentinel7/h3 仓库被标记为含敏感内容，可能包含有害或敏感信息，并标注为非全年龄内容。摘录没有提供模型用途、架构、许可或评测信息，因此无法据此判断其技术能力。",
+      "recommend_reason_zh": "当前可确认的主要信息是内容安全标记；若要评估是否与个人 AI 或科研用途相关，需要先查看完整模型卡和使用条件。",
+      "pragmatic_score": 12,
+      "pragmatic_review": "现有摘录没有提供可执行的使用说明或适用场景。",
+      "cynic_score": 83,
+      "cynic_review": "仓库已被标记为含敏感内容，且材料没有说明具体内容或适用限制，使用价值和风险都难以判断。",
+      "paper_score": 8,
+      "paper_review": "摘录未提供论文、代码说明、技术细节或评测证据。",
+      "project_insight": {
+        "translation_zh": "Sentinel7 / h3。该仓库被标记为非全年龄内容，并被提示包含敏感内容，可能含有潜在有害或敏感信息。",
+        "one_liner_zh": "资料不足以确定该模型仓库的能力或用途；目前只能确认平台的敏感内容标记。",
+        "getting_started_zh": "先阅读完整模型卡及仓库中的许可和使用说明，确认内容范围与访问条件后再决定是否加载或运行。",
+        "limitations_zh": "输入未给出模型卡正文、许可、架构、训练信息或评测结果；仓库有敏感内容标记，可能含潜在有害内容。",
+        "use_cases_zh": [
+          "在确认完整模型卡、内容范围和使用条件后，再判断是否适合研究或评估。"
+        ],
+        "recommendation_score": 8,
+        "recommendation_tier": "watch"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-23T11:18:18.056825+00:00"
     },
     {
       "url": "https://arxiv.org/abs/2610.24683",
@@ -22457,6 +22661,52 @@
       "generated_at": "2026-11-17T01:01:08.409395+00:00"
     },
     {
+      "url": "https://gitlab.com/therealseandonahoe/ijfw",
+      "domain": "project",
+      "source": "GitLab",
+      "source_title": "therealseandonahoe/ijfw",
+      "source_excerpt": "AI efficiency layer: shared memory, smart routing, cross-AI audits, disciplined workflow -- across 14 AI coding agents (Claude, Codex, Gemini, Cursor, Windsurf + 9 more). One install. No BS.",
+      "published_at": null,
+      "observed_at": "2026-11-23T05:05:02.769251Z",
+      "recency_basis": null,
+      "platform": "gitlab",
+      "topics": [
+        "ai",
+        "skills",
+        "agents"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "76effb1753a7fc9f79c2b1c9",
+      "context_kind": "repository_readme",
+      "context_url": "https://gitlab.com/api/v4/projects/therealseandonahoe%2Fijfw/repository/files/README.md/raw?ref=HEAD",
+      "title_zh": "IJFW：跨 AI 编程代理的共享记忆与工作流工具",
+      "summary_zh": "IJFW 是一个面向多种 AI 编程代理的效率工具，项目方称其提供本地共享记忆、任务路由、跨 AI 审查、发布前检查和会话用量仪表盘。README 还列出了 11 项 preflight 检查及安装、卸载和备份行为；跨 14 或 15 个代理的兼容范围、节省 token 和提升质量等说法来自项目方，材料没有独立验证。",
+      "recommend_reason_zh": "若日常在多个编程代理间切换，它的共享记忆、跨模型审查与发布门禁设计值得检查；README 对配置备份、隐私、本地存储和卸载流程也给出了较具体说明。",
+      "pragmatic_score": 73,
+      "pragmatic_review": "可从单一代理开始评估记忆召回和 preflight，再决定是否接入其他代理；安装前需确认 Node 18+ 和 Git 等前置条件。",
+      "cynic_score": 39,
+      "cynic_review": "README 用作者单机数据和“节省 95% token”等宣传性指标展示效果，但未见独立基准；声称支持的代理数量在摘录中也有 14 与 15 两种表述。",
+      "paper_score": 45,
+      "paper_review": "材料描述了 11 项检查门禁及安装流程，但未提供方法论文、独立测试报告或支持跨代理效果的可复现评测。",
+      "project_insight": {
+        "translation_zh": "IJFW（It Just F*cking Works!）旨在为多种 AI 编程代理提供共享记忆、智能路由、跨 AI 审查和规范化工作流。项目方称工具可在本机运行，并提供发布前检查、会话仪表盘和跨平台配置管理。",
+        "one_liner_zh": "把多个 AI 编程代理接入同一套本地记忆、审查和发布前检查工作流。",
+        "getting_started_zh": "先阅读 README 的前置条件、隐私与卸载说明，并检查安装脚本和配置备份逻辑；若决定尝试，可先在非关键开发环境中接入一个代理，确认文件变更、记忆存储位置与卸载路径后再扩大使用范围。",
+        "limitations_zh": "项目宣称覆盖多种代理且完全本地运行，但材料未提供独立验证；README 对支持数量有 14 和 15 两种说法。MIT 标注出现在徽章中，建议核对仓库 LICENSE 文件；安装会改动多个用户配置，项目称会先备份。",
+        "use_cases_zh": [
+          "在 Codex、Claude Code 等代理之间切换时保留项目背景和决策记录。",
+          "让多个模型交叉审查代码变更，再结合自己的检查流程判断是否采纳。",
+          "在发布前运行项目提供的静态检查、依赖审计和打包冒烟检查。"
+        ],
+        "recommendation_score": 62,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-23T11:19:19.491214+00:00"
+    },
+    {
       "url": "https://github.com/akitaonrails/ai-memory",
       "domain": "ai",
       "source": "GitHub Trending",
@@ -22779,6 +23029,51 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-10-20T02:28:02.526613+00:00"
+    },
+    {
+      "url": "https://github.com/kajisho5/ffmpeg-skill",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "kajisho5/ffmpeg-skill",
+      "source_excerpt": "Local video editor for coding agents: 42 FFmpeg tools with a machine-readable contract and an MCP server, for Claude Code, Cursor and Codex. Cut, captions, reframe, loudness, platform exports. No cloud, no API keys.",
+      "published_at": null,
+      "observed_at": "2026-11-23T05:05:02.769251Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "agents",
+        "plugins",
+        "skills"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "78b934666c07f9f4e9a0fe3a",
+      "context_kind": "article_text",
+      "title_zh": "ffmpeg-skill：供编码 Agent 使用的本地视频编辑工具集",
+      "summary_zh": "ffmpeg-skill 为 Claude Code、Cursor、Codex 及兼容 MCP 的 Agent 提供基于 FFmpeg 和 ffprobe 的视频、音频处理工具，覆盖剪切、字幕、画幅调整、响度处理和交付检查等任务。项目称其包含 42 个工具，其中 MCP 默认列出 12 个，并通过机器可读契约描述工具输入；工具会检查源文件与输出属性。",
+      "recommend_reason_zh": "它把多媒体处理拆成可调用、可检查的本地工具，适合想用 Agent 自动完成视频剪辑或音频整理的个人用户；项目还描述了输出复核页面和本地运行方式。",
+      "pragmatic_score": 81,
+      "pragmatic_review": "若已安装 FFmpeg 和 Python 3，可先用一份可替代的短视频尝试单项处理，并检查生成文件的时长、分辨率和音频参数。",
+      "cynic_score": 52,
+      "cynic_review": "项目展示了较多功能和示例，但效果仍取决于源素材及 Agent 生成的操作选择；批处理监视任务可能替换此前已交付且未变化的文件。",
+      "paper_score": 57,
+      "paper_review": "材料说明了工具契约生成方式、检查流程、演示和 CI 测试的覆盖版本，但没有提供独立审计或完整的测试结果；此仓库明确标注 MIT 许可。",
+      "project_insight": {
+        "translation_zh": "给编码 Agent 配备本地视频编辑器。Claude Code、Cursor、Codex 或其他 MCP 客户端可通过本地 FFmpeg 编辑素材并检查输出。项目提供 42 个本地 FFmpeg 工具，涉及剪辑、字幕、画幅调整、响度和平台导出等功能；无需云服务或 API 密钥。",
+        "one_liner_zh": "通过 Agent Skill 与 MCP 工具调用本地 FFmpeg，完成视频和音频编辑并检查输出文件。",
+        "getting_started_zh": "先确认系统可调用 FFmpeg、ffprobe 和 Python 3，再按仓库 Quick start 了解安装流程；从可替代的短片和单个工具开始，查看生成参数与复核页面。通过 MCP 接入前，确认客户端支持 MCP，并了解默认只列出核心工具的设置。",
+        "limitations_zh": "工具依赖本机 FFmpeg、ffprobe 和 Python 3；需要渲染 JavaScript 网页与本地浏览器无关。README 称云端并非本地编辑的必要条件，但单独的 Cloud 功能仍需网络访问。项目列出 MIT 许可；摘录未提供完整测试报告或独立复现证据。批处理监视任务可能替换此前已交付且未变化的文件，使用前应理解其覆盖规则。",
+        "use_cases_zh": [
+          "把讲座或课程视频剪成竖屏短片、加字幕并调整画幅。",
+          "批量检查并统一视频响度、分辨率或交付格式。",
+          "让本地 Agent 自动完成素材探测、编辑、渲染和结果复核。"
+        ],
+        "recommendation_score": 82,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-23T11:18:18.056825+00:00"
     },
     {
       "url": "https://xenaproject.wordpress.com/2026/10/16/how-to-formalize-all-of-mathematics",
@@ -26956,6 +27251,50 @@
       "generated_at": "2026-11-19T01:24:44.462646+00:00"
     },
     {
+      "url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF",
+      "domain": "project",
+      "source": "Hugging Face Models",
+      "source_title": "unsloth/Inkling-2-Mini-GGUF",
+      "source_excerpt": "gguf · conversational · image-text-to-text · moe · unsloth · base_model:thinkingmachines/Inkling-2-Mini · base_model:quantized:thinkingmachines/Inkling-2-Mini · license:apache-2.0 · endpoints_compatible · region:us · imatrix",
+      "published_at": null,
+      "observed_at": "2026-11-23T05:05:02.769251Z",
+      "recency_basis": null,
+      "platform": "hf_models",
+      "topics": [
+        "ai"
+      ],
+      "license": "apache-2.0",
+      "gated": false,
+      "key": "8f282a0fe2ee89f3273a4c6d",
+      "context_kind": "repository_readme",
+      "context_url": "https://huggingface.co/unsloth/Inkling-2-Mini-GGUF/raw/main/README.md",
+      "title_zh": "Inkling 2 Mini GGUF：面向本地推理的量化多模态模型",
+      "summary_zh": "该仓库提供 Thinking Machines Lab 的 Inkling 2 Mini 的 GGUF 量化版本；模型接受文本和图像输入并生成文本，模型卡称其为 26.2B 参数的稀疏 MoE 循环式 Transformer，支持最长 1M token 上下文。材料列出量化版本的文件体积与相对 UD-Q8_K_XL 的 KLD、同一 top token 比例，并称可用于编码、工具调用和视觉任务，但这些信息来自模型提供方的说明。",
+      "recommend_reason_zh": "对想在本地试用多模态模型或比较不同 GGUF 量化取舍的人有参考价值；模型卡还给出运行硬件建议和量化对照数据，可用于初步筛选版本。",
+      "pragmatic_score": 67,
+      "pragmatic_review": "适合已有约 32GB 内存或显存设备、熟悉本地推理工具的用户先从较小量化版本评估效果与资源占用。",
+      "cynic_score": 48,
+      "cynic_review": "约 20GB 的原始检查点和较高的建议内存门槛限制了普通个人设备的可用性，量化对照也只是提供方所报的 KLD 与 token 一致率。",
+      "paper_score": 43,
+      "paper_review": "材料含模型卡架构描述和量化表格，但没有论文、评测方法细节、完整基准结果或独立复现证据。",
+      "project_insight": {
+        "translation_zh": "这是 Unsloth 发布的 Inkling 2 Mini GGUF 量化模型仓库。基础模型是 Thinking Machines Lab 的 Inkling 2 Mini；模型卡称它是通用多模态模型，可输入文本和图像并生成文本，权重以 Apache 2.0 许可发布。",
+        "one_liner_zh": "提供适配本地推理流程的 Inkling 2 Mini GGUF 量化权重，供多模态文本生成与工具调用实验使用。",
+        "getting_started_zh": "先阅读 Unsloth 的 Inkling 2 Mini 运行指南，核对设备内存、所需运行时及该 GGUF 仓库的格式兼容说明；再选一个量化版本做小样本推理，并将结果与自己的任务需求比较。",
+        "limitations_zh": "这是模型权重而非软件项目。模型卡建议 Apple silicon 设备至少 32GB 内存，或其他平台约 32GB 显存，实际需求取决于量化版本和运行方式；评测与量化数据为提供方报告，材料未给出独立复现证据。",
+        "use_cases_zh": [
+          "在支持的本地设备上测试图像问答或视觉辅助编码。",
+          "比较不同 GGUF 量化版本的体积与模型卡所列 token 一致率。",
+          "搭建小型工具调用或检索增强生成原型。"
+        ],
+        "recommendation_score": 57,
+        "recommendation_tier": "watch"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-23T11:19:19.491214+00:00"
+    },
+    {
       "url": "https://arxiv.org/abs/2611.18356",
       "domain": "math",
       "source": "arXiv · 概率",
@@ -28872,6 +29211,50 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-11-17T01:26:31.011031+00:00"
+    },
+    {
+      "url": "https://github.com/firecrawl/firecrawl",
+      "domain": "project",
+      "source": "GitHub",
+      "source_title": "firecrawl/firecrawl",
+      "source_excerpt": "Knowledge infrastructure to make your agents smarter. Search, scrape and access 550+ data providers through one API.",
+      "published_at": null,
+      "observed_at": "2026-11-23T05:05:02.769251Z",
+      "recency_basis": null,
+      "platform": "github",
+      "topics": [
+        "agents"
+      ],
+      "license": null,
+      "gated": false,
+      "key": "97dc778d0bf137d9e666bb9f",
+      "context_kind": "repository_readme",
+      "context_url": "https://api.github.com/repos/firecrawl/firecrawl/readme",
+      "title_zh": "Firecrawl：网页采集与 Agent 知识接入工具",
+      "summary_zh": "Firecrawl 提供本地运行、云服务和自托管方案，将网页抓取、爬取与 URL 映射结果整理为适合大语言模型处理的内容，并可通过 MCP 接入 Agent。README 还描述了本地 API、搜索和云端数据服务，但其中覆盖率、延迟和免费额度等数字属于项目方陈述。",
+      "recommend_reason_zh": "对个人研究者而言，本地网页采集和 MCP 接口可用于收集公开文档、论文页面或项目资料；本地与云端功能边界也较清楚，便于按隐私和规模需求评估。",
+      "pragmatic_score": 78,
+      "pragmatic_review": "可先用 Firecrawl Local 抓取少量公开页面并检查 Markdown 输出，再决定是否需要 MCP 接入或云端搜索。",
+      "cynic_score": 65,
+      "cynic_review": "部分页面会回退到云端抓取，搜索和更大规模能力也依赖云服务；覆盖率、延迟与免费额度来自项目方介绍，实际结果可能随来源和使用条件变化。",
+      "paper_score": 24,
+      "paper_review": "摘录包含功能说明和性能宣传数字，但没有论文、系统评测协议或独立复现实验；仓库许可信息在本条材料中也未明确。",
+      "project_insight": {
+        "translation_zh": "Firecrawl 将自己描述为帮助 Agent 获取知识的基础设施。Firecrawl Local 可在本机抓取、爬取和映射网站，将网页转成 Markdown，并可作为 MCP 服务器或在本机提供 Firecrawl API；Firecrawl Cloud 提供托管服务、搜索及更多数据接入能力。",
+        "one_liner_zh": "把公开网页抓取、清理和 MCP 接入组合起来，供个人 Agent 获取网页内容。",
+        "getting_started_zh": "先按 README 选择 Firecrawl Local 或托管 CLI，对少量公开网页运行抓取并检查结果；再阅读本地 README 中关于浏览器、云端回退和 serve 安全默认值的说明。接入 MCP 前核对本机 Node.js 版本及目标 Agent 的配置方式。",
+        "limitations_zh": "网页需要 JavaScript 渲染时依赖本机 Chrome 或 Chromium；部分单页抓取默认可能回退到 Firecrawl Cloud，搜索也通过云端完成。README 称可设置 FIRECRAWL_CLOUD=off 限制云端调用。该摘录提及仓库有 LICENSE 文件，但没有给出许可证类型；云服务功能、限额及性能指标应以实际服务条款和运行结果为准。",
+        "use_cases_zh": [
+          "抓取公开论文页面、项目文档或技术博客，整理为 Markdown 供个人研究 Agent 检索。",
+          "用本地 MCP 工具让支持 MCP 的编码或研究助手读取指定网站。",
+          "为小型个人知识库采集网页，并对比本地抓取与云端回退结果。"
+        ],
+        "recommendation_score": 74,
+        "recommendation_tier": "try"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-23T11:18:18.056825+00:00"
     },
     {
       "url": "https://www.npmjs.com/package/@docmd/plugin-math",
@@ -34814,6 +35197,50 @@
       "provider": "codex-native",
       "model": "codex-native-scheduled-task",
       "generated_at": "2026-11-17T01:26:31.011031+00:00"
+    },
+    {
+      "url": "https://huggingface.co/datasets/bones-studio/seed",
+      "domain": "project",
+      "source": "Hugging Face Datasets",
+      "source_title": "bones-studio/seed",
+      "source_excerpt": "BONES-SEED: Skeletal Everyday Embodiment Dataset BONES-SEED is an open dataset of 142,220 annotated human motion animations for humanoid robotics. It provides motion capture data in SOMA and Unitree G1 formats, with natural language descriptions, temporal segmentation, and detailed skeletal metadata. Project website: bones.studio/datasets/seed Interactive viewer: seed-viewer.bones.studio Associated code: github.com/bones-studio/seed-viewer Total motions 142,220… See the full description on the dataset page: https://huggingface.co/datasets/bones-studio/seed.",
+      "published_at": null,
+      "observed_at": "2026-11-23T05:05:02.769251Z",
+      "recency_basis": null,
+      "platform": "hf_datasets",
+      "topics": [
+        "ai",
+        "research"
+      ],
+      "license": "other",
+      "gated": "auto",
+      "key": "bb7d140de6aa00cbb7d35bce",
+      "context_kind": "article_text",
+      "title_zh": "BONES-SEED：面向日常具身任务的人体骨骼动作数据集",
+      "summary_zh": "BONES-SEED 收录 142,220 段带标注的人体动作动画，提供 SOMA 与 Unitree G1 格式的动作数据，以及自然语言描述、时间分段和骨骼元数据。来源称其面向人形机器人全身控制、动作生成与检索、仿真迁移和模仿学习；这些是预期用途，材料没有提供相关任务的评测结果。",
+      "recommend_reason_zh": "适合研究人员了解大规模人体动作数据如何对接机器人骨架与语言标注；类别、格式和元数据说明也便于判断其是否适合自己的动作生成或控制实验。",
+      "pragmatic_score": 72,
+      "pragmatic_review": "用途、数据规模和输出格式交代具体，可先查看元数据与交互式浏览器，再判断是否需要下载完整动作包。",
+      "cynic_score": 56,
+      "cynic_review": "数据集文件需在 Hugging Face 登录并同意条件后访问，许可标注为 bones-seed-license；来源没有展开许可条款，也未说明动作标注质量如何评估。",
+      "paper_score": 57,
+      "paper_review": "材料给出数据规模、类别和文件结构，但未附论文、基准实验、标注一致性分析或可复现评测结果。",
+      "project_insight": {
+        "translation_zh": "BONES-SEED 是面向人形机器人的开放人体骨骼动作数据集，包含 142,220 段带标注的动作动画，提供 SOMA 和 Unitree G1 格式的动作捕捉数据、自然语言描述、时间分段及详细骨骼元数据。",
+        "one_liner_zh": "把大量人体动作及其语言描述和时间标注整理成可映射到 SOMA 人体骨架与 Unitree G1 机器人关节轨迹的数据集。",
+        "getting_started_zh": "先用项目交互式浏览器检查动作样例，并查看 Hugging Face 数据集卡与 LICENSE.md；若确认访问条件、许可和格式符合研究需求，再从元数据文件开始抽样分析。",
+        "limitations_zh": "这是数据集而非开源软件。文件访问要求登录并接受 Hugging Face 页面列出的条件，许可标为 bones-seed-license，具体许可条款需自行核对；当前材料未提供论文、数据质量评测或基准结果。",
+        "use_cases_zh": [
+          "为人形机器人模仿学习或全身控制实验筛选带语言描述的动作示例。",
+          "研究文本到动作生成、动作检索或动作时间分段。",
+          "在 MuJoCo 兼容的 G1 轨迹上探索仿真训练与迁移。"
+        ],
+        "recommendation_score": 66,
+        "recommendation_tier": "read"
+      },
+      "provider": "codex-cli",
+      "model": "gpt-6-luna",
+      "generated_at": "2026-11-23T11:19:19.491214+00:00"
     },
     {
       "url": "https://arxiv.org/abs/2610.33602",
