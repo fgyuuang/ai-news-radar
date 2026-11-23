@@ -1,8 +1,94 @@
 {
-  "generated_at": "2026-11-23T06:01:45.100388Z",
+  "generated_at": "2026-11-23T06:31:44.946154Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
+    {
+      "story_id": "story_084357c79a37",
+      "title": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+      "url": "https://www.aibase.com/news/32466",
+      "primary_url": "https://www.aibase.com/news/32466",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "820cb311f74914b99a456965ac53f8fcd2e6ee3e",
+          "title": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+          "title_zh": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+          "title_en": null,
+          "title_original": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32466",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T06:31:44.946154Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "820cb311f74914b99a456965ac53f8fcd2e6ee3e",
+          "title": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+          "title_zh": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+          "title_en": null,
+          "title_original": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32466",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-23T06:31:44.946154Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-23T06:31:44.946154Z",
+      "latest_at": "2026-11-23T06:31:44.946154Z",
+      "primary_item": {
+        "id": "820cb311f74914b99a456965ac53f8fcd2e6ee3e",
+        "title": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+        "title_zh": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+        "title_en": null,
+        "title_original": "一个 Slack 线程里的数学震动：OpenAI 想给 AI 开发装上限速器",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32466",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-23T06:41:47.087474Z"
+      }
+    },
     {
       "story_id": "story_7f9a2385a2b1",
       "title": "谷歌给 Gemini 补上 GIF 生成功能，Omni 1.2 Flash 掌勺、八国免费用户先用上",
@@ -52,15 +138,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -86,7 +172,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -138,15 +224,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -172,7 +258,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -224,15 +310,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -258,7 +344,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -310,15 +396,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -344,7 +430,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -396,15 +482,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -430,7 +516,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -482,15 +568,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -516,7 +602,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -568,15 +654,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -602,93 +688,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
-      }
-    },
-    {
-      "story_id": "story_3e837f71b5a3",
-      "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-      "url": "https://www.aibase.com/news/32451",
-      "primary_url": "https://www.aibase.com/news/32451",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
-          "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-          "title_zh": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-          "title_en": null,
-          "title_original": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32451",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T05:01:57.175669Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
-          "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-          "title_zh": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-          "title_en": null,
-          "title_original": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32451",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-23T05:01:57.175669Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-23T05:01:57.175669Z",
-      "latest_at": "2026-11-23T05:01:57.175669Z",
-      "primary_item": {
-        "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
-        "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-        "title_zh": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-        "title_en": null,
-        "title_original": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32451",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -806,15 +806,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5544,
-      "importance": 0.5544,
-      "importance_score": 0.5544,
+      "score": 0.5532,
+      "importance": 0.5532,
+      "importance_score": 0.5532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9086,
+        "recency": 0.9021,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -839,7 +839,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -957,15 +957,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5394,
-      "importance": 0.5394,
-      "importance_score": 0.5394,
+      "score": 0.5383,
+      "importance": 0.5383,
+      "importance_score": 0.5383,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8255,
+        "recency": 0.8195,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -990,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -1075,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9336,
+        "recency": 0.9269,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1108,7 +1108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -1193,15 +1193,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5325,
-      "importance": 0.5325,
-      "importance_score": 0.5325,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9263,
+        "recency": 0.9197,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1226,7 +1226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -1311,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5305,
-      "importance": 0.5305,
-      "importance_score": 0.5305,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9151,
+        "recency": 0.9085,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,7 +1344,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -1462,15 +1462,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5273,
-      "importance": 0.5273,
-      "importance_score": 0.5273,
+      "score": 0.5264,
+      "importance": 0.5264,
+      "importance_score": 0.5264,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7586,
+        "recency": 0.7531,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1495,26 +1495,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
-      "story_id": "story_ca8b236ff4c2",
-      "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-      "url": "https://www.aibase.com/news/32463",
-      "primary_url": "https://www.aibase.com/news/32463",
+      "story_id": "story_3e837f71b5a3",
+      "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+      "url": "https://www.aibase.com/news/32451",
+      "primary_url": "https://www.aibase.com/news/32451",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
-          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-          "title_zh": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
+          "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+          "title_zh": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
           "title_en": null,
-          "title_original": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "title_original": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32463",
+          "url": "https://www.aibase.com/news/32451",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1529,14 +1529,14 @@
       ],
       "items": [
         {
-          "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
-          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-          "title_zh": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
+          "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+          "title_zh": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
           "title_en": null,
-          "title_original": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "title_original": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32463",
+          "url": "https://www.aibase.com/news/32451",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1547,15 +1547,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1566,14 +1566,14 @@
       "earliest_at": "2026-11-23T05:01:57.175669Z",
       "latest_at": "2026-11-23T05:01:57.175669Z",
       "primary_item": {
-        "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
-        "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
-        "title_zh": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+        "id": "17b6cc5b5bc32ff22df528457556775f97f94ff3",
+        "title": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
+        "title_zh": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
         "title_en": null,
-        "title_original": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+        "title_original": "写代码从输入变输出：纳德拉承认 VS Code 半年内被改写地位",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32463",
+        "url": "https://www.aibase.com/news/32451",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1581,7 +1581,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -1666,15 +1666,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5179,
-      "importance": 0.5179,
-      "importance_score": 0.5179,
+      "score": 0.5168,
+      "importance": 0.5168,
+      "importance_score": 0.5168,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8448,
+        "recency": 0.8387,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1699,7 +1699,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -1784,15 +1784,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5005,
-      "importance": 0.5005,
-      "importance_score": 0.5005,
+      "score": 0.4995,
+      "importance": 0.4995,
+      "importance_score": 0.4995,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7483,
+        "recency": 0.7429,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1814,29 +1814,29 @@
         "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
-      "story_id": "story_3ad5ae20f0b5",
-      "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
-      "url": "https://www.aibase.com/news/32464",
-      "primary_url": "https://www.aibase.com/news/32464",
+      "story_id": "story_ca8b236ff4c2",
+      "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+      "url": "https://www.aibase.com/news/32463",
+      "primary_url": "https://www.aibase.com/news/32463",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
-          "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
-          "title_zh": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
+          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "title_zh": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
           "title_en": null,
-          "title_original": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "title_original": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32464",
+          "url": "https://www.aibase.com/news/32463",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1851,14 +1851,14 @@
       ],
       "items": [
         {
-          "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
-          "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
-          "title_zh": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
+          "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+          "title_zh": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
           "title_en": null,
-          "title_original": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "title_original": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32464",
+          "url": "https://www.aibase.com/news/32463",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1869,15 +1869,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1888,14 +1888,14 @@
       "earliest_at": "2026-11-23T05:01:57.175669Z",
       "latest_at": "2026-11-23T05:01:57.175669Z",
       "primary_item": {
-        "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
-        "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
-        "title_zh": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+        "id": "1d4030270c6b38ec291b10fbbc6a7cf42fa259d1",
+        "title": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
+        "title_zh": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
         "title_en": null,
-        "title_original": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+        "title_original": "只给一下午写代码，交 PPT 反而能拿奖：AI 黑客松正在变味",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32464",
+        "url": "https://www.aibase.com/news/32463",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1903,7 +1903,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
@@ -1988,15 +1988,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4993,
-      "importance": 0.4993,
-      "importance_score": 0.4993,
+      "score": 0.4983,
+      "importance": 0.4983,
+      "importance_score": 0.4983,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7414,
+        "recency": 0.7361,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2021,26 +2021,26 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     },
     {
-      "story_id": "story_090df2968dcb",
-      "title": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
-      "url": "https://www.aibase.com/news/32453",
-      "primary_url": "https://www.aibase.com/news/32453",
+      "story_id": "story_3ad5ae20f0b5",
+      "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+      "url": "https://www.aibase.com/news/32464",
+      "primary_url": "https://www.aibase.com/news/32464",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "17d3e3fef379f19a4ac1b7f0fceed04dc7e5cfeb",
-          "title": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
-          "title_zh": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
+          "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
+          "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "title_zh": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
           "title_en": null,
-          "title_original": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
+          "title_original": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32453",
+          "url": "https://www.aibase.com/news/32464",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -2055,14 +2055,14 @@
       ],
       "items": [
         {
-          "id": "17d3e3fef379f19a4ac1b7f0fceed04dc7e5cfeb",
-          "title": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
-          "title_zh": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
+          "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
+          "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+          "title_zh": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
           "title_en": null,
-          "title_original": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
+          "title_original": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32453",
+          "url": "https://www.aibase.com/news/32464",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -2073,15 +2073,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7638,
+      "importance": 0.7638,
+      "importance_score": 0.7638,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2092,14 +2092,14 @@
       "earliest_at": "2026-11-23T05:01:57.175669Z",
       "latest_at": "2026-11-23T05:01:57.175669Z",
       "primary_item": {
-        "id": "17d3e3fef379f19a4ac1b7f0fceed04dc7e5cfeb",
-        "title": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
-        "title_zh": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
+        "id": "c1f9cc5a43cdd607360e44a65b65459b9b59ac77",
+        "title": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
+        "title_zh": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
         "title_en": null,
-        "title_original": "宣传先行、功能迟到：苹果 2.5 亿美元和解 Siri 诉讼",
+        "title_original": "和 AI 视频通话问诊：蚂蚁阿福用户破 1.5 亿，还要往手上戴",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32453",
+        "url": "https://www.aibase.com/news/32464",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -2107,7 +2107,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-23T06:13:38.057436Z"
+        "scored_at": "2026-11-23T06:41:47.087474Z"
       }
     }
   ]
