@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-23T16:01:48.414169Z",
+  "generated_at": "2026-11-23T16:31:46.712263Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -18,11 +18,11 @@
       "provider": "OpenAI",
       "title": "Elevated errors with GPT-6 conversations on paid ChatGPT plans",
       "title_zh": "Elevated errors with GPT-6 conversations on paid ChatGPT plans",
-      "status": "identified",
+      "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-11-23T15:50:14Z",
-      "updated_at": "2026-11-23T15:58:23Z",
-      "message": "We’ve identified the issue causing intermittent errors in GPT-6 conversations on paid ChatGPT plans. We are working on implementing a mitigation.",
+      "updated_at": "2026-11-23T16:12:58Z",
+      "message": "We’ve applied a mitigation and are monitoring the affected services to confirm recovery.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M84HKHX73RF7HTVZQ2A9GFXP"
     }
