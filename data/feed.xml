@@ -5,7 +5,7 @@
 <link>https://fgyuuang.github.io/ai-news-radar</link>
 <description>24 小时 AI 更新雷达的策展精选：官方发布、模型上新、高信号讨论。</description>
 <language>zh-cn</language>
-<lastBuildDate>Tue, 24 Nov 2026 10:31:40 +0000</lastBuildDate>
+<lastBuildDate>Tue, 24 Nov 2026 15:31:41 +0000</lastBuildDate>
 <atom10:link xmlns:atom10="http://www.w3.org/2005/Atom" rel="self" type="application/rss+xml" href="https://fgyuuang.github.io/ai-news-radar/data/feed.xml"/>
 <item>
 <title>OpenAI and Cisco introduce Shirudo</title>
@@ -72,14 +72,6 @@
 <pubDate>Tue, 24 Nov 2026 10:31:40 +0000</pubDate>
 </item>
 <item>
-<title>代码覆盖率上传现在标记无效的报告格式 / Code coverage uploads now flag invalid report formats</title>
-<link>https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats</link>
-<guid isPermaLink="true">https://github.blog/changelog/2026-11-23-code-coverage-uploads-now-flag-invalid-report-formats</guid>
-<description>GitHub Changelog</description>
-<category>官方更新</category>
-<pubDate>Mon, 23 Nov 2026 15:28:36 +0000</pubDate>
-</item>
-<item>
 <title>百度开源文心 5.5 Flash Preview正式开源，用 MoE 架构重塑“大参数、小激活”的性价比标杆</title>
 <link>https://www.aibase.com/news/32502</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32502</guid>
@@ -128,12 +120,28 @@
 <pubDate>Tue, 24 Nov 2026 06:31:42 +0000</pubDate>
 </item>
 <item>
-<title>Othor AI — 您的情报主管。了解您的号码隐藏了什么 / Othor AI — Your Head of Intelligence. Know what your numbers are hiding</title>
-<link>https://www.producthunt.com/products/othor-ai</link>
-<guid isPermaLink="true">https://www.producthunt.com/products/othor-ai</guid>
-<description>Your Head of Intelligence. Know what your numbers are hiding（Product Hunt）</description>
+<title>Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it</title>
+<link>https://www.producthunt.com/products/claude-code</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/claude-code</guid>
+<description>Ship code as fast as you can write it（Product Hunt）</description>
 <category>值得关注</category>
-<pubDate>Tue, 24 Nov 2026 07:10:56 +0000</pubDate>
+<pubDate>Tue, 24 Nov 2026 15:32:13 +0000</pubDate>
+</item>
+<item>
+<title>Anthropic在盘前交易中跌破83美元的IPO发行价</title>
+<link>https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading</link>
+<guid isPermaLink="true">https://www.bloomberg.com/news/articles/2026-11-24/anthropic-breaks-below-83-ipo-price-in-premarket-trading</guid>
+<description>www.bloomberg.com</description>
+<category>多源热议</category>
+<pubDate>Tue, 24 Nov 2026 14:28:51 +0000</pubDate>
+</item>
+<item>
+<title>LLM 代理是为其母公司工作的，而不是为你工作的</title>
+<link>https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you</link>
+<guid isPermaLink="true">https://michaelharley.net/posts/2026/11/01/llm-agents-work-for-their-parent-companies-not-for-you</guid>
+<description>michaelharley.net</description>
+<category>多源热议</category>
+<pubDate>Tue, 24 Nov 2026 13:40:57 +0000</pubDate>
 </item>
 <item>
 <title>从“问答”到“办事”：豆包推出AI个人助理“小豆”，用对话式交互终结日常琐事焦虑</title>
@@ -144,28 +152,20 @@
 <pubDate>Tue, 24 Nov 2026 06:01:43 +0000</pubDate>
 </item>
 <item>
+<title>doola MCP — 通过您的 AI 助手启动并运营您的美国公司 / doola MCP — Start and run your US company from your AI assistant</title>
+<link>https://www.producthunt.com/products/doola-mcp</link>
+<guid isPermaLink="true">https://www.producthunt.com/products/doola-mcp</guid>
+<description>Start and run your US company from your AI assistant（Product Hunt）</description>
+<category>值得关注</category>
+<pubDate>Tue, 24 Nov 2026 15:31:12 +0000</pubDate>
+</item>
+<item>
 <title>告别“抽卡式”AI绘图！商汤开源SenseNova U1.6，首次赋予8B模型“原生图像自修正”能力</title>
 <link>https://www.aibase.com/news/32496</link>
 <guid isPermaLink="true">https://www.aibase.com/news/32496</guid>
 <description>AIbase</description>
 <category>行业动态</category>
 <pubDate>Tue, 24 Nov 2026 06:01:43 +0000</pubDate>
-</item>
-<item>
-<title>Mcpseal：在安装 MCP 服务器之前对它进行安全评级 / Mcpseal: Grade an MCP server for safety before you install it</title>
-<link>https://www.npmjs.com/package/@hashshabbir/mcp-pack</link>
-<guid isPermaLink="true">https://www.npmjs.com/package/@hashshabbir/mcp-pack</guid>
-<description>Hacker News (黑客新闻)</description>
-<category>值得关注</category>
-<pubDate>Tue, 24 Nov 2026 03:19:38 +0000</pubDate>
-</item>
-<item>
-<title>显示 HN：Juncts，一个 DM 收件箱，可容纳 Claude 和 ChatGPT 可以使用的 5 个应用程序 / Show HN: Juncts, one DM inbox for five apps that Claude and ChatGPT can work in</title>
-<link>https://news.ycombinator.com/item?id=50623175</link>
-<guid isPermaLink="true">https://news.ycombinator.com/item?id=50623175</guid>
-<description>hackernews</description>
-<category>值得关注</category>
-<pubDate>Tue, 24 Nov 2026 03:16:58 +0000</pubDate>
 </item>
 </channel>
 </rss>
