@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T13:01:43.319889Z",
+  "generated_at": "2026-11-25T13:31:43.041767Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -16,13 +16,13 @@
     {
       "id": "01M898HVZGXFV2XC4775CG9GF8",
       "provider": "OpenAI",
-      "title": "ChatGPT and Codex Cloud are experiencing elevated conversation errors",
-      "title_zh": "ChatGPT and Codex Cloud are experiencing elevated conversation errors",
-      "status": "identified",
+      "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors",
+      "title_zh": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors",
+      "status": "monitoring",
       "impact": "minor",
       "started_at": "2026-11-25T11:48:13Z",
-      "updated_at": "2026-11-25T12:14:44Z",
-      "message": "We have identified that users are experiencing elevated errors for ChatGPT and ChatGPT Work, as well as cloud Codex threads. We have identified the issue and are working on implementing a mitigation.",
+      "updated_at": "2026-11-25T13:22:34Z",
+      "message": "We have applied mitigations and are seeing recovery across ChatGPT, ChatGPT Work, and Codex cloud threads. We are monitoring the affected services to ensure continued stability. Our investigation into the underlying cause remains ongoing.",
       "affected_components": [],
       "url": "https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8"
     }
