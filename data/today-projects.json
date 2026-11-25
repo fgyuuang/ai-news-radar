@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T04:33:27.282017Z",
+  "generated_at": "2026-11-25T05:03:43.078414Z",
   "date": "2026-11-25",
   "total_items": 4,
   "items": [
@@ -15,7 +15,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-25T04:31:41.429787Z"
+      "observed_at": "2026-11-25T05:01:41.260689Z"
     },
     {
       "id": "project_d9574cf0f585",
@@ -29,7 +29,7 @@
       "published_at": "2026-11-24T03:08:21Z",
       "updated_at": "2026-11-25T03:07:26Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-25T04:33:19.392247Z"
+      "observed_at": "2026-11-25T05:03:34.878543Z"
     },
     {
       "id": "project_1555ed6bcb12",
@@ -43,7 +43,7 @@
       "published_at": null,
       "updated_at": null,
       "recency_basis": null,
-      "observed_at": "2026-11-25T04:31:41.429787Z"
+      "observed_at": "2026-11-25T05:01:41.260689Z"
     },
     {
       "id": "project_c3c9dd521f50",
@@ -57,7 +57,7 @@
       "published_at": "2026-11-23T21:22:27Z",
       "updated_at": "2026-11-25T04:20:36Z",
       "recency_basis": "updated_at",
-      "observed_at": "2026-11-25T04:33:19.392247Z"
+      "observed_at": "2026-11-25T05:03:34.878543Z"
     }
   ],
   "sources": [
@@ -66,7 +66,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 484,
+      "duration_ms": 1999,
       "error": null
     },
     {
@@ -74,7 +74,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 301,
+      "duration_ms": 281,
       "error": null
     }
   ]
