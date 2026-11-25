@@ -1,16 +1,30 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T11:31:41.681395Z",
+  "generated_at": "2026-11-25T12:01:41.824532Z",
   "ok": true,
-  "active_count": 0,
+  "active_count": 1,
   "providers": [
     {
       "id": "openai",
       "name": "OpenAI",
       "status_url": "https://status.openai.com/",
       "ok": true,
-      "active_count": 0
+      "active_count": 1
     }
   ],
-  "incidents": []
+  "incidents": [
+    {
+      "id": "01M898HVZGXFV2XC4775CG9GF8",
+      "provider": "OpenAI",
+      "title": "ChatGPT is experiencing elevated conversation errors affecting Education, Team, Business, Pro, and Plus plans",
+      "title_zh": "ChatGPT is experiencing elevated conversation errors affecting Education, Team, Business, Pro, and Plus plans",
+      "status": "identified",
+      "impact": "minor",
+      "started_at": "2026-11-25T11:48:13Z",
+      "updated_at": "2026-11-25T11:56:25Z",
+      "message": "We have identified that users are experiencing elevated errors for the impacted services. We are working on implementing a mitigation.",
+      "affected_components": [],
+      "url": "https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8"
+    }
+  ]
 }
