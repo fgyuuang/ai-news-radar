@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-25T12:31:42.587767Z",
+  "generated_at": "2026-11-25T13:01:43.319889Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8545,
-      "importance": 0.8545,
-      "importance_score": 0.8545,
+      "score": 0.8532,
+      "importance": 0.8532,
+      "importance_score": 0.8532,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.9693,
+        "recency": 0.9623,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,128 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
-      }
-    },
-    {
-      "story_id": "story_94d1586a7d4f",
-      "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-      "source": "OpenAI News",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T13:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_en": null,
-          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T23:32:43.781000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "OpenAI News",
-        "openai.com"
-      ],
-      "items": [
-        {
-          "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "OpenAI News",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-24T13:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
-          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "title_en": null,
-          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-          "source": "openai.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-24T23:32:43.781000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.8331,
-      "importance": 0.8331,
-      "importance_score": 0.8331,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7119,
-        "story_heat": 0.25
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "multi_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-24T13:00:00Z",
-      "latest_at": "2026-11-24T23:32:43.781000Z",
-      "primary_item": {
-        "id": "7043964a27bd9665773c1658acb9f5dd6e8636cb",
-        "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
-        "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
-        "source": "OpenAI News",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -260,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8058,
-      "importance": 0.8058,
-      "importance_score": 0.8058,
+      "score": 0.8049,
+      "importance": 0.8049,
+      "importance_score": 0.8049,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.7435,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -295,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -347,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7991,
-      "importance": 0.7991,
-      "importance_score": 0.7991,
+      "score": 0.7982,
+      "importance": 0.7982,
+      "importance_score": 0.7982,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7508,
+        "recency": 0.7454,
         "story_heat": 0.0
       },
       "category": "official",
@@ -382,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -434,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8149,
-      "importance": 0.8149,
-      "importance_score": 0.8149,
+      "score": 0.814,
+      "importance": 0.814,
+      "importance_score": 0.814,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7496,
+        "recency": 0.7442,
         "story_heat": 0.0
       },
       "category": "official",
@@ -469,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -521,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -555,7 +434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -607,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -641,7 +520,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -693,15 +572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7587,
-      "importance": 0.7587,
-      "importance_score": 0.7587,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9507,
+        "recency": 0.9439,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -727,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -779,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7575,
-      "importance": 0.7575,
-      "importance_score": 0.7575,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9439,
+        "recency": 0.9371,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -813,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -865,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -899,7 +778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -951,15 +830,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -985,7 +864,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -1009,7 +888,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-24T15:05:09Z",
-          "updated_at": "2026-11-25T12:32:17Z",
+          "updated_at": "2026-11-25T13:02:23Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1048,7 +927,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-24T15:05:09Z",
-          "updated_at": "2026-11-25T12:32:17Z",
+          "updated_at": "2026-11-25T13:02:23Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1086,7 +965,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-25T09:50:10.297000Z",
-      "latest_at": "2026-11-25T12:32:17Z",
+      "latest_at": "2026-11-25T13:02:23Z",
       "primary_item": {
         "id": "e5adb32377acd1be84faf4b5472b0a56731a14e8",
         "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
@@ -1103,7 +982,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -1155,15 +1034,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1189,46 +1068,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
-      "story_id": "story_1eca65dd42d6",
-      "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-      "url": "https://www.producthunt.com/products/3way-social",
-      "primary_url": "https://www.producthunt.com/products/3way-social",
+      "story_id": "story_8983e0e8d4c6",
+      "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
+      "url": "https://www.producthunt.com/products/claude-code",
+      "primary_url": "https://www.producthunt.com/products/claude-code",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "summary": "Ask your AI to find link partners. You approve the deals.",
+          "id": "409980efc34591a56aaecabd35a09bf2f73e4b72",
+          "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
+          "title_zh": "Claude Ship — 尽可能快地编写代码",
+          "title_en": "Claude Ship — Ship code as fast as you can write it",
+          "title_original": "Claude Ship — Ship code as fast as you can write it",
+          "summary": "Ship code as fast as you can write it",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/claude-code",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-23T18:57:44Z",
-          "updated_at": "2026-11-25T12:23:00Z",
+          "published_at": "2026-11-23T21:00:36Z",
+          "updated_at": "2026-11-25T13:03:15Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
-          "title": "3way.Social MCP",
+          "id": "3ef205f8f76509dcb272feb3953b8c1bdca35788",
+          "title": "Claude Ship",
           "title_zh": null,
-          "title_en": "3way.Social MCP",
-          "title_original": "3way.Social MCP",
+          "title_en": "Claude Ship",
+          "title_original": "Claude Ship",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/claude-code",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-25T12:20:48.655000Z",
+          "published_at": "2026-11-24T15:12:00.171000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1240,66 +1119,66 @@
       ],
       "items": [
         {
-          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "summary": "Ask your AI to find link partners. You approve the deals.",
+          "id": "409980efc34591a56aaecabd35a09bf2f73e4b72",
+          "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
+          "title_zh": "Claude Ship — 尽可能快地编写代码",
+          "title_en": "Claude Ship — Ship code as fast as you can write it",
+          "title_original": "Claude Ship — Ship code as fast as you can write it",
+          "summary": "Ship code as fast as you can write it",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/claude-code",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-23T18:57:44Z",
-          "updated_at": "2026-11-25T12:23:00Z",
+          "published_at": "2026-11-23T21:00:36Z",
+          "updated_at": "2026-11-25T13:03:15Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
-          "title": "3way.Social MCP",
+          "id": "3ef205f8f76509dcb272feb3953b8c1bdca35788",
+          "title": "Claude Ship",
           "title_zh": null,
-          "title_en": "3way.Social MCP",
-          "title_original": "3way.Social MCP",
+          "title_en": "Claude Ship",
+          "title_original": "Claude Ship",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/claude-code",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-25T12:20:48.655000Z",
+          "published_at": "2026-11-24T15:12:00.171000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9979,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-25T12:20:48.655000Z",
-      "latest_at": "2026-11-25T12:23:00Z",
+      "earliest_at": "2026-11-24T15:12:00.171000Z",
+      "latest_at": "2026-11-25T13:03:15Z",
       "primary_item": {
-        "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-        "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-        "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "summary": "Ask your AI to find link partners. You approve the deals.",
+        "id": "409980efc34591a56aaecabd35a09bf2f73e4b72",
+        "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
+        "title_zh": "Claude Ship — 尽可能快地编写代码",
+        "title_en": "Claude Ship — Ship code as fast as you can write it",
+        "title_original": "Claude Ship — Ship code as fast as you can write it",
+        "summary": "Ship code as fast as you can write it",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/3way-social",
+        "url": "https://www.producthunt.com/products/claude-code",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1307,7 +1186,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -1425,15 +1304,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5628,
-      "importance": 0.5628,
-      "importance_score": 0.5628,
+      "score": 0.5616,
+      "importance": 0.5616,
+      "importance_score": 0.5616,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9556,
+        "recency": 0.9487,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1458,7 +1337,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -1576,15 +1455,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5557,
-      "importance": 0.5557,
-      "importance_score": 0.5557,
+      "score": 0.5545,
+      "importance": 0.5545,
+      "importance_score": 0.5545,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9161,
+        "recency": 0.9095,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1609,7 +1488,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -1727,15 +1606,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5495,
-      "importance": 0.5495,
-      "importance_score": 0.5495,
+      "score": 0.5484,
+      "importance": 0.5484,
+      "importance_score": 0.5484,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8817,
+        "recency": 0.8754,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1760,7 +1639,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -1812,15 +1691,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7551,
-      "importance": 0.7551,
-      "importance_score": 0.7551,
+      "score": 0.7539,
+      "importance": 0.7539,
+      "importance_score": 0.7539,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9303,
+        "recency": 0.9236,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1846,7 +1725,276 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
+      }
+    },
+    {
+      "story_id": "story_94d1586a7d4f",
+      "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+      "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "primary_url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+      "source": "openai.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": null,
+          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T23:32:43.781000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "79c91e28f7082cbf3df1329502fb8fc3d6361b85",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T21:02:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6382c28d435863f7b3493e9f7f114283e62872f0",
+          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展示了内在的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50634658",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T21:02:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News (黑客新闻)",
+        "hackernews",
+        "openai.com"
+      ],
+      "items": [
+        {
+          "id": "0889032937b870e044d77990945bd0ecab7fb61a",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": null,
+          "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "openai.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-24T23:32:43.781000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "79c91e28f7082cbf3df1329502fb8fc3d6361b85",
+          "title": "GPT-6 模型展现出固有的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+          "source": "Hacker News (黑客新闻)",
+          "source_name": "Info Flow",
+          "site_id": "iris",
+          "published_at": "2026-11-24T21:02:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "6382c28d435863f7b3493e9f7f114283e62872f0",
+          "title": "GPT-6 模型展示了内在的蛋白质设计能力 / GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_zh": "GPT-6 模型展示了内在的蛋白质设计能力",
+          "title_en": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "title_original": "GPT-6 models demonstrate intrinsic protein-design capabilities",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50634658",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-24T21:02:22Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.539,
+      "importance": 0.539,
+      "importance_score": 0.539,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8231,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-24T21:02:22Z",
+      "latest_at": "2026-11-24T23:32:43.781000Z",
+      "primary_item": {
+        "id": "0889032937b870e044d77990945bd0ecab7fb61a",
+        "title": "GPT-6 模型展现出固有的蛋白质设计能力",
+        "title_zh": "GPT-6 模型展现出固有的蛋白质设计能力",
+        "title_en": null,
+        "title_original": "GPT-6 模型展现出固有的蛋白质设计能力",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://openai.com/index/gpt-6-models-demonstrate-intrinsic-protein-design-capabilities",
+        "source": "openai.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T13:04:52.109002Z"
+      }
+    },
+    {
+      "story_id": "story_1eca65dd42d6",
+      "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+      "url": "https://www.producthunt.com/products/3way-social",
+      "primary_url": "https://www.producthunt.com/products/3way-social",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
+          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
+          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "summary": "Ask your AI to find link partners. You approve the deals.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/3way-social",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-23T18:57:44Z",
+          "updated_at": "2026-11-25T12:55:14Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
+          "title": "3way.Social MCP",
+          "title_zh": null,
+          "title_en": "3way.Social MCP",
+          "title_original": "3way.Social MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/3way-social",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-25T12:20:48.655000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
+          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
+          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "summary": "Ask your AI to find link partners. You approve the deals.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/3way-social",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-23T18:57:44Z",
+          "updated_at": "2026-11-25T12:55:14Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
+          "title": "3way.Social MCP",
+          "title_zh": null,
+          "title_en": "3way.Social MCP",
+          "title_original": "3way.Social MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/3way-social",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-25T12:20:48.655000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9984,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-25T12:20:48.655000Z",
+      "latest_at": "2026-11-25T12:55:14Z",
+      "primary_item": {
+        "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
+        "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+        "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
+        "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+        "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+        "summary": "Ask your AI to find link partners. You approve the deals.",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/3way-social",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     },
     {
@@ -1930,15 +2078,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5309,
-      "importance": 0.5309,
-      "importance_score": 0.5309,
+      "score": 0.5297,
+      "importance": 0.5297,
+      "importance_score": 0.5297,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9172,
+        "recency": 0.9106,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1963,125 +2111,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
-      }
-    },
-    {
-      "story_id": "story_8983e0e8d4c6",
-      "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
-      "url": "https://www.producthunt.com/products/claude-code",
-      "primary_url": "https://www.producthunt.com/products/claude-code",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "409980efc34591a56aaecabd35a09bf2f73e4b72",
-          "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
-          "title_zh": "Claude Ship — 尽可能快地编写代码",
-          "title_en": "Claude Ship — Ship code as fast as you can write it",
-          "title_original": "Claude Ship — Ship code as fast as you can write it",
-          "summary": "Ship code as fast as you can write it",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude-code",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-23T21:00:36Z",
-          "updated_at": "2026-11-25T11:05:22Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "3ef205f8f76509dcb272feb3953b8c1bdca35788",
-          "title": "Claude Ship",
-          "title_zh": null,
-          "title_en": "Claude Ship",
-          "title_original": "Claude Ship",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude-code",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T15:12:00.171000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "409980efc34591a56aaecabd35a09bf2f73e4b72",
-          "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
-          "title_zh": "Claude Ship — 尽可能快地编写代码",
-          "title_en": "Claude Ship — Ship code as fast as you can write it",
-          "title_original": "Claude Ship — Ship code as fast as you can write it",
-          "summary": "Ship code as fast as you can write it",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude-code",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-23T21:00:36Z",
-          "updated_at": "2026-11-25T11:05:22Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "3ef205f8f76509dcb272feb3953b8c1bdca35788",
-          "title": "Claude Ship",
-          "title_zh": null,
-          "title_en": "Claude Ship",
-          "title_original": "Claude Ship",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/claude-code",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-24T15:12:00.171000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5905,
-      "importance": 0.5905,
-      "importance_score": 0.5905,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9794,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-24T15:12:00.171000Z",
-      "latest_at": "2026-11-25T11:05:22Z",
-      "primary_item": {
-        "id": "409980efc34591a56aaecabd35a09bf2f73e4b72",
-        "title": "Claude Ship — 尽可能快地编写代码 / Claude Ship — Ship code as fast as you can write it",
-        "title_zh": "Claude Ship — 尽可能快地编写代码",
-        "title_en": "Claude Ship — Ship code as fast as you can write it",
-        "title_original": "Claude Ship — Ship code as fast as you can write it",
-        "summary": "Ship code as fast as you can write it",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/claude-code",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-25T12:34:44.782098Z"
+        "scored_at": "2026-11-25T13:04:52.109002Z"
       }
     }
   ]
