@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-25T11:01:41.574548Z",
+  "generated_at": "2026-11-25T11:31:41.681395Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 273,
-      "duration_ms": 12341,
+      "duration_ms": 12569,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Curated Media",
       "ok": true,
       "item_count": 29,
-      "duration_ms": 9515,
+      "duration_ms": 9171,
       "error": null
     },
     {
@@ -22,23 +22,23 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 569,
+      "duration_ms": 2767,
       "error": null
     },
     {
       "site_id": "followbuilders",
       "site_name": "Follow Builders",
-      "ok": true,
-      "item_count": 35,
-      "duration_ms": 432,
-      "error": null
+      "ok": false,
+      "item_count": 0,
+      "duration_ms": 5282,
+      "error": "HTTPSConnectionPool(host='raw.githubusercontent.com', port=443): Max retries exceeded with url: /zarazhangrui/follow-builders/main/feed-x.json (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))"
     },
     {
       "site_id": "techurls",
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 1728,
+      "duration_ms": 1745,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1267,
+      "duration_ms": 852,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 49389,
+      "duration_ms": 58595,
       "error": null
     },
     {
@@ -62,15 +62,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 2280,
+      "duration_ms": 2217,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 72,
-      "duration_ms": 1221,
+      "item_count": 74,
+      "duration_ms": 888,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "Hacker News",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 14182,
+      "duration_ms": 12610,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 41,
-      "duration_ms": 1049,
+      "duration_ms": 673,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 785,
+      "duration_ms": 501,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "AI HOT",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 365,
+      "duration_ms": 297,
       "error": "404 Client Error: Not Found for url: https://aihot.news/api/public/items?mode=selected&take=100"
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 126,
-      "duration_ms": 926,
+      "duration_ms": 1017,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 27230,
+      "duration_ms": 441,
       "error": null
     },
     {
@@ -126,7 +126,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 594,
+      "duration_ms": 352,
       "error": null
     },
     {
@@ -134,41 +134,43 @@
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 3857,
+      "duration_ms": 3544,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 1,
-      "item_count": 2676,
-      "duration_ms": 9365,
-      "error": "1 feeds failed",
+      "partial_failures": 2,
+      "item_count": 2576,
+      "duration_ms": 9926,
+      "error": "2 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
-      "ok_feed_count": 9,
-      "failed_feed_count": 1,
+      "ok_feed_count": 8,
+      "failed_feed_count": 2,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
   ],
-  "successful_sites": 17,
+  "successful_sites": 16,
   "failed_sites": [
+    "followbuilders",
     "aihot"
   ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 3864,
-  "items_before_topic_filter": 1253,
-  "items_in_24h": 331,
+  "fetched_raw_items": 3731,
+  "items_before_topic_filter": 1321,
+  "items_in_24h": 335,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 10,
     "effective_feed_total": 10,
-    "ok_feeds": 9,
+    "ok_feeds": 8,
     "failed_feeds": [
+      "https://deepmind.google/blog/rss.xml",
       "https://news.microsoft.com/source/topics/ai/feed/"
     ],
     "zero_item_feeds": [],
@@ -183,7 +185,7 @@
         "effective_feed_url": "https://blog.google/technology/ai/rss/",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 905,
+        "duration_ms": 838,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -196,10 +198,10 @@
         "feed_title": "Google DeepMind Blog",
         "feed_url": "https://deepmind.google/blog/rss.xml",
         "effective_feed_url": "https://deepmind.google/blog/rss.xml",
-        "ok": true,
-        "item_count": 100,
-        "duration_ms": 523,
-        "error": null,
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 114,
+        "error": "HTTPSConnectionPool(host='deepmind.google', port=443): Max retries exceeded with url: /blog/rss.xml (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -213,7 +215,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 916,
-        "duration_ms": 883,
+        "duration_ms": 813,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -228,7 +230,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 270,
+        "duration_ms": 236,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -243,7 +245,7 @@
         "effective_feed_url": "https://news.microsoft.com/source/topics/ai/feed/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 880,
+        "duration_ms": 812,
         "error": "403 Client Error: Forbidden for url: https://news.microsoft.com/source/topics/ai/feed/",
         "skipped": false,
         "skip_reason": null,
@@ -258,7 +260,7 @@
         "effective_feed_url": "https://developer.nvidia.com/blog/category/generative-ai/feed/",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 1489,
+        "duration_ms": 2453,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -273,7 +275,7 @@
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
         "item_count": 1430,
-        "duration_ms": 2481,
+        "duration_ms": 2294,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -288,7 +290,7 @@
         "effective_feed_url": "https://simonwillison.net/atom/everything/",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 442,
+        "duration_ms": 926,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -303,7 +305,7 @@
         "effective_feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
         "ok": true,
         "item_count": 10,
-        "duration_ms": 285,
+        "duration_ms": 431,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -318,7 +320,7 @@
         "effective_feed_url": "https://baoyu.io/feed.xml",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1207,
+        "duration_ms": 1009,
         "error": null,
         "skipped": false,
         "skip_reason": null,
