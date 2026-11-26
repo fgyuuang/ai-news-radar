@@ -1,95 +1,8 @@
 {
-  "generated_at": "2026-11-26T04:01:43.855532Z",
+  "generated_at": "2026-11-26T04:31:49.917873Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_5d02dfd2e5bb",
-      "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-      "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-      "primary_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-      "source": "GitHub Changelog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-          "title_zh": "Copilot 代码审查计费将默认由组织承担",
-          "title_en": "Copilot code review billing will default to the organization",
-          "title_original": "Copilot code review billing will default to the organization",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T22:18:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "GitHub Changelog"
-      ],
-      "items": [
-        {
-          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-          "title_zh": "Copilot 代码审查计费将默认由组织承担",
-          "title_en": "Copilot code review billing will default to the organization",
-          "title_original": "Copilot code review billing will default to the organization",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-          "source": "GitHub Changelog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T22:18:03Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.91,
-        "recency": 0.9206,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T22:18:03Z",
-      "latest_at": "2026-11-25T22:18:03Z",
-      "primary_item": {
-        "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
-        "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
-        "title_zh": "Copilot 代码审查计费将默认由组织承担",
-        "title_en": "Copilot code review billing will default to the organization",
-        "title_original": "Copilot code review billing will default to the organization",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
-        "source": "GitHub Changelog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
-      }
-    },
     {
       "story_id": "story_9ef31414a556",
       "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
@@ -139,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8377,
-      "importance": 0.8377,
-      "importance_score": 0.8377,
+      "score": 0.8366,
+      "importance": 0.8366,
+      "importance_score": 0.8366,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8763,
+        "recency": 0.8699,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +87,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
+      }
+    },
+    {
+      "story_id": "story_5d02dfd2e5bb",
+      "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+      "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "primary_url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+      "source": "GitHub Changelog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+          "title_zh": "Copilot 代码审查计费将默认由组织承担",
+          "title_en": "Copilot code review billing will default to the organization",
+          "title_original": "Copilot code review billing will default to the organization",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T22:18:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "GitHub Changelog"
+      ],
+      "items": [
+        {
+          "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+          "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+          "title_zh": "Copilot 代码审查计费将默认由组织承担",
+          "title_en": "Copilot code review billing will default to the organization",
+          "title_original": "Copilot code review billing will default to the organization",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+          "source": "GitHub Changelog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T22:18:03Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8365,
+      "importance": 0.8365,
+      "importance_score": 0.8365,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.91,
+        "recency": 0.914,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T22:18:03Z",
+      "latest_at": "2026-11-25T22:18:03Z",
+      "primary_item": {
+        "id": "d2492ca5c002ce7a73b53e9ec8cae3794eb7f07c",
+        "title": "Copilot 代码审查计费将默认由组织承担 / Copilot code review billing will default to the organization",
+        "title_zh": "Copilot 代码审查计费将默认由组织承担",
+        "title_en": "Copilot code review billing will default to the organization",
+        "title_original": "Copilot code review billing will default to the organization",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://github.blog/changelog/2026-11-25-copilot-code-review-billing-will-default-to-the-organization",
+        "source": "GitHub Changelog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8131,
-      "importance": 0.8131,
-      "importance_score": 0.8131,
+      "score": 0.8121,
+      "importance": 0.8121,
+      "importance_score": 0.8121,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.8285,
+        "recency": 0.8225,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8195,
-      "importance": 0.8195,
-      "importance_score": 0.8195,
+      "score": 0.8185,
+      "importance": 0.8185,
+      "importance_score": 0.8185,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7749,
+        "recency": 0.7693,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,7 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -434,7 +434,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -486,15 +486,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -520,7 +520,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -572,15 +572,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,7 +606,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -658,15 +658,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +692,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -744,15 +744,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -778,7 +778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -863,15 +863,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6236,
-      "importance": 0.6236,
-      "importance_score": 0.6236,
+      "score": 0.6225,
+      "importance": 0.6225,
+      "importance_score": 0.6225,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8602,
+        "recency": 0.854,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -896,7 +896,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -948,15 +948,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -982,46 +982,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
-      "story_id": "story_1eca65dd42d6",
-      "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-      "url": "https://www.producthunt.com/products/3way-social",
-      "primary_url": "https://www.producthunt.com/products/3way-social",
+      "story_id": "story_fe3f94e40478",
+      "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
+      "url": "https://www.producthunt.com/products/canva",
+      "primary_url": "https://www.producthunt.com/products/canva",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "summary": "Ask your AI to find link partners. You approve the deals.",
+          "id": "e5adb32377acd1be84faf4b5472b0a56731a14e8",
+          "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
+          "title_zh": "Canva MCP — 将任何 AI 代理变成创意强者",
+          "title_en": "Canva MCP — Turn any AI agent into a creative powerhouse",
+          "title_original": "Canva MCP — Turn any AI agent into a creative powerhouse",
+          "summary": "Turn any AI agent into a creative powerhouse",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/canva",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-23T18:57:44Z",
-          "updated_at": "2026-11-26T04:01:45Z",
+          "published_at": "2026-11-24T15:05:09Z",
+          "updated_at": "2026-11-26T04:24:43Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
-          "title": "3way.Social MCP",
+          "id": "2ff5f0b6633aee0711e2f035e91899ad56254155",
+          "title": "Canva MCP",
           "title_zh": null,
-          "title_en": "3way.Social MCP",
-          "title_original": "3way.Social MCP",
+          "title_en": "Canva MCP",
+          "title_original": "Canva MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/canva",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-25T12:20:48.655000Z",
+          "published_at": "2026-11-25T09:50:10.297000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1033,66 +1033,66 @@
       ],
       "items": [
         {
-          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "summary": "Ask your AI to find link partners. You approve the deals.",
+          "id": "e5adb32377acd1be84faf4b5472b0a56731a14e8",
+          "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
+          "title_zh": "Canva MCP — 将任何 AI 代理变成创意强者",
+          "title_en": "Canva MCP — Turn any AI agent into a creative powerhouse",
+          "title_original": "Canva MCP — Turn any AI agent into a creative powerhouse",
+          "summary": "Turn any AI agent into a creative powerhouse",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/canva",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-23T18:57:44Z",
-          "updated_at": "2026-11-26T04:01:45Z",
+          "published_at": "2026-11-24T15:05:09Z",
+          "updated_at": "2026-11-26T04:24:43Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
-          "title": "3way.Social MCP",
+          "id": "2ff5f0b6633aee0711e2f035e91899ad56254155",
+          "title": "Canva MCP",
           "title_zh": null,
-          "title_en": "3way.Social MCP",
-          "title_original": "3way.Social MCP",
+          "title_en": "Canva MCP",
+          "title_original": "Canva MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/canva",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-25T12:20:48.655000Z",
+          "published_at": "2026-11-25T09:50:10.297000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5939,
+      "importance": 0.5939,
+      "importance_score": 0.5939,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9983,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-25T12:20:48.655000Z",
-      "latest_at": "2026-11-26T04:01:45Z",
+      "earliest_at": "2026-11-25T09:50:10.297000Z",
+      "latest_at": "2026-11-26T04:24:43Z",
       "primary_item": {
-        "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-        "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-        "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "summary": "Ask your AI to find link partners. You approve the deals.",
+        "id": "e5adb32377acd1be84faf4b5472b0a56731a14e8",
+        "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
+        "title_zh": "Canva MCP — 将任何 AI 代理变成创意强者",
+        "title_en": "Canva MCP — Turn any AI agent into a creative powerhouse",
+        "title_original": "Canva MCP — Turn any AI agent into a creative powerhouse",
+        "summary": "Turn any AI agent into a creative powerhouse",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/3way-social",
+        "url": "https://www.producthunt.com/products/canva",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1100,7 +1100,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -1152,15 +1152,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9856,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1186,46 +1186,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
-      "story_id": "story_fe3f94e40478",
-      "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
-      "url": "https://www.producthunt.com/products/canva",
-      "primary_url": "https://www.producthunt.com/products/canva",
+      "story_id": "story_1eca65dd42d6",
+      "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+      "url": "https://www.producthunt.com/products/3way-social",
+      "primary_url": "https://www.producthunt.com/products/3way-social",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "e5adb32377acd1be84faf4b5472b0a56731a14e8",
-          "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
-          "title_zh": "Canva MCP — 将任何 AI 代理变成创意强者",
-          "title_en": "Canva MCP — Turn any AI agent into a creative powerhouse",
-          "title_original": "Canva MCP — Turn any AI agent into a creative powerhouse",
-          "summary": "Turn any AI agent into a creative powerhouse",
+          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
+          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
+          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "summary": "Ask your AI to find link partners. You approve the deals.",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/canva",
+          "url": "https://www.producthunt.com/products/3way-social",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-24T15:05:09Z",
-          "updated_at": "2026-11-26T04:01:45Z",
+          "published_at": "2026-11-23T18:57:44Z",
+          "updated_at": "2026-11-26T04:19:39Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "2ff5f0b6633aee0711e2f035e91899ad56254155",
-          "title": "Canva MCP",
+          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
+          "title": "3way.Social MCP",
           "title_zh": null,
-          "title_en": "Canva MCP",
-          "title_original": "Canva MCP",
+          "title_en": "3way.Social MCP",
+          "title_original": "3way.Social MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/canva",
+          "url": "https://www.producthunt.com/products/3way-social",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-25T09:50:10.297000Z",
+          "published_at": "2026-11-25T12:20:48.655000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1237,66 +1237,66 @@
       ],
       "items": [
         {
-          "id": "e5adb32377acd1be84faf4b5472b0a56731a14e8",
-          "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
-          "title_zh": "Canva MCP — 将任何 AI 代理变成创意强者",
-          "title_en": "Canva MCP — Turn any AI agent into a creative powerhouse",
-          "title_original": "Canva MCP — Turn any AI agent into a creative powerhouse",
-          "summary": "Turn any AI agent into a creative powerhouse",
+          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
+          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
+          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "summary": "Ask your AI to find link partners. You approve the deals.",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/canva",
+          "url": "https://www.producthunt.com/products/3way-social",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-24T15:05:09Z",
-          "updated_at": "2026-11-26T04:01:45Z",
+          "published_at": "2026-11-23T18:57:44Z",
+          "updated_at": "2026-11-26T04:19:39Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "2ff5f0b6633aee0711e2f035e91899ad56254155",
-          "title": "Canva MCP",
+          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
+          "title": "3way.Social MCP",
           "title_zh": null,
-          "title_en": "Canva MCP",
-          "title_original": "Canva MCP",
+          "title_en": "3way.Social MCP",
+          "title_original": "3way.Social MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/canva",
+          "url": "https://www.producthunt.com/products/3way-social",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-25T09:50:10.297000Z",
+          "published_at": "2026-11-25T12:20:48.655000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5937,
+      "importance": 0.5937,
+      "importance_score": 0.5937,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9971,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-25T09:50:10.297000Z",
-      "latest_at": "2026-11-26T04:01:45Z",
+      "earliest_at": "2026-11-25T12:20:48.655000Z",
+      "latest_at": "2026-11-26T04:19:39Z",
       "primary_item": {
-        "id": "e5adb32377acd1be84faf4b5472b0a56731a14e8",
-        "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
-        "title_zh": "Canva MCP — 将任何 AI 代理变成创意强者",
-        "title_en": "Canva MCP — Turn any AI agent into a creative powerhouse",
-        "title_original": "Canva MCP — Turn any AI agent into a creative powerhouse",
-        "summary": "Turn any AI agent into a creative powerhouse",
+        "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
+        "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+        "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
+        "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+        "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+        "summary": "Ask your AI to find link partners. You approve the deals.",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/canva",
+        "url": "https://www.producthunt.com/products/3way-social",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1304,7 +1304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -1422,15 +1422,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.558,
-      "importance": 0.558,
-      "importance_score": 0.558,
+      "score": 0.5568,
+      "importance": 0.5568,
+      "importance_score": 0.5568,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.929,
+        "recency": 0.9223,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1455,7 +1455,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -1507,15 +1507,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9781,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1541,7 +1541,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -1626,15 +1626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5291,
-      "importance": 0.5291,
-      "importance_score": 0.5291,
+      "score": 0.528,
+      "importance": 0.528,
+      "importance_score": 0.528,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9074,
+        "recency": 0.9009,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1659,7 +1659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -1711,15 +1711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9781,
+        "recency": 0.9711,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1745,158 +1745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
-      }
-    },
-    {
-      "story_id": "story_ced22c48c703",
-      "title": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-      "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-      "primary_url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-      "source": "www.comentr.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "bf3e1bdc981f97f4fe65f807f716af58eefa79f9",
-          "title": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-          "title_zh": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-          "title_en": null,
-          "title_original": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-          "source": "www.comentr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T06:27:43.563000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "21e07060eae043583c75213c810677c56859c8f8",
-          "title": "Gemini 拒绝把《一闪一闪小星星》的歌词给我 / Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "title_zh": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-          "title_en": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "title_original": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T04:03:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "caea4a9893221bb95f54d565c79a4f94a334e397",
-          "title": "Gemini拒绝给我《一闪一闪亮晶晶》的歌词 / Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "title_zh": "Gemini拒绝给我《一闪一闪亮晶晶》的歌词",
-          "title_en": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "title_original": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50638320",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T04:03:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.comentr.com"
-      ],
-      "items": [
-        {
-          "id": "bf3e1bdc981f97f4fe65f807f716af58eefa79f9",
-          "title": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-          "title_zh": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-          "title_en": null,
-          "title_original": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-          "source": "www.comentr.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-25T06:27:43.563000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "21e07060eae043583c75213c810677c56859c8f8",
-          "title": "Gemini 拒绝把《一闪一闪小星星》的歌词给我 / Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "title_zh": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-          "title_en": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "title_original": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T04:03:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "caea4a9893221bb95f54d565c79a4f94a334e397",
-          "title": "Gemini拒绝给我《一闪一闪亮晶晶》的歌词 / Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "title_zh": "Gemini拒绝给我《一闪一闪亮晶晶》的歌词",
-          "title_en": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "title_original": "Gemini refused to give me the lyrics to Twinkle Twinkle Little Star",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50638320",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T04:03:33Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5226,
-      "importance": 0.5226,
-      "importance_score": 0.5226,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7324,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T04:03:33Z",
-      "latest_at": "2026-11-25T06:27:43.563000Z",
-      "primary_item": {
-        "id": "bf3e1bdc981f97f4fe65f807f716af58eefa79f9",
-        "title": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-        "title_zh": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-        "title_en": null,
-        "title_original": "Gemini 拒绝把《一闪一闪小星星》的歌词给我",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.comentr.com/technology/01M88DWQ0R4NCMYR17AFEWRG1F",
-        "source": "www.comentr.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     },
     {
@@ -1980,15 +1829,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4978,
-      "importance": 0.4978,
-      "importance_score": 0.4978,
+      "score": 0.4968,
+      "importance": 0.4968,
+      "importance_score": 0.4968,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7332,
+        "recency": 0.7279,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2013,7 +1862,93 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T04:04:06.917159Z"
+        "scored_at": "2026-11-26T04:34:34.546700Z"
+      }
+    },
+    {
+      "story_id": "story_dc46f2fb0453",
+      "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+      "url": "https://www.aibase.com/news/32535",
+      "primary_url": "https://www.aibase.com/news/32535",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cdf335abd09e7e3b04213703966109808f9d493a",
+          "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_en": null,
+          "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T02:29:49.569459Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cdf335abd09e7e3b04213703966109808f9d493a",
+          "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_en": null,
+          "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T02:29:49.569459Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7624,
+      "importance": 0.7624,
+      "importance_score": 0.7624,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9711,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T02:29:49.569459Z",
+      "latest_at": "2026-11-26T02:29:49.569459Z",
+      "primary_item": {
+        "id": "cdf335abd09e7e3b04213703966109808f9d493a",
+        "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+        "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+        "title_en": null,
+        "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32535",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-26T04:34:34.546700Z"
       }
     }
   ]
