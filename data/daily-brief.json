@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-26T02:29:49.569459Z",
+  "generated_at": "2026-11-26T03:31:45.853547Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8414,
-      "importance": 0.8414,
-      "importance_score": 0.8414,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.9412,
+        "recency": 0.9273,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8413,
-      "importance": 0.8413,
-      "importance_score": 0.8413,
+      "score": 0.8389,
+      "importance": 0.8389,
+      "importance_score": 0.8389,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.8959,
+        "recency": 0.8826,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
@@ -226,15 +226,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8165,
-      "importance": 0.8165,
-      "importance_score": 0.8165,
+      "score": 0.8142,
+      "importance": 0.8142,
+      "importance_score": 0.8142,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.847,
+        "recency": 0.8345,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,7 +261,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
@@ -313,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8226,
-      "importance": 0.8226,
-      "importance_score": 0.8226,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.95,
-        "recency": 0.7922,
+        "recency": 0.7805,
         "story_heat": 0.0
       },
       "category": "official",
@@ -348,30 +348,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
-      "story_id": "story_6d3503548e42",
-      "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-      "url": "https://www.aibase.com/news/32537",
-      "primary_url": "https://www.aibase.com/news/32537",
+      "story_id": "story_33f87fded952",
+      "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+      "url": "https://www.aibase.com/news/32541",
+      "primary_url": "https://www.aibase.com/news/32541",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
-          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-          "title_zh": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
+          "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+          "title_zh": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
           "title_en": null,
-          "title_original": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "title_original": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32537",
+          "url": "https://www.aibase.com/news/32541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -382,18 +382,18 @@
       ],
       "items": [
         {
-          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
-          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-          "title_zh": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
+          "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+          "title_zh": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
           "title_en": null,
-          "title_original": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "title_original": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32537",
+          "url": "https://www.aibase.com/news/32541",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -416,17 +416,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T02:29:49.569459Z",
-      "latest_at": "2026-11-26T02:29:49.569459Z",
+      "earliest_at": "2026-11-26T03:31:45.853547Z",
+      "latest_at": "2026-11-26T03:31:45.853547Z",
       "primary_item": {
-        "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
-        "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
-        "title_zh": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+        "id": "64c50c97d6f10ee0962e7c62cc4f744a7e99f55a",
+        "title": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
+        "title_zh": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
         "title_en": null,
-        "title_original": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+        "title_original": "OpenAI 开测“私有推理”：模型运行时隔离企业数据，内部员工也无法查看",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32537",
+        "url": "https://www.aibase.com/news/32541",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -434,30 +434,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
-      "story_id": "story_a5d873d4282d",
-      "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-      "url": "https://www.aibase.com/news/32538",
-      "primary_url": "https://www.aibase.com/news/32538",
+      "story_id": "story_0d7c19b4ef7d",
+      "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+      "url": "https://www.aibase.com/news/32545",
+      "primary_url": "https://www.aibase.com/news/32545",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
-          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-          "title_zh": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "id": "e6ac4d58660e23a7289f9036367823648490d298",
+          "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+          "title_zh": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
           "title_en": null,
-          "title_original": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "title_original": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32538",
+          "url": "https://www.aibase.com/news/32545",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -468,18 +468,18 @@
       ],
       "items": [
         {
-          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
-          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-          "title_zh": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "id": "e6ac4d58660e23a7289f9036367823648490d298",
+          "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+          "title_zh": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
           "title_en": null,
-          "title_original": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "title_original": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32538",
+          "url": "https://www.aibase.com/news/32545",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -502,17 +502,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T02:29:49.569459Z",
-      "latest_at": "2026-11-26T02:29:49.569459Z",
+      "earliest_at": "2026-11-26T03:31:45.853547Z",
+      "latest_at": "2026-11-26T03:31:45.853547Z",
       "primary_item": {
-        "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
-        "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
-        "title_zh": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+        "id": "e6ac4d58660e23a7289f9036367823648490d298",
+        "title": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
+        "title_zh": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
         "title_en": null,
-        "title_original": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+        "title_original": "Opus5.6疑似现身Claude接口，用户测试发现训练数据更新至2026年5月",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32538",
+        "url": "https://www.aibase.com/news/32545",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -520,30 +520,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
-      "story_id": "story_dc46f2fb0453",
-      "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
-      "url": "https://www.aibase.com/news/32535",
-      "primary_url": "https://www.aibase.com/news/32535",
+      "story_id": "story_6ccdff050fff",
+      "title": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
+      "url": "https://www.aibase.com/news/32542",
+      "primary_url": "https://www.aibase.com/news/32542",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "cdf335abd09e7e3b04213703966109808f9d493a",
-          "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
-          "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "id": "46c582625c95ae9522fd055ced99ead48e943f7a",
+          "title": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
+          "title_zh": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
           "title_en": null,
-          "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_original": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32535",
+          "url": "https://www.aibase.com/news/32542",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -554,18 +554,18 @@
       ],
       "items": [
         {
-          "id": "cdf335abd09e7e3b04213703966109808f9d493a",
-          "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
-          "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "id": "46c582625c95ae9522fd055ced99ead48e943f7a",
+          "title": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
+          "title_zh": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
           "title_en": null,
-          "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_original": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32535",
+          "url": "https://www.aibase.com/news/32542",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -588,17 +588,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T02:29:49.569459Z",
-      "latest_at": "2026-11-26T02:29:49.569459Z",
+      "earliest_at": "2026-11-26T03:31:45.853547Z",
+      "latest_at": "2026-11-26T03:31:45.853547Z",
       "primary_item": {
-        "id": "cdf335abd09e7e3b04213703966109808f9d493a",
-        "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
-        "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+        "id": "46c582625c95ae9522fd055ced99ead48e943f7a",
+        "title": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
+        "title_zh": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
         "title_en": null,
-        "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+        "title_original": "从招聘到组织管理，猎聘Lily正式升级为独立AI产品",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32535",
+        "url": "https://www.aibase.com/news/32542",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -606,30 +606,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
-      "story_id": "story_cd1eeccd0c6e",
-      "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-      "url": "https://www.aibase.com/news/32533",
-      "primary_url": "https://www.aibase.com/news/32533",
+      "story_id": "story_aa1114cc180c",
+      "title": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
+      "url": "https://www.aibase.com/news/32543",
+      "primary_url": "https://www.aibase.com/news/32543",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
-          "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-          "title_zh": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+          "id": "2691051772cdfd75033358a4ef68a3dc5c332a34",
+          "title": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
+          "title_zh": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
           "title_en": null,
-          "title_original": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+          "title_original": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32533",
+          "url": "https://www.aibase.com/news/32543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -640,18 +640,18 @@
       ],
       "items": [
         {
-          "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
-          "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-          "title_zh": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+          "id": "2691051772cdfd75033358a4ef68a3dc5c332a34",
+          "title": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
+          "title_zh": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
           "title_en": null,
-          "title_original": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+          "title_original": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32533",
+          "url": "https://www.aibase.com/news/32543",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -674,17 +674,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T02:29:49.569459Z",
-      "latest_at": "2026-11-26T02:29:49.569459Z",
+      "earliest_at": "2026-11-26T03:31:45.853547Z",
+      "latest_at": "2026-11-26T03:31:45.853547Z",
       "primary_item": {
-        "id": "a91af59b259cafbff0f48bb72a4674d888b86685",
-        "title": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
-        "title_zh": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+        "id": "2691051772cdfd75033358a4ef68a3dc5c332a34",
+        "title": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
+        "title_zh": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
         "title_en": null,
-        "title_original": "OpenAI启动ChatGPT聊天与工作模式整合，重度用户高级推理额度或受限",
+        "title_original": "杨立昆翻出三年前听证视频炮轰 Anthropic 掌门人：渲染 AI 恐惧，是想给开放模型上枷锁",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32533",
+        "url": "https://www.aibase.com/news/32543",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -692,30 +692,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
-      "story_id": "story_804dd01923df",
-      "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-      "url": "https://www.aibase.com/news/32536",
-      "primary_url": "https://www.aibase.com/news/32536",
+      "story_id": "story_a09da7afc5b2",
+      "title": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
+      "url": "https://www.aibase.com/news/32544",
+      "primary_url": "https://www.aibase.com/news/32544",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
-          "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-          "title_zh": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+          "id": "3f53c4de0fb9059fc55b4240e27e7913ac961cd4",
+          "title": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
+          "title_zh": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
           "title_en": null,
-          "title_original": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+          "title_original": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32536",
+          "url": "https://www.aibase.com/news/32544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -726,18 +726,18 @@
       ],
       "items": [
         {
-          "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
-          "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-          "title_zh": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+          "id": "3f53c4de0fb9059fc55b4240e27e7913ac961cd4",
+          "title": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
+          "title_zh": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
           "title_en": null,
-          "title_original": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+          "title_original": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32536",
+          "url": "https://www.aibase.com/news/32544",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -760,17 +760,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T02:29:49.569459Z",
-      "latest_at": "2026-11-26T02:29:49.569459Z",
+      "earliest_at": "2026-11-26T03:31:45.853547Z",
+      "latest_at": "2026-11-26T03:31:45.853547Z",
       "primary_item": {
-        "id": "1cc9d2e1173123e9ba5960ea0ad0a8d543ef6c28",
-        "title": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
-        "title_zh": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+        "id": "3f53c4de0fb9059fc55b4240e27e7913ac961cd4",
+        "title": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
+        "title_zh": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
         "title_en": null,
-        "title_original": "SpaceX 下调 Blackwell 芯片租金最高 35%，Anthropic 退还的 H200 被低价转租",
+        "title_original": "知乎 CEO 周源回应间接投资 DeepSeek：这是充分研究的长期战略决策",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32536",
+        "url": "https://www.aibase.com/news/32544",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -778,7 +778,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
@@ -863,15 +863,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6271,
-      "importance": 0.6271,
-      "importance_score": 0.6271,
+      "score": 0.6247,
+      "importance": 0.6247,
+      "importance_score": 0.6247,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.8794,
+        "recency": 0.8664,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -896,30 +896,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
-      "story_id": "story_40d922122fb0",
-      "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-      "url": "https://www.aibase.com/news/32534",
-      "primary_url": "https://www.aibase.com/news/32534",
+      "story_id": "story_bf4b3fa1160e",
+      "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+      "url": "https://www.aibase.com/news/32546",
+      "primary_url": "https://www.aibase.com/news/32546",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9c217971bae065ea3b7ed9e4ba9b1884af98811a",
-          "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-          "title_zh": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+          "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
+          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+          "title_zh": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
           "title_en": null,
-          "title_original": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+          "title_original": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32534",
+          "url": "https://www.aibase.com/news/32546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -930,18 +930,18 @@
       ],
       "items": [
         {
-          "id": "9c217971bae065ea3b7ed9e4ba9b1884af98811a",
-          "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-          "title_zh": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+          "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
+          "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+          "title_zh": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
           "title_en": null,
-          "title_original": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+          "title_original": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32534",
+          "url": "https://www.aibase.com/news/32546",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
+          "published_at": "2026-11-26T03:31:45.853547Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -964,17 +964,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T02:29:49.569459Z",
-      "latest_at": "2026-11-26T02:29:49.569459Z",
+      "earliest_at": "2026-11-26T03:31:45.853547Z",
+      "latest_at": "2026-11-26T03:31:45.853547Z",
       "primary_item": {
-        "id": "9c217971bae065ea3b7ed9e4ba9b1884af98811a",
-        "title": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
-        "title_zh": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+        "id": "930128183b9006ca253a2f07f56a7e86e7521adf",
+        "title": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
+        "title_zh": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
         "title_en": null,
-        "title_original": "三个月估值涨一半：AI 语音公司 ElevenLabs 初谈 2027 年融资，目标 330 亿美元",
+        "title_original": "腾讯 Hy4 Flash 登陆 Fireworks：专业活儿干得和 Claude 一样好，账单便宜两百倍",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32534",
+        "url": "https://www.aibase.com/news/32546",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -982,362 +982,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
-      }
-    },
-    {
-      "story_id": "story_1eca65dd42d6",
-      "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-      "url": "https://www.producthunt.com/products/3way-social",
-      "primary_url": "https://www.producthunt.com/products/3way-social",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "summary": "Ask your AI to find link partners. You approve the deals.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-23T18:57:44Z",
-          "updated_at": "2026-11-26T02:30:03Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
-          "title": "3way.Social MCP",
-          "title_zh": null,
-          "title_en": "3way.Social MCP",
-          "title_original": "3way.Social MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T12:20:48.655000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "summary": "Ask your AI to find link partners. You approve the deals.",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-23T18:57:44Z",
-          "updated_at": "2026-11-26T02:30:03Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
-          "title": "3way.Social MCP",
-          "title_zh": null,
-          "title_en": "3way.Social MCP",
-          "title_original": "3way.Social MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T12:20:48.655000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 1.0,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T12:20:48.655000Z",
-      "latest_at": "2026-11-26T02:30:03Z",
-      "primary_item": {
-        "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-        "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-        "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "summary": "Ask your AI to find link partners. You approve the deals.",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/3way-social",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
-      }
-    },
-    {
-      "story_id": "story_5e84c9c84406",
-      "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-      "url": "https://www.aibase.com/news/32539",
-      "primary_url": "https://www.aibase.com/news/32539",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "def6bd6b0cd2cfc07531580ecf7128c70250d649",
-          "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "title_zh": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "title_en": null,
-          "title_original": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "def6bd6b0cd2cfc07531580ecf7128c70250d649",
-          "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "title_zh": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "title_en": null,
-          "title_original": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32539",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-26T02:29:49.569459Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 1.0,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T02:29:49.569459Z",
-      "latest_at": "2026-11-26T02:29:49.569459Z",
-      "primary_item": {
-        "id": "def6bd6b0cd2cfc07531580ecf7128c70250d649",
-        "title": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-        "title_zh": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-        "title_en": null,
-        "title_original": "亚马逊与Meta谈判，考虑开放Muse AI代理购物",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32539",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
-      }
-    },
-    {
-      "story_id": "story_b19044f814dc",
-      "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-      "url": "https://www.proofatlas.ai/open-problems",
-      "primary_url": "https://www.proofatlas.ai/open-problems",
-      "source": "www.proofatlas.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "2f1f96501c6e6a332d24d10e2b0fb3479620ff9d",
-          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-          "title_zh": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-          "title_en": null,
-          "title_original": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.proofatlas.ai/open-problems",
-          "source": "www.proofatlas.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T00:16:04.110000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "dce750e123c89031f636f6a56a051f3c921fa9e4",
-          "title": "按LLM评估的重要性排名的最重要的数学开放问题 / Top open problems in mathematics ranked by LLM-assessed importance",
-          "title_zh": "按LLM评估的重要性排名的最重要的数学开放问题",
-          "title_en": "Top open problems in mathematics ranked by LLM-assessed importance",
-          "title_original": "Top open problems in mathematics ranked by LLM-assessed importance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50637871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T03:01:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "11c80478438febb881be2ef54bd49564e5f1fcce",
-          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题 / Top open problems in mathematics ranked by LLM-assessed importance",
-          "title_zh": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-          "title_en": "Top open problems in mathematics ranked by LLM-assessed importance",
-          "title_original": "Top open problems in mathematics ranked by LLM-assessed importance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.proofatlas.ai/open-problems",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T03:01:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "www.proofatlas.ai"
-      ],
-      "items": [
-        {
-          "id": "2f1f96501c6e6a332d24d10e2b0fb3479620ff9d",
-          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-          "title_zh": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-          "title_en": null,
-          "title_original": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.proofatlas.ai/open-problems",
-          "source": "www.proofatlas.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T00:16:04.110000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "dce750e123c89031f636f6a56a051f3c921fa9e4",
-          "title": "按LLM评估的重要性排名的最重要的数学开放问题 / Top open problems in mathematics ranked by LLM-assessed importance",
-          "title_zh": "按LLM评估的重要性排名的最重要的数学开放问题",
-          "title_en": "Top open problems in mathematics ranked by LLM-assessed importance",
-          "title_original": "Top open problems in mathematics ranked by LLM-assessed importance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50637871",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T03:01:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "11c80478438febb881be2ef54bd49564e5f1fcce",
-          "title": "根据LLM评估的重要性排名的数学领域顶级未解问题 / Top open problems in mathematics ranked by LLM-assessed importance",
-          "title_zh": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-          "title_en": "Top open problems in mathematics ranked by LLM-assessed importance",
-          "title_original": "Top open problems in mathematics ranked by LLM-assessed importance",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.proofatlas.ai/open-problems",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T03:01:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5651,
-      "importance": 0.5651,
-      "importance_score": 0.5651,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9683,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T03:01:36Z",
-      "latest_at": "2026-11-26T00:16:04.110000Z",
-      "primary_item": {
-        "id": "2f1f96501c6e6a332d24d10e2b0fb3479620ff9d",
-        "title": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-        "title_zh": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-        "title_en": null,
-        "title_original": "根据LLM评估的重要性排名的数学领域顶级未解问题",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.proofatlas.ai/open-problems",
-        "source": "www.proofatlas.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
@@ -1361,7 +1006,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-24T15:05:09Z",
-          "updated_at": "2026-11-26T02:30:04Z",
+          "updated_at": "2026-11-26T03:31:31Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1400,7 +1045,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-24T15:05:09Z",
-          "updated_at": "2026-11-26T02:30:04Z",
+          "updated_at": "2026-11-26T03:31:31Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1430,7 +1075,7 @@
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9999,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1438,7 +1083,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-25T09:50:10.297000Z",
-      "latest_at": "2026-11-26T02:30:04Z",
+      "latest_at": "2026-11-26T03:31:31Z",
       "primary_item": {
         "id": "e5adb32377acd1be84faf4b5472b0a56731a14e8",
         "title": "Canva MCP — 将任何 AI 代理变成创意强者 / Canva MCP — Turn any AI agent into a creative powerhouse",
@@ -1455,7 +1100,211 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
+      }
+    },
+    {
+      "story_id": "story_6d3503548e42",
+      "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+      "url": "https://www.aibase.com/news/32537",
+      "primary_url": "https://www.aibase.com/news/32537",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "title_zh": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "title_en": null,
+          "title_original": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32537",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T02:29:49.569459Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+          "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "title_zh": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "title_en": null,
+          "title_original": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32537",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T02:29:49.569459Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9852,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T02:29:49.569459Z",
+      "latest_at": "2026-11-26T02:29:49.569459Z",
+      "primary_item": {
+        "id": "642d00fa02c94ce09647f7e821ccf696c1d077ee",
+        "title": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+        "title_zh": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+        "title_en": null,
+        "title_original": "Anthropic CEO 否认将人类自由意志让渡予 AI，并警示模型递归自我改进风险",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32537",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-26T03:34:10.191237Z"
+      }
+    },
+    {
+      "story_id": "story_1eca65dd42d6",
+      "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+      "url": "https://www.producthunt.com/products/3way-social",
+      "primary_url": "https://www.producthunt.com/products/3way-social",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
+          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
+          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "summary": "Ask your AI to find link partners. You approve the deals.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/3way-social",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-23T18:57:44Z",
+          "updated_at": "2026-11-26T02:59:06Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
+          "title": "3way.Social MCP",
+          "title_zh": null,
+          "title_en": "3way.Social MCP",
+          "title_original": "3way.Social MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/3way-social",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-25T12:20:48.655000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
+          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
+          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+          "summary": "Ask your AI to find link partners. You approve the deals.",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/3way-social",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-23T18:57:44Z",
+          "updated_at": "2026-11-26T02:59:06Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
+          "title": "3way.Social MCP",
+          "title_zh": null,
+          "title_en": "3way.Social MCP",
+          "title_original": "3way.Social MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/3way-social",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-25T12:20:48.655000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5928,
+      "importance": 0.5928,
+      "importance_score": 0.5928,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9922,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-25T12:20:48.655000Z",
+      "latest_at": "2026-11-26T02:59:06Z",
+      "primary_item": {
+        "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
+        "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+        "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
+        "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+        "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
+        "summary": "Ask your AI to find link partners. You approve the deals.",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/3way-social",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
@@ -1573,15 +1422,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5618,
-      "importance": 0.5618,
-      "importance_score": 0.5618,
+      "score": 0.5592,
+      "importance": 0.5592,
+      "importance_score": 0.5592,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9497,
+        "recency": 0.9357,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1606,26 +1455,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
-      "story_id": "story_a2d57282c87e",
-      "title": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
-      "url": "https://www.aibase.com/news/32540",
-      "primary_url": "https://www.aibase.com/news/32540",
+      "story_id": "story_a5d873d4282d",
+      "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+      "url": "https://www.aibase.com/news/32538",
+      "primary_url": "https://www.aibase.com/news/32538",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "fea73434e5af8b3302e591ba2f3ede69c143503c",
-          "title": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
-          "title_zh": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
+          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
+          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "title_zh": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
           "title_en": null,
-          "title_original": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
+          "title_original": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32540",
+          "url": "https://www.aibase.com/news/32538",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1640,14 +1489,14 @@
       ],
       "items": [
         {
-          "id": "fea73434e5af8b3302e591ba2f3ede69c143503c",
-          "title": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
-          "title_zh": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
+          "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
+          "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+          "title_zh": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
           "title_en": null,
-          "title_original": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
+          "title_original": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32540",
+          "url": "https://www.aibase.com/news/32538",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1658,15 +1507,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9852,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1677,14 +1526,14 @@
       "earliest_at": "2026-11-26T02:29:49.569459Z",
       "latest_at": "2026-11-26T02:29:49.569459Z",
       "primary_item": {
-        "id": "fea73434e5af8b3302e591ba2f3ede69c143503c",
-        "title": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
-        "title_zh": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
+        "id": "e0bedb73bb60645fa7cd13a79ecfb5f8c8c2b42b",
+        "title": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
+        "title_zh": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
         "title_en": null,
-        "title_original": "英伟达开源 Nemotron-Labs-Image-30B-A3B 生图模型:300亿参数 MoE 架构，多项跑分超 GPT Image2",
+        "title_original": "Claude 和 ChatGPT 进军蛋白质结构预测，通用大模型挑战 AlphaFold 专业地位",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32540",
+        "url": "https://www.aibase.com/news/32538",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1692,7 +1541,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
@@ -1777,15 +1626,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5328,
-      "importance": 0.5328,
-      "importance_score": 0.5328,
+      "score": 0.5303,
+      "importance": 0.5303,
+      "importance_score": 0.5303,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9277,
+        "recency": 0.914,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1810,11 +1659,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
-      "story_id": "story_a40b4ea0e5c5",
+      "story_id": "story_f5e3915be1f6",
       "title": "批注搜索、金钱、C、Rust、人工智能、杂项",
       "url": "https://www.marginalia.nu/log/a_141_marginalia_update",
       "primary_url": "https://www.marginalia.nu/log/a_141_marginalia_update",
@@ -1838,22 +1687,6 @@
           "recency_basis": null
         },
         {
-          "id": "1f1149098e8a46b5b80326856490107d81386949",
-          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-          "title_zh": null,
-          "title_en": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-          "title_original": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50638220",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T03:47:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
           "id": "4a306accba0fd52bdc1721bb4f2318cafa08a0b9",
           "title": "批注搜索、金钱、C、Rust、人工智能、杂项 / Marginalia Search, Money, C++, Rust, AI, Stuff",
           "title_zh": "批注搜索、金钱、C、Rust、人工智能、杂项",
@@ -1865,6 +1698,22 @@
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
+          "published_at": "2026-11-25T03:47:42Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "1f1149098e8a46b5b80326856490107d81386949",
+          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+          "title_zh": null,
+          "title_en": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+          "title_original": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50638220",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
           "published_at": "2026-11-25T03:47:42Z",
           "updated_at": null,
           "recency_basis": null
@@ -1894,22 +1743,6 @@
           "recency_basis": null
         },
         {
-          "id": "1f1149098e8a46b5b80326856490107d81386949",
-          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-          "title_zh": null,
-          "title_en": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-          "title_original": "Marginalia Search, Money, C++, Rust, AI, Stuff",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50638220",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T03:47:42Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
           "id": "4a306accba0fd52bdc1721bb4f2318cafa08a0b9",
           "title": "批注搜索、金钱、C、Rust、人工智能、杂项 / Marginalia Search, Money, C++, Rust, AI, Stuff",
           "title_zh": "批注搜索、金钱、C、Rust、人工智能、杂项",
@@ -1924,19 +1757,35 @@
           "published_at": "2026-11-25T03:47:42Z",
           "updated_at": null,
           "recency_basis": null
+        },
+        {
+          "id": "1f1149098e8a46b5b80326856490107d81386949",
+          "title": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+          "title_zh": null,
+          "title_en": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+          "title_original": "Marginalia Search, Money, C++, Rust, AI, Stuff",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50638220",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-25T03:47:42Z",
+          "updated_at": null,
+          "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5314,
-      "importance": 0.5314,
-      "importance_score": 0.5314,
+      "score": 0.5293,
+      "importance": 0.5293,
+      "importance_score": 0.5293,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.781,
+        "recency": 0.7695,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1961,7 +1810,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
+      }
+    },
+    {
+      "story_id": "story_dc46f2fb0453",
+      "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+      "url": "https://www.aibase.com/news/32535",
+      "primary_url": "https://www.aibase.com/news/32535",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "cdf335abd09e7e3b04213703966109808f9d493a",
+          "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_en": null,
+          "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T02:29:49.569459Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "cdf335abd09e7e3b04213703966109808f9d493a",
+          "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "title_en": null,
+          "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32535",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-26T02:29:49.569459Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7649,
+      "importance": 0.7649,
+      "importance_score": 0.7649,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9852,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T02:29:49.569459Z",
+      "latest_at": "2026-11-26T02:29:49.569459Z",
+      "primary_item": {
+        "id": "cdf335abd09e7e3b04213703966109808f9d493a",
+        "title": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+        "title_zh": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+        "title_en": null,
+        "title_original": "OpenAI 开测「私有推理」：模型运行时隔离客户数据，连内部员工都无法查看",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32535",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     },
     {
@@ -2079,15 +2014,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5256,
-      "importance": 0.5256,
-      "importance_score": 0.5256,
+      "score": 0.5236,
+      "importance": 0.5236,
+      "importance_score": 0.5236,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7488,
+        "recency": 0.7377,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -2112,7 +2047,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T02:32:57.972352Z"
+        "scored_at": "2026-11-26T03:34:10.191237Z"
       }
     }
   ]
