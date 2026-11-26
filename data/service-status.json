@@ -1,6 +1,6 @@
 {
   "schema_version": 1,
-  "generated_at": "2026-11-25T16:01:43.649075Z",
+  "generated_at": "2026-11-26T02:29:49.569459Z",
   "ok": true,
   "active_count": 1,
   "providers": [
@@ -14,17 +14,17 @@
   ],
   "incidents": [
     {
-      "id": "01M898HVZGXFV2XC4775CG9GF8",
+      "id": "01M89RGC3STKK2MT53TXHFMY4H",
       "provider": "OpenAI",
-      "title": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors",
-      "title_zh": "ChatGPT, ChatGPT Work, and Codex Cloud are experiencing elevated conversation errors",
+      "title": "Elevated errors with Codex GitHub reviews and pull request merges",
+      "title_zh": "Elevated errors with Codex GitHub reviews and pull request merges",
       "status": "monitoring",
       "impact": "minor",
-      "started_at": "2026-11-25T11:48:13Z",
-      "updated_at": "2026-11-25T13:22:34Z",
-      "message": "We have applied mitigations and are seeing recovery across ChatGPT, ChatGPT Work, and Codex cloud threads. We are monitoring the affected services to ensure continued stability. Our investigation into the underlying cause remains ongoing.",
+      "started_at": "2026-11-25T16:27:02Z",
+      "updated_at": "2026-11-25T16:58:51Z",
+      "message": "GitHub reports that the service disruption affecting pull requests and webhooks has been mitigated. We are monitoring Codex automated pull request reviews and merge operations to confirm recovery and stability.",
       "affected_components": [],
-      "url": "https://status.openai.com/incidents/01M898HVZGXFV2XC4775CG9GF8"
+      "url": "https://status.openai.com/incidents/01M89RGC3STKK2MT53TXHFMY4H"
     }
   ]
 }
