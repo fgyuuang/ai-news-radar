@@ -1,20 +1,20 @@
 {
-  "generated_at": "2026-11-26T05:01:43.296058Z",
+  "generated_at": "2026-11-26T06:02:01.462207Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
-      "item_count": 224,
-      "duration_ms": 43510,
+      "item_count": 217,
+      "duration_ms": 60386,
       "error": null
     },
     {
       "site_id": "curated_media",
       "site_name": "Curated Media",
       "ok": true,
-      "item_count": 26,
-      "duration_ms": 19766,
+      "item_count": 34,
+      "duration_ms": 19783,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 12800,
+      "duration_ms": 2362,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 35,
-      "duration_ms": 421,
+      "duration_ms": 427,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 2236,
+      "duration_ms": 2150,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 992,
+      "duration_ms": 866,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "Info Flow",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 34251,
+      "duration_ms": 33710,
       "error": null
     },
     {
@@ -62,15 +62,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 2351,
+      "duration_ms": 2384,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 55,
-      "duration_ms": 912,
+      "item_count": 56,
+      "duration_ms": 805,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "Hacker News",
       "ok": true,
       "item_count": 4,
-      "duration_ms": 12103,
+      "duration_ms": 13643,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 41,
-      "duration_ms": 1230,
+      "duration_ms": 1411,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 423,
+      "duration_ms": 545,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "AI HOT",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 308,
+      "duration_ms": 273,
       "error": "404 Client Error: Not Found for url: https://aihot.news/api/public/items?mode=selected&take=100"
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 126,
-      "duration_ms": 2118,
+      "duration_ms": 1849,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 1820,
+      "duration_ms": 1906,
       "error": null
     },
     {
@@ -126,7 +126,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 420,
+      "duration_ms": 435,
       "error": null
     },
     {
@@ -134,21 +134,21 @@
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 6,
-      "duration_ms": 3473,
+      "duration_ms": 4998,
       "error": null
     },
     {
       "site_id": "opmlrss",
       "site_name": "OPML RSS",
       "ok": true,
-      "partial_failures": 3,
-      "item_count": 2607,
-      "duration_ms": 8631,
-      "error": "3 feeds failed",
+      "partial_failures": 4,
+      "item_count": 2597,
+      "duration_ms": 9738,
+      "error": "4 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
-      "ok_feed_count": 7,
-      "failed_feed_count": 3,
+      "ok_feed_count": 6,
+      "failed_feed_count": 4,
       "skipped_feed_count": 0,
       "replaced_feed_count": 0
     }
@@ -159,18 +159,19 @@
   ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 3725,
-  "items_before_topic_filter": 1217,
-  "items_in_24h": 288,
+  "fetched_raw_items": 3717,
+  "items_before_topic_filter": 1211,
+  "items_in_24h": 278,
   "rss_opml": {
     "enabled": true,
     "path": "configured",
     "feed_total": 10,
     "effective_feed_total": 10,
-    "ok_feeds": 7,
+    "ok_feeds": 6,
     "failed_feeds": [
       "https://blog.google/technology/ai/rss/",
       "https://news.microsoft.com/source/topics/ai/feed/",
+      "https://www.wired.com/feed/tag/ai/latest/rss",
       "https://baoyu.io/feed.xml"
     ],
     "zero_item_feeds": [],
@@ -185,7 +186,7 @@
         "effective_feed_url": "https://blog.google/technology/ai/rss/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 518,
+        "duration_ms": 662,
         "error": "HTTPSConnectionPool(host='blog.google', port=443): Max retries exceeded with url: /technology/ai/rss/ (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
         "skipped": false,
         "skip_reason": null,
@@ -200,7 +201,7 @@
         "effective_feed_url": "https://deepmind.google/blog/rss.xml",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 322,
+        "duration_ms": 414,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -215,7 +216,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 917,
-        "duration_ms": 1057,
+        "duration_ms": 963,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -230,7 +231,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 233,
+        "duration_ms": 244,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -245,7 +246,7 @@
         "effective_feed_url": "https://news.microsoft.com/source/topics/ai/feed/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 768,
+        "duration_ms": 963,
         "error": "403 Client Error: Forbidden for url: https://news.microsoft.com/source/topics/ai/feed/",
         "skipped": false,
         "skip_reason": null,
@@ -260,7 +261,7 @@
         "effective_feed_url": "https://developer.nvidia.com/blog/category/generative-ai/feed/",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 1521,
+        "duration_ms": 1530,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -275,7 +276,7 @@
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
         "item_count": 1430,
-        "duration_ms": 2469,
+        "duration_ms": 2501,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -290,7 +291,7 @@
         "effective_feed_url": "https://simonwillison.net/atom/everything/",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 1083,
+        "duration_ms": 1084,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -303,10 +304,10 @@
         "feed_title": "Wired AI",
         "feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
         "effective_feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
-        "ok": true,
-        "item_count": 10,
-        "duration_ms": 252,
-        "error": null,
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 424,
+        "error": "HTTPSConnectionPool(host='www.wired.com', port=443): Max retries exceeded with url: /feed/tag/ai/latest/rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -320,8 +321,8 @@
         "effective_feed_url": "https://baoyu.io/feed.xml",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 408,
-        "error": "HTTPSConnectionPool(host='baoyu.io', port=443): Max retries exceeded with url: /feed.xml (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
+        "duration_ms": 953,
+        "error": "HTTPSConnectionPool(host='s.baoyu.io', port=443): Max retries exceeded with url: /feed.xml (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
