@@ -1,29 +1,29 @@
 {
-  "generated_at": "2026-11-26T11:31:40.923113Z",
+  "generated_at": "2026-11-26T12:01:43.716460Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
     {
-      "story_id": "story_899fac7e23dc",
-      "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "primary_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "story_id": "story_70e53371dbeb",
+      "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+      "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
+      "primary_url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
       "source": "Hugging Face Blog",
       "source_name": "Official AI Updates",
       "sources": [
         {
-          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
-          "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
+          "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title_zh": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板",
+          "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-26T05:05:36Z",
+          "published_at": "2026-11-26T11:37:17Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -34,33 +34,33 @@
       ],
       "items": [
         {
-          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
-          "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
+          "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title_zh": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板",
+          "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+          "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
           "source": "Hugging Face Blog",
           "source_name": "Official AI Updates",
           "site_id": "official_ai",
-          "published_at": "2026-11-26T05:05:36Z",
+          "published_at": "2026-11-26T11:37:17Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.844,
-      "importance": 0.844,
-      "importance_score": 0.844,
+      "score": 0.8649,
+      "importance": 0.8649,
+      "importance_score": 0.8649,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.9113,
+        "ai_relevance": 0.98,
+        "recency": 0.9941,
         "story_heat": 0.0
       },
       "category": "official",
@@ -69,17 +69,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-26T05:05:36Z",
-      "latest_at": "2026-11-26T05:05:36Z",
+      "earliest_at": "2026-11-26T11:37:17Z",
+      "latest_at": "2026-11-26T11:37:17Z",
       "primary_item": {
-        "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-        "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
-        "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "id": "9d5076e88f56f7181159d0147f16fb146f439e61",
+        "title": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板 / Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "title_zh": "推出适用于 AMD Ryzen 和 Radeon 的 llama.cpp 基准仪表板",
+        "title_en": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
+        "title_original": "Introducing the llama.cpp benchmark dashboard for AMD Ryzen and Radeon",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "url": "https://huggingface.co/blog/ggml-org/llamacpp-amd-bench",
         "source": "Hugging Face Blog",
         "source_name": "Official AI Updates"
       },
@@ -87,7 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -139,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8207,
-      "importance": 0.8207,
-      "importance_score": 0.8207,
+      "score": 0.8196,
+      "importance": 0.8196,
+      "importance_score": 0.8196,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.91,
-        "recency": 0.8261,
+        "recency": 0.8202,
         "story_heat": 0.0
       },
       "category": "official",
@@ -174,7 +174,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
+      }
+    },
+    {
+      "story_id": "story_899fac7e23dc",
+      "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "primary_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
+          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
+          "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-26T05:05:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
+          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
+          "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-26T05:05:36Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8428,
+      "importance": 0.8428,
+      "importance_score": 0.8428,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.9047,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-26T05:05:36Z",
+      "latest_at": "2026-11-26T05:05:36Z",
+      "primary_item": {
+        "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
+        "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
+        "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -226,15 +313,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7978,
-      "importance": 0.7978,
-      "importance_score": 0.7978,
+      "score": 0.7969,
+      "importance": 0.7969,
+      "importance_score": 0.7969,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.87,
-        "recency": 0.7435,
+        "recency": 0.7381,
         "story_heat": 0.0
       },
       "category": "official",
@@ -261,94 +348,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
-      }
-    },
-    {
-      "story_id": "story_9ef31414a556",
-      "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "primary_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
-          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-          "title_zh": "科学家为人工智能代理划定界限",
-          "title_en": "Where scientists draw the line on AI agents",
-          "title_original": "Where scientists draw the line on AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T18:52:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
-          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-          "title_zh": "科学家为人工智能代理划定界限",
-          "title_en": "Where scientists draw the line on AI agents",
-          "title_original": "Where scientists draw the line on AI agents",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-25T18:52:55Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8215,
-      "importance": 0.8215,
-      "importance_score": 0.8215,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7863,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-25T18:52:55Z",
-      "latest_at": "2026-11-25T18:52:55Z",
-      "primary_item": {
-        "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
-        "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
-        "title_zh": "科学家为人工智能代理划定界限",
-        "title_en": "Where scientists draw the line on AI agents",
-        "title_original": "Where scientists draw the line on AI agents",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -400,15 +400,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -434,7 +434,94 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
+      }
+    },
+    {
+      "story_id": "story_9ef31414a556",
+      "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+      "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "primary_url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+      "source": "Hugging Face Blog",
+      "source_name": "Official AI Updates",
+      "sources": [
+        {
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+          "title_zh": "科学家为人工智能代理划定界限",
+          "title_en": "Where scientists draw the line on AI agents",
+          "title_original": "Where scientists draw the line on AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T18:52:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "Hugging Face Blog"
+      ],
+      "items": [
+        {
+          "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+          "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+          "title_zh": "科学家为人工智能代理划定界限",
+          "title_en": "Where scientists draw the line on AI agents",
+          "title_original": "Where scientists draw the line on AI agents",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+          "source": "Hugging Face Blog",
+          "source_name": "Official AI Updates",
+          "site_id": "official_ai",
+          "published_at": "2026-11-25T18:52:55Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.8205,
+      "importance": 0.8205,
+      "importance_score": 0.8205,
+      "importance_label": "官方更新",
+      "importance_breakdown": {
+        "editorial": 0.9,
+        "source_tier": 1.0,
+        "ai_relevance": 0.95,
+        "recency": 0.7807,
+        "story_heat": 0.0
+      },
+      "category": "official",
+      "reasons": [
+        "official_source",
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-25T18:52:55Z",
+      "latest_at": "2026-11-25T18:52:55Z",
+      "primary_item": {
+        "id": "4a9ae8927a6393d8ed4bf4b554478250e3dc3785",
+        "title": "科学家为人工智能代理划定界限 / Where scientists draw the line on AI agents",
+        "title_zh": "科学家为人工智能代理划定界限",
+        "title_en": "Where scientists draw the line on AI agents",
+        "title_original": "Where scientists draw the line on AI agents",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://huggingface.co/blog/allenai/where-scientists-draw-the-line-on-ai-agents",
+        "source": "Hugging Face Blog",
+        "source_name": "Official AI Updates"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -486,15 +573,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -520,7 +607,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -572,15 +659,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -606,7 +693,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -658,15 +745,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -692,7 +779,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -744,15 +831,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -778,7 +865,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -830,15 +917,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -864,7 +951,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -949,15 +1036,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.6077,
-      "importance": 0.6077,
-      "importance_score": 0.6077,
+      "score": 0.6067,
+      "importance": 0.6067,
+      "importance_score": 0.6067,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.5472,
         "source_tier": 0.58,
         "ai_relevance": 0.76,
-        "recency": 0.7719,
+        "recency": 0.7663,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -982,7 +1069,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -1006,7 +1093,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-26T11:35:17Z",
+          "updated_at": "2026-11-26T12:04:22Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1045,7 +1132,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-26T11:35:17Z",
+          "updated_at": "2026-11-26T12:04:22Z",
           "recency_basis": "updated_at"
         },
         {
@@ -1083,7 +1170,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-26T11:05:54.523000Z",
-      "latest_at": "2026-11-26T11:35:17Z",
+      "latest_at": "2026-11-26T12:04:22Z",
       "primary_item": {
         "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
         "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
@@ -1100,7 +1187,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -1184,15 +1271,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5866,
-      "importance": 0.5866,
-      "importance_score": 0.5866,
+      "score": 0.5853,
+      "importance": 0.5853,
+      "importance_score": 0.5853,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9576,
+        "recency": 0.9507,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1217,7 +1304,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -1269,15 +1356,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1303,46 +1390,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
-      "story_id": "story_1eca65dd42d6",
-      "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-      "url": "https://www.producthunt.com/products/3way-social",
-      "primary_url": "https://www.producthunt.com/products/3way-social",
+      "story_id": "story_ddd38ada83be",
+      "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+      "url": "https://www.producthunt.com/products/transept-ai",
+      "primary_url": "https://www.producthunt.com/products/transept-ai",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "summary": "Ask your AI to find link partners. You approve the deals.",
+          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
+          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
+          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
+          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
+          "summary": "Translate your book in your own voice and prove authorship",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/transept-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-23T18:57:44Z",
-          "updated_at": "2026-11-26T09:03:38Z",
+          "published_at": "2026-11-25T16:34:15Z",
+          "updated_at": "2026-11-26T12:00:30Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
-          "title": "3way.Social MCP",
+          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
+          "title": "Transept AI",
           "title_zh": null,
-          "title_en": "3way.Social MCP",
-          "title_original": "3way.Social MCP",
+          "title_en": "Transept AI",
+          "title_original": "Transept AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/transept-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-25T12:20:48.655000Z",
+          "published_at": "2026-11-26T12:06:03.174000Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1354,66 +1441,66 @@
       ],
       "items": [
         {
-          "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-          "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-          "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-          "summary": "Ask your AI to find link partners. You approve the deals.",
+          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
+          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
+          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
+          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
+          "summary": "Translate your book in your own voice and prove authorship",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/transept-ai",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-23T18:57:44Z",
-          "updated_at": "2026-11-26T09:03:38Z",
+          "published_at": "2026-11-25T16:34:15Z",
+          "updated_at": "2026-11-26T12:00:30Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "31c519a94319579a44aa53178e9a4b94d2e37366",
-          "title": "3way.Social MCP",
+          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
+          "title": "Transept AI",
           "title_zh": null,
-          "title_en": "3way.Social MCP",
-          "title_original": "3way.Social MCP",
+          "title_en": "Transept AI",
+          "title_original": "Transept AI",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/3way-social",
+          "url": "https://www.producthunt.com/products/transept-ai",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-25T12:20:48.655000Z",
+          "published_at": "2026-11-26T12:06:03.174000Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5879,
-      "importance": 0.5879,
-      "importance_score": 0.5879,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.965,
+        "recency": 0.9997,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-25T12:20:48.655000Z",
-      "latest_at": "2026-11-26T09:03:38Z",
+      "earliest_at": "2026-11-26T12:00:30Z",
+      "latest_at": "2026-11-26T12:06:03.174000Z",
       "primary_item": {
-        "id": "b911ce93305b7e4e066d32e8767e493448e1dda0",
-        "title": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。 / 3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "title_zh": "3way.Social MCP — 让您的 AI 寻找链接合作伙伴。您批准这些交易。",
-        "title_en": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "title_original": "3way.Social MCP — Ask your AI to find link partners. You approve the deals.",
-        "summary": "Ask your AI to find link partners. You approve the deals.",
+        "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
+        "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+        "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
+        "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
+        "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
+        "summary": "Translate your book in your own voice and prove authorship",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/3way-social",
+        "url": "https://www.producthunt.com/products/transept-ai",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -1421,7 +1508,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -1539,15 +1626,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5573,
-      "importance": 0.5573,
-      "importance_score": 0.5573,
+      "score": 0.5561,
+      "importance": 0.5561,
+      "importance_score": 0.5561,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.925,
+        "recency": 0.9183,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1572,7 +1659,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -1624,15 +1711,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7527,
+      "importance": 0.7527,
+      "importance_score": 0.7527,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.9171,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1658,7 +1745,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -1743,15 +1830,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5412,
-      "importance": 0.5412,
-      "importance_score": 0.5412,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9745,
+        "recency": 0.9675,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1776,7 +1863,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     },
     {
@@ -1894,15 +1981,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5398,
+      "importance": 0.5398,
+      "importance_score": 0.5398,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8336,
+        "recency": 0.8276,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1927,125 +2014,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
-      }
-    },
-    {
-      "story_id": "story_3a63c396fb42",
-      "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
-      "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "primary_url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f3b984595e395a20531ad3aa42b6539e772bf7c1",
-          "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
-          "title_zh": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
-          "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
-          "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T21:18:02Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "240cfdd54a76f2ebf66bd26404ed1e54c677f910",
-          "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
-          "title_zh": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
-          "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
-          "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50647673",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T21:18:02Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f3b984595e395a20531ad3aa42b6539e772bf7c1",
-          "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
-          "title_zh": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
-          "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
-          "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-25T21:18:02Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "240cfdd54a76f2ebf66bd26404ed1e54c677f910",
-          "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
-          "title_zh": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
-          "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
-          "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50647673",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-25T21:18:02Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5124,
-      "importance": 0.5124,
-      "importance_score": 0.5124,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8143,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-25T21:18:02Z",
-      "latest_at": "2026-11-25T21:18:02Z",
-      "primary_item": {
-        "id": "f3b984595e395a20531ad3aa42b6539e772bf7c1",
-        "title": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop / The New York Times warns photographers not to update Photoshop over AI features",
-        "title_zh": "《纽约时报》警告摄影师不要因为 AI 功能而更新 Photoshop",
-        "title_en": "The New York Times warns photographers not to update Photoshop over AI features",
-        "title_original": "The New York Times warns photographers not to update Photoshop over AI features",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theverge.com/ai-artificial-intelligence/1041227/the-new-york-times-warns-photographers-not-to-update-photoshop-over-ai-features",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-26T11:37:15.983042Z"
+        "scored_at": "2026-11-26T12:07:17.413337Z"
       }
     }
   ]
