@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T05:01:43.768496Z",
+  "generated_at": "2026-11-27T05:31:43.186761Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.826,
-      "importance": 0.826,
-      "importance_score": 0.826,
+      "score": 0.825,
+      "importance": 0.825,
+      "importance_score": 0.825,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7777,
+        "recency": 0.7721,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,94 +87,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
-      }
-    },
-    {
-      "story_id": "story_899fac7e23dc",
-      "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-      "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "primary_url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
-          "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-26T05:05:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-          "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
-          "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-26T05:05:36Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8074,
-      "importance": 0.8074,
-      "importance_score": 0.8074,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7078,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-26T05:05:36Z",
-      "latest_at": "2026-11-26T05:05:36Z",
-      "primary_item": {
-        "id": "789c7db56b555c589971fa4bcd2372445039ddeb",
-        "title": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理 / Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "title_zh": "基于 Nemotron 3.5 Parse 构建：开放数据、微调和更快的推理",
-        "title_en": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "title_original": "Building on Nemotron 3.5 Parse: Open Data, Fine-Tuning, and Faster Inference",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/nvidia/building-on-nemotron-35-parse-open-data-fine-tunin",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -226,15 +139,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -260,7 +173,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -312,15 +225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -346,7 +259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -398,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -432,7 +345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -484,15 +397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -518,7 +431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -570,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -604,7 +517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -656,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -690,7 +603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -714,7 +627,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-27T04:56:34Z",
+          "updated_at": "2026-11-27T05:30:01Z",
           "recency_basis": "updated_at"
         },
         {
@@ -753,7 +666,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-27T04:56:34Z",
+          "updated_at": "2026-11-27T05:30:01Z",
           "recency_basis": "updated_at"
         },
         {
@@ -775,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.5941,
+      "importance": 0.5941,
+      "importance_score": 0.5941,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9988,
+        "recency": 0.9996,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -791,7 +704,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-26T11:05:54.523000Z",
-      "latest_at": "2026-11-27T04:56:34Z",
+      "latest_at": "2026-11-27T05:30:01Z",
       "primary_item": {
         "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
         "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
@@ -808,7 +721,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -860,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -894,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -918,7 +831,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-25T16:34:15Z",
-          "updated_at": "2026-11-27T03:53:55Z",
+          "updated_at": "2026-11-27T05:23:14Z",
           "recency_basis": "updated_at"
         },
         {
@@ -957,7 +870,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-25T16:34:15Z",
-          "updated_at": "2026-11-27T03:53:55Z",
+          "updated_at": "2026-11-27T05:23:14Z",
           "recency_basis": "updated_at"
         },
         {
@@ -979,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5913,
-      "importance": 0.5913,
-      "importance_score": 0.5913,
+      "score": 0.5938,
+      "importance": 0.5938,
+      "importance_score": 0.5938,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9838,
+        "recency": 0.998,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -995,7 +908,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-26T12:06:03.174000Z",
-      "latest_at": "2026-11-27T03:53:55Z",
+      "latest_at": "2026-11-27T05:23:14Z",
       "primary_item": {
         "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
         "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
@@ -1012,7 +925,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -1096,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5613,
-      "importance": 0.5613,
-      "importance_score": 0.5613,
+      "score": 0.5602,
+      "importance": 0.5602,
+      "importance_score": 0.5602,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.817,
+        "recency": 0.8111,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1129,7 +1042,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -1181,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1215,7 +1128,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -1333,15 +1246,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5569,
-      "importance": 0.5569,
-      "importance_score": 0.5569,
+      "score": 0.5557,
+      "importance": 0.5557,
+      "importance_score": 0.5557,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9227,
+        "recency": 0.9161,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1366,7 +1279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -1484,15 +1397,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5476,
-      "importance": 0.5476,
-      "importance_score": 0.5476,
+      "score": 0.5465,
+      "importance": 0.5465,
+      "importance_score": 0.5465,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.871,
+        "recency": 0.8648,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1517,7 +1430,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -1602,15 +1515,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5399,
-      "importance": 0.5399,
-      "importance_score": 0.5399,
+      "score": 0.5387,
+      "importance": 0.5387,
+      "importance_score": 0.5387,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9674,
+        "recency": 0.9605,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1635,7 +1548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -1687,15 +1600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1721,7 +1634,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -1806,15 +1719,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5269,
-      "importance": 0.5269,
-      "importance_score": 0.5269,
+      "score": 0.5257,
+      "importance": 0.5257,
+      "importance_score": 0.5257,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8948,
+        "recency": 0.8883,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1839,7 +1752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -1924,15 +1837,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8577,
+        "recency": 0.8515,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1957,7 +1870,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     },
     {
@@ -2042,15 +1955,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5071,
-      "importance": 0.5071,
-      "importance_score": 0.5071,
+      "score": 0.5061,
+      "importance": 0.5061,
+      "importance_score": 0.5061,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7849,
+        "recency": 0.7793,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2075,7 +1988,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T05:06:32.425532Z"
+        "scored_at": "2026-11-27T05:36:17.652444Z"
+      }
+    },
+    {
+      "story_id": "story_1a0ab21c58d3",
+      "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+      "primary_url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
+          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T00:03:18Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
+          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50661218",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T00:03:18Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
+          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T00:03:18Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
+          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
+          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50661218",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T00:03:18Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5321,
+      "importance": 0.5321,
+      "importance_score": 0.5321,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.924,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T00:03:18Z",
+      "latest_at": "2026-11-27T00:03:18Z",
+      "primary_item": {
+        "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
+        "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
+        "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
+        "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
+        "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T05:36:17.652444Z"
       }
     }
   ]
