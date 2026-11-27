@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:31:42.483826Z",
+  "generated_at": "2026-11-27T11:01:42.884659Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8172,
-      "importance": 0.8172,
-      "importance_score": 0.8172,
+      "score": 0.8144,
+      "importance": 0.8144,
+      "importance_score": 0.8144,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7288,
+        "recency": 0.7132,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
+      }
+    },
+    {
+      "story_id": "story_f707740900a2",
+      "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+      "url": "https://www.aibase.com/news/32580",
+      "primary_url": "https://www.aibase.com/news/32580",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_en": null,
+          "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T11:01:42.884659Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+          "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "title_en": null,
+          "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32580",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T11:01:42.884659Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T11:01:42.884659Z",
+      "latest_at": "2026-11-27T11:01:42.884659Z",
+      "primary_item": {
+        "id": "2ef9255d5cfef559a095ffde0aae6da03b1b35fa",
+        "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "title_zh": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "title_en": null,
+        "title_original": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32580",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -139,15 +225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -173,7 +259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -225,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -259,7 +345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -311,15 +397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7612,
+      "importance": 0.7612,
+      "importance_score": 0.7612,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9645,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -345,7 +431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -397,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -431,7 +517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -483,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -517,7 +603,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
+      }
+    },
+    {
+      "story_id": "story_15dbdc0196d0",
+      "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+      "url": "https://www.producthunt.com/products/transept-ai",
+      "primary_url": "https://www.producthunt.com/products/transept-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
+          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
+          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
+          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
+          "summary": "Translate your book in your own voice and prove authorship",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/transept-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T16:34:15Z",
+          "updated_at": "2026-11-27T10:05:04Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
+          "title": "Transept AI",
+          "title_zh": null,
+          "title_en": "Transept AI",
+          "title_original": "Transept AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/transept-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T12:06:03.174000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
+          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
+          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
+          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
+          "summary": "Translate your book in your own voice and prove authorship",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/transept-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T16:34:15Z",
+          "updated_at": "2026-11-27T10:05:04Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
+          "title": "Transept AI",
+          "title_zh": null,
+          "title_en": "Transept AI",
+          "title_original": "Transept AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/transept-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T12:06:03.174000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5918,
+      "importance": 0.5918,
+      "importance_score": 0.5918,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9865,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T12:06:03.174000Z",
+      "latest_at": "2026-11-27T10:05:04Z",
+      "primary_item": {
+        "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
+        "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
+        "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
+        "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
+        "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
+        "summary": "Translate your book in your own voice and prove authorship",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/transept-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -569,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9786,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -603,211 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
-      }
-    },
-    {
-      "story_id": "story_15dbdc0196d0",
-      "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-      "url": "https://www.producthunt.com/products/transept-ai",
-      "primary_url": "https://www.producthunt.com/products/transept-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
-          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
-          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
-          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
-          "summary": "Translate your book in your own voice and prove authorship",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-25T16:34:15Z",
-          "updated_at": "2026-11-27T08:35:45Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
-          "title": "Transept AI",
-          "title_zh": null,
-          "title_en": "Transept AI",
-          "title_original": "Transept AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T12:06:03.174000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
-          "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-          "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
-          "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
-          "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
-          "summary": "Translate your book in your own voice and prove authorship",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-25T16:34:15Z",
-          "updated_at": "2026-11-27T08:35:45Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "452c17a1ccc1b162b9be5f3a98412ae4225d196e",
-          "title": "Transept AI",
-          "title_zh": null,
-          "title_en": "Transept AI",
-          "title_original": "Transept AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/transept-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T12:06:03.174000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5918,
-      "importance": 0.5918,
-      "importance_score": 0.5918,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9866,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T12:06:03.174000Z",
-      "latest_at": "2026-11-27T08:35:45Z",
-      "primary_item": {
-        "id": "a694428d1f47f3a936ac0e4824d55a985524c407",
-        "title": "Transept AI — 用您自己的声音翻译您的书并证明作者身份 / Transept AI — Translate your book in your own voice and prove authorship",
-        "title_zh": "Transept AI — 用您自己的声音翻译您的书并证明作者身份",
-        "title_en": "Transept AI — Translate your book in your own voice and prove authorship",
-        "title_original": "Transept AI — Translate your book in your own voice and prove authorship",
-        "summary": "Translate your book in your own voice and prove authorship",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/transept-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
-      }
-    },
-    {
-      "story_id": "story_8f35bb437032",
-      "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-      "url": "https://www.aibase.com/news/32573",
-      "primary_url": "https://www.aibase.com/news/32573",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_en": null,
-          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32573",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:01:42.407332Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_en": null,
-          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32573",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:01:42.407332Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9786,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:01:42.407332Z",
-      "latest_at": "2026-11-27T08:01:42.407332Z",
-      "primary_item": {
-        "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-        "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "title_en": null,
-        "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32573",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -925,15 +925,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5682,
-      "importance": 0.5682,
-      "importance_score": 0.5682,
+      "score": 0.5644,
+      "importance": 0.5644,
+      "importance_score": 0.5644,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9858,
+        "recency": 0.9646,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -958,7 +958,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -1043,15 +1043,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5891,
-      "importance": 0.5891,
-      "importance_score": 0.5891,
+      "score": 0.5854,
+      "importance": 0.5854,
+      "importance_score": 0.5854,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9718,
+        "recency": 0.951,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1076,7 +1076,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
+      }
+    },
+    {
+      "story_id": "story_8f35bb437032",
+      "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+      "url": "https://www.aibase.com/news/32573",
+      "primary_url": "https://www.aibase.com/news/32573",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_en": null,
+          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:01:42.407332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_en": null,
+          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:01:42.407332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T08:01:42.407332Z",
+      "latest_at": "2026-11-27T08:01:42.407332Z",
+      "primary_item": {
+        "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+        "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "title_en": null,
+        "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32573",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -1160,15 +1246,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.552,
-      "importance": 0.552,
-      "importance_score": 0.552,
+      "score": 0.549,
+      "importance": 0.549,
+      "importance_score": 0.549,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7656,
+        "recency": 0.7492,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1193,93 +1279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
-      }
-    },
-    {
-      "story_id": "story_29d98f0448ca",
-      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-      "url": "https://www.aibase.com/news/32571",
-      "primary_url": "https://www.aibase.com/news/32571",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_en": null,
-          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T07:01:42.865809Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_en": null,
-          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T07:01:42.865809Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9645,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T07:01:42.865809Z",
-      "latest_at": "2026-11-27T07:01:42.865809Z",
-      "primary_item": {
-        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "title_en": null,
-        "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32571",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -1397,15 +1397,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5464,
-      "importance": 0.5464,
-      "importance_score": 0.5464,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8647,
+        "recency": 0.8462,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1430,12 +1430,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
       "story_id": "story_fb08618e010b",
-      "title": "Claude sabotaging SOTA ML research tasks",
+      "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
       "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "source": "Hacker News · 24h最热",
@@ -1443,8 +1443,8 @@
       "sources": [
         {
           "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-          "title": "Claude sabotaging SOTA ML research tasks",
-          "title_zh": null,
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude 破坏 SOTA ML 研究任务",
           "title_en": "Claude sabotaging SOTA ML research tasks",
           "title_original": "Claude sabotaging SOTA ML research tasks",
           "summary": null,
@@ -1459,8 +1459,8 @@
         },
         {
           "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
-          "title": "Claude sabotaging SOTA ML research tasks",
-          "title_zh": null,
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude 破坏 SOTA ML 研究任务",
           "title_en": "Claude sabotaging SOTA ML research tasks",
           "title_original": "Claude sabotaging SOTA ML research tasks",
           "summary": null,
@@ -1482,8 +1482,8 @@
       "items": [
         {
           "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-          "title": "Claude sabotaging SOTA ML research tasks",
-          "title_zh": null,
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude 破坏 SOTA ML 研究任务",
           "title_en": "Claude sabotaging SOTA ML research tasks",
           "title_original": "Claude sabotaging SOTA ML research tasks",
           "summary": null,
@@ -1498,8 +1498,8 @@
         },
         {
           "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
-          "title": "Claude sabotaging SOTA ML research tasks",
-          "title_zh": null,
+          "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+          "title_zh": "Claude 破坏 SOTA ML 研究任务",
           "title_en": "Claude sabotaging SOTA ML research tasks",
           "title_original": "Claude sabotaging SOTA ML research tasks",
           "summary": null,
@@ -1515,15 +1515,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5431,
-      "importance": 0.5431,
-      "importance_score": 0.5431,
+      "score": 0.5393,
+      "importance": 0.5393,
+      "importance_score": 0.5393,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9848,
+        "recency": 0.9637,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1534,8 +1534,8 @@
       "latest_at": "2026-11-27T08:28:08Z",
       "primary_item": {
         "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
-        "title": "Claude sabotaging SOTA ML research tasks",
-        "title_zh": null,
+        "title": "Claude 破坏 SOTA ML 研究任务 / Claude sabotaging SOTA ML research tasks",
+        "title_zh": "Claude 破坏 SOTA ML 研究任务",
         "title_en": "Claude sabotaging SOTA ML research tasks",
         "title_original": "Claude sabotaging SOTA ML research tasks",
         "summary": null,
@@ -1548,197 +1548,132 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
-      "story_id": "story_4466ef64dac9",
-      "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-      "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-      "primary_url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-      "source": "techstackups.com",
-      "source_name": "Buzzing",
+      "story_id": "story_29d98f0448ca",
+      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+      "url": "https://www.aibase.com/news/32571",
+      "primary_url": "https://www.aibase.com/news/32571",
+      "source": "AIbase",
+      "source_name": "AIbase",
       "sources": [
         {
-          "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "title_en": null,
-          "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-          "source": "techstackups.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T19:27:56.609000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7b2cd61ac4e0a79d3fc31a4b239810c46a63428a",
-          "title": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50653477",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T09:44:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "f8e16a3272250d7401ae9e09cb6479b4a6014ee3",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T09:44:23Z",
+          "url": "https://www.aibase.com/news/32571",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T07:01:42.865809Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "source_count": 3,
+      "source_count": 1,
       "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "techstackups.com"
+        "AIbase"
       ],
       "items": [
         {
-          "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "title_en": null,
-          "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-          "source": "techstackups.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T19:27:56.609000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7b2cd61ac4e0a79d3fc31a4b239810c46a63428a",
-          "title": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将让 AI 代理使用其 MCP 服务器。 Gmail无法发送邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50653477",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T09:44:23Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "f8e16a3272250d7401ae9e09cb6479b4a6014ee3",
-          "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件 / Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-          "title_en": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "title_original": "Google Will Make AI Agents Use Its MCP Servers. The Gmail One Can't Send Email",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T09:44:23Z",
+          "url": "https://www.aibase.com/news/32571",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T07:01:42.865809Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5377,
-      "importance": 0.5377,
-      "importance_score": 0.5377,
-      "importance_label": "多源热议",
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7575,
+      "importance": 0.7575,
+      "importance_score": 0.7575,
+      "importance_label": "行业动态",
       "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.8162,
-        "story_heat": 0.5
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9439,
+        "story_heat": 0.0
       },
-      "category": "multi_source",
+      "category": "industry",
       "reasons": [
-        "multi_source"
+        "high_ai_relevance",
+        "high_importance"
       ],
-      "earliest_at": "2026-11-26T09:44:23Z",
-      "latest_at": "2026-11-26T19:27:56.609000Z",
+      "earliest_at": "2026-11-27T07:01:42.865809Z",
+      "latest_at": "2026-11-27T07:01:42.865809Z",
       "primary_item": {
-        "id": "15e7223aca1b314fe3ea5b92e73d3b2af8679a38",
-        "title": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
-        "title_zh": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+        "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
         "title_en": null,
-        "title_original": "谷歌将要求人工智能代理使用其MCP服务器。其中Gmail代理无法发送电子邮件",
+        "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://techstackups.com/articles/google-workspace-ai-agents-mcp",
-        "source": "techstackups.com",
-        "source_name": "Buzzing"
+        "url": "https://www.aibase.com/news/32571",
+        "source": "AIbase",
+        "source_name": "AIbase"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
-      "story_id": "story_4f0b2e4812aa",
-      "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-      "url": "https://news.ycombinator.com/item?id=50662933",
-      "primary_url": "https://news.ycombinator.com/item?id=50662933",
+      "story_id": "story_89b270442a1e",
+      "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
+      "url": "https://news.ycombinator.com/item?id=50658498",
+      "primary_url": "https://news.ycombinator.com/item?id=50658498",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
-          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
-          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
-          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
+          "id": "5b67085f05e9a1c4dab0f84fd362f4e65f9b5760",
+          "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
+          "title_zh": "机器学习中的不确定性简介",
+          "title_en": "An introduction to uncertainty in machine learning",
+          "title_original": "An introduction to uncertainty in machine learning",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50662933",
+          "url": "https://news.ycombinator.com/item?id=50658498",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T04:56:18Z",
+          "published_at": "2026-11-26T19:04:50Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
-          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
-          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
+          "id": "3f407ea567b7e8545afcc05a65d2550cd0225e6d",
+          "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
+          "title_zh": "机器学习中的不确定性简介",
+          "title_en": "An introduction to uncertainty in machine learning",
+          "title_original": "An introduction to uncertainty in machine learning",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T04:56:18Z",
+          "published_at": "2026-11-26T19:04:50Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1750,66 +1685,66 @@
       ],
       "items": [
         {
-          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
-          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
-          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
-          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
+          "id": "5b67085f05e9a1c4dab0f84fd362f4e65f9b5760",
+          "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
+          "title_zh": "机器学习中的不确定性简介",
+          "title_en": "An introduction to uncertainty in machine learning",
+          "title_original": "An introduction to uncertainty in machine learning",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50662933",
+          "url": "https://news.ycombinator.com/item?id=50658498",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T04:56:18Z",
+          "published_at": "2026-11-26T19:04:50Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
-          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
-          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
-          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
+          "id": "3f407ea567b7e8545afcc05a65d2550cd0225e6d",
+          "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
+          "title_zh": "机器学习中的不确定性简介",
+          "title_en": "An introduction to uncertainty in machine learning",
+          "title_original": "An introduction to uncertainty in machine learning",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T04:56:18Z",
+          "published_at": "2026-11-26T19:04:50Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5343,
-      "importance": 0.5343,
-      "importance_score": 0.5343,
+      "score": 0.5088,
+      "importance": 0.5088,
+      "importance_score": 0.5088,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9359,
+        "recency": 0.7943,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T04:56:18Z",
-      "latest_at": "2026-11-27T04:56:18Z",
+      "earliest_at": "2026-11-26T19:04:50Z",
+      "latest_at": "2026-11-26T19:04:50Z",
       "primary_item": {
-        "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
-        "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
-        "title_zh": "“Claude的芙索娜是什么？”和其他问题",
-        "title_en": "\"What's Claude's Fursona?\" and Other Questions",
-        "title_original": "\"What's Claude's Fursona?\" and Other Questions",
+        "id": "5b67085f05e9a1c4dab0f84fd362f4e65f9b5760",
+        "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
+        "title_zh": "机器学习中的不确定性简介",
+        "title_en": "An introduction to uncertainty in machine learning",
+        "title_original": "An introduction to uncertainty in machine learning",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50662933",
+        "url": "https://news.ycombinator.com/item?id=50658498",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1817,93 +1752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
-      }
-    },
-    {
-      "story_id": "story_100780690ce0",
-      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-      "url": "https://www.aibase.com/news/32569",
-      "primary_url": "https://www.aibase.com/news/32569",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_en": null,
-          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T06:31:42.740091Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_en": null,
-          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T06:31:42.740091Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9576,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T06:31:42.740091Z",
-      "latest_at": "2026-11-27T06:31:42.740091Z",
-      "primary_item": {
-        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-        "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-        "title_en": null,
-        "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32569",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
@@ -1988,15 +1837,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5105,
-      "importance": 0.5105,
-      "importance_score": 0.5105,
+      "score": 0.5074,
+      "importance": 0.5074,
+      "importance_score": 0.5074,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8037,
+        "recency": 0.7865,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2021,46 +1870,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     },
     {
-      "story_id": "story_89105021ab8e",
-      "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-      "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-      "primary_url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "story_id": "story_68e86bf40941",
+      "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+      "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
+      "primary_url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "1b65d0df52c68f691605a87eee82368498605aee",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
+          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
+          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
+          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T02:44:12Z",
+          "published_at": "2026-11-27T04:56:18Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "7456b2e92f6a85afd5d1f68ebab4c3589f6021b3",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
+          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
+          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
+          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50662153",
+          "url": "https://news.ycombinator.com/item?id=50662933",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T02:44:12Z",
+          "published_at": "2026-11-27T04:56:18Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -2072,66 +1921,66 @@
       ],
       "items": [
         {
-          "id": "1b65d0df52c68f691605a87eee82368498605aee",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "id": "7f849edb9e204c1128daa311da756932b96fc63e",
+          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
+          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
+          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+          "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T02:44:12Z",
+          "published_at": "2026-11-27T04:56:18Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "7456b2e92f6a85afd5d1f68ebab4c3589f6021b3",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "id": "48a6148e152f8dc2148ce4bd9260df0209676d82",
+          "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+          "title_zh": "“Claude的芙索娜是什么？”和其他问题",
+          "title_en": "\"What's Claude's Fursona?\" and Other Questions",
+          "title_original": "\"What's Claude's Fursona?\" and Other Questions",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50662153",
+          "url": "https://news.ycombinator.com/item?id=50662933",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T02:44:12Z",
+          "published_at": "2026-11-27T04:56:18Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.529,
-      "importance": 0.529,
-      "importance_score": 0.529,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9066,
+        "recency": 0.9158,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T02:44:12Z",
-      "latest_at": "2026-11-27T02:44:12Z",
+      "earliest_at": "2026-11-27T04:56:18Z",
+      "latest_at": "2026-11-27T04:56:18Z",
       "primary_item": {
-        "id": "1b65d0df52c68f691605a87eee82368498605aee",
-        "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-        "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-        "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-        "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
+        "id": "7f849edb9e204c1128daa311da756932b96fc63e",
+        "title": "“Claude的芙索娜是什么？”和其他问题 / \"What's Claude's Fursona?\" and Other Questions",
+        "title_zh": "“Claude的芙索娜是什么？”和其他问题",
+        "title_en": "\"What's Claude's Fursona?\" and Other Questions",
+        "title_original": "\"What's Claude's Fursona?\" and Other Questions",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+        "url": "https://herecomesthemoon.net/2026/11/whats-claudes-fursona",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -2139,7 +1988,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:42:20.641677Z"
+        "scored_at": "2026-11-27T11:07:04.807108Z"
+      }
+    },
+    {
+      "story_id": "story_100780690ce0",
+      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+      "url": "https://www.aibase.com/news/32569",
+      "primary_url": "https://www.aibase.com/news/32569",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_en": null,
+          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T06:31:42.740091Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_en": null,
+          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T06:31:42.740091Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7563,
+      "importance": 0.7563,
+      "importance_score": 0.7563,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9371,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T06:31:42.740091Z",
+      "latest_at": "2026-11-27T06:31:42.740091Z",
+      "primary_item": {
+        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "title_en": null,
+        "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32569",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T11:07:04.807108Z"
       }
     }
   ]
