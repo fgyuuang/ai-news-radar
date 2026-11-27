@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T06:01:43.152751Z",
+  "generated_at": "2026-11-27T06:31:42.740091Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.824,
-      "importance": 0.824,
-      "importance_score": 0.824,
+      "score": 0.823,
+      "importance": 0.823,
+      "importance_score": 0.823,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7666,
+        "recency": 0.7611,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
+      }
+    },
+    {
+      "story_id": "story_100780690ce0",
+      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+      "url": "https://www.aibase.com/news/32569",
+      "primary_url": "https://www.aibase.com/news/32569",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_en": null,
+          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T06:31:42.740091Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_en": null,
+          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32569",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T06:31:42.740091Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T06:31:42.740091Z",
+      "latest_at": "2026-11-27T06:31:42.740091Z",
+      "primary_item": {
+        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "title_en": null,
+        "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32569",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T06:42:37.605778Z"
+      }
+    },
+    {
+      "story_id": "story_2c9396790e68",
+      "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+      "url": "https://www.aibase.com/news/32570",
+      "primary_url": "https://www.aibase.com/news/32570",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_en": null,
+          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32570",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T06:31:42.740091Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_en": null,
+          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32570",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T06:31:42.740091Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T06:31:42.740091Z",
+      "latest_at": "2026-11-27T06:31:42.740091Z",
+      "primary_item": {
+        "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+        "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "title_en": null,
+        "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32570",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -139,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -173,7 +345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -225,15 +397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -259,7 +431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -311,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -345,7 +517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -397,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -431,7 +603,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
+      }
+    },
+    {
+      "story_id": "story_abf6cd5ba2e3",
+      "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+      "url": "https://www.producthunt.com/products/qa-tech",
+      "primary_url": "https://www.producthunt.com/products/qa-tech",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
+          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
+          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "summary": "Verify every change from your IDE with QA agents",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-24T14:28:22Z",
+          "updated_at": "2026-11-27T06:27:16Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "871c781bba54404ddad46abffc01b6373bddf060",
+          "title": "QA.tech MCP",
+          "title_zh": null,
+          "title_en": "QA.tech MCP",
+          "title_original": "QA.tech MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T11:05:54.523000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
+          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
+          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
+          "summary": "Verify every change from your IDE with QA agents",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-24T14:28:22Z",
+          "updated_at": "2026-11-27T06:27:16Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "871c781bba54404ddad46abffc01b6373bddf060",
+          "title": "QA.tech MCP",
+          "title_zh": null,
+          "title_en": "QA.tech MCP",
+          "title_original": "QA.tech MCP",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/qa-tech",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-26T11:05:54.523000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9989,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-26T11:05:54.523000Z",
+      "latest_at": "2026-11-27T06:27:16Z",
+      "primary_item": {
+        "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
+        "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
+        "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
+        "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
+        "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
+        "summary": "Verify every change from your IDE with QA agents",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/qa-tech",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -483,15 +773,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -517,297 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
-      }
-    },
-    {
-      "story_id": "story_3c63791f3055",
-      "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-      "url": "https://www.aibase.com/news/32559",
-      "primary_url": "https://www.aibase.com/news/32559",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
-          "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-          "title_zh": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-          "title_en": null,
-          "title_original": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32559",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
-          "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-          "title_zh": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-          "title_en": null,
-          "title_original": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32559",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T05:01:43.768496Z",
-      "latest_at": "2026-11-27T05:01:43.768496Z",
-      "primary_item": {
-        "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
-        "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-        "title_zh": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-        "title_en": null,
-        "title_original": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32559",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
-      }
-    },
-    {
-      "story_id": "story_abf6cd5ba2e3",
-      "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-      "url": "https://www.producthunt.com/products/qa-tech",
-      "primary_url": "https://www.producthunt.com/products/qa-tech",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "summary": "Verify every change from your IDE with QA agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-27T05:53:15Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "871c781bba54404ddad46abffc01b6373bddf060",
-          "title": "QA.tech MCP",
-          "title_zh": null,
-          "title_en": "QA.tech MCP",
-          "title_original": "QA.tech MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T11:05:54.523000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-          "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-          "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-          "summary": "Verify every change from your IDE with QA agents",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-24T14:28:22Z",
-          "updated_at": "2026-11-27T05:53:15Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "871c781bba54404ddad46abffc01b6373bddf060",
-          "title": "QA.tech MCP",
-          "title_zh": null,
-          "title_en": "QA.tech MCP",
-          "title_original": "QA.tech MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/qa-tech",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T11:05:54.523000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5938,
-      "importance": 0.5938,
-      "importance_score": 0.5938,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.998,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T11:05:54.523000Z",
-      "latest_at": "2026-11-27T05:53:15Z",
-      "primary_item": {
-        "id": "6d0ea0180b4d99b05b16c35d1233e0f171e6479d",
-        "title": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改 / QA.tech MCP — Verify every change from your IDE with QA agents",
-        "title_zh": "QA.tech MCP — 使用 QA 代理验证 IDE 中的每项更改",
-        "title_en": "QA.tech MCP — Verify every change from your IDE with QA agents",
-        "title_original": "QA.tech MCP — Verify every change from your IDE with QA agents",
-        "summary": "Verify every change from your IDE with QA agents",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/qa-tech",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
-      }
-    },
-    {
-      "story_id": "story_fae3a625ebbe",
-      "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-      "url": "https://www.aibase.com/news/32565",
-      "primary_url": "https://www.aibase.com/news/32565",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "cb2ab85e947ba9f5d1f6d22ac3b059e3ada2b56a",
-          "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-          "title_zh": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-          "title_en": null,
-          "title_original": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "cb2ab85e947ba9f5d1f6d22ac3b059e3ada2b56a",
-          "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-          "title_zh": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-          "title_en": null,
-          "title_original": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32565",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T05:01:43.768496Z",
-      "latest_at": "2026-11-27T05:01:43.768496Z",
-      "primary_item": {
-        "id": "cb2ab85e947ba9f5d1f6d22ac3b059e3ada2b56a",
-        "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-        "title_zh": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-        "title_en": null,
-        "title_original": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32565",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -892,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5934,
-      "importance": 0.5934,
-      "importance_score": 0.5934,
+      "score": 0.5921,
+      "importance": 0.5921,
+      "importance_score": 0.5921,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9953,
+        "recency": 0.9881,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -925,7 +925,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -1009,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5591,
-      "importance": 0.5591,
-      "importance_score": 0.5591,
+      "score": 0.5581,
+      "importance": 0.5581,
+      "importance_score": 0.5581,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.8052,
+        "recency": 0.7995,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1042,26 +1042,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
-      "story_id": "story_115337c66b1f",
-      "title": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
-      "url": "https://www.aibase.com/news/32566",
-      "primary_url": "https://www.aibase.com/news/32566",
+      "story_id": "story_3c63791f3055",
+      "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+      "url": "https://www.aibase.com/news/32559",
+      "primary_url": "https://www.aibase.com/news/32559",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "a8664b531a61e75c29028c0a1b74d2a54125616e",
-          "title": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
-          "title_zh": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
+          "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
+          "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+          "title_zh": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
           "title_en": null,
-          "title_original": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
+          "title_original": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32566",
+          "url": "https://www.aibase.com/news/32559",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1076,14 +1076,14 @@
       ],
       "items": [
         {
-          "id": "a8664b531a61e75c29028c0a1b74d2a54125616e",
-          "title": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
-          "title_zh": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
+          "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
+          "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+          "title_zh": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
           "title_en": null,
-          "title_original": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
+          "title_original": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32566",
+          "url": "https://www.aibase.com/news/32559",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1094,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,14 +1113,14 @@
       "earliest_at": "2026-11-27T05:01:43.768496Z",
       "latest_at": "2026-11-27T05:01:43.768496Z",
       "primary_item": {
-        "id": "a8664b531a61e75c29028c0a1b74d2a54125616e",
-        "title": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
-        "title_zh": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
+        "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
+        "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+        "title_zh": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
         "title_en": null,
-        "title_original": "月之暗面赋能科研、DeepSeek牵手知乎，中国AI大模型正式打响“高质量数据与专业场景”保卫战",
+        "title_original": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32566",
+        "url": "https://www.aibase.com/news/32559",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1128,7 +1128,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -1246,15 +1246,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5545,
-      "importance": 0.5545,
-      "importance_score": 0.5545,
+      "score": 0.5533,
+      "importance": 0.5533,
+      "importance_score": 0.5533,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9095,
+        "recency": 0.903,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1279,7 +1279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -1397,15 +1397,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5453,
-      "importance": 0.5453,
-      "importance_score": 0.5453,
+      "score": 0.5442,
+      "importance": 0.5442,
+      "importance_score": 0.5442,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8585,
+        "recency": 0.8524,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1430,7 +1430,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -1515,15 +1515,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.543,
-      "importance": 0.543,
-      "importance_score": 0.543,
+      "score": 0.5417,
+      "importance": 0.5417,
+      "importance_score": 0.5417,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9844,
+        "recency": 0.9773,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1548,26 +1548,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
-      "story_id": "story_d2f0b1c1d7f9",
-      "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
-      "url": "https://www.aibase.com/news/32562",
-      "primary_url": "https://www.aibase.com/news/32562",
+      "story_id": "story_fae3a625ebbe",
+      "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
+      "url": "https://www.aibase.com/news/32565",
+      "primary_url": "https://www.aibase.com/news/32565",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "9454983cee683bd1a649fd6b9da5455f1ef86a02",
-          "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
-          "title_zh": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "id": "cb2ab85e947ba9f5d1f6d22ac3b059e3ada2b56a",
+          "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
+          "title_zh": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
           "title_en": null,
-          "title_original": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "title_original": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32562",
+          "url": "https://www.aibase.com/news/32565",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1582,14 +1582,14 @@
       ],
       "items": [
         {
-          "id": "9454983cee683bd1a649fd6b9da5455f1ef86a02",
-          "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
-          "title_zh": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "id": "cb2ab85e947ba9f5d1f6d22ac3b059e3ada2b56a",
+          "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
+          "title_zh": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
           "title_en": null,
-          "title_original": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+          "title_original": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32562",
+          "url": "https://www.aibase.com/news/32565",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1600,15 +1600,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1619,14 +1619,14 @@
       "earliest_at": "2026-11-27T05:01:43.768496Z",
       "latest_at": "2026-11-27T05:01:43.768496Z",
       "primary_item": {
-        "id": "9454983cee683bd1a649fd6b9da5455f1ef86a02",
-        "title": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
-        "title_zh": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+        "id": "cb2ab85e947ba9f5d1f6d22ac3b059e3ada2b56a",
+        "title": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
+        "title_zh": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
         "title_en": null,
-        "title_original": "消息称育碧正推动生成式 AI 深度融入游戏开发流程：项目未引入 AI 需申报原因",
+        "title_original": "微软 AI 负责人苏莱曼警告：AI 正跨越危险门槛，“对齐”之前先要能“遏制”",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32562",
+        "url": "https://www.aibase.com/news/32565",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1634,7 +1634,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -1719,15 +1719,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5245,
-      "importance": 0.5245,
-      "importance_score": 0.5245,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8819,
+        "recency": 0.8756,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1752,7 +1752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -1837,15 +1837,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.518,
-      "importance": 0.518,
-      "importance_score": 0.518,
+      "score": 0.5169,
+      "importance": 0.5169,
+      "importance_score": 0.5169,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8454,
+        "recency": 0.8393,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1870,7 +1870,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -1955,15 +1955,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5374,
-      "importance": 0.5374,
-      "importance_score": 0.5374,
+      "score": 0.5362,
+      "importance": 0.5362,
+      "importance_score": 0.5362,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9536,
+        "recency": 0.9467,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1988,7 +1988,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     },
     {
@@ -2073,15 +2073,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5051,
-      "importance": 0.5051,
-      "importance_score": 0.5051,
+      "score": 0.5041,
+      "importance": 0.5041,
+      "importance_score": 0.5041,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7737,
+        "recency": 0.7681,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2106,7 +2106,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T06:06:19.995063Z"
+        "scored_at": "2026-11-27T06:42:37.605778Z"
       }
     }
   ]
