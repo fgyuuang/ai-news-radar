@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T09:01:43.065059Z",
+  "generated_at": "2026-11-27T09:31:42.483826Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8181,
-      "importance": 0.8181,
-      "importance_score": 0.8181,
+      "score": 0.8172,
+      "importance": 0.8172,
+      "importance_score": 0.8172,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7341,
+        "recency": 0.7288,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
+      }
+    },
+    {
+      "story_id": "story_4cefc7ededb0",
+      "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+      "url": "https://www.aibase.com/news/32579",
+      "primary_url": "https://www.aibase.com/news/32579",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
+          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+          "title_zh": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+          "title_en": null,
+          "title_original": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T09:31:42.483826Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
+          "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+          "title_zh": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+          "title_en": null,
+          "title_original": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32579",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T09:31:42.483826Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T09:31:42.483826Z",
+      "latest_at": "2026-11-27T09:31:42.483826Z",
+      "primary_item": {
+        "id": "fb41951088b7dfdc9db1456429929085d507bbd5",
+        "title": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+        "title_zh": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+        "title_en": null,
+        "title_original": "30B 击败 120B！Sakana AI 发布 Namazu Small：以 3B 激活参数终结企业级 AI 的“算力焦虑”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32579",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -139,15 +225,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -173,7 +259,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -225,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -259,7 +345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -311,15 +397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -345,7 +431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -397,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -431,7 +517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -483,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -517,93 +603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
-      }
-    },
-    {
-      "story_id": "story_8f35bb437032",
-      "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-      "url": "https://www.aibase.com/news/32573",
-      "primary_url": "https://www.aibase.com/news/32573",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_en": null,
-          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32573",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:01:42.407332Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "title_en": null,
-          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32573",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T08:01:42.407332Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T08:01:42.407332Z",
-      "latest_at": "2026-11-27T08:01:42.407332Z",
-      "primary_item": {
-        "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
-        "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "title_en": null,
-        "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32573",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -688,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5931,
-      "importance": 0.5931,
-      "importance_score": 0.5931,
+      "score": 0.5918,
+      "importance": 0.5918,
+      "importance_score": 0.5918,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9938,
+        "recency": 0.9866,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -721,30 +721,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
-      "story_id": "story_29d98f0448ca",
-      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-      "url": "https://www.aibase.com/news/32571",
-      "primary_url": "https://www.aibase.com/news/32571",
+      "story_id": "story_8f35bb437032",
+      "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+      "url": "https://www.aibase.com/news/32573",
+      "primary_url": "https://www.aibase.com/news/32573",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
           "title_en": null,
-          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32571",
+          "url": "https://www.aibase.com/news/32573",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T07:01:42.865809Z",
+          "published_at": "2026-11-27T08:01:42.407332Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -755,33 +755,33 @@
       ],
       "items": [
         {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
           "title_en": null,
-          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32571",
+          "url": "https://www.aibase.com/news/32573",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T07:01:42.865809Z",
+          "published_at": "2026-11-27T08:01:42.407332Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7625,
-      "importance": 0.7625,
-      "importance_score": 0.7625,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9715,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -789,17 +789,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T07:01:42.865809Z",
-      "latest_at": "2026-11-27T07:01:42.865809Z",
+      "earliest_at": "2026-11-27T08:01:42.407332Z",
+      "latest_at": "2026-11-27T08:01:42.407332Z",
       "primary_item": {
-        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+        "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+        "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
         "title_en": null,
-        "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+        "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32571",
+        "url": "https://www.aibase.com/news/32573",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -807,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -925,15 +925,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5695,
-      "importance": 0.5695,
-      "importance_score": 0.5695,
+      "score": 0.5682,
+      "importance": 0.5682,
+      "importance_score": 0.5682,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9929,
+        "recency": 0.9858,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -958,7 +958,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -1043,15 +1043,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5904,
-      "importance": 0.5904,
-      "importance_score": 0.5904,
+      "score": 0.5891,
+      "importance": 0.5891,
+      "importance_score": 0.5891,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9788,
+        "recency": 0.9718,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1076,7 +1076,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -1160,15 +1160,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.553,
-      "importance": 0.553,
-      "importance_score": 0.553,
+      "score": 0.552,
+      "importance": 0.552,
+      "importance_score": 0.552,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7711,
+        "recency": 0.7656,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1193,30 +1193,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
-      "story_id": "story_100780690ce0",
-      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-      "url": "https://www.aibase.com/news/32569",
-      "primary_url": "https://www.aibase.com/news/32569",
+      "story_id": "story_29d98f0448ca",
+      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+      "url": "https://www.aibase.com/news/32571",
+      "primary_url": "https://www.aibase.com/news/32571",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "title_en": null,
-          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32569",
+          "url": "https://www.aibase.com/news/32571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T06:31:42.740091Z",
+          "published_at": "2026-11-27T07:01:42.865809Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1227,18 +1227,18 @@
       ],
       "items": [
         {
-          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "title_en": null,
-          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32569",
+          "url": "https://www.aibase.com/news/32571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T06:31:42.740091Z",
+          "published_at": "2026-11-27T07:01:42.865809Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1261,17 +1261,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T06:31:42.740091Z",
-      "latest_at": "2026-11-27T06:31:42.740091Z",
+      "earliest_at": "2026-11-27T07:01:42.865809Z",
+      "latest_at": "2026-11-27T07:01:42.865809Z",
       "primary_item": {
-        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-        "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+        "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
         "title_en": null,
-        "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32569",
+        "url": "https://www.aibase.com/news/32571",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1279,7 +1279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -1397,15 +1397,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5476,
-      "importance": 0.5476,
-      "importance_score": 0.5476,
+      "score": 0.5464,
+      "importance": 0.5464,
+      "importance_score": 0.5464,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8709,
+        "recency": 0.8647,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1430,7 +1430,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
+      }
+    },
+    {
+      "story_id": "story_fb08618e010b",
+      "title": "Claude sabotaging SOTA ML research tasks",
+      "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
+      "sources": [
+        {
+          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
+          "title": "Claude sabotaging SOTA ML research tasks",
+          "title_zh": null,
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T08:28:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
+          "title": "Claude sabotaging SOTA ML research tasks",
+          "title_zh": null,
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50664325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T08:28:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
+          "title": "Claude sabotaging SOTA ML research tasks",
+          "title_zh": null,
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T08:28:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8a6419e55e71c77f2f374f14b47bf182c1aa4f3d",
+          "title": "Claude sabotaging SOTA ML research tasks",
+          "title_zh": null,
+          "title_en": "Claude sabotaging SOTA ML research tasks",
+          "title_original": "Claude sabotaging SOTA ML research tasks",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50664325",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T08:28:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5431,
+      "importance": 0.5431,
+      "importance_score": 0.5431,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9848,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T08:28:08Z",
+      "latest_at": "2026-11-27T08:28:08Z",
+      "primary_item": {
+        "id": "dca60c223811c703c69c1d67a33b5513fd354b2a",
+        "title": "Claude sabotaging SOTA ML research tasks",
+        "title_zh": null,
+        "title_en": "Claude sabotaging SOTA ML research tasks",
+        "title_original": "Claude sabotaging SOTA ML research tasks",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -1548,15 +1666,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5388,
-      "importance": 0.5388,
-      "importance_score": 0.5388,
+      "score": 0.5377,
+      "importance": 0.5377,
+      "importance_score": 0.5377,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8221,
+        "recency": 0.8162,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1581,7 +1699,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -1666,15 +1784,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5355,
-      "importance": 0.5355,
-      "importance_score": 0.5355,
+      "score": 0.5343,
+      "importance": 0.5343,
+      "importance_score": 0.5343,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9426,
+        "recency": 0.9359,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1699,144 +1817,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
-      "story_id": "story_89105021ab8e",
-      "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-      "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-      "primary_url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "1b65d0df52c68f691605a87eee82368498605aee",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T02:44:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7456b2e92f6a85afd5d1f68ebab4c3589f6021b3",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50662153",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T02:44:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "1b65d0df52c68f691605a87eee82368498605aee",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T02:44:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "7456b2e92f6a85afd5d1f68ebab4c3589f6021b3",
-          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50662153",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T02:44:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5302,
-      "importance": 0.5302,
-      "importance_score": 0.5302,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9131,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T02:44:12Z",
-      "latest_at": "2026-11-27T02:44:12Z",
-      "primary_item": {
-        "id": "1b65d0df52c68f691605a87eee82368498605aee",
-        "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
-        "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
-        "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
-        "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
-      }
-    },
-    {
-      "story_id": "story_2c9396790e68",
-      "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-      "url": "https://www.aibase.com/news/32570",
-      "primary_url": "https://www.aibase.com/news/32570",
+      "story_id": "story_100780690ce0",
+      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+      "url": "https://www.aibase.com/news/32569",
+      "primary_url": "https://www.aibase.com/news/32569",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
           "title_en": null,
-          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32570",
+          "url": "https://www.aibase.com/news/32569",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1851,14 +1851,14 @@
       ],
       "items": [
         {
-          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
           "title_en": null,
-          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32570",
+          "url": "https://www.aibase.com/news/32569",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1869,15 +1869,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1888,14 +1888,14 @@
       "earliest_at": "2026-11-27T06:31:42.740091Z",
       "latest_at": "2026-11-27T06:31:42.740091Z",
       "primary_item": {
-        "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-        "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-        "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
         "title_en": null,
-        "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32570",
+        "url": "https://www.aibase.com/news/32569",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1903,7 +1903,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
@@ -1988,15 +1988,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5115,
-      "importance": 0.5115,
-      "importance_score": 0.5115,
+      "score": 0.5105,
+      "importance": 0.5105,
+      "importance_score": 0.5105,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8096,
+        "recency": 0.8037,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2021,46 +2021,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     },
     {
-      "story_id": "story_1a0ab21c58d3",
-      "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-      "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
-      "primary_url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+      "story_id": "story_89105021ab8e",
+      "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
+      "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
+      "primary_url": "https://www.london.edu/think/ai-bubble-about-to-burst",
       "source": "Hacker News · 24h最热",
       "source_name": "Zeli",
       "sources": [
         {
-          "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
-          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
-          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
-          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "id": "1b65d0df52c68f691605a87eee82368498605aee",
+          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
+          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
+          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T00:03:18Z",
+          "published_at": "2026-11-27T02:44:12Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
-          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
-          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
-          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "id": "7456b2e92f6a85afd5d1f68ebab4c3589f6021b3",
+          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
+          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
+          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50661218",
+          "url": "https://news.ycombinator.com/item?id=50662153",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T00:03:18Z",
+          "published_at": "2026-11-27T02:44:12Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -2072,66 +2072,66 @@
       ],
       "items": [
         {
-          "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
-          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
-          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
-          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "id": "1b65d0df52c68f691605a87eee82368498605aee",
+          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
+          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
+          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+          "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T00:03:18Z",
+          "published_at": "2026-11-27T02:44:12Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "79e08575461284dcb9cf11d7a8bf9d62e0e54d8d",
-          "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-          "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
-          "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
-          "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
+          "id": "7456b2e92f6a85afd5d1f68ebab4c3589f6021b3",
+          "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
+          "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
+          "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
+          "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50661218",
+          "url": "https://news.ycombinator.com/item?id=50662153",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T00:03:18Z",
+          "published_at": "2026-11-27T02:44:12Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5239,
-      "importance": 0.5239,
-      "importance_score": 0.5239,
+      "score": 0.529,
+      "importance": 0.529,
+      "importance_score": 0.529,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8785,
+        "recency": 0.9066,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T00:03:18Z",
-      "latest_at": "2026-11-27T00:03:18Z",
+      "earliest_at": "2026-11-27T02:44:12Z",
+      "latest_at": "2026-11-27T02:44:12Z",
       "primary_item": {
-        "id": "49117a1841e3ead0553e05f2c5913c5b1226b22d",
-        "title": "AI 代理现在控制 DeepMind Gemini 实验的部分计算 / AI agents now control part of DeepMind's compute for Gemini experiments",
-        "title_zh": "AI 代理现在控制 DeepMind Gemini 实验的部分计算",
-        "title_en": "AI agents now control part of DeepMind's compute for Gemini experiments",
-        "title_original": "AI agents now control part of DeepMind's compute for Gemini experiments",
+        "id": "1b65d0df52c68f691605a87eee82368498605aee",
+        "title": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃 / New AI research suggests AI bubble bursting and to expect major market collapse",
+        "title_zh": "新的人工智能研究表明人工智能泡沫正在破裂，预计市场将出现重大崩溃",
+        "title_en": "New AI research suggests AI bubble bursting and to expect major market collapse",
+        "title_original": "New AI research suggests AI bubble bursting and to expect major market collapse",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://the-decoder.com/ai-agents-now-control-part-of-deepminds-compute-for-gemini-experiments-but-recursive-self-improvement-remains-distant",
+        "url": "https://www.london.edu/think/ai-bubble-about-to-burst",
         "source": "Hacker News · 24h最热",
         "source_name": "Zeli"
       },
@@ -2139,7 +2139,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T09:11:07.201804Z"
+        "scored_at": "2026-11-27T09:42:20.641677Z"
       }
     }
   ]
