@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T07:31:42.191445Z",
+  "generated_at": "2026-11-27T08:01:42.407332Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.821,
-      "importance": 0.821,
-      "importance_score": 0.821,
+      "score": 0.8201,
+      "importance": 0.8201,
+      "importance_score": 0.8201,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7502,
+        "recency": 0.7448,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,351 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
+      }
+    },
+    {
+      "story_id": "story_ebc0327a2e55",
+      "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+      "url": "https://www.aibase.com/news/32574",
+      "primary_url": "https://www.aibase.com/news/32574",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_en": null,
+          "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:01:42.407332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+          "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "title_en": null,
+          "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32574",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:01:42.407332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T08:01:42.407332Z",
+      "latest_at": "2026-11-27T08:01:42.407332Z",
+      "primary_item": {
+        "id": "9454515bcc555fb4b1af37afbe394f65faff8cb2",
+        "title": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "title_zh": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "title_en": null,
+        "title_original": "90天从空地到算力巨兽！SpaceX 狂砸240亿美元自建“能源孤岛”",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32574",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T08:06:23.251806Z"
+      }
+    },
+    {
+      "story_id": "story_fb9ce3cf48a4",
+      "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+      "url": "https://www.aibase.com/news/32572",
+      "primary_url": "https://www.aibase.com/news/32572",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
+          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+          "title_zh": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+          "title_en": null,
+          "title_original": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32572",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:01:42.407332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
+          "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+          "title_zh": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+          "title_en": null,
+          "title_original": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32572",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:01:42.407332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T08:01:42.407332Z",
+      "latest_at": "2026-11-27T08:01:42.407332Z",
+      "primary_item": {
+        "id": "3cdf49c0ed5773c1c1b2788ac089b4227606da62",
+        "title": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+        "title_zh": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+        "title_en": null,
+        "title_original": "日本最大电力公司JERA联手五大科技巨头，欲在发电厂旁“就地”共建AI数据中心",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32572",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T08:06:23.251806Z"
+      }
+    },
+    {
+      "story_id": "story_f048a078990c",
+      "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+      "url": "https://www.aibase.com/news/32575",
+      "primary_url": "https://www.aibase.com/news/32575",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
+          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "title_en": null,
+          "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:01:42.407332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
+          "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "title_en": null,
+          "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32575",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:01:42.407332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T08:01:42.407332Z",
+      "latest_at": "2026-11-27T08:01:42.407332Z",
+      "primary_item": {
+        "id": "f2efee7f2e6e30b08eab23f6d9461d1905757b4e",
+        "title": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+        "title_zh": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+        "title_en": null,
+        "title_original": "谷歌修复 Chrome Gemini 内存问题：单个标签页曾吃掉 8.4GB，未登录会话也能涨到 1.3GB",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32575",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T08:06:23.251806Z"
+      }
+    },
+    {
+      "story_id": "story_8f35bb437032",
+      "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+      "url": "https://www.aibase.com/news/32573",
+      "primary_url": "https://www.aibase.com/news/32573",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_en": null,
+          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:01:42.407332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+          "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "title_en": null,
+          "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32573",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:01:42.407332Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T08:01:42.407332Z",
+      "latest_at": "2026-11-27T08:01:42.407332Z",
+      "primary_item": {
+        "id": "5d10aa264232f4ca50a3cf4a6bb76335a0785b48",
+        "title": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "title_zh": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "title_en": null,
+        "title_original": "首个农耕文明大模型“天稷”发布，用 8000 万条数据缝合“古今农业”的断裂带",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32573",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
@@ -139,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7663,
-      "importance": 0.7663,
-      "importance_score": 0.7663,
+      "score": 0.765,
+      "importance": 0.765,
+      "importance_score": 0.765,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9928,
+        "recency": 0.9857,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -173,7 +517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
@@ -225,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9857,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -259,351 +603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
-      }
-    },
-    {
-      "story_id": "story_2c9396790e68",
-      "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-      "url": "https://www.aibase.com/news/32570",
-      "primary_url": "https://www.aibase.com/news/32570",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "title_en": null,
-          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32570",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T06:31:42.740091Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "title_en": null,
-          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32570",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T06:31:42.740091Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T06:31:42.740091Z",
-      "latest_at": "2026-11-27T06:31:42.740091Z",
-      "primary_item": {
-        "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-        "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-        "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-        "title_en": null,
-        "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32570",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
-      }
-    },
-    {
-      "story_id": "story_8039e997c594",
-      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-      "url": "https://www.aibase.com/news/32560",
-      "primary_url": "https://www.aibase.com/news/32560",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_en": null,
-          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_en": null,
-          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32560",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9645,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T05:01:43.768496Z",
-      "latest_at": "2026-11-27T05:01:43.768496Z",
-      "primary_item": {
-        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-        "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-        "title_en": null,
-        "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32560",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
-      }
-    },
-    {
-      "story_id": "story_1e0690f0af65",
-      "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-      "url": "https://www.aibase.com/news/32558",
-      "primary_url": "https://www.aibase.com/news/32558",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "title_en": null,
-          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32558",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "title_en": null,
-          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32558",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9645,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T05:01:43.768496Z",
-      "latest_at": "2026-11-27T05:01:43.768496Z",
-      "primary_item": {
-        "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-        "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-        "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-        "title_en": null,
-        "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32558",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
-      }
-    },
-    {
-      "story_id": "story_d64538dcce5d",
-      "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-      "url": "https://www.aibase.com/news/32564",
-      "primary_url": "https://www.aibase.com/news/32564",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_en": null,
-          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_en": null,
-          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32564",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9645,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T05:01:43.768496Z",
-      "latest_at": "2026-11-27T05:01:43.768496Z",
-      "primary_item": {
-        "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-        "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-        "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-        "title_en": null,
-        "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32564",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
@@ -688,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.593,
+      "importance": 0.593,
+      "importance_score": 0.593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9931,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -721,30 +721,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
-      "story_id": "story_2d7dd76db7c7",
-      "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-      "url": "https://www.aibase.com/news/32567",
-      "primary_url": "https://www.aibase.com/news/32567",
+      "story_id": "story_2c9396790e68",
+      "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+      "url": "https://www.aibase.com/news/32570",
+      "primary_url": "https://www.aibase.com/news/32570",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-          "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "title_zh": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
+          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "title_en": null,
-          "title_original": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
+          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32567",
+          "url": "https://www.aibase.com/news/32570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
+          "published_at": "2026-11-27T06:31:42.740091Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -755,33 +755,33 @@
       ],
       "items": [
         {
-          "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-          "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-          "title_zh": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
+          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "title_en": null,
-          "title_original": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
+          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32567",
+          "url": "https://www.aibase.com/news/32570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
+          "published_at": "2026-11-27T06:31:42.740091Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.7637,
+      "importance": 0.7637,
+      "importance_score": 0.7637,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9786,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -789,17 +789,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T05:01:43.768496Z",
-      "latest_at": "2026-11-27T05:01:43.768496Z",
+      "earliest_at": "2026-11-27T06:31:42.740091Z",
+      "latest_at": "2026-11-27T06:31:42.740091Z",
       "primary_item": {
-        "id": "1a83c8ff3e0117796eef292304d62ef103a5c222",
-        "title": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
-        "title_zh": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
+        "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+        "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
         "title_en": null,
-        "title_original": "OpenAI 紧急修复 GPT-6.2 计费漏洞，一纸“重置卡”能否平息用户的算力焦虑？",
+        "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32567",
+        "url": "https://www.aibase.com/news/32570",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -807,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
@@ -892,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5895,
-      "importance": 0.5895,
-      "importance_score": 0.5895,
+      "score": 0.5883,
+      "importance": 0.5883,
+      "importance_score": 0.5883,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.974,
+        "recency": 0.967,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -925,7 +925,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
@@ -1009,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.556,
-      "importance": 0.556,
-      "importance_score": 0.556,
+      "score": 0.555,
+      "importance": 0.555,
+      "importance_score": 0.555,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.788,
+        "recency": 0.7823,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1042,26 +1042,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
-      "story_id": "story_643bb822f95d",
-      "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
-      "url": "https://www.aibase.com/news/32561",
-      "primary_url": "https://www.aibase.com/news/32561",
+      "story_id": "story_8039e997c594",
+      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+      "url": "https://www.aibase.com/news/32560",
+      "primary_url": "https://www.aibase.com/news/32560",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "5f5e3b7ca4b11e3442fcc0fe835307540e47c8b4",
-          "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
-          "title_zh": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
           "title_en": null,
-          "title_original": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32561",
+          "url": "https://www.aibase.com/news/32560",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1076,14 +1076,14 @@
       ],
       "items": [
         {
-          "id": "5f5e3b7ca4b11e3442fcc0fe835307540e47c8b4",
-          "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
-          "title_zh": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
           "title_en": null,
-          "title_original": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32561",
+          "url": "https://www.aibase.com/news/32560",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1094,15 +1094,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1113,14 +1113,14 @@
       "earliest_at": "2026-11-27T05:01:43.768496Z",
       "latest_at": "2026-11-27T05:01:43.768496Z",
       "primary_item": {
-        "id": "5f5e3b7ca4b11e3442fcc0fe835307540e47c8b4",
-        "title": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
-        "title_zh": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
         "title_en": null,
-        "title_original": "Siri 迟到 18 个月，苹果在韩国撞上监管枪口：iPhone 16 广告误导消费者",
+        "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32561",
+        "url": "https://www.aibase.com/news/32560",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1128,7 +1128,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
@@ -1246,15 +1246,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.551,
-      "importance": 0.551,
-      "importance_score": 0.551,
+      "score": 0.5499,
+      "importance": 0.5499,
+      "importance_score": 0.5499,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.89,
+        "recency": 0.8836,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1279,12 +1279,12 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
       "story_id": "story_943fc65849cc",
-      "title": "The group chat where your AI talks behind your back",
+      "title": "人工智能在你背后说话的群聊 / The group chat where your AI talks behind your back",
       "url": "https://construct22.com",
       "primary_url": "https://construct22.com",
       "source": "Hacker News · 24h最热",
@@ -1292,8 +1292,8 @@
       "sources": [
         {
           "id": "2ef7ffb3b013b05343bd05b873e77d922e189f99",
-          "title": "The group chat where your AI talks behind your back",
-          "title_zh": null,
+          "title": "人工智能在你背后说话的群聊 / The group chat where your AI talks behind your back",
+          "title_zh": "人工智能在你背后说话的群聊",
           "title_en": "The group chat where your AI talks behind your back",
           "title_original": "The group chat where your AI talks behind your back",
           "summary": null,
@@ -1308,8 +1308,8 @@
         },
         {
           "id": "6d490c5117020b0f0929c4eb0eede210adbf2964",
-          "title": "The group chat where your AI talks behind your back",
-          "title_zh": null,
+          "title": "人工智能在你背后说话的群聊 / The group chat where your AI talks behind your back",
+          "title_zh": "人工智能在你背后说话的群聊",
           "title_en": "The group chat where your AI talks behind your back",
           "title_original": "The group chat where your AI talks behind your back",
           "summary": null,
@@ -1331,8 +1331,8 @@
       "items": [
         {
           "id": "2ef7ffb3b013b05343bd05b873e77d922e189f99",
-          "title": "The group chat where your AI talks behind your back",
-          "title_zh": null,
+          "title": "人工智能在你背后说话的群聊 / The group chat where your AI talks behind your back",
+          "title_zh": "人工智能在你背后说话的群聊",
           "title_en": "The group chat where your AI talks behind your back",
           "title_original": "The group chat where your AI talks behind your back",
           "summary": null,
@@ -1347,8 +1347,8 @@
         },
         {
           "id": "6d490c5117020b0f0929c4eb0eede210adbf2964",
-          "title": "The group chat where your AI talks behind your back",
-          "title_zh": null,
+          "title": "人工智能在你背后说话的群聊 / The group chat where your AI talks behind your back",
+          "title_zh": "人工智能在你背后说话的群聊",
           "title_en": "The group chat where your AI talks behind your back",
           "title_original": "The group chat where your AI talks behind your back",
           "summary": null,
@@ -1364,15 +1364,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5438,
-      "importance": 0.5438,
-      "importance_score": 0.5438,
+      "score": 0.5425,
+      "importance": 0.5425,
+      "importance_score": 0.5425,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9887,
+        "recency": 0.9816,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1383,8 +1383,8 @@
       "latest_at": "2026-11-27T06:44:34Z",
       "primary_item": {
         "id": "2ef7ffb3b013b05343bd05b873e77d922e189f99",
-        "title": "The group chat where your AI talks behind your back",
-        "title_zh": null,
+        "title": "人工智能在你背后说话的群聊 / The group chat where your AI talks behind your back",
+        "title_zh": "人工智能在你背后说话的群聊",
         "title_en": "The group chat where your AI talks behind your back",
         "title_original": "The group chat where your AI talks behind your back",
         "summary": null,
@@ -1397,7 +1397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
@@ -1515,15 +1515,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5409,
+      "importance": 0.5409,
+      "importance_score": 0.5409,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8401,
+        "recency": 0.8341,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1548,7 +1548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
@@ -1633,15 +1633,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.5379,
+      "importance": 0.5379,
+      "importance_score": 0.5379,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9633,
+        "recency": 0.9564,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1666,26 +1666,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
-      "story_id": "story_3c63791f3055",
-      "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-      "url": "https://www.aibase.com/news/32559",
-      "primary_url": "https://www.aibase.com/news/32559",
+      "story_id": "story_1e0690f0af65",
+      "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+      "url": "https://www.aibase.com/news/32558",
+      "primary_url": "https://www.aibase.com/news/32558",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
-          "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-          "title_zh": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "title_en": null,
-          "title_original": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32559",
+          "url": "https://www.aibase.com/news/32558",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1700,14 +1700,14 @@
       ],
       "items": [
         {
-          "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
-          "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-          "title_zh": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "title_en": null,
-          "title_original": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32559",
+          "url": "https://www.aibase.com/news/32558",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -1718,15 +1718,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7612,
-      "importance": 0.7612,
-      "importance_score": 0.7612,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9645,
+        "recency": 0.9576,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1737,14 +1737,14 @@
       "earliest_at": "2026-11-27T05:01:43.768496Z",
       "latest_at": "2026-11-27T05:01:43.768496Z",
       "primary_item": {
-        "id": "d8a4ce721117bc50d44e33da6a80cb3b3810cbf7",
-        "title": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
-        "title_zh": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+        "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
+        "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+        "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
         "title_en": null,
-        "title_original": "​OpenAI 承认 GPT-6.2 计费算错，Astra 消耗快 40%、Sol 快 25%",
+        "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32559",
+        "url": "https://www.aibase.com/news/32558",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1752,125 +1752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
-      }
-    },
-    {
-      "story_id": "story_81480c791b15",
-      "title": "OpenAI 可能已进入成本控制模式",
-      "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
-      "primary_url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
-      "source": "micjm.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "0f015da0e610d45312dc3979c7b685f605731b1f",
-          "title": "OpenAI 可能已进入成本控制模式",
-          "title_zh": "OpenAI 可能已进入成本控制模式",
-          "title_en": null,
-          "title_original": "OpenAI 可能已进入成本控制模式",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
-          "source": "micjm.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T21:19:40.867000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d0269c8b181bcfe8aa20a949f645396d641c4ce0",
-          "title": "OpenAI 可能已进入成本控制模式 / OpenAI may be in cost control mode",
-          "title_zh": "OpenAI 可能已进入成本控制模式",
-          "title_en": "OpenAI may be in cost control mode",
-          "title_original": "OpenAI may be in cost control mode",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T07:33:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "micjm.com"
-      ],
-      "items": [
-        {
-          "id": "0f015da0e610d45312dc3979c7b685f605731b1f",
-          "title": "OpenAI 可能已进入成本控制模式",
-          "title_zh": "OpenAI 可能已进入成本控制模式",
-          "title_en": null,
-          "title_original": "OpenAI 可能已进入成本控制模式",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
-          "source": "micjm.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T21:19:40.867000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "d0269c8b181bcfe8aa20a949f645396d641c4ce0",
-          "title": "OpenAI 可能已进入成本控制模式 / OpenAI may be in cost control mode",
-          "title_zh": "OpenAI 可能已进入成本控制模式",
-          "title_en": "OpenAI may be in cost control mode",
-          "title_original": "OpenAI may be in cost control mode",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T07:33:12Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5211,
-      "importance": 0.5211,
-      "importance_score": 0.5211,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.863,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T07:33:12Z",
-      "latest_at": "2026-11-26T21:19:40.867000Z",
-      "primary_item": {
-        "id": "0f015da0e610d45312dc3979c7b685f605731b1f",
-        "title": "OpenAI 可能已进入成本控制模式",
-        "title_zh": "OpenAI 可能已进入成本控制模式",
-        "title_en": null,
-        "title_original": "OpenAI 可能已进入成本控制模式",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://micjm.com/blog/openai-is-in-cost-control-mode",
-        "source": "micjm.com",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
@@ -1955,15 +1837,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8273,
+        "recency": 0.8213,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1988,7 +1870,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     },
     {
@@ -2073,15 +1955,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5338,
-      "importance": 0.5338,
-      "importance_score": 0.5338,
+      "score": 0.5326,
+      "importance": 0.5326,
+      "importance_score": 0.5326,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9331,
+        "recency": 0.9264,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -2106,7 +1988,93 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T07:40:13.925196Z"
+        "scored_at": "2026-11-27T08:06:23.251806Z"
+      }
+    },
+    {
+      "story_id": "story_d64538dcce5d",
+      "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+      "url": "https://www.aibase.com/news/32564",
+      "primary_url": "https://www.aibase.com/news/32564",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_en": null,
+          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32564",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T05:01:43.768496Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_en": null,
+          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32564",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T05:01:43.768496Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.76,
+      "importance": 0.76,
+      "importance_score": 0.76,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 0.9576,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T05:01:43.768496Z",
+      "latest_at": "2026-11-27T05:01:43.768496Z",
+      "primary_item": {
+        "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
+        "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+        "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+        "title_en": null,
+        "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32564",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T08:06:23.251806Z"
       }
     }
   ]
