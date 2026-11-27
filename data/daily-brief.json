@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-27T08:01:42.407332Z",
+  "generated_at": "2026-11-27T08:31:42.744354Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
@@ -52,15 +52,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.8201,
-      "importance": 0.8201,
-      "importance_score": 0.8201,
+      "score": 0.8191,
+      "importance": 0.8191,
+      "importance_score": 0.8191,
       "importance_label": "官方更新",
       "importance_breakdown": {
         "editorial": 0.9,
         "source_tier": 1.0,
         "ai_relevance": 0.98,
-        "recency": 0.7448,
+        "recency": 0.7394,
         "story_heat": 0.0
       },
       "category": "official",
@@ -87,7 +87,179 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
+      }
+    },
+    {
+      "story_id": "story_7525e2fde9a9",
+      "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+      "url": "https://www.aibase.com/news/32577",
+      "primary_url": "https://www.aibase.com/news/32577",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "title_en": null,
+          "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:31:42.744354Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+          "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "title_en": null,
+          "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32577",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:31:42.744354Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T08:31:42.744354Z",
+      "latest_at": "2026-11-27T08:31:42.744354Z",
+      "primary_item": {
+        "id": "889ff516fe2ad21ef2813ed9425ae0859d5ca43a",
+        "title": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+        "title_zh": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+        "title_en": null,
+        "title_original": "JetBrains 调查近 3 万开发者：96% 已在用 AI 工具，但 46% 感到对代码的归属感下降",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32577",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T08:36:24.030002Z"
+      }
+    },
+    {
+      "story_id": "story_3475832e2cf5",
+      "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+      "url": "https://www.aibase.com/news/32576",
+      "primary_url": "https://www.aibase.com/news/32576",
+      "source": "AIbase",
+      "source_name": "AIbase",
+      "sources": [
+        {
+          "id": "8260c480781c8810c8501da8261fdb8f9b860539",
+          "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+          "title_zh": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+          "title_en": null,
+          "title_original": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:31:42.744354Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 1,
+      "source_names": [
+        "AIbase"
+      ],
+      "items": [
+        {
+          "id": "8260c480781c8810c8501da8261fdb8f9b860539",
+          "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+          "title_zh": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+          "title_en": null,
+          "title_original": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.aibase.com/news/32576",
+          "source": "AIbase",
+          "source_name": "AIbase",
+          "site_id": "aibase",
+          "published_at": "2026-11-27T08:31:42.744354Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 1,
+      "duplicate_count": 1,
+      "score": 0.7676,
+      "importance": 0.7676,
+      "importance_score": 0.7676,
+      "importance_label": "行业动态",
+      "importance_breakdown": {
+        "editorial": 0.72,
+        "source_tier": 0.78,
+        "ai_relevance": 1.0,
+        "recency": 1.0,
+        "story_heat": 0.0
+      },
+      "category": "industry",
+      "reasons": [
+        "high_ai_relevance",
+        "high_importance"
+      ],
+      "earliest_at": "2026-11-27T08:31:42.744354Z",
+      "latest_at": "2026-11-27T08:31:42.744354Z",
+      "primary_item": {
+        "id": "8260c480781c8810c8501da8261fdb8f9b860539",
+        "title": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+        "title_zh": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+        "title_en": null,
+        "title_original": "豆包独家接入剪映，用“对话式交互”重塑视频创作工作流",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.aibase.com/news/32576",
+        "source": "AIbase",
+        "source_name": "AIbase"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -139,15 +311,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -173,7 +345,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -225,15 +397,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -259,7 +431,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -311,15 +483,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -345,7 +517,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -397,15 +569,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7676,
-      "importance": 0.7676,
-      "importance_score": 0.7676,
+      "score": 0.7663,
+      "importance": 0.7663,
+      "importance_score": 0.7663,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 1.0,
+        "recency": 0.9928,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -431,179 +603,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
-      }
-    },
-    {
-      "story_id": "story_29d98f0448ca",
-      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-      "url": "https://www.aibase.com/news/32571",
-      "primary_url": "https://www.aibase.com/news/32571",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_en": null,
-          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T07:01:42.865809Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_en": null,
-          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T07:01:42.865809Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.765,
-      "importance": 0.765,
-      "importance_score": 0.765,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9857,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T07:01:42.865809Z",
-      "latest_at": "2026-11-27T07:01:42.865809Z",
-      "primary_item": {
-        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "title_en": null,
-        "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32571",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
-      }
-    },
-    {
-      "story_id": "story_100780690ce0",
-      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-      "url": "https://www.aibase.com/news/32569",
-      "primary_url": "https://www.aibase.com/news/32569",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_en": null,
-          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T06:31:42.740091Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "title_en": null,
-          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32569",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T06:31:42.740091Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7637,
-      "importance": 0.7637,
-      "importance_score": 0.7637,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.9786,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T06:31:42.740091Z",
-      "latest_at": "2026-11-27T06:31:42.740091Z",
-      "primary_item": {
-        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
-        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-        "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-        "title_en": null,
-        "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32569",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -688,15 +688,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.593,
-      "importance": 0.593,
-      "importance_score": 0.593,
+      "score": 0.5917,
+      "importance": 0.5917,
+      "importance_score": 0.5917,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9931,
+        "recency": 0.9859,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -721,30 +721,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
-      "story_id": "story_2c9396790e68",
-      "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-      "url": "https://www.aibase.com/news/32570",
-      "primary_url": "https://www.aibase.com/news/32570",
+      "story_id": "story_29d98f0448ca",
+      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+      "url": "https://www.aibase.com/news/32571",
+      "primary_url": "https://www.aibase.com/news/32571",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "title_en": null,
-          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32570",
+          "url": "https://www.aibase.com/news/32571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T06:31:42.740091Z",
+          "published_at": "2026-11-27T07:01:42.865809Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -755,18 +755,18 @@
       ],
       "items": [
         {
-          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "title_en": null,
-          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32570",
+          "url": "https://www.aibase.com/news/32571",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T06:31:42.740091Z",
+          "published_at": "2026-11-27T07:01:42.865809Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -789,17 +789,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T06:31:42.740091Z",
-      "latest_at": "2026-11-27T06:31:42.740091Z",
+      "earliest_at": "2026-11-27T07:01:42.865809Z",
+      "latest_at": "2026-11-27T07:01:42.865809Z",
       "primary_item": {
-        "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
-        "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
-        "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
+        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
+        "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
         "title_en": null,
-        "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32570",
+        "url": "https://www.aibase.com/news/32571",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -807,7 +807,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -892,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5883,
-      "importance": 0.5883,
-      "importance_score": 0.5883,
+      "score": 0.587,
+      "importance": 0.587,
+      "importance_score": 0.587,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.967,
+        "recency": 0.96,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -925,7 +925,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -1009,15 +1009,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.555,
-      "importance": 0.555,
-      "importance_score": 0.555,
+      "score": 0.554,
+      "importance": 0.554,
+      "importance_score": 0.554,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.7823,
+        "recency": 0.7767,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1042,30 +1042,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
-      "story_id": "story_8039e997c594",
-      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-      "url": "https://www.aibase.com/news/32560",
-      "primary_url": "https://www.aibase.com/news/32560",
+      "story_id": "story_100780690ce0",
+      "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+      "url": "https://www.aibase.com/news/32569",
+      "primary_url": "https://www.aibase.com/news/32569",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
           "title_en": null,
-          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32560",
+          "url": "https://www.aibase.com/news/32569",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
+          "published_at": "2026-11-27T06:31:42.740091Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1076,33 +1076,33 @@
       ],
       "items": [
         {
-          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+          "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+          "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
           "title_en": null,
-          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32560",
+          "url": "https://www.aibase.com/news/32569",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
+          "published_at": "2026-11-27T06:31:42.740091Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1110,17 +1110,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T05:01:43.768496Z",
-      "latest_at": "2026-11-27T05:01:43.768496Z",
+      "earliest_at": "2026-11-27T06:31:42.740091Z",
+      "latest_at": "2026-11-27T06:31:42.740091Z",
       "primary_item": {
-        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
-        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
-        "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "id": "29644527faea9cc12a2c636de2466664e24e6bf7",
+        "title": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
+        "title_zh": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
         "title_en": null,
-        "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "title_original": "告别“拓扑地狱”与“贴图废片”！腾讯混元发布 Hy3D 3.6，原生 3D 生成直击专业管线痛点",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32560",
+        "url": "https://www.aibase.com/news/32569",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1128,7 +1128,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -1246,15 +1246,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5499,
-      "importance": 0.5499,
-      "importance_score": 0.5499,
+      "score": 0.5487,
+      "importance": 0.5487,
+      "importance_score": 0.5487,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8836,
+        "recency": 0.8773,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1279,7 +1279,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -1364,15 +1364,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5425,
-      "importance": 0.5425,
-      "importance_score": 0.5425,
+      "score": 0.5412,
+      "importance": 0.5412,
+      "importance_score": 0.5412,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9816,
+        "recency": 0.9745,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1397,7 +1397,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -1515,15 +1515,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5409,
-      "importance": 0.5409,
-      "importance_score": 0.5409,
+      "score": 0.5399,
+      "importance": 0.5399,
+      "importance_score": 0.5399,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8341,
+        "recency": 0.8281,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1548,7 +1548,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -1633,15 +1633,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5379,
-      "importance": 0.5379,
-      "importance_score": 0.5379,
+      "score": 0.5367,
+      "importance": 0.5367,
+      "importance_score": 0.5367,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9564,
+        "recency": 0.9495,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1666,30 +1666,30 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
-      "story_id": "story_1e0690f0af65",
-      "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-      "url": "https://www.aibase.com/news/32558",
-      "primary_url": "https://www.aibase.com/news/32558",
+      "story_id": "story_2c9396790e68",
+      "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+      "url": "https://www.aibase.com/news/32570",
+      "primary_url": "https://www.aibase.com/news/32570",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "title_en": null,
-          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32558",
+          "url": "https://www.aibase.com/news/32570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
+          "published_at": "2026-11-27T06:31:42.740091Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1700,33 +1700,33 @@
       ],
       "items": [
         {
-          "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-          "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-          "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+          "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+          "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "title_en": null,
-          "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+          "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32558",
+          "url": "https://www.aibase.com/news/32570",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
-          "published_at": "2026-11-27T05:01:43.768496Z",
+          "published_at": "2026-11-27T06:31:42.740091Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7625,
+      "importance": 0.7625,
+      "importance_score": 0.7625,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9715,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1734,17 +1734,17 @@
         "high_ai_relevance",
         "high_importance"
       ],
-      "earliest_at": "2026-11-27T05:01:43.768496Z",
-      "latest_at": "2026-11-27T05:01:43.768496Z",
+      "earliest_at": "2026-11-27T06:31:42.740091Z",
+      "latest_at": "2026-11-27T06:31:42.740091Z",
       "primary_item": {
-        "id": "4fd95330e5a0bd14e1f9130f0c9f223e0e323282",
-        "title": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
-        "title_zh": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+        "id": "bbec224b91815f8827d028e9ad2e5568708ace10",
+        "title": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
+        "title_zh": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
         "title_en": null,
-        "title_original": "Anthropic 面试不考手写代码了：AI 时代工程师的价值，改按“实际影响”称重",
+        "title_original": "月之暗面开放 Kimi 科研支持计划：面向自然科学与工程学科，送 API 额度和技术支持",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32558",
+        "url": "https://www.aibase.com/news/32570",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -1752,7 +1752,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -1837,15 +1837,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5136,
-      "importance": 0.5136,
-      "importance_score": 0.5136,
+      "score": 0.5126,
+      "importance": 0.5126,
+      "importance_score": 0.5126,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8213,
+        "recency": 0.8154,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1870,7 +1870,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
@@ -1955,15 +1955,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5326,
-      "importance": 0.5326,
-      "importance_score": 0.5326,
+      "score": 0.5314,
+      "importance": 0.5314,
+      "importance_score": 0.5314,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9264,
+        "recency": 0.9198,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1988,26 +1988,26 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     },
     {
-      "story_id": "story_d64538dcce5d",
-      "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-      "url": "https://www.aibase.com/news/32564",
-      "primary_url": "https://www.aibase.com/news/32564",
+      "story_id": "story_8039e997c594",
+      "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+      "url": "https://www.aibase.com/news/32560",
+      "primary_url": "https://www.aibase.com/news/32560",
       "source": "AIbase",
       "source_name": "AIbase",
       "sources": [
         {
-          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
           "title_en": null,
-          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32564",
+          "url": "https://www.aibase.com/news/32560",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -2022,14 +2022,14 @@
       ],
       "items": [
         {
-          "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-          "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-          "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+          "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+          "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
           "title_en": null,
-          "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+          "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32564",
+          "url": "https://www.aibase.com/news/32560",
           "source": "AIbase",
           "source_name": "AIbase",
           "site_id": "aibase",
@@ -2040,15 +2040,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.76,
-      "importance": 0.76,
-      "importance_score": 0.76,
+      "score": 0.7587,
+      "importance": 0.7587,
+      "importance_score": 0.7587,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9576,
+        "recency": 0.9507,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -2059,14 +2059,14 @@
       "earliest_at": "2026-11-27T05:01:43.768496Z",
       "latest_at": "2026-11-27T05:01:43.768496Z",
       "primary_item": {
-        "id": "20143aa9a8f67fa6458f4f6a59c75ec4098164c0",
-        "title": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
-        "title_zh": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+        "id": "2521829312d21179e062abef5fc865feb13ee4c4",
+        "title": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
+        "title_zh": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
         "title_en": null,
-        "title_original": "OpenAI 宣称证明矩阵乘法“最快极限”：最优算法指数恰为 9/4",
+        "title_original": "AI 智能体下场搞破坏：瑞士五起攻击入侵电力、供水、通信系统，四起得手",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32564",
+        "url": "https://www.aibase.com/news/32560",
         "source": "AIbase",
         "source_name": "AIbase"
       },
@@ -2074,7 +2074,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T08:06:23.251806Z"
+        "scored_at": "2026-11-27T08:36:24.030002Z"
       }
     }
   ]
