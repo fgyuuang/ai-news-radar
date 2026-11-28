@@ -1,95 +1,8 @@
 {
-  "generated_at": "2026-11-27T16:31:42.044618Z",
+  "generated_at": "2026-11-28T04:01:46.554894Z",
   "window_hours": 24,
   "total_items": 20,
   "items": [
-    {
-      "story_id": "story_ea3f87ca002e",
-      "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-      "url": "https://huggingface.co/blog/video-trainium3",
-      "primary_url": "https://huggingface.co/blog/video-trainium3",
-      "source": "Hugging Face Blog",
-      "source_name": "Official AI Updates",
-      "sources": [
-        {
-          "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
-          "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
-          "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/video-trainium3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-27T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "Hugging Face Blog"
-      ],
-      "items": [
-        {
-          "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
-          "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
-          "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://huggingface.co/blog/video-trainium3",
-          "source": "Hugging Face Blog",
-          "source_name": "Official AI Updates",
-          "site_id": "official_ai",
-          "published_at": "2026-11-27T00:00:00Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.8218,
-      "importance": 0.8218,
-      "importance_score": 0.8218,
-      "importance_label": "官方更新",
-      "importance_breakdown": {
-        "editorial": 0.9,
-        "source_tier": 1.0,
-        "ai_relevance": 0.95,
-        "recency": 0.7877,
-        "story_heat": 0.0
-      },
-      "category": "official",
-      "reasons": [
-        "official_source",
-        "high_ai_relevance",
-        "high_importance"
-      ],
-      "earliest_at": "2026-11-27T00:00:00Z",
-      "latest_at": "2026-11-27T00:00:00Z",
-      "primary_item": {
-        "id": "9d7924faf99fbf7a37bd41a70b6f3666051890bc",
-        "title": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频 / Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-        "title_zh": "让 Trainium3 走上正轨：使用 LTX-2.5 生成视频",
-        "title_en": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-        "title_original": "Taking Trainium3 to the Track: Generating Videos with LTX-2.5",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://huggingface.co/blog/video-trainium3",
-        "source": "Hugging Face Blog",
-        "source_name": "Official AI Updates"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
-      }
-    },
     {
       "story_id": "story_f707740900a2",
       "title": "Claude 能写代码也能审批合并了：Anthropic 拆开职责防“自审自批”，PR 合并量 3 个月翻倍",
@@ -139,21 +52,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7539,
-      "importance": 0.7539,
-      "importance_score": 0.7539,
+      "score": 0.7284,
+      "importance": 0.7284,
+      "importance_score": 0.7284,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9237,
+        "recency": 0.7823,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T11:01:42.884659Z",
       "latest_at": "2026-11-27T11:01:42.884659Z",
@@ -173,7 +85,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
@@ -225,21 +137,20 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7503,
-      "importance": 0.7503,
-      "importance_score": 0.7503,
+      "score": 0.7254,
+      "importance": 0.7254,
+      "importance_score": 0.7254,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.9039,
+        "recency": 0.7655,
         "story_heat": 0.0
       },
       "category": "industry",
       "reasons": [
-        "high_ai_relevance",
-        "high_importance"
+        "high_ai_relevance"
       ],
       "earliest_at": "2026-11-27T09:31:42.483826Z",
       "latest_at": "2026-11-27T09:31:42.483826Z",
@@ -259,7 +170,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
@@ -311,15 +222,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.7546,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -344,7 +255,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
@@ -396,15 +307,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.748,
-      "importance": 0.748,
-      "importance_score": 0.748,
+      "score": 0.7234,
+      "importance": 0.7234,
+      "importance_score": 0.7234,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8909,
+        "recency": 0.7546,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -429,7 +340,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
@@ -481,15 +392,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -514,7 +425,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
+      }
+    },
+    {
+      "story_id": "story_09660119eb8f",
+      "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+      "url": "https://www.producthunt.com/products/depost-ai",
+      "primary_url": "https://www.producthunt.com/products/depost-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "summary": "The LinkedIn AI agent that learns what works for your brand",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/depost-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-27T03:17:55Z",
+          "updated_at": "2026-11-28T04:01:47Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
+          "title": "Depost AI",
+          "title_zh": null,
+          "title_en": "Depost AI",
+          "title_original": "Depost AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/depost-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T12:36:02.049000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "summary": "The LinkedIn AI agent that learns what works for your brand",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/depost-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-27T03:17:55Z",
+          "updated_at": "2026-11-28T04:01:47Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
+          "title": "Depost AI",
+          "title_zh": null,
+          "title_en": "Depost AI",
+          "title_original": "Depost AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/depost-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T12:36:02.049000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T12:36:02.049000Z",
+      "latest_at": "2026-11-28T04:01:47Z",
+      "primary_item": {
+        "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+        "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+        "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "summary": "The LinkedIn AI agent that learns what works for your brand",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/depost-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
@@ -566,15 +595,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -599,42 +628,225 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
-      "story_id": "story_09660119eb8f",
-      "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-      "url": "https://www.producthunt.com/products/depost-ai",
-      "primary_url": "https://www.producthunt.com/products/depost-ai",
+      "story_id": "story_4b773a5f1360",
+      "title": "数学家担心，人工智能即将使网络安全形同虚设",
+      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "primary_url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+      "source": "www.thetimes.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_en": null,
+          "title_original": "数学家担心，人工智能即将使网络安全形同虚设",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "www.thetimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.179000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "060301b7ee1affc41cc23f4bf20a73fbda60e866",
+          "title": "数学家担心人工智能即将让网络安全变得毫无用处 / AI on brink of making online security useless, mathematicians fear",
+          "title_zh": "数学家担心人工智能即将让网络安全变得毫无用处",
+          "title_en": "AI on brink of making online security useless, mathematicians fear",
+          "title_original": "AI on brink of making online security useless, mathematicians fear",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50665488",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T11:09:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
+          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_en": "AI on brink of making online security useless, mathematicians fear",
+          "title_original": "AI on brink of making online security useless, mathematicians fear",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T11:09:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "71e398185f51febcfe719772f6cb537870332064",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设 / Fields-winning mathematicians worried about eerie silence over AI and encryption",
+          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_en": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+          "title_original": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T11:09:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 4,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.thetimes.com"
+      ],
+      "items": [
+        {
+          "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_en": null,
+          "title_original": "数学家担心，人工智能即将使网络安全形同虚设",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "www.thetimes.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.179000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "060301b7ee1affc41cc23f4bf20a73fbda60e866",
+          "title": "数学家担心人工智能即将让网络安全变得毫无用处 / AI on brink of making online security useless, mathematicians fear",
+          "title_zh": "数学家担心人工智能即将让网络安全变得毫无用处",
+          "title_en": "AI on brink of making online security useless, mathematicians fear",
+          "title_original": "AI on brink of making online security useless, mathematicians fear",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50665488",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T11:09:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设 / AI on brink of making online security useless, mathematicians fear",
+          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_en": "AI on brink of making online security useless, mathematicians fear",
+          "title_original": "AI on brink of making online security useless, mathematicians fear",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T11:09:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "71e398185f51febcfe719772f6cb537870332064",
+          "title": "数学家担心，人工智能即将使网络安全形同虚设 / Fields-winning mathematicians worried about eerie silence over AI and encryption",
+          "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+          "title_en": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+          "title_original": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T11:09:04Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 4,
+      "duplicate_count": 4,
+      "score": 0.5712,
+      "importance": 0.5712,
+      "importance_score": 0.5712,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8635,
+        "story_heat": 0.75
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T11:09:04Z",
+      "latest_at": "2026-11-27T17:52:00.179000Z",
+      "primary_item": {
+        "id": "774fc23fba87d2e1a146c58a4a39772e88320316",
+        "title": "数学家担心，人工智能即将使网络安全形同虚设",
+        "title_zh": "数学家担心，人工智能即将使网络安全形同虚设",
+        "title_en": null,
+        "title_original": "数学家担心，人工智能即将使网络安全形同虚设",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
+        "source": "www.thetimes.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T04:06:57.117585Z"
+      }
+    },
+    {
+      "story_id": "story_fd80de8cbc3c",
+      "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "primary_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
-          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
-          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "summary": "The LinkedIn AI agent that learns what works for your brand",
+          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "summary": "Your company's words, assembled into a book",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-27T16:36:45Z",
+          "published_at": "2026-10-27T05:29:10Z",
+          "updated_at": "2026-11-28T03:33:57Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
-          "title": "Depost AI",
+          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
+          "title": "Prosed AI 2.0 + MCP",
           "title_zh": null,
-          "title_en": "Depost AI",
-          "title_original": "Depost AI",
+          "title_en": "Prosed AI 2.0 + MCP",
+          "title_original": "Prosed AI 2.0 + MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -650,30 +862,30 @@
       ],
       "items": [
         {
-          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
-          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
-          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "summary": "The LinkedIn AI agent that learns what works for your brand",
+          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "summary": "Your company's words, assembled into a book",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-27T16:36:45Z",
+          "published_at": "2026-10-27T05:29:10Z",
+          "updated_at": "2026-11-28T03:33:57Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
-          "title": "Depost AI",
+          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
+          "title": "Prosed AI 2.0 + MCP",
           "title_zh": null,
-          "title_en": "Depost AI",
-          "title_original": "Depost AI",
+          "title_en": "Prosed AI 2.0 + MCP",
+          "title_original": "Prosed AI 2.0 + MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -684,15 +896,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.593,
+      "importance": 0.593,
+      "importance_score": 0.593,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9933,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -700,16 +912,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-27T12:36:02.049000Z",
-      "latest_at": "2026-11-27T16:36:45Z",
+      "latest_at": "2026-11-28T03:33:57Z",
       "primary_item": {
-        "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
-        "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-        "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
-        "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-        "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-        "summary": "The LinkedIn AI agent that learns what works for your brand",
+        "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+        "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+        "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "summary": "Your company's words, assembled into a book",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/depost-ai",
+        "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -717,7 +929,309 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
+      }
+    },
+    {
+      "story_id": "story_3ff9fe7f4315",
+      "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+      "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "primary_url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+      "source": "www.oag.state.va.us",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "2219d524e84d38eec12eb118f6fcd8ae333e5ad2",
+          "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_zh": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_en": null,
+          "title_original": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "source": "www.oag.state.va.us",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T21:51:48.844000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "df35899451d66535d584052491b2989a5e9cb36a",
+          "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容 / States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_zh": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_en": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_original": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T19:42:25Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b5904bf2bd1f1e77a09fd86ad909bd1197ee424b",
+          "title": "各州起诉 SpaceX，阻止 Grok 制作儿童色情图片和报复色情内容 / States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_zh": "各州起诉 SpaceX，阻止 Grok 制作儿童色情图片和报复色情内容",
+          "title_en": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_original": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50670855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T19:42:25Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews",
+        "www.oag.state.va.us"
+      ],
+      "items": [
+        {
+          "id": "2219d524e84d38eec12eb118f6fcd8ae333e5ad2",
+          "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_zh": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_en": null,
+          "title_original": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "source": "www.oag.state.va.us",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T21:51:48.844000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "df35899451d66535d584052491b2989a5e9cb36a",
+          "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容 / States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_zh": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+          "title_en": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_original": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T19:42:25Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b5904bf2bd1f1e77a09fd86ad909bd1197ee424b",
+          "title": "各州起诉 SpaceX，阻止 Grok 制作儿童色情图片和报复色情内容 / States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_zh": "各州起诉 SpaceX，阻止 Grok 制作儿童色情图片和报复色情内容",
+          "title_en": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "title_original": "States sue SpaceX to stop Grok from generating child sex images, revenge porn",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50670855",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T19:42:25Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5555,
+      "importance": 0.5555,
+      "importance_score": 0.5555,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9148,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T19:42:25Z",
+      "latest_at": "2026-11-27T21:51:48.844000Z",
+      "primary_item": {
+        "id": "2219d524e84d38eec12eb118f6fcd8ae333e5ad2",
+        "title": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+        "title_zh": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+        "title_en": null,
+        "title_original": "各州起诉SpaceX，以阻止Grok生成儿童色情图像和报复性色情内容",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://www.oag.state.va.us/media-center/news-releases/jay-jones/3162-attorneys-general-jones-and-rayfield-file-suit-against-spacex-parent-company-of-x-xai-and-grok-over-creation-and-promotion-of-child-exploitation-and-non-consensual-images-on-platform",
+        "source": "www.oag.state.va.us",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T04:06:57.117585Z"
+      }
+    },
+    {
+      "story_id": "story_a8323da0c514",
+      "title": "GPT 6.2 Astra 解开了历史之谜",
+      "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "primary_url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+      "source": "generativehistory.substack.com",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
+          "title": "GPT 6.2 Astra 解开了历史之谜",
+          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+          "title_en": null,
+          "title_original": "GPT 6.2 Astra 解开了历史之谜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "generativehistory.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.183000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7294eb1a38085e974fcb8c90be814b40266f4cf8",
+          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
+          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+          "title_en": "GPT 6.2 Astra Solves a Historical Mystery",
+          "title_original": "GPT 6.2 Astra Solves a Historical Mystery",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50667744",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T15:03:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4d3900f8579e540430a74bf9ae736b64c14a098c",
+          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra solves a historical mystery",
+          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+          "title_en": "GPT 6.2 Astra solves a historical mystery",
+          "title_original": "GPT 6.2 Astra solves a historical mystery",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T15:03:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 3,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "generativehistory.substack.com",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
+          "title": "GPT 6.2 Astra 解开了历史之谜",
+          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+          "title_en": null,
+          "title_original": "GPT 6.2 Astra 解开了历史之谜",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "generativehistory.substack.com",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T17:52:00.183000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "7294eb1a38085e974fcb8c90be814b40266f4cf8",
+          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
+          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+          "title_en": "GPT 6.2 Astra Solves a Historical Mystery",
+          "title_original": "GPT 6.2 Astra Solves a Historical Mystery",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50667744",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T15:03:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "4d3900f8579e540430a74bf9ae736b64c14a098c",
+          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra solves a historical mystery",
+          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+          "title_en": "GPT 6.2 Astra solves a historical mystery",
+          "title_original": "GPT 6.2 Astra solves a historical mystery",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T15:03:17Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 3,
+      "duplicate_count": 3,
+      "score": 0.5462,
+      "importance": 0.5462,
+      "importance_score": 0.5462,
+      "importance_label": "多源热议",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8635,
+        "story_heat": 0.5
+      },
+      "category": "multi_source",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T15:03:17Z",
+      "latest_at": "2026-11-27T17:52:00.183000Z",
+      "primary_item": {
+        "id": "ba87d87eccdc98b51cb10c23a5c28f77ae4dd095",
+        "title": "GPT 6.2 Astra 解开了历史之谜",
+        "title_zh": "GPT 6.2 Astra 解开了历史之谜",
+        "title_en": null,
+        "title_original": "GPT 6.2 Astra 解开了历史之谜",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+        "source": "generativehistory.substack.com",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
@@ -769,15 +1283,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -802,280 +1316,129 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
-      "story_id": "story_fd80de8cbc3c",
-      "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "primary_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
+      "story_id": "story_b4315fb505b4",
+      "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+      "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "primary_url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+      "source": "Hacker News · 24h最热",
+      "source_name": "Zeli",
       "sources": [
         {
-          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "summary": "Your company's words, assembled into a book",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-27T05:29:10Z",
-          "updated_at": "2026-11-27T16:38:31Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
-          "title": "Prosed AI 2.0 + MCP",
-          "title_zh": null,
-          "title_en": "Prosed AI 2.0 + MCP",
-          "title_original": "Prosed AI 2.0 + MCP",
+          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_zh": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐",
+          "title_en": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_original": "Woman evicted after landlord's AI assistant told her she could delay rent",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "producthunt",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T01:32:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b71a7525da42301b3dfc9709c9659517047bfece",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_zh": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐",
+          "title_en": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_original": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50673521",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T12:36:02.049000Z",
+          "published_at": "2026-11-28T01:32:56Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "source_count": 2,
       "source_names": [
-        "Product Hunt",
-        "producthunt"
+        "Hacker News · 24h最热",
+        "hackernews"
       ],
       "items": [
         {
-          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "summary": "Your company's words, assembled into a book",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-27T05:29:10Z",
-          "updated_at": "2026-11-27T16:38:31Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
-          "title": "Prosed AI 2.0 + MCP",
-          "title_zh": null,
-          "title_en": "Prosed AI 2.0 + MCP",
-          "title_original": "Prosed AI 2.0 + MCP",
+          "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_zh": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐",
+          "title_en": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_original": "Woman evicted after landlord's AI assistant told her she could delay rent",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "producthunt",
+          "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T01:32:56Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "b71a7525da42301b3dfc9709c9659517047bfece",
+          "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_zh": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐",
+          "title_en": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "title_original": "Woman evicted after landlord's AI assistant told her she could delay rent",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50673521",
+          "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T12:36:02.049000Z",
+          "published_at": "2026-11-28T01:32:56Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5395,
+      "importance": 0.5395,
+      "importance_score": 0.5395,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
-        "source_tier": 0.54,
+        "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9648,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T12:36:02.049000Z",
-      "latest_at": "2026-11-27T16:38:31Z",
+      "earliest_at": "2026-11-28T01:32:56Z",
+      "latest_at": "2026-11-28T01:32:56Z",
       "primary_item": {
-        "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-        "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-        "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "summary": "Your company's words, assembled into a book",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
-      }
-    },
-    {
-      "story_id": "story_89b270442a1e",
-      "title": "机器学习中的不确定性导论",
-      "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-      "primary_url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-      "source": "chrhenning.com",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "c0328dbee8133ad81c35cce473c8324dc19f4978",
-          "title": "机器学习中的不确定性导论",
-          "title_zh": "机器学习中的不确定性导论",
-          "title_en": null,
-          "title_original": "机器学习中的不确定性导论",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-          "source": "chrhenning.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T13:19:37.375000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "5b67085f05e9a1c4dab0f84fd362f4e65f9b5760",
-          "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
-          "title_zh": "机器学习中的不确定性简介",
-          "title_en": "An introduction to uncertainty in machine learning",
-          "title_original": "An introduction to uncertainty in machine learning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50658498",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T19:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3f407ea567b7e8545afcc05a65d2550cd0225e6d",
-          "title": "机器学习中的不确定性导论 / An introduction to uncertainty in machine learning",
-          "title_zh": "机器学习中的不确定性导论",
-          "title_en": "An introduction to uncertainty in machine learning",
-          "title_original": "An introduction to uncertainty in machine learning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T19:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "chrhenning.com",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "c0328dbee8133ad81c35cce473c8324dc19f4978",
-          "title": "机器学习中的不确定性导论",
-          "title_zh": "机器学习中的不确定性导论",
-          "title_en": null,
-          "title_original": "机器学习中的不确定性导论",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-          "source": "chrhenning.com",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T13:19:37.375000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "5b67085f05e9a1c4dab0f84fd362f4e65f9b5760",
-          "title": "机器学习中的不确定性简介 / An introduction to uncertainty in machine learning",
-          "title_zh": "机器学习中的不确定性简介",
-          "title_en": "An introduction to uncertainty in machine learning",
-          "title_original": "An introduction to uncertainty in machine learning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50658498",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T19:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3f407ea567b7e8545afcc05a65d2550cd0225e6d",
-          "title": "机器学习中的不确定性导论 / An introduction to uncertainty in machine learning",
-          "title_zh": "机器学习中的不确定性导论",
-          "title_en": "An introduction to uncertainty in machine learning",
-          "title_original": "An introduction to uncertainty in machine learning",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T19:04:50Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5627,
-      "importance": 0.5627,
-      "importance_score": 0.5627,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9548,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T19:04:50Z",
-      "latest_at": "2026-11-27T13:19:37.375000Z",
-      "primary_item": {
-        "id": "c0328dbee8133ad81c35cce473c8324dc19f4978",
-        "title": "机器学习中的不确定性导论",
-        "title_zh": "机器学习中的不确定性导论",
-        "title_en": null,
-        "title_original": "机器学习中的不确定性导论",
+        "id": "2b9c8715d0408b12df2ad1a87ad9e67e6557fa5b",
+        "title": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐 / Woman evicted after landlord's AI assistant told her she could delay rent",
+        "title_zh": "房东的人工智能助理告诉她可以推迟租金后，一名女子被驱逐",
+        "title_en": "Woman evicted after landlord's AI assistant told her she could delay rent",
+        "title_original": "Woman evicted after landlord's AI assistant told her she could delay rent",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://chrhenning.com/blog/2026/introduction-to-uncertainty",
-        "source": "chrhenning.com",
-        "source_name": "Buzzing"
+        "url": "https://drmahfouz.substack.com/p/woman-evicted-after-landlords-ai",
+        "source": "Hacker News · 24h最热",
+        "source_name": "Zeli"
       },
       "persona_id": "pragmatic",
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
-      "story_id": "story_341d620abab8",
+      "story_id": "story_f35bdd105420",
       "title": "克劳德破坏SOTA机器学习研究任务",
       "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
       "primary_url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
@@ -1099,22 +1462,6 @@
           "recency_basis": null
         },
         {
-          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
-          "title": "Claude破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
-          "title_zh": "Claude破坏SOTA机器学习研究任务",
-          "title_en": "Claude sabotaging ML research tasks?",
-          "title_original": "Claude sabotaging ML research tasks?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T08:28:08Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
           "id": "d65795261bc1f708ffa4fe6ec0e6b89e805fed32",
           "title": "Claude破坏机器学习研究任务？ / Claude sabotaging ML research tasks?",
           "title_zh": "Claude破坏机器学习研究任务？",
@@ -1126,6 +1473,22 @@
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
+          "published_at": "2026-11-27T08:28:08Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
+          "title": "Claude破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
+          "title_zh": "Claude破坏SOTA机器学习研究任务",
+          "title_en": "Claude sabotaging ML research tasks?",
+          "title_original": "Claude sabotaging ML research tasks?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
           "published_at": "2026-11-27T08:28:08Z",
           "updated_at": null,
           "recency_basis": null
@@ -1155,22 +1518,6 @@
           "recency_basis": null
         },
         {
-          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
-          "title": "Claude破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
-          "title_zh": "Claude破坏SOTA机器学习研究任务",
-          "title_en": "Claude sabotaging ML research tasks?",
-          "title_original": "Claude sabotaging ML research tasks?",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T08:28:08Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
           "id": "d65795261bc1f708ffa4fe6ec0e6b89e805fed32",
           "title": "Claude破坏机器学习研究任务？ / Claude sabotaging ML research tasks?",
           "title_zh": "Claude破坏机器学习研究任务？",
@@ -1185,19 +1532,35 @@
           "published_at": "2026-11-27T08:28:08Z",
           "updated_at": null,
           "recency_basis": null
+        },
+        {
+          "id": "e8f5bd93385476eef5bcfc33d5ddcb984278a1b7",
+          "title": "Claude破坏SOTA机器学习研究任务 / Claude sabotaging ML research tasks?",
+          "title_zh": "Claude破坏SOTA机器学习研究任务",
+          "title_en": "Claude sabotaging ML research tasks?",
+          "title_original": "Claude sabotaging ML research tasks?",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://twitter.com/RealAstropulse/status/2126119408997466389",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T08:28:08Z",
+          "updated_at": null,
+          "recency_basis": null
         }
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5575,
-      "importance": 0.5575,
-      "importance_score": 0.5575,
+      "score": 0.532,
+      "importance": 0.532,
+      "importance_score": 0.532,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9259,
+        "recency": 0.7842,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1222,161 +1585,11 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
-      "story_id": "story_1ebdcbae904d",
-      "title": "数学家担心人工智能即将让网络安全变得毫无用处 / AI on brink of making online security useless, mathematicians fear",
-      "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "primary_url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
-          "title": "数学家担心人工智能即将让网络安全变得毫无用处 / AI on brink of making online security useless, mathematicians fear",
-          "title_zh": "数学家担心人工智能即将让网络安全变得毫无用处",
-          "title_en": "AI on brink of making online security useless, mathematicians fear",
-          "title_original": "AI on brink of making online security useless, mathematicians fear",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:09:04Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "060301b7ee1affc41cc23f4bf20a73fbda60e866",
-          "title": "数学家担心人工智能即将让网络安全变得毫无用处 / AI on brink of making online security useless, mathematicians fear",
-          "title_zh": "数学家担心人工智能即将让网络安全变得毫无用处",
-          "title_en": "AI on brink of making online security useless, mathematicians fear",
-          "title_original": "AI on brink of making online security useless, mathematicians fear",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50665488",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T11:09:04Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c86e683e87ec7938db9748a2a68b3a9e8a0c93bd",
-          "title": "菲尔兹获奖数学家担心人工智能和加密领域令人毛骨悚然的沉默 / Fields-winning mathematicians worried about eerie silence over AI and encryption",
-          "title_zh": "菲尔兹获奖数学家担心人工智能和加密领域令人毛骨悚然的沉默",
-          "title_en": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
-          "title_original": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50665488",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T11:09:04Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
-          "title": "数学家担心人工智能即将让网络安全变得毫无用处 / AI on brink of making online security useless, mathematicians fear",
-          "title_zh": "数学家担心人工智能即将让网络安全变得毫无用处",
-          "title_en": "AI on brink of making online security useless, mathematicians fear",
-          "title_original": "AI on brink of making online security useless, mathematicians fear",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:09:04Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "060301b7ee1affc41cc23f4bf20a73fbda60e866",
-          "title": "数学家担心人工智能即将让网络安全变得毫无用处 / AI on brink of making online security useless, mathematicians fear",
-          "title_zh": "数学家担心人工智能即将让网络安全变得毫无用处",
-          "title_en": "AI on brink of making online security useless, mathematicians fear",
-          "title_original": "AI on brink of making online security useless, mathematicians fear",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50665488",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T11:09:04Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c86e683e87ec7938db9748a2a68b3a9e8a0c93bd",
-          "title": "菲尔兹获奖数学家担心人工智能和加密领域令人毛骨悚然的沉默 / Fields-winning mathematicians worried about eerie silence over AI and encryption",
-          "title_zh": "菲尔兹获奖数学家担心人工智能和加密领域令人毛骨悚然的沉默",
-          "title_en": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
-          "title_original": "Fields-winning mathematicians worried about eerie silence over AI and encryption",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50665488",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T11:09:04Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5574,
-      "importance": 0.5574,
-      "importance_score": 0.5574,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.9253,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T11:09:04Z",
-      "latest_at": "2026-11-27T11:09:04Z",
-      "primary_item": {
-        "id": "8b3ca6973325d1cf847438662a0824827b8682c3",
-        "title": "数学家担心人工智能即将让网络安全变得毫无用处 / AI on brink of making online security useless, mathematicians fear",
-        "title_zh": "数学家担心人工智能即将让网络安全变得毫无用处",
-        "title_en": "AI on brink of making online security useless, mathematicians fear",
-        "title_original": "AI on brink of making online security useless, mathematicians fear",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.thetimes.com/uk/technology-uk/article/ai-making-online-security-useless-smr73d3n8",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
-      }
-    },
-    {
-      "story_id": "story_943fc65849cc",
+      "story_id": "story_dd0a9bd26c2a",
       "title": "那个你的AI在背后议论你的群聊",
       "url": "https://construct22.com",
       "primary_url": "https://construct22.com",
@@ -1400,11 +1613,11 @@
           "recency_basis": null
         },
         {
-          "id": "2ef7ffb3b013b05343bd05b873e77d922e189f99",
-          "title": "那个你的AI在背后议论你的群聊 / The group chat where your AI talks behind your back",
+          "id": "c6306c0efa6d522180688bdc050cddfbce1bc2b0",
+          "title": "那个你的AI在背后议论你的群聊 / Group chat where your AI talks behind your back",
           "title_zh": "那个你的AI在背后议论你的群聊",
-          "title_en": "The group chat where your AI talks behind your back",
-          "title_original": "The group chat where your AI talks behind your back",
+          "title_en": "Group chat where your AI talks behind your back",
+          "title_original": "Group chat where your AI talks behind your back",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://construct22.com",
@@ -1456,11 +1669,11 @@
           "recency_basis": null
         },
         {
-          "id": "2ef7ffb3b013b05343bd05b873e77d922e189f99",
-          "title": "那个你的AI在背后议论你的群聊 / The group chat where your AI talks behind your back",
+          "id": "c6306c0efa6d522180688bdc050cddfbce1bc2b0",
+          "title": "那个你的AI在背后议论你的群聊 / Group chat where your AI talks behind your back",
           "title_zh": "那个你的AI在背后议论你的群聊",
-          "title_en": "The group chat where your AI talks behind your back",
-          "title_original": "The group chat where your AI talks behind your back",
+          "title_en": "Group chat where your AI talks behind your back",
+          "title_original": "Group chat where your AI talks behind your back",
           "summary": null,
           "recommend_reason_zh": null,
           "url": "https://construct22.com",
@@ -1490,15 +1703,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5512,
-      "importance": 0.5512,
-      "importance_score": 0.5512,
+      "score": 0.5266,
+      "importance": 0.5266,
+      "importance_score": 0.5266,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.891,
+        "recency": 0.7547,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -1523,7 +1736,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
+      }
+    },
+    {
+      "story_id": "story_f4ebfc0e7002",
+      "title": "我害怕人工智能",
+      "url": "https://thesoapbox.email/archive/3",
+      "primary_url": "https://thesoapbox.email/archive/3",
+      "source": "thesoapbox.email",
+      "source_name": "Buzzing",
+      "sources": [
+        {
+          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+          "title": "我害怕人工智能",
+          "title_zh": "我害怕人工智能",
+          "title_en": null,
+          "title_original": "我害怕人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "thesoapbox.email",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T18:39:34.459000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
+          "title": "我害怕人工智能 / I'm Scared of AI",
+          "title_zh": "我害怕人工智能",
+          "title_en": "I'm Scared of AI",
+          "title_original": "I'm Scared of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T17:45:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "thesoapbox.email"
+      ],
+      "items": [
+        {
+          "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+          "title": "我害怕人工智能",
+          "title_zh": "我害怕人工智能",
+          "title_en": null,
+          "title_original": "我害怕人工智能",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "thesoapbox.email",
+          "source_name": "Buzzing",
+          "site_id": "buzzing",
+          "published_at": "2026-11-27T18:39:34.459000Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "e5ba0781667491f36d846b9e8267c8269aaae1a1",
+          "title": "我害怕人工智能 / I'm Scared of AI",
+          "title_zh": "我害怕人工智能",
+          "title_en": "I'm Scared of AI",
+          "title_original": "I'm Scared of AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://thesoapbox.email/archive/3",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-27T17:45:31Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.523,
+      "importance": 0.523,
+      "importance_score": 0.523,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.8734,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T17:45:31Z",
+      "latest_at": "2026-11-27T18:39:34.459000Z",
+      "primary_item": {
+        "id": "9dcca2d45dd1cfac8460fe746cf240000fb02e22",
+        "title": "我害怕人工智能",
+        "title_zh": "我害怕人工智能",
+        "title_en": null,
+        "title_original": "我害怕人工智能",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://thesoapbox.email/archive/3",
+        "source": "thesoapbox.email",
+        "source_name": "Buzzing"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
@@ -1608,15 +1939,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5437,
-      "importance": 0.5437,
-      "importance_score": 0.5437,
+      "score": 0.5165,
+      "importance": 0.5165,
+      "importance_score": 0.5165,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9886,
+        "recency": 0.8373,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1641,46 +1972,46 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
-      "story_id": "story_a8323da0c514",
-      "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-      "url": "https://news.ycombinator.com/item?id=50667744",
-      "primary_url": "https://news.ycombinator.com/item?id=50667744",
+      "story_id": "story_747452a7be6e",
+      "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+      "url": "https://news.ycombinator.com/item?id=50667664",
+      "primary_url": "https://news.ycombinator.com/item?id=50667664",
       "source": "hackernews",
       "source_name": "NewsNow",
       "sources": [
         {
-          "id": "7294eb1a38085e974fcb8c90be814b40266f4cf8",
-          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
-          "title_en": "GPT 6.2 Astra Solves a Historical Mystery",
-          "title_original": "GPT 6.2 Astra Solves a Historical Mystery",
+          "id": "2cea457603cfe54a01370dd1aba6d9a09d2660ca",
+          "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+          "title_zh": "斯坦福大学物理学家利用人工智能解决量子引力问题",
+          "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+          "title_original": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50667744",
+          "url": "https://news.ycombinator.com/item?id=50667664",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T15:03:17Z",
+          "published_at": "2026-11-27T14:55:57Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "4d3900f8579e540430a74bf9ae736b64c14a098c",
-          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
-          "title_en": "GPT 6.2 Astra Solves a Historical Mystery",
-          "title_original": "GPT 6.2 Astra Solves a Historical Mystery",
+          "id": "f025f7b38bce0c3323f039a4524a2e3cd8feafcc",
+          "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+          "title_zh": "斯坦福大学物理学家利用人工智能解决量子引力问题",
+          "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+          "title_original": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T15:03:17Z",
+          "published_at": "2026-11-27T14:55:57Z",
           "updated_at": null,
           "recency_basis": null
         }
@@ -1692,66 +2023,66 @@
       ],
       "items": [
         {
-          "id": "7294eb1a38085e974fcb8c90be814b40266f4cf8",
-          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
-          "title_en": "GPT 6.2 Astra Solves a Historical Mystery",
-          "title_original": "GPT 6.2 Astra Solves a Historical Mystery",
+          "id": "2cea457603cfe54a01370dd1aba6d9a09d2660ca",
+          "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+          "title_zh": "斯坦福大学物理学家利用人工智能解决量子引力问题",
+          "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+          "title_original": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50667744",
+          "url": "https://news.ycombinator.com/item?id=50667664",
           "source": "hackernews",
           "source_name": "NewsNow",
           "site_id": "newsnow",
-          "published_at": "2026-11-27T15:03:17Z",
+          "published_at": "2026-11-27T14:55:57Z",
           "updated_at": null,
           "recency_basis": null
         },
         {
-          "id": "4d3900f8579e540430a74bf9ae736b64c14a098c",
-          "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-          "title_zh": "GPT 6.2 Astra 解开了历史之谜",
-          "title_en": "GPT 6.2 Astra Solves a Historical Mystery",
-          "title_original": "GPT 6.2 Astra Solves a Historical Mystery",
+          "id": "f025f7b38bce0c3323f039a4524a2e3cd8feafcc",
+          "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+          "title_zh": "斯坦福大学物理学家利用人工智能解决量子引力问题",
+          "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+          "title_original": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://generativehistory.substack.com/p/gpt-62-astra-solves-a-historical",
+          "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem",
           "source": "Hacker News · 24h最热",
           "source_name": "Zeli",
           "site_id": "zeli",
-          "published_at": "2026-11-27T15:03:17Z",
+          "published_at": "2026-11-27T14:55:57Z",
           "updated_at": null,
           "recency_basis": null
         }
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.542,
-      "importance": 0.542,
-      "importance_score": 0.542,
+      "score": 0.5148,
+      "importance": 0.5148,
+      "importance_score": 0.5148,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9789,
+        "recency": 0.8277,
         "story_heat": 0.25
       },
       "category": "watch",
       "reasons": [
         "multi_source"
       ],
-      "earliest_at": "2026-11-27T15:03:17Z",
-      "latest_at": "2026-11-27T15:03:17Z",
+      "earliest_at": "2026-11-27T14:55:57Z",
+      "latest_at": "2026-11-27T14:55:57Z",
       "primary_item": {
-        "id": "7294eb1a38085e974fcb8c90be814b40266f4cf8",
-        "title": "GPT 6.2 Astra 解开了历史之谜 / GPT 6.2 Astra Solves a Historical Mystery",
-        "title_zh": "GPT 6.2 Astra 解开了历史之谜",
-        "title_en": "GPT 6.2 Astra Solves a Historical Mystery",
-        "title_original": "GPT 6.2 Astra Solves a Historical Mystery",
+        "id": "2cea457603cfe54a01370dd1aba6d9a09d2660ca",
+        "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+        "title_zh": "斯坦福大学物理学家利用人工智能解决量子引力问题",
+        "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
+        "title_original": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
         "summary": null,
         "recommend_reason_zh": null,
-        "url": "https://news.ycombinator.com/item?id=50667744",
+        "url": "https://news.ycombinator.com/item?id=50667664",
         "source": "hackernews",
         "source_name": "NewsNow"
       },
@@ -1759,7 +2090,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
+      }
+    },
+    {
+      "story_id": "story_0d55b14db2af",
+      "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+      "url": "https://www.producthunt.com/products/spark-ai-7",
+      "primary_url": "https://www.producthunt.com/products/spark-ai-7",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+          "summary": "AI-native permitting & diligence services for data centers",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T07:30:40Z",
+          "updated_at": "2026-11-27T19:52:06Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
+          "title": "Spark AI",
+          "title_zh": null,
+          "title_en": "Spark AI",
+          "title_original": "Spark AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T12:36:02.049000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+          "summary": "AI-native permitting & diligence services for data centers",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T07:30:40Z",
+          "updated_at": "2026-11-27T19:52:06Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
+          "title": "Spark AI",
+          "title_zh": null,
+          "title_en": "Spark AI",
+          "title_original": "Spark AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T12:36:02.049000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5742,
+      "importance": 0.5742,
+      "importance_score": 0.5742,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.8888,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T12:36:02.049000Z",
+      "latest_at": "2026-11-27T19:52:06Z",
+      "primary_item": {
+        "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+        "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+        "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+        "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+        "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+        "summary": "AI-native permitting & diligence services for data centers",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/spark-ai-7",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     },
     {
@@ -1811,15 +2260,15 @@
       ],
       "item_count": 1,
       "duplicate_count": 1,
-      "score": 0.7468,
-      "importance": 0.7468,
-      "importance_score": 0.7468,
+      "score": 0.7224,
+      "importance": 0.7224,
+      "importance_score": 0.7224,
       "importance_label": "行业动态",
       "importance_breakdown": {
         "editorial": 0.72,
         "source_tier": 0.78,
         "ai_relevance": 1.0,
-        "recency": 0.8845,
+        "recency": 0.7491,
         "story_heat": 0.0
       },
       "category": "industry",
@@ -1844,361 +2293,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
-      }
-    },
-    {
-      "story_id": "story_0d55b14db2af",
-      "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-      "url": "https://www.producthunt.com/products/spark-ai-7",
-      "primary_url": "https://www.producthunt.com/products/spark-ai-7",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-          "summary": "AI-native permitting & diligence services for data centers",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-25T07:30:40Z",
-          "updated_at": "2026-11-27T15:52:54Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
-          "title": "Spark AI",
-          "title_zh": null,
-          "title_en": "Spark AI",
-          "title_original": "Spark AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T12:36:02.049000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-          "summary": "AI-native permitting & diligence services for data centers",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-25T07:30:40Z",
-          "updated_at": "2026-11-27T15:52:54Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
-          "title": "Spark AI",
-          "title_zh": null,
-          "title_en": "Spark AI",
-          "title_original": "Spark AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T12:36:02.049000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5925,
-      "importance": 0.5925,
-      "importance_score": 0.5925,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9907,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T12:36:02.049000Z",
-      "latest_at": "2026-11-27T15:52:54Z",
-      "primary_item": {
-        "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-        "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-        "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-        "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-        "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-        "summary": "AI-native permitting & diligence services for data centers",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/spark-ai-7",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
-      }
-    },
-    {
-      "story_id": "story_73a0caa69017",
-      "title": "AI 让自主托管重新变得有趣",
-      "url": "https://janlukas.blog/posts/ai-self-hosting",
-      "primary_url": "https://janlukas.blog/posts/ai-self-hosting",
-      "source": "janlukas.blog",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
-          "title": "AI 让自主托管重新变得有趣",
-          "title_zh": "AI 让自主托管重新变得有趣",
-          "title_en": null,
-          "title_original": "AI 让自主托管重新变得有趣",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "janlukas.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T23:27:36.973000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c4a0d37319135e2f0ac887daf4cb474b392221ba",
-          "title": "人工智能再次让自托管变得有趣 / AI made self-hosting fun again",
-          "title_zh": "人工智能再次让自托管变得有趣",
-          "title_en": "AI made self-hosting fun again",
-          "title_original": "AI made self-hosting fun again",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50660180",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T21:47:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3ca853b3da294a1aaf58f8db76531f1cf7945bc2",
-          "title": "AI 让自主托管重新变得有趣 / AI made self-hosting fun again",
-          "title_zh": "AI 让自主托管重新变得有趣",
-          "title_en": "AI made self-hosting fun again",
-          "title_original": "AI made self-hosting fun again",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T21:47:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 3,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews",
-        "janlukas.blog"
-      ],
-      "items": [
-        {
-          "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
-          "title": "AI 让自主托管重新变得有趣",
-          "title_zh": "AI 让自主托管重新变得有趣",
-          "title_en": null,
-          "title_original": "AI 让自主托管重新变得有趣",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "janlukas.blog",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-26T23:27:36.973000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "c4a0d37319135e2f0ac887daf4cb474b392221ba",
-          "title": "人工智能再次让自托管变得有趣 / AI made self-hosting fun again",
-          "title_zh": "人工智能再次让自托管变得有趣",
-          "title_en": "AI made self-hosting fun again",
-          "title_original": "AI made self-hosting fun again",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50660180",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-26T21:47:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "3ca853b3da294a1aaf58f8db76531f1cf7945bc2",
-          "title": "AI 让自主托管重新变得有趣 / AI made self-hosting fun again",
-          "title_zh": "AI 让自主托管重新变得有趣",
-          "title_en": "AI made self-hosting fun again",
-          "title_original": "AI made self-hosting fun again",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://janlukas.blog/posts/ai-self-hosting",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-26T21:47:45Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 3,
-      "duplicate_count": 3,
-      "score": 0.5315,
-      "importance": 0.5315,
-      "importance_score": 0.5315,
-      "importance_label": "多源热议",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7816,
-        "story_heat": 0.5
-      },
-      "category": "multi_source",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-26T21:47:45Z",
-      "latest_at": "2026-11-26T23:27:36.973000Z",
-      "primary_item": {
-        "id": "52ba91543d73bfd92f8216808ce26389d92765ae",
-        "title": "AI 让自主托管重新变得有趣",
-        "title_zh": "AI 让自主托管重新变得有趣",
-        "title_en": null,
-        "title_original": "AI 让自主托管重新变得有趣",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://janlukas.blog/posts/ai-self-hosting",
-        "source": "janlukas.blog",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
-      }
-    },
-    {
-      "story_id": "story_29d98f0448ca",
-      "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-      "url": "https://www.aibase.com/news/32571",
-      "primary_url": "https://www.aibase.com/news/32571",
-      "source": "AIbase",
-      "source_name": "AIbase",
-      "sources": [
-        {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_en": null,
-          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T07:01:42.865809Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 1,
-      "source_names": [
-        "AIbase"
-      ],
-      "items": [
-        {
-          "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-          "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "title_en": null,
-          "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.aibase.com/news/32571",
-          "source": "AIbase",
-          "source_name": "AIbase",
-          "site_id": "aibase",
-          "published_at": "2026-11-27T07:01:42.865809Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 1,
-      "duplicate_count": 1,
-      "score": 0.7445,
-      "importance": 0.7445,
-      "importance_score": 0.7445,
-      "importance_label": "行业动态",
-      "importance_breakdown": {
-        "editorial": 0.72,
-        "source_tier": 0.78,
-        "ai_relevance": 1.0,
-        "recency": 0.8718,
-        "story_heat": 0.0
-      },
-      "category": "industry",
-      "reasons": [
-        "high_ai_relevance"
-      ],
-      "earliest_at": "2026-11-27T07:01:42.865809Z",
-      "latest_at": "2026-11-27T07:01:42.865809Z",
-      "primary_item": {
-        "id": "2d30473a53018a54e13620eb43dec520a2f642c7",
-        "title": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "title_zh": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "title_en": null,
-        "title_original": "SAP 被曝拟裁至少 1 万人押注“AI 优先”：波及全球 9% 员工，重点砍产品与工程和销售",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.aibase.com/news/32571",
-        "source": "AIbase",
-        "source_name": "AIbase"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-27T16:40:14.567419Z"
+        "scored_at": "2026-11-28T04:06:57.117585Z"
       }
     }
   ]
