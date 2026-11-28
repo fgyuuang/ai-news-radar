@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T09:31:41.685979Z",
+  "generated_at": "2026-11-28T10:01:42.937045Z",
   "window_hours": 24,
   "total_items": 13,
   "items": [
@@ -24,7 +24,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-28T09:27:36Z",
+          "updated_at": "2026-11-28T10:04:34Z",
           "recency_basis": "updated_at"
         },
         {
@@ -63,7 +63,7 @@
           "source_name": "Product Hunt",
           "site_id": "producthunt",
           "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-28T09:27:36Z",
+          "updated_at": "2026-11-28T10:04:34Z",
           "recency_basis": "updated_at"
         },
         {
@@ -85,15 +85,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.594,
-      "importance": 0.594,
-      "importance_score": 0.594,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.999,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -101,7 +101,7 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-27T12:36:02.049000Z",
-      "latest_at": "2026-11-28T09:27:36Z",
+      "latest_at": "2026-11-28T10:04:34Z",
       "primary_item": {
         "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
         "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
@@ -118,42 +118,42 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
-      "story_id": "story_0d55b14db2af",
-      "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-      "url": "https://www.producthunt.com/products/spark-ai-7",
-      "primary_url": "https://www.producthunt.com/products/spark-ai-7",
+      "story_id": "story_fd80de8cbc3c",
+      "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
+      "primary_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
       "source": "Product Hunt",
       "source_name": "Product Hunt",
       "sources": [
         {
-          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-          "summary": "AI-native permitting & diligence services for data centers",
+          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "summary": "Your company's words, assembled into a book",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-25T07:30:40Z",
-          "updated_at": "2026-11-28T08:33:57Z",
+          "published_at": "2026-10-27T05:29:10Z",
+          "updated_at": "2026-11-28T10:05:28Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
-          "title": "Spark AI",
+          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
+          "title": "Prosed AI 2.0 + MCP",
           "title_zh": null,
-          "title_en": "Spark AI",
-          "title_original": "Spark AI",
+          "title_en": "Prosed AI 2.0 + MCP",
+          "title_original": "Prosed AI 2.0 + MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -169,30 +169,30 @@
       ],
       "items": [
         {
-          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-          "summary": "AI-native permitting & diligence services for data centers",
+          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+          "summary": "Your company's words, assembled into a book",
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
           "source": "Product Hunt",
           "source_name": "Product Hunt",
           "site_id": "producthunt",
-          "published_at": "2026-11-25T07:30:40Z",
-          "updated_at": "2026-11-28T08:33:57Z",
+          "published_at": "2026-10-27T05:29:10Z",
+          "updated_at": "2026-11-28T10:05:28Z",
           "recency_basis": "updated_at"
         },
         {
-          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
-          "title": "Spark AI",
+          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
+          "title": "Prosed AI 2.0 + MCP",
           "title_zh": null,
-          "title_en": "Spark AI",
-          "title_original": "Spark AI",
+          "title_en": "Prosed AI 2.0 + MCP",
+          "title_original": "Prosed AI 2.0 + MCP",
           "summary": null,
           "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
           "source": "producthunt",
           "source_name": "NewsNow",
           "site_id": "newsnow",
@@ -203,15 +203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5917,
-      "importance": 0.5917,
-      "importance_score": 0.5917,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9862,
+        "recency": 1.0,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -219,16 +219,16 @@
         "multi_source"
       ],
       "earliest_at": "2026-11-27T12:36:02.049000Z",
-      "latest_at": "2026-11-28T08:33:57Z",
+      "latest_at": "2026-11-28T10:05:28Z",
       "primary_item": {
-        "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-        "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-        "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-        "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-        "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-        "summary": "AI-native permitting & diligence services for data centers",
+        "id": "e34db014b00ea49d991947727e276bf847f7fa28",
+        "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
+        "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
+        "summary": "Your company's words, assembled into a book",
         "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/spark-ai-7",
+        "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
         "source": "Product Hunt",
         "source_name": "Product Hunt"
       },
@@ -236,7 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
@@ -386,15 +386,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5594,
-      "importance": 0.5594,
-      "importance_score": 0.5594,
+      "score": 0.5583,
+      "importance": 0.5583,
+      "importance_score": 0.5583,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7976,
+        "recency": 0.7918,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -419,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
@@ -537,15 +537,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5583,
-      "importance": 0.5583,
-      "importance_score": 0.5583,
+      "score": 0.5571,
+      "importance": 0.5571,
+      "importance_score": 0.5571,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9304,
+        "recency": 0.9237,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -570,7 +570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
@@ -688,15 +688,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5429,
-      "importance": 0.5429,
-      "importance_score": 0.5429,
+      "score": 0.5418,
+      "importance": 0.5418,
+      "importance_score": 0.5418,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.845,
+        "recency": 0.8389,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -721,7 +721,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
+      }
+    },
+    {
+      "story_id": "story_0d55b14db2af",
+      "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+      "url": "https://www.producthunt.com/products/spark-ai-7",
+      "primary_url": "https://www.producthunt.com/products/spark-ai-7",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+          "summary": "AI-native permitting & diligence services for data centers",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T07:30:40Z",
+          "updated_at": "2026-11-28T10:05:18Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
+          "title": "Spark AI",
+          "title_zh": null,
+          "title_en": "Spark AI",
+          "title_original": "Spark AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T12:36:02.049000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+          "summary": "AI-native permitting & diligence services for data centers",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T07:30:40Z",
+          "updated_at": "2026-11-28T10:05:18Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
+          "title": "Spark AI",
+          "title_zh": null,
+          "title_en": "Spark AI",
+          "title_original": "Spark AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T12:36:02.049000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5942,
+      "importance": 0.5942,
+      "importance_score": 0.5942,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 1.0,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T12:36:02.049000Z",
+      "latest_at": "2026-11-28T10:05:18Z",
+      "primary_item": {
+        "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+        "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+        "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+        "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+        "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+        "summary": "AI-native permitting & diligence services for data centers",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/spark-ai-7",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
@@ -839,15 +957,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5344,
-      "importance": 0.5344,
-      "importance_score": 0.5344,
+      "score": 0.5333,
+      "importance": 0.5333,
+      "importance_score": 0.5333,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7976,
+        "recency": 0.7918,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -872,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
@@ -957,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5318,
-      "importance": 0.5318,
-      "importance_score": 0.5318,
+      "score": 0.5306,
+      "importance": 0.5306,
+      "importance_score": 0.5306,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9222,
+        "recency": 0.9156,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -990,125 +1108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
-      }
-    },
-    {
-      "story_id": "story_fd80de8cbc3c",
-      "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-      "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "primary_url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "summary": "Your company's words, assembled into a book",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-27T05:29:10Z",
-          "updated_at": "2026-11-28T07:57:38Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
-          "title": "Prosed AI 2.0 + MCP",
-          "title_zh": null,
-          "title_en": "Prosed AI 2.0 + MCP",
-          "title_original": "Prosed AI 2.0 + MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T12:36:02.049000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-          "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-          "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-          "summary": "Your company's words, assembled into a book",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-10-27T05:29:10Z",
-          "updated_at": "2026-11-28T07:57:38Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a84b5e6df88653e20e0edb4dbd0c4781ff800324",
-          "title": "Prosed AI 2.0 + MCP",
-          "title_zh": null,
-          "title_en": "Prosed AI 2.0 + MCP",
-          "title_original": "Prosed AI 2.0 + MCP",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T12:36:02.049000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5902,
-      "importance": 0.5902,
-      "importance_score": 0.5902,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9776,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T12:36:02.049000Z",
-      "latest_at": "2026-11-28T07:57:38Z",
-      "primary_item": {
-        "id": "e34db014b00ea49d991947727e276bf847f7fa28",
-        "title": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书 / Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "title_zh": "Prosed AI 2.0 + MCP——贵公司的话，汇编成书",
-        "title_en": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "title_original": "Prosed AI 2.0 + MCP — Your company's words, assembled into a book",
-        "summary": "Your company's words, assembled into a book",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/prosed-turn-your-content-into-a-book",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
@@ -1193,15 +1193,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.511,
-      "importance": 0.511,
-      "importance_score": 0.511,
+      "score": 0.51,
+      "importance": 0.51,
+      "importance_score": 0.51,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8068,
+        "recency": 0.801,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1226,7 +1226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
@@ -1311,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.505,
-      "importance": 0.505,
-      "importance_score": 0.505,
+      "score": 0.504,
+      "importance": 0.504,
+      "importance_score": 0.504,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7734,
+        "recency": 0.7678,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,7 +1344,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
@@ -1429,15 +1429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5147,
-      "importance": 0.5147,
-      "importance_score": 0.5147,
+      "score": 0.5136,
+      "importance": 0.5136,
+      "importance_score": 0.5136,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8272,
+        "recency": 0.8212,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1462,7 +1462,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
@@ -1547,15 +1547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5034,
-      "importance": 0.5034,
-      "importance_score": 0.5034,
+      "score": 0.5024,
+      "importance": 0.5024,
+      "importance_score": 0.5024,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7645,
+        "recency": 0.759,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1580,7 +1580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     },
     {
@@ -1665,15 +1665,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4971,
-      "importance": 0.4971,
-      "importance_score": 0.4971,
+      "score": 0.4962,
+      "importance": 0.4962,
+      "importance_score": 0.4962,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7295,
+        "recency": 0.7242,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1698,7 +1698,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T09:36:21.959681Z"
+        "scored_at": "2026-11-28T10:06:33.952354Z"
       }
     }
   ]
