@@ -1,8 +1,126 @@
 {
-  "generated_at": "2026-11-28T08:31:44.528029Z",
+  "generated_at": "2026-11-28T09:31:41.685979Z",
   "window_hours": 24,
   "total_items": 13,
   "items": [
+    {
+      "story_id": "story_09660119eb8f",
+      "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+      "url": "https://www.producthunt.com/products/depost-ai",
+      "primary_url": "https://www.producthunt.com/products/depost-ai",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "summary": "The LinkedIn AI agent that learns what works for your brand",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/depost-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-27T03:17:55Z",
+          "updated_at": "2026-11-28T09:27:36Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
+          "title": "Depost AI",
+          "title_zh": null,
+          "title_en": "Depost AI",
+          "title_original": "Depost AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/depost-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T12:36:02.049000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+          "summary": "The LinkedIn AI agent that learns what works for your brand",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/depost-ai",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-27T03:17:55Z",
+          "updated_at": "2026-11-28T09:27:36Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
+          "title": "Depost AI",
+          "title_zh": null,
+          "title_en": "Depost AI",
+          "title_original": "Depost AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/depost-ai",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T12:36:02.049000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.594,
+      "importance": 0.594,
+      "importance_score": 0.594,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.999,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T12:36:02.049000Z",
+      "latest_at": "2026-11-28T09:27:36Z",
+      "primary_item": {
+        "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
+        "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
+        "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
+        "summary": "The LinkedIn AI agent that learns what works for your brand",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/depost-ai",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T09:36:21.959681Z"
+      }
+    },
     {
       "story_id": "story_0d55b14db2af",
       "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
@@ -85,15 +203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5942,
-      "importance": 0.5942,
-      "importance_score": 0.5942,
+      "score": 0.5917,
+      "importance": 0.5917,
+      "importance_score": 0.5917,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 1.0,
+        "recency": 0.9862,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -118,125 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
-      }
-    },
-    {
-      "story_id": "story_09660119eb8f",
-      "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-      "url": "https://www.producthunt.com/products/depost-ai",
-      "primary_url": "https://www.producthunt.com/products/depost-ai",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
-          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
-          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "summary": "The LinkedIn AI agent that learns what works for your brand",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-28T08:00:45Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
-          "title": "Depost AI",
-          "title_zh": null,
-          "title_en": "Depost AI",
-          "title_original": "Depost AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T12:36:02.049000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
-          "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
-          "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-          "summary": "The LinkedIn AI agent that learns what works for your brand",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-27T03:17:55Z",
-          "updated_at": "2026-11-28T08:00:45Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "e30d1f842f83ea680aa9a55329e4155f3125f09c",
-          "title": "Depost AI",
-          "title_zh": null,
-          "title_en": "Depost AI",
-          "title_original": "Depost AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/depost-ai",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T12:36:02.049000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5929,
-      "importance": 0.5929,
-      "importance_score": 0.5929,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9926,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T12:36:02.049000Z",
-      "latest_at": "2026-11-28T08:00:45Z",
-      "primary_item": {
-        "id": "9617de32f921afda38d2f7c87be4c68c2036523a",
-        "title": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌 / Depost AI — The LinkedIn AI agent that learns what works for your brand",
-        "title_zh": "Depost AI — LinkedIn AI 代理，可了解哪些内容适合您的品牌",
-        "title_en": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-        "title_original": "Depost AI — The LinkedIn AI agent that learns what works for your brand",
-        "summary": "The LinkedIn AI agent that learns what works for your brand",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/depost-ai",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -386,15 +386,15 @@
       ],
       "item_count": 4,
       "duplicate_count": 4,
-      "score": 0.5615,
-      "importance": 0.5615,
-      "importance_score": 0.5615,
+      "score": 0.5594,
+      "importance": 0.5594,
+      "importance_score": 0.5594,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8092,
+        "recency": 0.7976,
         "story_heat": 0.75
       },
       "category": "multi_source",
@@ -419,7 +419,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -537,15 +537,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5607,
-      "importance": 0.5607,
-      "importance_score": 0.5607,
+      "score": 0.5583,
+      "importance": 0.5583,
+      "importance_score": 0.5583,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9439,
+        "recency": 0.9304,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -570,7 +570,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -688,15 +688,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5451,
-      "importance": 0.5451,
-      "importance_score": 0.5451,
+      "score": 0.5429,
+      "importance": 0.5429,
+      "importance_score": 0.5429,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8573,
+        "recency": 0.845,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -721,7 +721,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -839,15 +839,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5365,
-      "importance": 0.5365,
-      "importance_score": 0.5365,
+      "score": 0.5344,
+      "importance": 0.5344,
+      "importance_score": 0.5344,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8092,
+        "recency": 0.7976,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -872,7 +872,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -957,15 +957,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5342,
-      "importance": 0.5342,
-      "importance_score": 0.5342,
+      "score": 0.5318,
+      "importance": 0.5318,
+      "importance_score": 0.5318,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9356,
+        "recency": 0.9222,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -990,7 +990,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -1075,15 +1075,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5927,
-      "importance": 0.5927,
-      "importance_score": 0.5927,
+      "score": 0.5902,
+      "importance": 0.5902,
+      "importance_score": 0.5902,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9918,
+        "recency": 0.9776,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1108,7 +1108,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -1193,15 +1193,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5131,
-      "importance": 0.5131,
-      "importance_score": 0.5131,
+      "score": 0.511,
+      "importance": 0.511,
+      "importance_score": 0.511,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8185,
+        "recency": 0.8068,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1226,7 +1226,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -1311,15 +1311,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.507,
-      "importance": 0.507,
-      "importance_score": 0.507,
+      "score": 0.505,
+      "importance": 0.505,
+      "importance_score": 0.505,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7846,
+        "recency": 0.7734,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1344,7 +1344,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -1429,15 +1429,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5169,
-      "importance": 0.5169,
-      "importance_score": 0.5169,
+      "score": 0.5147,
+      "importance": 0.5147,
+      "importance_score": 0.5147,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8392,
+        "recency": 0.8272,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1462,7 +1462,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -1547,15 +1547,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5054,
-      "importance": 0.5054,
-      "importance_score": 0.5054,
+      "score": 0.5034,
+      "importance": 0.5034,
+      "importance_score": 0.5034,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7756,
+        "recency": 0.7645,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1580,7 +1580,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     },
     {
@@ -1665,15 +1665,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.499,
-      "importance": 0.499,
-      "importance_score": 0.499,
+      "score": 0.4971,
+      "importance": 0.4971,
+      "importance_score": 0.4971,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7401,
+        "recency": 0.7295,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1698,7 +1698,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T08:36:24.831090Z"
+        "scored_at": "2026-11-28T09:36:21.959681Z"
       }
     }
   ]
