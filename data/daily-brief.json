@@ -1,7 +1,7 @@
 {
-  "generated_at": "2026-11-28T11:31:53.306184Z",
+  "generated_at": "2026-11-28T12:31:44.239862Z",
   "window_hours": 24,
-  "total_items": 12,
+  "total_items": 10,
   "items": [
     {
       "story_id": "story_09660119eb8f",
@@ -85,15 +85,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.592,
-      "importance": 0.592,
-      "importance_score": 0.592,
+      "score": 0.5895,
+      "importance": 0.5895,
+      "importance_score": 0.5895,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.988,
+        "recency": 0.9739,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -118,7 +118,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
+        "scored_at": "2026-11-28T12:36:25.823851Z"
       }
     },
     {
@@ -203,15 +203,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5905,
-      "importance": 0.5905,
-      "importance_score": 0.5905,
+      "score": 0.588,
+      "importance": 0.588,
+      "importance_score": 0.588,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.54,
         "ai_relevance": 0.65,
-        "recency": 0.9794,
+        "recency": 0.9654,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -236,7 +236,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
+        "scored_at": "2026-11-28T12:36:25.823851Z"
       }
     },
     {
@@ -354,15 +354,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5535,
-      "importance": 0.5535,
-      "importance_score": 0.5535,
+      "score": 0.5512,
+      "importance": 0.5512,
+      "importance_score": 0.5512,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9038,
+        "recency": 0.8909,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -387,7 +387,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
+        "scored_at": "2026-11-28T12:36:25.823851Z"
       }
     },
     {
@@ -505,15 +505,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5386,
-      "importance": 0.5386,
-      "importance_score": 0.5386,
+      "score": 0.5364,
+      "importance": 0.5364,
+      "importance_score": 0.5364,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8209,
+        "recency": 0.8091,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -538,125 +538,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
-      }
-    },
-    {
-      "story_id": "story_0d55b14db2af",
-      "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-      "url": "https://www.producthunt.com/products/spark-ai-7",
-      "primary_url": "https://www.producthunt.com/products/spark-ai-7",
-      "source": "Product Hunt",
-      "source_name": "Product Hunt",
-      "sources": [
-        {
-          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-          "summary": "AI-native permitting & diligence services for data centers",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-25T07:30:40Z",
-          "updated_at": "2026-11-28T10:05:18Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
-          "title": "Spark AI",
-          "title_zh": null,
-          "title_en": "Spark AI",
-          "title_original": "Spark AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T12:36:02.049000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Product Hunt",
-        "producthunt"
-      ],
-      "items": [
-        {
-          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-          "summary": "AI-native permitting & diligence services for data centers",
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "Product Hunt",
-          "source_name": "Product Hunt",
-          "site_id": "producthunt",
-          "published_at": "2026-11-25T07:30:40Z",
-          "updated_at": "2026-11-28T10:05:18Z",
-          "recency_basis": "updated_at"
-        },
-        {
-          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
-          "title": "Spark AI",
-          "title_zh": null,
-          "title_en": "Spark AI",
-          "title_original": "Spark AI",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.producthunt.com/products/spark-ai-7",
-          "source": "producthunt",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T12:36:02.049000Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.5905,
-      "importance": 0.5905,
-      "importance_score": 0.5905,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.54,
-        "ai_relevance": 0.65,
-        "recency": 0.9794,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T12:36:02.049000Z",
-      "latest_at": "2026-11-28T10:05:18Z",
-      "primary_item": {
-        "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
-        "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
-        "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
-        "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
-        "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
-        "summary": "AI-native permitting & diligence services for data centers",
-        "recommend_reason_zh": null,
-        "url": "https://www.producthunt.com/products/spark-ai-7",
-        "source": "Product Hunt",
-        "source_name": "Product Hunt"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
+        "scored_at": "2026-11-28T12:36:25.823851Z"
       }
     },
     {
@@ -774,15 +656,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5303,
-      "importance": 0.5303,
-      "importance_score": 0.5303,
+      "score": 0.5283,
+      "importance": 0.5283,
+      "importance_score": 0.5283,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7748,
+        "recency": 0.7638,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -807,7 +689,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
+        "scored_at": "2026-11-28T12:36:25.823851Z"
+      }
+    },
+    {
+      "story_id": "story_0d55b14db2af",
+      "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+      "url": "https://www.producthunt.com/products/spark-ai-7",
+      "primary_url": "https://www.producthunt.com/products/spark-ai-7",
+      "source": "Product Hunt",
+      "source_name": "Product Hunt",
+      "sources": [
+        {
+          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+          "summary": "AI-native permitting & diligence services for data centers",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T07:30:40Z",
+          "updated_at": "2026-11-28T10:05:18Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
+          "title": "Spark AI",
+          "title_zh": null,
+          "title_en": "Spark AI",
+          "title_original": "Spark AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T12:36:02.049000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Product Hunt",
+        "producthunt"
+      ],
+      "items": [
+        {
+          "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+          "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+          "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+          "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+          "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+          "summary": "AI-native permitting & diligence services for data centers",
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "Product Hunt",
+          "source_name": "Product Hunt",
+          "site_id": "producthunt",
+          "published_at": "2026-11-25T07:30:40Z",
+          "updated_at": "2026-11-28T10:05:18Z",
+          "recency_basis": "updated_at"
+        },
+        {
+          "id": "a8df8fa7c22a26f58ef1386090938f29d17215bc",
+          "title": "Spark AI",
+          "title_zh": null,
+          "title_en": "Spark AI",
+          "title_original": "Spark AI",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://www.producthunt.com/products/spark-ai-7",
+          "source": "producthunt",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-27T12:36:02.049000Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.588,
+      "importance": 0.588,
+      "importance_score": 0.588,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.54,
+        "ai_relevance": 0.65,
+        "recency": 0.9654,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-27T12:36:02.049000Z",
+      "latest_at": "2026-11-28T10:05:18Z",
+      "primary_item": {
+        "id": "a930603e2d40db749e734b6d6cd83f4e72146599",
+        "title": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务 / Spark AI — AI-native permitting & diligence services for data centers",
+        "title_zh": "Spark AI — 面向数据中心的人工智能原生许可和尽职调查服务",
+        "title_en": "Spark AI — AI-native permitting & diligence services for data centers",
+        "title_original": "Spark AI — AI-native permitting & diligence services for data centers",
+        "summary": "AI-native permitting & diligence services for data centers",
+        "recommend_reason_zh": null,
+        "url": "https://www.producthunt.com/products/spark-ai-7",
+        "source": "Product Hunt",
+        "source_name": "Product Hunt"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T12:36:25.823851Z"
       }
     },
     {
@@ -892,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5271,
-      "importance": 0.5271,
-      "importance_score": 0.5271,
+      "score": 0.5248,
+      "importance": 0.5248,
+      "importance_score": 0.5248,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8959,
+        "recency": 0.8831,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -925,7 +925,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
+        "scored_at": "2026-11-28T12:36:25.823851Z"
       }
     },
     {
@@ -1010,15 +1010,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5069,
-      "importance": 0.5069,
-      "importance_score": 0.5069,
+      "score": 0.5049,
+      "importance": 0.5049,
+      "importance_score": 0.5049,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7838,
+        "recency": 0.7726,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1043,125 +1043,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
-      }
-    },
-    {
-      "story_id": "story_1b6636e16bc7",
-      "title": "“Kimi for Science”：更多科学构想，化为现实",
-      "url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "primary_url": "https://www.kimi.ai/news/kimi-for-science-program",
-      "source": "www.kimi.ai",
-      "source_name": "Buzzing",
-      "sources": [
-        {
-          "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
-          "title": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_en": null,
-          "title_original": "“Kimi for Science”：更多科学构想，化为现实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "www.kimi.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T15:43:52.256000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "00f99fc1a0f90b8080f0af6289ff8b0238182a9d",
-          "title": "“Kimi for Science”：更多科学构想，化为现实 / Kimi for Science More scientific ideas, made possible",
-          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_en": "Kimi for Science More scientific ideas, made possible",
-          "title_original": "Kimi for Science More scientific ideas, made possible",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T12:03:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "www.kimi.ai"
-      ],
-      "items": [
-        {
-          "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
-          "title": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_en": null,
-          "title_original": "“Kimi for Science”：更多科学构想，化为现实",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "www.kimi.ai",
-          "source_name": "Buzzing",
-          "site_id": "buzzing",
-          "published_at": "2026-11-27T15:43:52.256000Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "00f99fc1a0f90b8080f0af6289ff8b0238182a9d",
-          "title": "“Kimi for Science”：更多科学构想，化为现实 / Kimi for Science More scientific ideas, made possible",
-          "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
-          "title_en": "Kimi for Science More scientific ideas, made possible",
-          "title_original": "Kimi for Science More scientific ideas, made possible",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.kimi.ai/news/kimi-for-science-program",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T12:03:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.501,
-      "importance": 0.501,
-      "importance_score": 0.501,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7513,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T12:03:11Z",
-      "latest_at": "2026-11-27T15:43:52.256000Z",
-      "primary_item": {
-        "id": "3006c7ea7f263217c3e99b338c48191211eaa192",
-        "title": "“Kimi for Science”：更多科学构想，化为现实",
-        "title_zh": "“Kimi for Science”：更多科学构想，化为现实",
-        "title_en": null,
-        "title_original": "“Kimi for Science”：更多科学构想，化为现实",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.kimi.ai/news/kimi-for-science-program",
-        "source": "www.kimi.ai",
-        "source_name": "Buzzing"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 1,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
+        "scored_at": "2026-11-28T12:36:25.823851Z"
       }
     },
     {
@@ -1246,15 +1128,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5104,
-      "importance": 0.5104,
-      "importance_score": 0.5104,
+      "score": 0.5084,
+      "importance": 0.5084,
+      "importance_score": 0.5084,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8036,
+        "recency": 0.7921,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1279,7 +1161,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
+        "scored_at": "2026-11-28T12:36:25.823851Z"
       }
     },
     {
@@ -1364,15 +1246,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.4995,
-      "importance": 0.4995,
-      "importance_score": 0.4995,
+      "score": 0.4976,
+      "importance": 0.4976,
+      "importance_score": 0.4976,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7427,
+        "recency": 0.7321,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1397,125 +1279,7 @@
       "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
-      }
-    },
-    {
-      "story_id": "story_42df241d4b16",
-      "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-      "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-      "primary_url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "702d50ce2f0762558d1da1e822984821bcb896f7",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a171f3e2fb38e6502afe46c9b5b13dd28a5df332",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50665732",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "702d50ce2f0762558d1da1e822984821bcb896f7",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "a171f3e2fb38e6502afe46c9b5b13dd28a5df332",
-          "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-          "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50665732",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T11:41:11Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4934,
-      "importance": 0.4934,
-      "importance_score": 0.4934,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7087,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T11:41:11Z",
-      "latest_at": "2026-11-27T11:41:11Z",
-      "primary_item": {
-        "id": "702d50ce2f0762558d1da1e822984821bcb896f7",
-        "title": "披萨历史：英国首创人工智能代理无卡购物 / Pizza history: AI agent's cardless purchase is a first for UK",
-        "title_zh": "披萨历史：英国首创人工智能代理无卡购物",
-        "title_en": "Pizza history: AI agent's cardless purchase is a first for UK",
-        "title_original": "Pizza history: AI agent's cardless purchase is a first for UK",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://www.theguardian.com/business/2026/nov/27/ai-agent-cardless-transaction-pizza-papa-john-uk-fca-truelayer",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T11:46:01.685435Z"
+        "scored_at": "2026-11-28T12:36:25.823851Z"
       }
     }
   ]
