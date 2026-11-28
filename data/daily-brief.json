@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-11-28T14:31:43.430817Z",
+  "generated_at": "2026-11-28T15:02:17.651250Z",
   "window_hours": 24,
   "total_items": 9,
   "items": [
@@ -118,15 +118,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5466,
-      "importance": 0.5466,
-      "importance_score": 0.5466,
+      "score": 0.5455,
+      "importance": 0.5455,
+      "importance_score": 0.5455,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.8656,
+        "recency": 0.8592,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -151,7 +151,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T14:36:17.219528Z"
+        "scored_at": "2026-11-28T15:07:20.642487Z"
       }
     },
     {
@@ -236,15 +236,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5392,
-      "importance": 0.5392,
-      "importance_score": 0.5392,
+      "score": 0.538,
+      "importance": 0.538,
+      "importance_score": 0.538,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9635,
+        "recency": 0.9564,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -269,7 +269,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T14:36:17.219528Z"
+        "scored_at": "2026-11-28T15:07:20.642487Z"
       }
     },
     {
@@ -354,15 +354,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5359,
-      "importance": 0.5359,
-      "importance_score": 0.5359,
+      "score": 0.5347,
+      "importance": 0.5347,
+      "importance_score": 0.5347,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.9452,
+        "recency": 0.9383,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -387,7 +387,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T14:36:17.219528Z"
+        "scored_at": "2026-11-28T15:07:20.642487Z"
       }
     },
     {
@@ -505,15 +505,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5323,
-      "importance": 0.5323,
-      "importance_score": 0.5323,
+      "score": 0.5313,
+      "importance": 0.5313,
+      "importance_score": 0.5313,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7861,
+        "recency": 0.7804,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -538,7 +538,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T14:36:17.219528Z"
+        "scored_at": "2026-11-28T15:07:20.642487Z"
       }
     },
     {
@@ -656,15 +656,15 @@
       ],
       "item_count": 3,
       "duplicate_count": 3,
-      "score": 0.5244,
-      "importance": 0.5244,
-      "importance_score": 0.5244,
+      "score": 0.5234,
+      "importance": 0.5234,
+      "importance_score": 0.5234,
       "importance_label": "多源热议",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.742,
+        "recency": 0.7366,
         "story_heat": 0.5
       },
       "category": "multi_source",
@@ -689,7 +689,125 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T14:36:17.219528Z"
+        "scored_at": "2026-11-28T15:07:20.642487Z"
+      }
+    },
+    {
+      "story_id": "story_1953fdcf9e96",
+      "title": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架 / Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+      "url": "https://news.ycombinator.com/item?id=50675831",
+      "primary_url": "https://news.ycombinator.com/item?id=50675831",
+      "source": "hackernews",
+      "source_name": "NewsNow",
+      "sources": [
+        {
+          "id": "7c48770bfe4de1b81e1e2efaae846f14f0517079",
+          "title": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架 / Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "title_zh": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架",
+          "title_en": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "title_original": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50675831",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T08:37:09Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "503a11e6ea2dc99e04c2c6b2ef4fd25533b8d099",
+          "title": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架 / Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "title_zh": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架",
+          "title_en": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "title_original": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fleetlayer.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T08:37:09Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "source_count": 2,
+      "source_names": [
+        "Hacker News · 24h最热",
+        "hackernews"
+      ],
+      "items": [
+        {
+          "id": "7c48770bfe4de1b81e1e2efaae846f14f0517079",
+          "title": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架 / Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "title_zh": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架",
+          "title_en": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "title_original": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://news.ycombinator.com/item?id=50675831",
+          "source": "hackernews",
+          "source_name": "NewsNow",
+          "site_id": "newsnow",
+          "published_at": "2026-11-28T08:37:09Z",
+          "updated_at": null,
+          "recency_basis": null
+        },
+        {
+          "id": "503a11e6ea2dc99e04c2c6b2ef4fd25533b8d099",
+          "title": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架 / Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "title_zh": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架",
+          "title_en": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "title_original": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+          "summary": null,
+          "recommend_reason_zh": null,
+          "url": "https://fleetlayer.ai",
+          "source": "Hacker News · 24h最热",
+          "source_name": "Zeli",
+          "site_id": "zeli",
+          "published_at": "2026-11-28T08:37:09Z",
+          "updated_at": null,
+          "recency_basis": null
+        }
+      ],
+      "item_count": 2,
+      "duplicate_count": 2,
+      "score": 0.5299,
+      "importance": 0.5299,
+      "importance_score": 0.5299,
+      "importance_label": "值得关注",
+      "importance_breakdown": {
+        "editorial": 0.468,
+        "source_tier": 0.32,
+        "ai_relevance": 0.65,
+        "recency": 0.9115,
+        "story_heat": 0.25
+      },
+      "category": "watch",
+      "reasons": [
+        "multi_source"
+      ],
+      "earliest_at": "2026-11-28T08:37:09Z",
+      "latest_at": "2026-11-28T08:37:09Z",
+      "primary_item": {
+        "id": "7c48770bfe4de1b81e1e2efaae846f14f0517079",
+        "title": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架 / Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+        "title_zh": "Show HN：Fleetlayer – 在多台机器上运行多个 AI 代理的框架",
+        "title_en": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+        "title_original": "Show HN: Fleetlayer – Framework for running many AI agents on multiple machines",
+        "summary": null,
+        "recommend_reason_zh": null,
+        "url": "https://news.ycombinator.com/item?id=50675831",
+        "source": "hackernews",
+        "source_name": "NewsNow"
+      },
+      "persona_id": "pragmatic",
+      "persona_score": 1,
+      "persona_meta": {
+        "mode": "rules_fallback",
+        "scored_at": "2026-11-28T15:07:20.642487Z"
       }
     },
     {
@@ -774,15 +892,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5009,
-      "importance": 0.5009,
-      "importance_score": 0.5009,
+      "score": 0.4999,
+      "importance": 0.4999,
+      "importance_score": 0.4999,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7506,
+        "recency": 0.7451,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -804,10 +922,10 @@
         "source_name": "Buzzing"
       },
       "persona_id": "pragmatic",
-      "persona_score": 1,
+      "persona_score": 0,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T14:36:17.219528Z"
+        "scored_at": "2026-11-28T15:07:20.642487Z"
       }
     },
     {
@@ -892,15 +1010,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5202,
-      "importance": 0.5202,
-      "importance_score": 0.5202,
+      "score": 0.5191,
+      "importance": 0.5191,
+      "importance_score": 0.5191,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.858,
+        "recency": 0.8517,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -925,7 +1043,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T14:36:17.219528Z"
+        "scored_at": "2026-11-28T15:07:20.642487Z"
       }
     },
     {
@@ -1010,15 +1128,15 @@
       ],
       "item_count": 2,
       "duplicate_count": 2,
-      "score": 0.5043,
-      "importance": 0.5043,
-      "importance_score": 0.5043,
+      "score": 0.5033,
+      "importance": 0.5033,
+      "importance_score": 0.5033,
       "importance_label": "值得关注",
       "importance_breakdown": {
         "editorial": 0.468,
         "source_tier": 0.32,
         "ai_relevance": 0.65,
-        "recency": 0.7695,
+        "recency": 0.7639,
         "story_heat": 0.25
       },
       "category": "watch",
@@ -1043,125 +1161,7 @@
       "persona_score": 1,
       "persona_meta": {
         "mode": "rules_fallback",
-        "scored_at": "2026-11-28T14:36:17.219528Z"
-      }
-    },
-    {
-      "story_id": "story_9f515e6d0855",
-      "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-      "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem",
-      "primary_url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem",
-      "source": "Hacker News · 24h最热",
-      "source_name": "Zeli",
-      "sources": [
-        {
-          "id": "f025f7b38bce0c3323f039a4524a2e3cd8feafcc",
-          "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "title_zh": "斯坦福大学物理学家利用人工智能解决量子引力问题",
-          "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "title_original": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T14:55:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2cea457603cfe54a01370dd1aba6d9a09d2660ca",
-          "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "title_zh": "斯坦福大学物理学家利用人工智能解决量子引力问题",
-          "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "title_original": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50667664",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T14:55:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "source_count": 2,
-      "source_names": [
-        "Hacker News · 24h最热",
-        "hackernews"
-      ],
-      "items": [
-        {
-          "id": "f025f7b38bce0c3323f039a4524a2e3cd8feafcc",
-          "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "title_zh": "斯坦福大学物理学家利用人工智能解决量子引力问题",
-          "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "title_original": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem",
-          "source": "Hacker News · 24h最热",
-          "source_name": "Zeli",
-          "site_id": "zeli",
-          "published_at": "2026-11-27T14:55:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        },
-        {
-          "id": "2cea457603cfe54a01370dd1aba6d9a09d2660ca",
-          "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "title_zh": "斯坦福大学物理学家利用人工智能解决量子引力问题",
-          "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "title_original": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-          "summary": null,
-          "recommend_reason_zh": null,
-          "url": "https://news.ycombinator.com/item?id=50667664",
-          "source": "hackernews",
-          "source_name": "NewsNow",
-          "site_id": "newsnow",
-          "published_at": "2026-11-27T14:55:57Z",
-          "updated_at": null,
-          "recency_basis": null
-        }
-      ],
-      "item_count": 2,
-      "duplicate_count": 2,
-      "score": 0.4938,
-      "importance": 0.4938,
-      "importance_score": 0.4938,
-      "importance_label": "值得关注",
-      "importance_breakdown": {
-        "editorial": 0.468,
-        "source_tier": 0.32,
-        "ai_relevance": 0.65,
-        "recency": 0.7112,
-        "story_heat": 0.25
-      },
-      "category": "watch",
-      "reasons": [
-        "multi_source"
-      ],
-      "earliest_at": "2026-11-27T14:55:57Z",
-      "latest_at": "2026-11-27T14:55:57Z",
-      "primary_item": {
-        "id": "f025f7b38bce0c3323f039a4524a2e3cd8feafcc",
-        "title": "斯坦福大学物理学家利用人工智能解决量子引力问题 / Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-        "title_zh": "斯坦福大学物理学家利用人工智能解决量子引力问题",
-        "title_en": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-        "title_original": "Stanford Physicist Uses AI to Tackle Quantum Gravity Problem",
-        "summary": null,
-        "recommend_reason_zh": null,
-        "url": "https://thequantuminsider.com/2026/11/26/stanford-physicist-uses-ai-to-tackle-quantum-gravity-problem",
-        "source": "Hacker News · 24h最热",
-        "source_name": "Zeli"
-      },
-      "persona_id": "pragmatic",
-      "persona_score": 0,
-      "persona_meta": {
-        "mode": "rules_fallback",
-        "scored_at": "2026-11-28T14:36:17.219528Z"
+        "scored_at": "2026-11-28T15:07:20.642487Z"
       }
     }
   ]
