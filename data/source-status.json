@@ -1,12 +1,12 @@
 {
-  "generated_at": "2026-11-28T04:01:46.554894Z",
+  "generated_at": "2026-11-28T04:31:47.616746Z",
   "sites": [
     {
       "site_id": "official_ai",
       "site_name": "Official AI Updates",
       "ok": true,
       "item_count": 266,
-      "duration_ms": 16153,
+      "duration_ms": 14529,
       "error": null
     },
     {
@@ -14,7 +14,7 @@
       "site_name": "Curated Media",
       "ok": true,
       "item_count": 33,
-      "duration_ms": 9478,
+      "duration_ms": 16301,
       "error": null
     },
     {
@@ -22,7 +22,7 @@
       "site_name": "AI Breakfast",
       "ok": true,
       "item_count": 9,
-      "duration_ms": 655,
+      "duration_ms": 940,
       "error": null
     },
     {
@@ -30,7 +30,7 @@
       "site_name": "Follow Builders",
       "ok": true,
       "item_count": 19,
-      "duration_ms": 425,
+      "duration_ms": 512,
       "error": null
     },
     {
@@ -38,7 +38,7 @@
       "site_name": "TechURLs",
       "ok": true,
       "item_count": 405,
-      "duration_ms": 2381,
+      "duration_ms": 2163,
       "error": null
     },
     {
@@ -46,7 +46,7 @@
       "site_name": "Buzzing",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 1738,
+      "duration_ms": 2200,
       "error": null
     },
     {
@@ -54,7 +54,7 @@
       "site_name": "Info Flow",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 182687,
+      "duration_ms": 183776,
       "error": "HTTPSConnectionPool(host='iris.findtruman.io', port=443): Max retries exceeded with url: /web/info_flow (Caused by ResponseError('too many 502 error responses'))"
     },
     {
@@ -62,15 +62,15 @@
       "site_name": "BestBlogs",
       "ok": true,
       "item_count": 1,
-      "duration_ms": 2747,
+      "duration_ms": 2558,
       "error": null
     },
     {
       "site_id": "zeli",
       "site_name": "Zeli",
       "ok": true,
-      "item_count": 63,
-      "duration_ms": 1019,
+      "item_count": 66,
+      "duration_ms": 958,
       "error": null
     },
     {
@@ -78,7 +78,7 @@
       "site_name": "Hacker News",
       "ok": true,
       "item_count": 2,
-      "duration_ms": 12833,
+      "duration_ms": 14203,
       "error": null
     },
     {
@@ -86,7 +86,7 @@
       "site_name": "AI HubToday",
       "ok": true,
       "item_count": 41,
-      "duration_ms": 1879,
+      "duration_ms": 1791,
       "error": null
     },
     {
@@ -94,7 +94,7 @@
       "site_name": "AIbase",
       "ok": true,
       "item_count": 20,
-      "duration_ms": 673,
+      "duration_ms": 596,
       "error": null
     },
     {
@@ -102,7 +102,7 @@
       "site_name": "AI HOT",
       "ok": false,
       "item_count": 0,
-      "duration_ms": 492,
+      "duration_ms": 448,
       "error": "404 Client Error: Not Found for url: https://aihot.news/api/public/items?mode=selected&take=100"
     },
     {
@@ -110,7 +110,7 @@
       "site_name": "NewsNow",
       "ok": true,
       "item_count": 126,
-      "duration_ms": 1940,
+      "duration_ms": 1634,
       "error": null
     },
     {
@@ -118,7 +118,7 @@
       "site_name": "GitHub Trending",
       "ok": true,
       "item_count": 16,
-      "duration_ms": 513,
+      "duration_ms": 526,
       "error": null
     },
     {
@@ -126,7 +126,7 @@
       "site_name": "Product Hunt",
       "ok": true,
       "item_count": 50,
-      "duration_ms": 570,
+      "duration_ms": 997,
       "error": null
     },
     {
@@ -134,7 +134,7 @@
       "site_name": "WaytoAGI",
       "ok": true,
       "item_count": 7,
-      "duration_ms": 3031,
+      "duration_ms": 3569,
       "error": null
     },
     {
@@ -142,8 +142,8 @@
       "site_name": "OPML RSS",
       "ok": true,
       "partial_failures": 2,
-      "item_count": 2659,
-      "duration_ms": 12164,
+      "item_count": 2669,
+      "duration_ms": 13881,
       "error": "2 feeds failed",
       "feed_count": 10,
       "effective_feed_count": 10,
@@ -160,8 +160,8 @@
   ],
   "zero_item_sites": [],
   "empty_advanced_sources": [],
-  "fetched_raw_items": 3767,
-  "items_before_topic_filter": 898,
+  "fetched_raw_items": 3780,
+  "items_before_topic_filter": 903,
   "items_in_24h": 183,
   "rss_opml": {
     "enabled": true,
@@ -170,8 +170,8 @@
     "effective_feed_total": 10,
     "ok_feeds": 8,
     "failed_feeds": [
-      "https://blog.google/technology/ai/rss/",
-      "https://news.microsoft.com/source/topics/ai/feed/"
+      "https://news.microsoft.com/source/topics/ai/feed/",
+      "https://www.wired.com/feed/tag/ai/latest/rss"
     ],
     "zero_item_feeds": [],
     "skipped_feeds": [],
@@ -183,10 +183,10 @@
         "feed_title": "Google AI Blog",
         "feed_url": "https://blog.google/technology/ai/rss/",
         "effective_feed_url": "https://blog.google/technology/ai/rss/",
-        "ok": false,
-        "item_count": 0,
-        "duration_ms": 101,
-        "error": "('Connection aborted.', ConnectionAbortedError(10053, '你的主机中的软件中止了一个已建立的连接。', None, 10053, None))",
+        "ok": true,
+        "item_count": 20,
+        "duration_ms": 1444,
+        "error": null,
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -200,7 +200,7 @@
         "effective_feed_url": "https://deepmind.google/blog/rss.xml",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 520,
+        "duration_ms": 385,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -215,7 +215,7 @@
         "effective_feed_url": "https://huggingface.co/blog/feed.xml",
         "ok": true,
         "item_count": 919,
-        "duration_ms": 1224,
+        "duration_ms": 2602,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -230,7 +230,7 @@
         "effective_feed_url": "https://www.infoq.cn/feed",
         "ok": true,
         "item_count": 20,
-        "duration_ms": 413,
+        "duration_ms": 247,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -245,7 +245,7 @@
         "effective_feed_url": "https://news.microsoft.com/source/topics/ai/feed/",
         "ok": false,
         "item_count": 0,
-        "duration_ms": 1846,
+        "duration_ms": 1413,
         "error": "403 Client Error: Forbidden for url: https://news.microsoft.com/source/topics/ai/feed/",
         "skipped": false,
         "skip_reason": null,
@@ -260,7 +260,7 @@
         "effective_feed_url": "https://developer.nvidia.com/blog/category/generative-ai/feed/",
         "ok": true,
         "item_count": 100,
-        "duration_ms": 2226,
+        "duration_ms": 2689,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -275,7 +275,7 @@
         "effective_feed_url": "https://openai.com/news/rss.xml",
         "ok": true,
         "item_count": 1430,
-        "duration_ms": 3326,
+        "duration_ms": 1416,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -290,7 +290,7 @@
         "effective_feed_url": "https://simonwillison.net/atom/everything/",
         "ok": true,
         "item_count": 30,
-        "duration_ms": 723,
+        "duration_ms": 1781,
         "error": null,
         "skipped": false,
         "skip_reason": null,
@@ -303,10 +303,10 @@
         "feed_title": "Wired AI",
         "feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
         "effective_feed_url": "https://www.wired.com/feed/tag/ai/latest/rss",
-        "ok": true,
-        "item_count": 10,
-        "duration_ms": 532,
-        "error": null,
+        "ok": false,
+        "item_count": 0,
+        "duration_ms": 421,
+        "error": "HTTPSConnectionPool(host='www.wired.com', port=443): Max retries exceeded with url: /feed/tag/ai/latest/rss (Caused by SSLError(SSLEOFError(8, '[SSL: UNEXPECTED_EOF_WHILE_READING] EOF occurred in violation of protocol (_ssl.c:1010)')))",
         "skipped": false,
         "skip_reason": null,
         "replaced": false,
@@ -320,7 +320,7 @@
         "effective_feed_url": "https://baoyu.io/feed.xml",
         "ok": true,
         "item_count": 50,
-        "duration_ms": 1253,
+        "duration_ms": 1483,
         "error": null,
         "skipped": false,
         "skip_reason": null,
